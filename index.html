@@ -18,13 +18,25 @@
     <div id="app"></div>
     <script>
       window.$docsify = {
-        name: "",
+        // logo: '/_media/logo.jpg',
+        name: "TopCraft 维基百科", 
         repo: "",
+        homepage: 'info.md',
         loadSidebar: true,
         subMaxLevel: 2,
+        search: {
+          noData: {
+            '/': '没有匹配的结果',
+          },
+          paths: 'auto',
+          placeholder: {
+            '/': '搜索',
+          }
+        },
       };
     </script>
     <!-- Docsify v4 -->
     <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+    <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
   </body>
 </html>
