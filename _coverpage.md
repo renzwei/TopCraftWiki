@@ -10,7 +10,7 @@
 - <font color=#bebebe >探索危险的野外与怪物进行史诗般的战斗</font>
 
 [QQ交流群](https://jq.qq.com/?_wv=1027&k=fh7mOvb7)
-[官方百科](info.md)
+[维基百科](info.md)
 
 <!-- background color -->
 
