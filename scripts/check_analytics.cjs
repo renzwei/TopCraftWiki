@@ -1,10 +1,10 @@
 'use strict';
 const assert = require('node:assert/strict'), fs = require('node:fs'), vm = require('node:vm');
 const source = fs.readFileSync(require('node:path').join(__dirname,'../assets/analytics.js'),'utf8');
-function setup(hostname='wiki.topcraft.cc', protocol='https:') {
+function setup(hostname='renzwei.github.io', protocol='https:', pathname='/TopCraftWiki/') {
   const scripts=[],timers=new Map(),input={value:''}; let id=0;
   const context={window:{TopCraftSearchPaths:['/','/guide/help','/equipment/overview']},
-    location:{hostname,protocol,origin:protocol+'//'+hostname,pathname:'/'},
+    location:{hostname,protocol,origin:protocol+'//'+hostname,pathname},
     document:{title:'TopCraft Wiki',referrer:'https://example.com/page?private=value#secret',head:{append:s=>scripts.push(s)},
       createElement:()=>({}),querySelector:()=>input}, URL,
     setTimeout:fn=>{timers.set(++id,fn);return id;},clearTimeout:key=>timers.delete(key)};
@@ -13,10 +13,12 @@ function setup(hostname='wiki.topcraft.cc', protocol='https:') {
     flush(){const pending=[...timers.values()];timers.clear();pending.forEach(fn=>fn());},
     events(){return Array.from(context.window.dataLayer||[],a=>Array.from(a)).filter(a=>a[0]==='event');}};
 }
-for(const [host,protocol] of [['127.0.0.1','http:'],['localhost','http:'],['example.com','https:'],['wiki.topcraft.cc','http:']]){
+for(const [host,protocol] of [['127.0.0.1','http:'],['localhost','http:'],['example.com','https:'],['renzwei.github.io','http:'],['wiki.topcraft.cc','https:']]){
   const s=setup(host,protocol);assert.equal(s.scripts.length,0);assert.equal(s.api,undefined);
 }
 const s=setup();
+for(const path of ['/','/OtherProject/','/TopCraftWiki-copy/']) assert.equal(setup('renzwei.github.io','https:',path).scripts.length,0);
+assert.equal(setup('renzwei.github.io','https:','/TopCraftWiki').scripts.length,1);
 assert.equal(s.scripts.length,1);
 assert.equal(s.scripts[0].src,'https://www.googletagmanager.com/gtag/js?id=G-GGTHGX9V8E');
 assert.equal(s.context.window.dataLayer[1][2].send_page_view,false);
@@ -26,9 +28,9 @@ assert.equal(s.events()[0][2].page_referrer,'https://example.com/page');
 s.context.document.title='装备与道具 · TopCraft 玩家手册';
 s.api.mount('/equipment/overview.md');s.api.mount('/equipment/overview?id=强化');
 assert.equal(s.events().length,2);
-assert.equal(s.events()[1][2].page_location,'https://wiki.topcraft.cc/#/equipment/overview');
+assert.equal(s.events()[1][2].page_location,'https://renzwei.github.io/TopCraftWiki/#/equipment/overview');
 assert.equal(s.events()[1][2].page_title,s.context.document.title);
-assert.equal(s.events()[1][2].page_referrer,'https://wiki.topcraft.cc/#/');
+assert.equal(s.events()[1][2].page_referrer,'https://renzwei.github.io/TopCraftWiki/#/');
 s.api.mount('/');assert.equal(s.events().length,3);
 s.input.value='不存在的材料';
 s.api.search(s.input.value,0,false);s.flush();assert.equal(s.events().length,3);

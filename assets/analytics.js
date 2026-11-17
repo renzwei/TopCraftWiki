@@ -2,7 +2,8 @@
   'use strict';
   const measurementId = 'G-GGTHGX9V8E';
   // Only published Wiki traffic belongs in the production property.
-  if (location.hostname !== 'wiki.topcraft.cc' || location.protocol !== 'https:') return;
+  if (location.hostname !== 'renzwei.github.io' || location.protocol !== 'https:' ||
+      !/^\/TopCraftWiki(?:\/|$)/.test(location.pathname)) return;
   const paths = new Set(window.TopCraftSearchPaths || []);
   let active = '', previous = '', searchTimer;
   const searches = new Set();
