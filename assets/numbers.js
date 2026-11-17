@@ -1,8 +1,15 @@
 /* Presentation only: keep source values and arithmetic at their original precision. */
 (function(root){
   'use strict';
-  const fixed=new Intl.NumberFormat('zh-CN',{minimumFractionDigits:1,maximumFractionDigits:1});
-  function value(n){n=Number(n);return Number.isFinite(n)?fixed.format(Math.abs(n)<.05?0:n):'—';}
+  const concise=new Intl.NumberFormat('zh-CN',{maximumFractionDigits:2});
+  const rounded=new Intl.NumberFormat('zh-CN',{maximumFractionDigits:1});
+  function value(n){
+    n=Number(n);
+    if(!Number.isFinite(n))return '—';
+    // Preserve integers and up to two decimal places; shorten only longer fractions.
+    const short=Number(n.toFixed(2))===n;
+    return (short?concise:rounded).format(n===0||(!short&&Math.abs(n)<.05)?0:n);
+  }
   const token=/[+-]?\d+(?:,\d{3})*(?:\.\d+)?(?:e[+-]?\d+)?/gi;
   const countUnit='(?:级|层|个(?!百分点)|件|项|次|人|种|枚|把|支|只|名|套|份|组|点技能|点天赋|点属性|格槽位|tick\\b)';
   const counted=new RegExp('^\\s*(?:[–—~～至/-]\\s*\\d+(?:\\.\\d+)?)?\\s*[\\ue000-\\uf8ff]*\\s*'+countUnit);

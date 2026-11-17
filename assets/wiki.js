@@ -14,7 +14,7 @@ window.$docsify = {
   coverpage: false, subMaxLevel: 0, auto2top: true, relativePath: false, topMargin: 88,
   alias: { '/.*/_sidebar.md': '/_sidebar.md', '/.*/_navbar.md': '/_navbar.md' },
   notFoundPage: '_404.md',
-  search: { paths: window.TopCraftSearchPaths || 'auto', placeholder: '搜索技能、材料、玩法…', noData: '暂时没有找到，试试职业名或物品名。', depth: 3, namespace: 'topcraft-wiki-ui-entrypoints-v22', maxAge: 86400000 },
+  search: { paths: window.TopCraftSearchPaths || 'auto', placeholder: '搜索技能、材料、玩法…', noData: '暂时没有找到，试试职业名或物品名。', depth: 3, namespace: 'topcraft-wiki-social-copy-v27', maxAge: 86400000 },
   plugins: [function (hook, vm) {
     hook.doneEach(function () {
       const main = document.querySelector('.markdown-section');
@@ -43,6 +43,7 @@ window.$docsify = {
       window.TopCraftHelp?.mount();
       window.TopCraftModern?.mount(vm.route.path);
       window.TopCraftNumbers?.mount(main);
+      window.TopCraftAnalytics?.mount(vm.route.path);
     });
   }]
 };

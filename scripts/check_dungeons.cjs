@@ -28,8 +28,8 @@ assert.equal(score(10,900,0,'1004').timed,true);
 assert.equal(score(10,1350,0,'1004').score,55);
 for(const a of [[0,20],[-1,20],[1.5,20],[100001,20],[NaN,20],[10,-1],[10,Infinity],[10,20,-1],[10,20,0.2]])assert.ok(score(...a).error);
 assert.ok(calculate(rules,'invalid',1,30,0).error);
-assert.equal(multiplier(1,rules.growth),'1.0 倍');
-assert.equal(multiplier(2,rules.growth),'1.2 倍');
+assert.equal(multiplier(1,rules.growth),'1 倍');
+assert.equal(multiplier(2,rules.growth),'1.16 倍');
 assert.ok(!multiplier(100000,rules.growth).includes('Infinity'));
 // Time can never improve a completed run's score; death penalty equals extra time.
 for(const map of rules.maps)for(const layer of [1,2,10,50,100000]){

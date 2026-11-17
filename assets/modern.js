@@ -76,7 +76,11 @@
       button.append(sidebarIcon('chevron'));list.id='wiki-nav-section-'+index;button.setAttribute('aria-controls',list.id);
       const containsCurrent=Array.from(list.querySelectorAll('a')).some(a=>path(a)===route||(path(a)!=='/'&&route.startsWith(path(a)+'/'))||a.parentElement.classList.contains('active')),open=containsCurrent||collapsed.get(title)===false;
       list.hidden=!open;button.setAttribute('aria-expanded',String(open));
-      button.addEventListener('click',()=>{const expanded=button.getAttribute('aria-expanded')!=='true';button.setAttribute('aria-expanded',String(expanded));list.hidden=!expanded;collapsed.set(title,!expanded);});
+      button.addEventListener('click',event=>{
+        // Docsify closes the mobile drawer on body clicks; expanding a section stays inside it.
+        event.stopPropagation();
+        const expanded=button.getAttribute('aria-expanded')!=='true';button.setAttribute('aria-expanded',String(expanded));list.hidden=!expanded;collapsed.set(title,!expanded);
+      });
       if(!p)Array.from(li.childNodes).filter(n=>n.nodeType===3).forEach(n=>n.textContent='');li.insertBefore(button,list);
     });
     updateNavigation();adoptSearch();

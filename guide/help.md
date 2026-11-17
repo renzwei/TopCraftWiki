@@ -10,6 +10,8 @@
 
 ## 常见问题
 
+<details class="help-question" data-help-entry data-category="组队与交易" data-keywords="新人 新玩家 没有权限 无权限 按钮不能用 无法组队 不能交易 加不了好友 不能赞赏 十五分钟" id="新人为什么不能组队、加好友或交易？"><summary>新人为什么不能组队、加好友或交易？<span class="help-tag">组队与交易</span></summary><div class="help-answer">新人阶段暂未开放组队、好友、赞赏与玩家交易，聊天每 10 秒可发 1 条。累计游玩达到 <strong>15 分钟</strong>后自动晋升玩家；每 <strong>2 分钟</strong>检查一次，达到时长后可能需要稍等。先完成职业与技能入门，晋升后再从原来的菜单操作。<a href="#/social/permissions">查看各身份的功能、好友上限和邀请额度</a>。</div></details>
+
 <details class="help-question" data-help-entry data-category="连接与显示" data-keywords="乱码 黑方块 白纸 材质 资源包 贴图" id="图标变成方框，菜单背景错位"><summary>图标变成方框，菜单背景错位<span class="help-tag">连接与显示</span></summary><div class="help-answer">在多人游戏列表选中 TopCraft → 编辑，将“服务器资源包”设为“启用”，保存后重新连接，等待加载完成。若仍异常，暂时停用其他界面或字体资源包后重试。<a href="#/guide/troubleshooting?id=图标或菜单显示异常">查看显示问题的完整排查步骤</a>。</div></details>
 
 <details class="help-question" data-help-entry data-category="连接与显示" data-keywords="进不去 登录不了 连接失败 超时 版本" id="连不上服务器，应该检查什么？"><summary>连不上服务器，应该检查什么？<span class="help-tag">连接与显示</span></summary><div class="help-answer">核对地址 <code>topcraft.cc</code>，使用 <strong>Minecraft Java 版 1.21</strong>。记下连接失败界面的完整提示，再按<a href="#/guide/troubleshooting?id=无法连接服务器">连接问题</a>排查；“超时”和“版本不匹配”的处理方法不同。</div></details>
@@ -46,7 +48,7 @@
 
 <details class="help-question" data-help-entry data-category="组队与交易" data-keywords="不能交易 换东西 交易失败" id="交易打不开，或确认后交易取消"><summary>交易打不开，或确认后交易取消<span class="help-tag">组队与交易</span></summary><div class="help-answer">受到伤害或攻击后，等待 <strong>10 秒</strong>脱离战斗，再发送请求。对方需在 <strong>15 秒</strong>内回应，双方确认后等待 <strong>3 秒</strong>；移动或受伤会取消交易。双方游戏模式不同、使用同一 IP、背包空间不足或物品受限时也可能无法完成。<a href="#/social/economy">交易步骤与限制</a>。</div></details>
 
-<details class="help-question" data-help-entry data-category="组队与交易" data-keywords="身份 升级 五名好友" id="好友已经够了，为什么没有晋升活跃玩家？"><summary>好友已经够了，为什么没有晋升活跃玩家？<span class="help-tag">组队与交易</span></summary><div class="help-answer">当前档案好友人数尚未计入身份晋升的好友条件，已添加 5 名好友也无法推进这一项。其他时长、登录和赞赏条件见<a href="#/social/progression">社交身份晋升</a>。</div></details>
+<details class="help-question" data-help-entry data-category="组队与交易" data-keywords="身份 升级 五名好友" id="好友已经够了，为什么没有晋升活跃玩家？"><summary>好友已经够了，为什么没有晋升活跃玩家？<span class="help-tag">组队与交易</span></summary><div class="help-answer">好友人数只计算双方已确认的好友关系，待处理申请不计入。还需累计登录 7 天、累计游玩 7 小时、当前赞赏至少 3 次；满足后在下次登录时检查晋升。完整条件见<a href="#/social/progression">社交身份晋升</a>。</div></details>
 
 <details class="help-question" data-help-entry data-category="世界与秘境" data-keywords="怎么去森林 传送 回主城 出城" id="找不到前往落日森林的 NPC"><summary>找不到前往落日森林的 NPC<span class="help-tag">世界与秘境</span></summary><div class="help-answer">主城与落日森林之间计划使用 NPC 传送，入口尚未开放。<a href="#/world/overview">世界地图与旅行</a>中可以查看地区与旅行状态。</div></details>
 

@@ -4,6 +4,8 @@
 
 <p class="lead">创建自己的队伍，或在组队大厅直接加入公开招募。每队最多 8 人，加入时全队职业等级差不得超过 5 级。</p>
 
+<div class="social-note">组队需要<strong>玩家或以上身份</strong>。新人累计游玩 15 分钟后自动晋升，身份每 2 分钟检查一次。<a href="#/social/permissions">查看社交身份与权限</a>。</div>
+
 <div class="social-facts"><div><b>8 人</b>队伍人数上限</div><div><b>5 级</b>最高与最低等级差</div><div><b>@消息</b>队伍聊天</div></div>
 
 ## 创建队伍或寻找队友

@@ -27,7 +27,7 @@
     const log = (layer - 1) * Math.log10(growth);
     if (log < 6) return numbers.value(growth ** (layer - 1)) + ' 倍';
     let exponent=Math.floor(log),mantissa=10**(log-exponent);
-    if(Math.round(mantissa*10)===100){mantissa=1;exponent++;}
+    if(numbers.value(mantissa)==='10'){mantissa=1;exponent++;}
     return numbers.value(mantissa) + ' × 10^' + exponent + ' 倍';
   }
   function time(ms) {const seconds=Math.floor(ms/1000);return Math.floor(seconds/60)+':'+String(seconds%60).padStart(2,'0');}

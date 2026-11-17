@@ -426,6 +426,11 @@
     }
 
     var matchs = search(value);
+    if (typeof window !== 'undefined' && window.TopCraftAnalytics) {
+      var expectedPaths = window.TopCraftSearchPaths || [];
+      window.TopCraftAnalytics.search(value, matchs.length,
+        expectedPaths.length > 0 && expectedPaths.every(function (path) { return !!INDEXS[path]; }));
+    }
 
     var html = '';
     matchs.forEach(function (post) {

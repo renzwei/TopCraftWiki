@@ -37,6 +37,17 @@
 
 已绑定但待达标的邀请也占用额度。自己的邀请码、记录与剩余额度可在邀请界面查看；额度为 0 时，不能继续接受新的绑定。
 
+## 身份与邀请额度
+
+| 身份 | 邀请总额度 |
+| --- | --- |
+| 新人 | 尚未获得邀请额度 |
+| 玩家 | 3 次 |
+| 活跃玩家 | 10 次 |
+| 核心玩家、资深玩家 | 50 次 |
+
+额度是总量，不是每日刷新。晋升活跃玩家后，总额度由 3 次提高到 10 次，不是额外增加 10 次；待达标绑定也占用额度。查看自己的剩余额度请打开邀请界面。晋升条件见[社交身份与权限](social/permissions.md)。
+
 ## 奖励表
 
 <div class="social-table"><table><thead><tr><th>奖励</th><th>领取人</th><th>金币</th></tr></thead><tbody><tr><td><img class="social-icon" src="assets/server/social/gift.png" alt="">每次有效邀请</td><td>邀请人</td><td>20</td></tr><tr><td>首次成为有效的被邀请者</td><td>被邀请者</td><td>20</td></tr><tr><td><img class="social-icon" src="assets/server/social/milestone.png" alt="">累计 3 名有效邀请</td><td>邀请人</td><td>额外 120</td></tr><tr><td>累计 5 名有效邀请</td><td>邀请人</td><td>额外 250</td></tr><tr><td>累计 10 名有效邀请</td><td>邀请人</td><td>额外 600</td></tr><tr><td>累计 20 名有效邀请</td><td>邀请人</td><td>额外 1,500</td></tr><tr><td>累计 50 名有效邀请</td><td>邀请人</td><td>额外 4,000</td></tr></tbody></table></div>

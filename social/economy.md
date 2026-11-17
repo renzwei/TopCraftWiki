@@ -4,6 +4,8 @@
 
 <p class="lead">通过玩家档案发送交易请求，在交换界面放入物品并调整金币数量。双方确认、倒计时结束后完成交换。</p>
 
+<div class="social-note">玩家间交易需要<strong>玩家或以上身份</strong>。新人累计游玩 15 分钟后自动晋升；这一限制针对玩家间交易，与 NPC 买卖是不同功能。<a href="#/social/permissions">查看社交身份与权限</a>。</div>
+
 <div class="social-facts"><div><b>15 秒</b>接受交易请求的时间</div><div><b>3 秒</b>双方确认后的倒计时</div><div><b>0</b>金币交易税</div></div>
 
 ## 发起并完成交易

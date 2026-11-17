@@ -28,6 +28,8 @@
 
 进入游戏后，点击<strong>背包 → 主菜单 → 服务器公告</strong>查看公告与通知。公开反馈入口尚未确定，可先按[问题反馈模板](guide/feedback.md)保存记录。
 
+<div class="guide-note"><strong>进服后先了解新人限制：</strong> 累计游玩 15 分钟后晋升玩家，才能组队、添加好友、赞赏和玩家交易。<a href="#/social/permissions">查看身份权限与解锁条件</a>。</div>
+
 <nav class="guide-nav"><a href="#/guide/start">下一步：第一次冒险</a><a href="#/guide/interface">菜单与战斗界面</a></nav>
 
 <div class="page-end">TopCraft 玩家手册 · 开始冒险 · 2026-11-17</div>

@@ -4,6 +4,8 @@
 
 <p class="lead">日常操作可通过背包按钮、主菜单和 NPC 完成，点击路径见<a href="#/guide/interface">菜单与战斗界面</a>。本页保留完整命令速查；需要使用时，点击复制并粘贴到游戏聊天栏。带有“玩家名”或“邀请码”的命令，需要先替换相应内容再发送。</p>
 
+<div class="guide-note">命令和菜单使用同一套功能权限。新人累计游玩 15 分钟后，才开放组队、好友、赞赏和玩家交易。遇到“没有权限”提示时，查看<a href="#/social/permissions">社交身份与权限</a>。</div>
+
 <div class="help-tools"><label for="help-search">在本页查找</label><input id="help-search" type="search" data-help-search placeholder="例如：修复、交易、钥匙、skills" autocomplete="off"><div class="help-filters" role="group" aria-label="分类筛选"><button type="button" data-help-category="全部" aria-pressed="true">全部</button><button type="button" data-help-category="角色与菜单" aria-pressed="false">角色与菜单</button><button type="button" data-help-category="任务与生活" aria-pressed="false">任务与生活</button><button type="button" data-help-category="背包与装备" aria-pressed="false">背包与装备</button><button type="button" data-help-category="组队与社交" aria-pressed="false">组队与社交</button><button type="button" data-help-category="秘境" aria-pressed="false">秘境</button><button type="button" data-help-category="公告与奖励" aria-pressed="false">公告与奖励</button></div><button type="button" data-help-reset>清除筛选</button><p class="help-count" data-help-count role="status" aria-live="polite"></p></div>
 
 ## 命令速查
@@ -36,7 +38,13 @@
 
 <article class="help-command" data-help-entry data-category="组队与社交"><header><strong>队伍管理</strong><button type="button" data-copy-command="/mmocore:party" aria-label="复制队伍管理命令">复制命令</button></header><p><code>/mmocore:party</code></p><p>创建或管理队伍。普通队伍最多 8 人，最高与最低职业等级差不超过 5 级。</p><small>背包 → 主菜单 → 组队大厅 → 我的队伍 · <a href="#/social/party">详细说明</a></small><span class="help-copy-status" role="status" aria-live="polite"></span></article>
 
-<article class="help-command" data-help-entry data-category="组队与社交"><header><strong>好友列表</strong><button type="button" data-copy-command="/mmocore:friends" aria-label="复制好友列表命令">复制命令</button></header><p><code>/mmocore:friends</code></p><p>打开好友界面；也可从玩家档案添加好友。</p><small>添加好友：脱战后潜行 + 右键对方 → 添加好友；好友列表使用本条命令打开 · <a href="#/social/profile">详细说明</a></small><span class="help-copy-status" role="status" aria-live="polite"></span></article>
+<article class="help-command" data-help-entry data-category="组队与社交"><header><strong>好友列表</strong><button type="button" data-copy-command="/friendsgui" aria-label="复制好友列表命令">复制命令</button></header><p><code>/friendsgui</code></p><p>打开好友菜单，查看好友、处理申请与调整设置。</p><small>快捷栏“个人资料”物品右键 → 打开好友菜单；无入口物品时使用本条命令 · <a href="#/social/profile">详细说明</a></small><span class="help-copy-status" role="status" aria-live="polite"></span></article>
+
+<article class="help-command" data-help-entry data-category="组队与社交"><header><strong>发送好友申请</strong><button type="button" data-copy-command="/friend add 玩家名" aria-label="复制发送好友申请命令">复制命令</button></header><p><code>/friend add 玩家名</code></p><p>向指定玩家发送好友申请，对方接受后成为好友。</p><small>手持“个人资料”物品，潜行右键对方也可发送申请 · <a href="#/social/profile">详细说明</a></small><span class="help-copy-status" role="status" aria-live="polite"></span></article>
+
+<article class="help-command" data-help-entry data-category="组队与社交"><header><strong>好友申请列表</strong><button type="button" data-copy-command="/friendrequest" aria-label="复制好友申请列表命令">复制命令</button></header><p><code>/friendrequest</code></p><p>打开待处理申请列表，点击申请人的头像后接受或拒绝。</p><small>好友菜单 → 好友申请 · <a href="#/social/profile">详细说明</a></small><span class="help-copy-status" role="status" aria-live="polite"></span></article>
+
+<article class="help-command" data-help-entry data-category="组队与社交"><header><strong>好友设置</strong><button type="button" data-copy-command="/friendsettings" aria-label="复制好友设置命令">复制命令</button></header><p><code>/friendsettings</code></p><p>调整申请、好友私信、在线状态、上下线通知和前往服务器等偏好。</p><small>好友菜单 → 设置 · <a href="#/social/profile">详细说明</a></small><span class="help-copy-status" role="status" aria-live="polite"></span></article>
 
 <article class="help-command" data-help-entry data-category="组队与社交"><header><strong>赞赏玩家</strong><button type="button" data-copy-command="/zanshang 玩家名" aria-label="复制赞赏玩家命令">复制命令</button></header><p><code>/zanshang 玩家名</code></p><p>将“玩家名”替换为在线玩家的角色名，例如 /zanshang Alex。对同一人的成功赞赏间隔为 24 小时；需具有赞赏权限。</p><small>脱战后潜行 + 右键玩家 → 赞赏 · <a href="#/social/progression">详细说明</a></small><span class="help-copy-status" role="status" aria-live="polite"></span></article>
 

@@ -8,6 +8,12 @@
 
 尚未连接服务器时，先阅读[加入游戏与资源包](guide/join.md)。进入后按 **E** 打开背包；如果修改过按键，请使用“打开／关闭物品栏”对应的按键。
 
+## 先了解新人身份
+
+首次加入时为**新人**：聊天每 10 秒可发 1 条，暂不能组队、添加好友、赞赏或与玩家交易。累计游玩达到 **15 分钟**后自动晋升**玩家**，身份每 **2 分钟**检查一次。
+
+这段时间可以先选择职业、装配技能、认识主城服务。晋升后，好友上限为 **10 人**，邀请总额度为 **3 次**；更高身份继续提高额度。完整规则见[社交身份与权限](social/permissions.md)。
+
 ## 选择职业
 
 按 <strong>E</strong> 打开背包，点击右上方的<strong>职业选择</strong>图标。三种职业都有自己的等级、技能和加点路线。
@@ -49,7 +55,7 @@
 
 ## 在主城可以做什么？
 
-<div class="entry-grid"><a class="entry-card" href="#/world/town"><span class="card-index">01</span><strong>寻找商人与工匠</strong><span>按 NPC 名称、服务和坐标寻找工具购买、收购与制作入口。</span><b aria-hidden="true">↗</b></a><a class="entry-card" href="#/guide/rewards"><span class="card-index">02</span><strong>查看定期奖励</strong><span>奖励 NPC 提供每日、每周与每月礼包；领取有时长门槛和冷却。</span><b aria-hidden="true">↗</b></a><a class="entry-card" href="#/life/overview"><span class="card-index">03</span><strong>开始一项生活职业</strong><span>了解八项职业、所需工具与制作配方。</span><b aria-hidden="true">↗</b></a><a class="entry-card" href="#/social/party"><span class="card-index">04</span><strong>寻找队友</strong><span>主菜单打开组队大厅，加入招募或创建自己的队伍。</span><b aria-hidden="true">↗</b></a></div>
+<div class="entry-grid"><a class="entry-card" href="#/world/town"><span class="card-index">01</span><strong>寻找商人与工匠</strong><span>按 NPC 名称、服务和坐标寻找工具购买、收购与制作入口。</span><b aria-hidden="true">↗</b></a><a class="entry-card" href="#/guide/rewards"><span class="card-index">02</span><strong>查看定期奖励</strong><span>奖励 NPC 提供每日、每周与每月礼包；领取有时长门槛和冷却。</span><b aria-hidden="true">↗</b></a><a class="entry-card" href="#/life/overview"><span class="card-index">03</span><strong>开始一项生活职业</strong><span>了解八项职业、所需工具与制作配方。</span><b aria-hidden="true">↗</b></a><a class="entry-card" href="#/social/party"><span class="card-index">04</span><strong>寻找队友</strong><span>晋升玩家后，从主菜单打开组队大厅，加入招募或创建队伍。</span><b aria-hidden="true">↗</b></a></div>
 
 有朋友邀请你加入时，可在累计登录 **1–3 天**内填写对方的邀请码。绑定与奖励条件见[邀请好友与奖励](social/invitations.md)。
 

@@ -1,10 +1,12 @@
 <p class="eyebrow">TOPCRAFT / 组队与社交</p>
 
-# 社交成长与点赞
+# 身份晋升与赞赏
 
 <p class="lead">社交身份由游戏时长、登录天数、好友与赞赏等条件决定。赞赏等级则随当前赞赏数量变化，两者分别计算。</p>
 
 <div class="social-steps"><section class="social-step"><header><img class="social-icon" src="assets/server/social/identity.png" alt="身份图标"><strong>社交身份</strong></header><p>从新玩家逐步晋升。各阶段需要同时满足对应条件，核心身份还需保持活跃。</p></section><section class="social-step"><header><img class="social-icon" src="assets/server/social/like.png" alt="赞赏图标"><strong>赞赏等级</strong></header><p>其他玩家的赞赏提高当前赞赏数量。数量达到门槛时，赞赏等级随之提高。</p></section><section class="social-step"><header><img class="social-icon" src="assets/server/social/gift.png" alt="邀请奖励图标"><strong>有效邀请</strong></header><p>被邀请的新玩家达到“玩家”身份后，计为有效邀请，双方获得<a href="#/social/invitations">邀请奖励</a>。</p></section></div>
+
+<div class="social-note"><strong>想查某项功能什么时候开放？</strong> 新人需累计游玩 15 分钟，晋升玩家后才能组队、添加好友、赞赏和玩家交易。各身份的好友上限、邀请额度与功能对照见<a href="#/social/permissions">社交身份与权限</a>。</div>
 
 ## 身份晋升条件
 
@@ -12,15 +14,17 @@
 
 <div class="social-table"><table><thead><tr><th>阶段</th><th>累计游戏时长</th><th>累计登录</th><th>当前赞赏</th><th>其他条件</th></tr></thead><tbody><tr><td>新玩家 → 玩家</td><td>15 分钟</td><td>—</td><td>—</td><td>在线期间自动检查。</td></tr><tr><td>玩家 → 活跃玩家</td><td>7 小时</td><td>7 天</td><td>至少 3</td><td>至少 5 名好友。</td></tr><tr><td>活跃玩家 → 核心玩家</td><td>30 小时</td><td>30 天</td><td>至少 20</td><td>平均周活跃至少 5 小时，近 30 天无封禁记录。</td></tr></tbody></table></div>
 
-<div class="social-note">好友人数条件目前尚未与档案好友列表同步。通过档案添加好友暂不能推进“至少 5 名好友”这一条件，因此活跃玩家及后续自动晋升会受到影响。</div>
+<div class="social-note">好友人数只计算双方已确认的好友关系，待处理申请不计入，也不要求好友同时在线。添加与管理方式见<a href="#/social/profile">好友菜单</a>。</div>
 
 新玩家在线时每 **2 分钟**检查一次是否达到玩家条件；达到 15 分钟后，可能要等待下一次检查。玩家、活跃玩家的晋升会在登录时检查，不是满足条件的同一秒立即变化。
+
+分级规则要求核心玩家最近 30 天无警告或处罚，当前自动晋升与保持检查读取近 30 天的封禁记录。资深玩家仅由 TNG_From 或 Time_river 直接授予，不能自动晋升取得。
 
 核心玩家在线时每 **30 分钟**复核保持条件。游戏时长、登录天数、当前赞赏、平均周活跃或近 30 天封禁条件不再满足时，会退回活跃玩家。特殊授予身份不通过这套自动晋升流程取得。
 
 ## 如何赞赏玩家
 
-脱离战斗后，潜行并右键对方，打开[玩家档案](social/profile.md)，点击<strong>赞赏</strong>图标。成功后，对方当前赞赏数量增加 **1**。
+达到**玩家或以上身份**后，脱离战斗，潜行并右键对方，打开[玩家档案](social/profile.md)，点击<strong>赞赏</strong>图标。成功后，对方当前赞赏数量增加 **1**。
 
 - 只能赞赏在线且对你可见的其他玩家，不能赞赏自己。
 - 对**同一名玩家**，每滚动 **24 小时**只能成功赞赏一次。
@@ -56,12 +60,12 @@
 
 | 问题 | 说明 |
 | --- | --- |
-| 有 5 名档案好友，为什么仍未晋升？ | 档案好友与身份晋升好友人数尚未同步，当前不能通过这一入口推进好友条件。 |
+| 已有 5 名好友，为什么仍未晋升？ | 还需累计登录 7 天、游玩 7 小时和当前赞赏至少 3 次；待处理好友申请不计入人数，晋升在登录时检查。 |
 | 已玩满 15 分钟，还显示新玩家？ | 在线检查间隔为 2 分钟，等待下一次检查。 |
 | 昨天已经赞赏过，今天仍不能赞赏？ | 冷却按上次成功后的完整 24 小时计算。 |
 | 赞赏等级和社交身份不同？ | 赞赏等级只看当前赞赏数量；身份还需要时长、登录和其他条件。 |
 | 核心身份为什么退回活跃？ | 当前赞赏、周活跃或近 30 天封禁等保持条件发生变化。 |
 
-<nav class="social-nav"><a href="#/social/profile">玩家档案与好友</a><a href="#/social/invitations">邀请好友与奖励</a></nav>
+<nav class="social-nav"><a href="#/social/permissions">社交身份与权限</a><a href="#/social/profile">玩家档案与好友</a><a href="#/social/invitations">邀请好友与奖励</a></nav>
 
 <div class="page-end">TopCraft 玩家手册 · 组队与社交 · 2026-11-17</div>

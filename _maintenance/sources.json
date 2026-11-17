@@ -1,7 +1,8 @@
 {
   "README.md": [
     "plugins/zMenu/inventories/main_menu.yml",
-    "plugins/MMOCore/gui/class-select.yml"
+    "plugins/MMOCore/gui/class-select.yml",
+    "_maintenance/social-permissions-source.md"
   ],
   "guide/start.md": [
     "server.properties",
@@ -14,7 +15,8 @@
     "plugins/MMOCore/classes/法师.yml",
     "plugins/MMOCore/classes/牧师.yml",
     "plugins/TopCraft-NoHunger/config.yml",
-    "plugins/MMOCore-1.13.1-20260531.191529-59.jar"
+    "plugins/MMOCore-1.13.1-20260531.191529-59.jar",
+    "_maintenance/social-permissions-source.md"
   ],
   "guide/interface.md": [
     "plugins/TopCraftEquipmentSlots/config.yml",
@@ -24,7 +26,11 @@
     "plugins/BetterHud/layouts/party-layout.yml",
     "plugins/BetterHud/layouts/topcraft-skill-keys.yml",
     "plugins/BetterHud/layouts/topcraft-mage-skills.yml",
-    "plugins/TopCraftQuestBook/config.yml"
+    "plugins/TopCraftQuestBook/config.yml",
+    "_maintenance/social-permissions-source.md",
+    "plugins/PartyAndFriendsGUI/config.yml",
+    "plugins/PAFInstallOnBungeeCordAndLobbyServers.jar",
+    "plugins/TopCraftSocialRank/config.yml"
   ],
   "combat/classes.md": [
     "plugins/MMOCore/gui/class-select.yml",
@@ -173,29 +179,36 @@
     "plugin-src/MMOCorePartyLevelPatch/TopCraftPartyLevelPolicy.java",
     "plugin-src/TopCraftPartyRecruitment/TopCraftPartyRecruitment.java",
     "plugins/TopCraftPartyRecruitment/config.yml",
-    "plugins/MMOCore-1.13.1-20260531.191529-59.jar"
+    "plugins/MMOCore-1.13.1-20260531.191529-59.jar",
+    "_maintenance/social-permissions-source.md"
   ],
   "social/economy.md": [
     "plugins/TradeMe/config.yml",
     "plugins/TradeMe/Locale_CH.yml",
     "plugins/TradeMe6.2.2.10.jar",
-    "plugin-src/TopCraftProfileActions/TopCraftProfileActions.java"
+    "plugin-src/TopCraftProfileActions/TopCraftProfileActions.java",
+    "_maintenance/social-permissions-source.md"
   ],
   "social/profile.md": [
     "plugins/PlayerProfiles/config.yml",
     "plugins/PlayerProfiles/gui.yml",
     "plugin-src/TopCraftProfileActions/TopCraftProfileActions.java",
     "plugin-src/TopCraftEquipmentSlots/TopCraftEquipmentSlots.java",
-    "plugins/MMOCore/gui/friend-list.yml",
-    "plugins/MMOCore/gui/friend-removal.yml",
     "plugins/MMOCore/messages.yml",
     "plugins/TopCraftSocialRank/config.yml",
-    "plugins/MMOCore-1.13.1-20260531.191529-59.jar"
+    "plugins/MMOCore-1.13.1-20260531.191529-59.jar",
+    "_maintenance/social-permissions-source.md",
+    "plugins/PartyAndFriendsGUI/config.yml",
+    "plugins/PAFInstallOnBungeeCordAndLobbyServers.jar"
   ],
   "guide/help.md": [
     "plugins/MMOCore/commands.yml",
     "plugins/DailyRewards/config.yml",
-    "plugins/ItemsAdder/config.yml"
+    "plugins/ItemsAdder/config.yml",
+    "_maintenance/social-permissions-source.md",
+    "plugins/PartyAndFriendsGUI/config.yml",
+    "plugins/PAFInstallOnBungeeCordAndLobbyServers.jar",
+    "plugins/TopCraftSocialRank/config.yml"
   ],
   "combat/skills/sweep.md": [
     "plugins/MythicLib/skill/横扫.yml",
@@ -422,24 +435,32 @@
     "plugins/TopCraftSocialRank-1.0.0.jar",
     "plugins/TopAppreciation/config.yml",
     "plugins/TopAppreciation-1.0.0.jar",
-    "plugins/TopCraftSocialGroups/applied-v1.txt"
+    "plugins/TopCraftSocialGroups/applied-v1.txt",
+    "_maintenance/social-permissions-source.md",
+    "plugins/PartyAndFriendsGUI/config.yml",
+    "plugins/PAFInstallOnBungeeCordAndLobbyServers.jar"
   ],
   "social/invitations.md": [
     "plugins/TopInvite/config.yml",
     "plugins/TopInvite-1.2.1.jar",
-    "plugins/TopCraftSocialRank-1.0.0.jar"
+    "plugins/TopCraftSocialRank-1.0.0.jar",
+    "_maintenance/social-permissions-source.md"
   ],
   "guide/join.md": [
     "plugins/ItemsAdder/config.yml",
     "plugins/ItemsAdder_4.0.5_.jar",
-    "plugin-src/TopCraftPackCompat/TopCraftPackCompat.java"
+    "plugin-src/TopCraftPackCompat/TopCraftPackCompat.java",
+    "_maintenance/social-permissions-source.md"
   ],
   "guide/controls.md": [
     "plugins/MMOCore/config.yml",
     "plugins/MMOCore/gui/skill-list.yml",
     "plugins/PlayerProfiles/config.yml",
     "plugins/BetterHud/layouts/topcraft-skill-keys.yml",
-    "plugins/MMOCore-1.13.1-20260531.191529-59.jar"
+    "plugins/MMOCore-1.13.1-20260531.191529-59.jar",
+    "plugins/PartyAndFriendsGUI/config.yml",
+    "plugins/PAFInstallOnBungeeCordAndLobbyServers.jar",
+    "plugins/TopCraftSocialRank/config.yml"
   ],
   "guide/rewards.md": [
     "plugins/DailyRewards/config.yml",
@@ -447,5 +468,21 @@
     "plugins/Citizens/saves.yml",
     "plugins/MMOItems/item/药水.yml",
     "plugins/MMOItems/item/consumable.yml"
+  ],
+  "social/permissions.md": [
+    "_maintenance/social-permissions-source.md",
+    "plugins/TopCraftSocialRank/config.yml",
+    "plugins/TopCraftSocialRank-1.0.0.jar",
+    "plugins/TopCraftChatModeration/config.yml",
+    "plugins/TopCraftChatModeration-1.0.0.jar",
+    "plugins/TopInvite/config.yml",
+    "plugins/PartyAndFriendsGUI/config.yml",
+    "plugins/PAFInstallOnBungeeCordAndLobbyServers.jar"
+  ],
+  "guide/commands.md": [
+    "_maintenance/social-permissions-source.md",
+    "plugins/PartyAndFriendsGUI/config.yml",
+    "plugins/PAFInstallOnBungeeCordAndLobbyServers.jar",
+    "plugins/TopCraftSocialRank/config.yml"
   ]
 }

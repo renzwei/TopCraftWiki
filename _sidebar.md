@@ -68,10 +68,11 @@
   - [每日与每周生活委托](life/commissions.md)
 
 - 组队与社交
+  - [社交身份与权限](social/permissions.md)
   - [组队与招募](social/party.md)
   - [组队协作与收益](social/cooperation.md)
   - [玩家档案与好友](social/profile.md)
-  - [社交成长与点赞](social/progression.md)
+  - [身份晋升与赞赏](social/progression.md)
   - [邀请好友与奖励](social/invitations.md)
   - [金币与玩家交易](social/economy.md)
 

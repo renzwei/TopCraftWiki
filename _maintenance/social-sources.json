@@ -1,22 +1,25 @@
 {
-  "date": "2026-11-16",
+  "date": "2026-11-17",
   "sources": [
+    "_maintenance/social-permissions-source.md",
     "plugin-src/MMOCorePartyLevelPatch/TopCraftPartyLevelPolicy.java",
     "plugin-src/TopCraftEquipmentSlots/TopCraftEquipmentSlots.java",
     "plugin-src/TopCraftPartyRecruitment/TopCraftPartyRecruitment.java",
     "plugin-src/TopCraftProfileActions/TopCraftProfileActions.java",
     "plugins/MMOCore-1.13.1-20260531.191529-59.jar",
     "plugins/MMOCore/config.yml",
-    "plugins/MMOCore/gui/friend-list.yml",
-    "plugins/MMOCore/gui/friend-removal.yml",
     "plugins/MMOCore/gui/party-creation.yml",
     "plugins/MMOCore/gui/party-view.yml",
     "plugins/MMOCore/messages.yml",
     "plugins/MythicDungeons/config.yml",
+    "plugins/PAFInstallOnBungeeCordAndLobbyServers.jar",
+    "plugins/PartyAndFriendsGUI/config.yml",
     "plugins/PlayerProfiles/config.yml",
     "plugins/PlayerProfiles/gui.yml",
     "plugins/TopAppreciation-1.0.0.jar",
     "plugins/TopAppreciation/config.yml",
+    "plugins/TopCraftChatModeration-1.0.0.jar",
+    "plugins/TopCraftChatModeration/config.yml",
     "plugins/TopCraftPartyRecruitment/config.yml",
     "plugins/TopCraftSocialGroups/applied-v1.txt",
     "plugins/TopCraftSocialRank-1.0.0.jar",
@@ -50,18 +53,20 @@
       "plugins/PlayerProfiles/gui.yml",
       "plugin-src/TopCraftProfileActions/TopCraftProfileActions.java",
       "plugin-src/TopCraftEquipmentSlots/TopCraftEquipmentSlots.java",
-      "plugins/MMOCore/gui/friend-list.yml",
-      "plugins/MMOCore/gui/friend-removal.yml",
       "plugins/MMOCore/messages.yml",
       "plugins/TopCraftSocialRank/config.yml",
-      "plugins/MMOCore-1.13.1-20260531.191529-59.jar"
+      "plugins/MMOCore-1.13.1-20260531.191529-59.jar",
+      "plugins/PartyAndFriendsGUI/config.yml",
+      "plugins/PAFInstallOnBungeeCordAndLobbyServers.jar"
     ],
     "social/progression.md": [
       "plugins/TopCraftSocialRank/config.yml",
       "plugins/TopCraftSocialRank-1.0.0.jar",
       "plugins/TopAppreciation/config.yml",
       "plugins/TopAppreciation-1.0.0.jar",
-      "plugins/TopCraftSocialGroups/applied-v1.txt"
+      "plugins/TopCraftSocialGroups/applied-v1.txt",
+      "plugins/PartyAndFriendsGUI/config.yml",
+      "plugins/PAFInstallOnBungeeCordAndLobbyServers.jar"
     ],
     "social/invitations.md": [
       "plugins/TopInvite/config.yml",
@@ -73,6 +78,16 @@
       "plugins/TradeMe/Locale_CH.yml",
       "plugins/TradeMe6.2.2.10.jar",
       "plugin-src/TopCraftProfileActions/TopCraftProfileActions.java"
+    ],
+    "social/permissions.md": [
+      "_maintenance/social-permissions-source.md",
+      "plugins/TopCraftSocialRank/config.yml",
+      "plugins/TopCraftSocialRank-1.0.0.jar",
+      "plugins/TopCraftChatModeration/config.yml",
+      "plugins/TopCraftChatModeration-1.0.0.jar",
+      "plugins/TopInvite/config.yml",
+      "plugins/PartyAndFriendsGUI/config.yml",
+      "plugins/PAFInstallOnBungeeCordAndLobbyServers.jar"
     ]
   },
   "notes": "Installed JAR behavior takes precedence over older local source. Server read only; no live game verification."

@@ -1,6 +1,6 @@
 # UI 入口核对 · 2026-11-17
 
-玩家正文优先描述完整点击路径；未找到完整 UI 路径的功能保留入口命令，进入后继续用按钮操作。帮助中的 26 条命令、筛选与复制功能保留。服务器配置未修改。
+玩家正文优先描述完整点击路径；未找到完整 UI 路径的功能保留入口命令，进入后继续用按钮操作。帮助保留命令速查、筛选与复制功能。仅维护 Wiki，好友说明依据见 partyandfriends-correction.md。
 
 ## 已核实入口
 
@@ -11,7 +11,7 @@
 | 技能界面左下角天赋属性、右下角技能树 | `plugins/MMOCore/gui/skill-list.yml` |
 | 生活委托的每日任务／每周任务切换 | `plugins/zMenu/inventories/life_quests_daily.yml` |
 | 组队大厅 → 我的队伍 → 创建／管理队伍；点击招募直接加入 | `plugin-src/TopCraftPartyRecruitment/TopCraftPartyRecruitment.java` |
-| 脱战后潜行右键玩家 → 档案 → 添加好友、邀请队伍、发起交易、赞赏 | `plugins/PlayerProfiles/gui.yml`、`plugin-src/TopCraftProfileActions/` |
+| 脱战后潜行右键玩家 → 档案 → 邀请队伍、发起交易、赞赏 | `plugins/PlayerProfiles/gui.yml`、`plugin-src/TopCraftProfileActions/` |
 | 主城职业 NPC → 制作／收购；奖励 NPC → 礼包 | `plugins/TopCraftProfessionMarket/profession-npcs.yml`、`plugin-src/TopCraftProfessionMarket/ProfessionNpcs.java` |
 | 秘境入口 → 秘境征途；备战面板 → 使用钥匙／开始挑战 | `plugin-src/topcraft-dungeon-keys/` |
 
@@ -19,7 +19,7 @@
 
 - `/修复`：未找到已连接的修理 NPC 或菜单按钮。森林修理相关对白不能视为实际修复入口。
 - `/invite`：打开邀请好友界面；后续选择邀请人、输入邀请码、确认绑定通过界面操作。
-- `/mmocore:friends`：打开好友列表。其他玩家档案只有添加好友；好友列表按钮属于自己的档案，尚未找到无需命令打开自己档案的完整路径。背包“个人信息”打开的是 zMenu 角色详情，不是 PlayerProfiles。
+- 好友备用入口：`/friendsgui` 打开菜单，`/friend add 玩家名` 发申请。首选快捷栏“个人资料”物品。好友申请与设置从菜单底部进入；背包“个人信息”仍是角色详情。
 - `/obsidian`：打开秘境入口；没有把计划中的 NPC 写成已上线入口。
 - `/tcdungeon panel`：进入秘境后打开备战面板。手持钥匙右键使用仅在已准备的副本内生效，不代替入场步骤。
 - `/dungeonkey reclaim`：补领已有绑定钥匙，未找到 UI 按钮。

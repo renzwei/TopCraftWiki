@@ -112,6 +112,7 @@ window.TopCraftSearchPaths = [
   "/social/economy",
   "/social/invitations",
   "/social/party",
+  "/social/permissions",
   "/social/profile",
   "/social/progression",
   "/world/bosses",
