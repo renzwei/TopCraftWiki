@@ -1,0 +1,83 @@
+{
+  "season": "第一赛季",
+  "maps": [
+    {
+      "id": "1001",
+      "slug": "mushroom",
+      "name": "蘑菇森林",
+      "limit": 720,
+      "enabled": true
+    },
+    {
+      "id": "1003",
+      "slug": "desert",
+      "name": "赤沙遗迹",
+      "limit": 720,
+      "enabled": true
+    },
+    {
+      "id": "1004",
+      "slug": "sakura",
+      "name": "樱落溪涧",
+      "limit": 900,
+      "enabled": true
+    }
+  ],
+  "capacity": 4,
+  "unkeyedLayer": 1,
+  "readySeconds": 45,
+  "rapidRatio": 0.7,
+  "keyRules": {
+    "minimum-layer": 2,
+    "maximum-layer": 100000,
+    "use-penalty": 1,
+    "timed-change": 1,
+    "overtime-change": -1
+  },
+  "growth": 1.16,
+  "deathPenalty": 15,
+  "scoreRules": {
+    "version": "score-v1",
+    "overtimeStartBps": 7000,
+    "overtimeFloorBps": 5000,
+    "decayBps": 4000,
+    "formula": {
+      "layerPoints": 1000,
+      "basePoints": 1000,
+      "timeBonusSlope": 2000,
+      "maxTimeBonus": 1000
+    }
+  },
+  "rewards": [
+    {
+      "id": "gold",
+      "threshold": 60000,
+      "displayName": "黄金",
+      "items": []
+    },
+    {
+      "id": "diamond",
+      "threshold": 90000,
+      "displayName": "钻石",
+      "items": []
+    },
+    {
+      "id": "emerald",
+      "threshold": 120000,
+      "displayName": "绿宝石",
+      "items": []
+    },
+    {
+      "id": "obsidian",
+      "threshold": 165000,
+      "displayName": "黑曜石",
+      "items": []
+    },
+    {
+      "id": "crying-obsidian",
+      "threshold": 220000,
+      "displayName": "哭泣黑曜石",
+      "items": []
+    }
+  ]
+}

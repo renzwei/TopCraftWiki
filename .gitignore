@@ -1,0 +1,15 @@
+# Local build and preview artifacts
+/.work/
+/build/
+/dist/
+/coverage/
+
+# Dependencies and tool caches
+node_modules/
+__pycache__/
+/.venv/
+/venv/
+/.cache/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/

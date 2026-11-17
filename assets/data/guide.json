@@ -1,0 +1,39 @@
+{
+  "address": "topcraft.cc",
+  "clientVersion": "1.21",
+  "connectionSource": "User confirmation, 2026-11-16",
+  "rewardPlayMinutes": 100,
+  "rewards": {
+    "daily": {
+      "hours": 24,
+      "availableOnFirstJoin": false,
+      "actions": [
+        "[console] professionmarket reward %player% 20",
+        "[console] mi give 药水 MINOR_HEALTH_POTION %player% 2",
+        "[console] mi give 药水 MINOR_MANA_POTION %player% 1",
+        "[console] mi give CONSUMABLE TC_IDENTIFICATION_SCROLL %player% 1",
+        "[actionbar] &a已领取每日礼包！"
+      ]
+    },
+    "weekly": {
+      "hours": 168,
+      "availableOnFirstJoin": false,
+      "actions": [
+        "[console] professionmarket reward %player% 80",
+        "[console] mi give CONSUMABLE TC_UPGRADE_STONE %player% 2",
+        "[console] mi give CONSUMABLE TC_IDENTIFICATION_SCROLL %player% 3",
+        "[actionbar] &a已领取每周礼包！"
+      ]
+    },
+    "monthly": {
+      "hours": 720,
+      "availableOnFirstJoin": false,
+      "actions": [
+        "[console] professionmarket reward %player% 200",
+        "[console] mi give CONSUMABLE TC_UPGRADE_STONE_TIDE %player% 3",
+        "[console] mi give CONSUMABLE TC_IDENTIFICATION_SCROLL %player% 5",
+        "[actionbar] &a已领取每月礼包！"
+      ]
+    }
+  }
+}

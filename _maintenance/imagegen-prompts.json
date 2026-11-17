@@ -1,0 +1,13 @@
+{
+  "tool": "built-in image_gen",
+  "images": [
+    {
+      "path": "assets/art/adventure.webp",
+      "prompt": "Use case: stylized-concept. Asset type: wide hero illustration for TopCraft Chinese Minecraft RPG player wiki. A carefully composed voxel fantasy landscape at sunset: a welcoming timber and stone adventurer outpost on left foreground, a winding path through deep teal woodland in center, distant blocky ruins with faint violet crystal light on right. Minecraft-like cubic geometry, pixel-textured surfaces, sophisticated warm amber sunlight and cool moss/teal shadows, charming detailed game art, calm sense of exploration. Landscape 16:9. Keep visual detail readable, no UI, no words, no logos, no watermark, no collaged panels. This is atmospheric concept artwork, not a literal game screenshot."
+    },
+    {
+      "path": "assets/art/professions.webp",
+      "prompt": "Use case: stylized-concept. Asset type: wide editorial illustration for a Minecraft RPG wiki life professions chapter. A cozy voxel crafting workbench beside a woodland stream: a blocky fishing rod and small bucket at right, a pickaxe and rough ores at left, cultivated herbs, wheat, cooking pot, and two small colored potion bottles on the wooden table. Minecraft-like cubic geometry and crisp pixel textures, amber lantern light against cool teal greenery, inviting and practical, polished game concept art. Landscape 16:9, one cohesive scene, no text, no letters, no logos, no UI, no watermark. This is an illustrative overview of gathering, fishing, cooking and alchemy, not an in-game screenshot."
+    }
+  ]
+}

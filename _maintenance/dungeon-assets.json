@@ -1,0 +1,57 @@
+{
+  "assets/server/dungeons/key.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft_progress/textures/buttons/key.png",
+    "sha256": "4f80dcc548498b2d7b8a58b8f0cf39664fa8478a488e680f29debd16e04d91cb",
+    "kind": "server-original"
+  },
+  "assets/server/dungeons/socket-key.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft_progress/textures/buttons/socket_key.png",
+    "sha256": "da3a50db96d64b4d3f973ee62951649820966025cba3ea0f639b80e2e56551ab",
+    "kind": "server-original"
+  },
+  "assets/server/dungeons/white-jade.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/dungeon/yl_white_jade.png",
+    "sha256": "a202c3c8b1783d77d6887f2af02dd9ad97f43db4fbfa389d48550ca7f0c87b4f",
+    "kind": "server-original"
+  },
+  "assets/server/dungeons/black-jade.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/dungeon/yl_black_jade.png",
+    "sha256": "4bb9bb0cc24aad532ffefee4739401ac630ad69a4d21790e652bebeea5055527",
+    "kind": "server-original"
+  },
+  "assets/server/dungeons/fire.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/stats/fire.png",
+    "sha256": "eaba33a83fca2a72549ff77eb6a1f67f203a40590268e25ee1c245c24bedea3c",
+    "kind": "server-original"
+  },
+  "assets/server/dungeons/rainbow.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/buffs/rainbow_spore.png",
+    "sha256": "e1c379dffffb9d680a9cddbd12619cc5a5456f182ac8db6e28984e353133eb78",
+    "kind": "server-original"
+  },
+  "assets/server/dungeons/gold.png": {
+    "source": "plugin-src/topcraft-dungeon-progress/ui/badges/gold.png",
+    "sha256": "a3ce2a2b4bed61cb88bb9c650ad8d63e3128ff58441b48e4e71177da09bc5221",
+    "kind": "server-original"
+  },
+  "assets/server/dungeons/diamond.png": {
+    "source": "plugin-src/topcraft-dungeon-progress/ui/badges/diamond.png",
+    "sha256": "1fad1c2944662641fa50b43a361d5e43da84ab9c6bd1f31e7aa5e96ec2e4f184",
+    "kind": "server-original"
+  },
+  "assets/server/dungeons/emerald.png": {
+    "source": "plugin-src/topcraft-dungeon-progress/ui/badges/emerald.png",
+    "sha256": "029cbdfe3f15b681da868c411804ea74df29fa395a1a731d4c639ad07a195224",
+    "kind": "server-original"
+  },
+  "assets/server/dungeons/obsidian.png": {
+    "source": "plugin-src/topcraft-dungeon-progress/ui/badges/obsidian.png",
+    "sha256": "1b55cc6633ad28dc13d6872aa8008d5db9296b416b4401d64f8e3c3e7ca2a413",
+    "kind": "server-original"
+  },
+  "assets/server/dungeons/crying-obsidian.png": {
+    "source": "plugin-src/topcraft-dungeon-progress/ui/badges/crying-obsidian.png",
+    "sha256": "042c72b2f88176a804a8a2d14fdb8ccf513dbdd28a7d5428b835db27e0844e84",
+    "kind": "server-original"
+  }
+}

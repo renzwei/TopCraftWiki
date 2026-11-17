@@ -1,0 +1,72 @@
+{
+  "assets/server/social/create.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/party_menu/create.png",
+    "sha256": "9bf60e9f1c5369f0054cf91e619a7c544bcc91dbfa8fb0f0c5e134ab0cbb7efc",
+    "kind": "server-original"
+  },
+  "assets/server/social/invite.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/party_menu/invite.png",
+    "sha256": "01a9eab84fa36291ba3fed90948f10370afdad6aec5395f51d74925e47e973a4",
+    "kind": "server-original"
+  },
+  "assets/server/social/leave.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/party_menu/leave.png",
+    "sha256": "0a8ce732fc4e387fc1261974404985ee395c6bf7c84d398a648aa86b864c6689",
+    "kind": "server-original"
+  },
+  "assets/server/social/hall.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/party_recruitment/hall.png",
+    "sha256": "057500b6838babac7ff5956476f5bbd5657022d48a73c05c4d07f522b0e5363c",
+    "kind": "server-original"
+  },
+  "assets/server/social/recruit.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/party_recruitment/recruit_on.png",
+    "sha256": "ec54603f0927a0fada3f3fd286ed6c6432561f8169d9e1a052ffe7594f160162",
+    "kind": "server-original"
+  },
+  "assets/server/social/travel.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/party_recruitment/travel.png",
+    "sha256": "ac485c3a44a410905b0a6c7ea39c122c463c4d94906c16706e1b3a928b67bf88",
+    "kind": "server-original"
+  },
+  "assets/server/social/trade.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/profile/trade.png",
+    "sha256": "b3478cc3ff3766e17bace84924478c122723f9d8510d0221648007243af9609a",
+    "kind": "server-original"
+  },
+  "assets/server/social/friend.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/profile/friend.png",
+    "sha256": "602e9e95a230cd884c136399857b1a066eae626d46bde161b1599f335051d566",
+    "kind": "server-original"
+  },
+  "assets/server/social/identity.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/profile/identity.png",
+    "sha256": "65514519dd6cf9f89e65611166e3f9552eefca59120c9c2ee595bbd2f7cb5639",
+    "kind": "server-original"
+  },
+  "assets/server/social/like.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/profile/appreciation.png",
+    "sha256": "9a2a05b8ab9d3fdc9adaeb03d060864f0ba995ed15f870e6cd1d7aaf2472c0cb",
+    "kind": "server-original"
+  },
+  "assets/server/social/gift.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/invite/gift.png",
+    "sha256": "d35f7ac51cdc571f918358fb43bd53c44f22b573f51e6d2e19be9729a246cbe9",
+    "kind": "server-original"
+  },
+  "assets/server/social/milestone.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/invite/milestone.png",
+    "sha256": "d35f7ac51cdc571f918358fb43bd53c44f22b573f51e6d2e19be9729a246cbe9",
+    "kind": "server-original"
+  },
+  "assets/server/social/invitation-code.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/invite/content_code.png",
+    "sha256": "bf88380a039c9622333281753cf3f18575c8d70874c16b22fdac445ffcb19c09",
+    "kind": "server-original"
+  },
+  "assets/server/social/invitation-select.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/invite/content_select.png",
+    "sha256": "0d7db9e20f01cf57dea7dab8046b9794b43bfeed0e0e907c565125709b4c7de4",
+    "kind": "server-original"
+  }
+}

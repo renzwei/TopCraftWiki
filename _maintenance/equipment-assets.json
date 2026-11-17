@@ -1,0 +1,1532 @@
+{
+  "assets/server/equipment/a3c915ee897b5658.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/common_sword_2d/common_64_longsword.png",
+    "sha256": "a3c915ee897b565811266e92eaf00415b049267ac9cb885bdd2d6b304622be39",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/4bc0f92908b96423.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/common_sword_2d/common_64_leafblade.png",
+    "sha256": "4bc0f92908b96423d5e8bd35a4f09ed3b059c2eb0a653da0f2bed4504628e3d0",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/3d1cce0da11a9f04.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/magical_sword_2d/magical_64_oxblood_sword.png",
+    "sha256": "3d1cce0da11a9f04b8a288862eea868d0effbbf4655ca93d6841b4a3ee54ce12",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/5fa5b40de8101a3c.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/magical_sword_2d/magical_64_riveted_cleaver.png",
+    "sha256": "5fa5b40de8101a3cbf5d0e439f5dab61dafd66d2bc8bda31667314b8454bb921",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/0428889a80f5d629.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/magical_sword_2d/magical_64_bronzeleaf_sword.png",
+    "sha256": "0428889a80f5d62985a1fa9fede2b923859eb3c305bfc660dce02c8b736eb235",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/572a9e1ee4173fc8.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/common_axe_2d/common_64_broadbit_axe.png",
+    "sha256": "572a9e1ee4173fc8fbf5be3e5fe077e5b21c027a57cf355137a376813a989930",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/90ddf03ba9b1de57.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/common_axe_2d/common_64_bearded_axe.png",
+    "sha256": "90ddf03ba9b1de5774fbd7dd34dcd147e042403842dddcde989b277275883c0c",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/03bb8f369e1918ee.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/magical_axe_2d/magical_64_riveted_crescent_axe.png",
+    "sha256": "03bb8f369e1918ee1328e3adcf4d6a01a020e8b1ee4c075820d4fcb201b3a700",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/e3b49985c148ef7f.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/magical_axe_2d/magical_64_grooved_hewing_axe.png",
+    "sha256": "e3b49985c148ef7faa346d2920f6a51c4bb7a0b93c451d547262f4ab11553b5f",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/65974d95ce4ad119.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/magical_axe_2d/magical_64_balanced_double_axe.png",
+    "sha256": "65974d95ce4ad1199a62c6fbca51f967ad19916cef2108c875a89d3c44e005b2",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/0123d5a14a948af2.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/common_hammer_2d/common_64_iron_sledge_hammer.png",
+    "sha256": "0123d5a14a948af2611e1ad1bfb6ca172722e841b8bdfab907b19e5c0e853447",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/1da9d31e29df256b.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/common_hammer_2d/common_64_banded_wood_hammer.png",
+    "sha256": "1da9d31e29df256b5427491ef547b21d0b80988b2845a1149ac65fe059bab800",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/01663b93e75d4a3a.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/magical_hammer_2d/magical_64_copper_plate_hammer.png",
+    "sha256": "01663b93e75d4a3a9b885805bcdd1e82f9c260078441f1fa8c9351efcf56c850",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/b3dcbed4dc706710.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/magical_hammer_2d/magical_64_twin_drum_hammer.png",
+    "sha256": "b3dcbed4dc70671061276e8cd10c4db2087854068d7d882285d310d48fbf82ee",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/afde353b54e6d2e5.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/magical_hammer_2d/magical_64_stepped_forge_hammer.png",
+    "sha256": "afde353b54e6d2e5e223c8d2dba1d02844ccb00285a22d241b962a3c169a3684",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/81bb478d2688f69d.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/common_dagger_2d/common_64_belly_dagger.png",
+    "sha256": "81bb478d2688f69d3b05c6857b2dd5998591799cf5e86ea577d65193a420a6e9",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/7a972f60243926d6.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/common_dagger_2d/common_64_spearpoint_dagger.png",
+    "sha256": "7a972f60243926d6aacf53be5439d394212a75cf1f1e4cf61e18ba1b1b645643",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/0e74e28697afae7b.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/magical_dagger_2d/magical_64_copper_leaf_dagger.png",
+    "sha256": "0e74e28697afae7ba5215fa673a120443d41ca0816bcc1264402bcd2b9425e95",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/d59b0166d2eceeec.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/magical_dagger_2d/magical_64_bone_curve_dagger.png",
+    "sha256": "d59b0166d2eceeececfd26c351fd670a59422e9e2e87c5ec6c8f7b5a0c669fc9",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/d23f319a07a91d90.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/magical_dagger_2d/magical_64_fullered_dagger.png",
+    "sha256": "d23f319a07a91d905c56027ceaa59713c1a793376f62441ec5dd0d8fb3bb136b",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/dcf0f57688cd6327.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/common_spear_2d/common_64_leaf_spear.png",
+    "sha256": "dcf0f57688cd63270e2d3e5e3874b5e49ddba6ce22ef0ec9bb8c6820add9aa5b",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/10998e362ed7f804.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/common_spear_2d/common_64_winged_spear.png",
+    "sha256": "10998e362ed7f804df2581d453ae70ea8e47f05192ee56eea880fd3618badb9d",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/f2eebc547612e068.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/magical_spear_2d/magical_64_copper_leaf_spear.png",
+    "sha256": "f2eebc547612e068b49c076ecfd7af0e21069e7bfa21ddd66ca9b7e9af7c1302",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/6c066625e713d6ad.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/magical_spear_2d/magical_64_partisan_spear.png",
+    "sha256": "6c066625e713d6ad7e2cf0b0265e294032d2e02ecc1f56ca10658e788d8d8fa2",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/30a2de91a767f3b4.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/magical_spear_2d/magical_64_fullered_spear.png",
+    "sha256": "30a2de91a767f3b46828e07da7da1f3409cab1d4d35c6810fbf633265cf801e7",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/45bb6a54197561ba.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/common_scepter_2d/common_64_ash_bud_scepter.png",
+    "sha256": "45bb6a54197561bae81c7427500043bd13f56aa931f8933e926ffb765e02eb22",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/ddcbb9d24445a1c7.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/common_scepter_2d/common_64_willow_orb_scepter.png",
+    "sha256": "ddcbb9d24445a1c7917e139698b594d1edd61d6d030996afcf146605a38ba84f",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/4bdae6840a560c61.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/magical_scepter_2d/magical_64_bronze_seal_scepter.png",
+    "sha256": "4bdae6840a560c6136734b422dab64e07ecb6c5b90e06cb2f694c6560ca8110d",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/43ac382356831220.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/magical_scepter_2d/magical_64_ivory_fluted_scepter.png",
+    "sha256": "43ac38235683122081200410a73762b6906399c2032326532c9faebdcd88e4b2",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/c885f03e567bc381.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/magical_scepter_2d/magical_64_iron_lozenge_scepter.png",
+    "sha256": "c885f03e567bc3810ac72338b2de5f0b57824594048a33e08d741d06b7329dfe",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/acde8a34b6dfa4c2.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/common_wand_2d/common_64_oak_quartz_wand.png",
+    "sha256": "acde8a34b6dfa4c2382f9fc090c619aae8ea1edb5c09f69b0d68930f07fe755b",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/387f23528f1092c4.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/common_wand_2d/common_64_hazel_ceramic_wand.png",
+    "sha256": "387f23528f1092c4b27f7f6f155717dec21257515416aeec3780b63eae43bfe1",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/6a2f9f8f163eefa4.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/magical_wand_2d/magical_64_copper_walnut_wand.png",
+    "sha256": "6a2f9f8f163eefa4eb38ec931d4e1ae807d1bfcb4e1386a44eb3f56fea45908d",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/5af300c424060c75.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/magical_wand_2d/magical_64_blackthorn_ceramic_wand.png",
+    "sha256": "5af300c424060c7588fc7b2da12f6310dc7db1a7840ac7d5255fcc6521bb7b41",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/af75c9788ea8ec2e.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/magical_wand_2d/magical_64_ash_bone_wand.png",
+    "sha256": "af75c9788ea8ec2ea9d4541144692ef22dce58a4eb361b9219d729f4c7a5e4ef",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/84666951ab4b7e47.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/common_spellbook_concepts/common_apprentice_folio_spellbook_sided.png",
+    "sha256": "84666951ab4b7e47eae577552fd4f070f1de532f86e1ad05e0b3abc2f55a8711",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/4debd26cc19620c8.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/magical_spellbook_concepts/magical_moontide_spellbook_sided.png",
+    "sha256": "4debd26cc19620c82cf3f8975de2be3140cc9cdff86108322eecef600ecd7705",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/72a5a36d6f927981.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/common_shield_concepts/common_militia_hide_buckler.png",
+    "sha256": "72a5a36d6f927981cc6258f4811db9eca04bec31db9071625434295ad995a0d2",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/235a9ab8eb851f2d.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/magical_shield_concepts/magical_riveted_kite_shield.png",
+    "sha256": "235a9ab8eb851f2d952410755ef49d75c5927a64db934dd75de90d3bc8fe8ceb",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/fd2447d023f9267e.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/common_independent_armor/rivet_cap/icon.png",
+    "sha256": "fd2447d023f9267e7891857f63589ce2465f266f01501975663e8543804d8674",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/e931988ce86529bc.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/magical_independent_armor/nasal_guard/icon.png",
+    "sha256": "e931988ce86529bc571a674c6df5af07e4a947a410c5b865f9cce45e6ae9936b",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/97f240351cda23c4.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/magical_independent_armor/ash_cowl/icon.png",
+    "sha256": "97f240351cda23c45c4d053a36790c19b2491bc3b4758b9a0281da32b77e813a",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/8a139ee2ea5fd38e.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/common_independent_armor/chain_shirt/icon.png",
+    "sha256": "8a139ee2ea5fd38e89b77cb82733b65d82d5751fd55d5d0f1c9b66d02e1795e7",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/83c7e629d9a4c036.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/magical_independent_armor/russet_lamellar/icon.png",
+    "sha256": "83c7e629d9a4c0362d0588da4e884de799887e7c0d242004fd5b8021f32b3d9e",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/2b9ad963329708d7.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/magical_independent_armor/blue_brigandine/icon.png",
+    "sha256": "2b9ad963329708d7b97c736ad195af87b7e35ce55bfedc292a2d6626a46a8cb0",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/3582f354c9b4ebc8.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/common_independent_armor/slate_greaves/icon.png",
+    "sha256": "3582f354c9b4ebc88ebcb176785272335b3c058b5773f46ef938491de6574765",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/8d1f6142d53bb11f.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/magical_independent_armor/chain_chausses/icon.png",
+    "sha256": "8d1f6142d53bb11f7a6b189056fee04019f5f5c120b351e90b7e0e54e16dca5d",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/1faddeedc859c9d3.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/magical_independent_armor/olive_cuisses/icon.png",
+    "sha256": "1faddeedc859c9d3376091c91052d46a766e743e7a86056e8dc7e5eccbcea7b2",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/a0cbbce7c2f48ab4.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/common_independent_armor/iron_toes/icon.png",
+    "sha256": "a0cbbce7c2f48ab44b098e804f0d7c2534cc9e67e2b0213927b8a977c06a10db",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/86fd5213ad4e168b.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/magical_independent_armor/fur_boots/icon.png",
+    "sha256": "86fd5213ad4e168bc2461164299a14b76ff125b60ba91448079e5986bf7d921a",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/cf585fb7f5d483a5.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/magical_independent_armor/copper_heel/icon.png",
+    "sha256": "cf585fb7f5d483a545ea003c2fa8493da4aa929a873cafc3d7d47449ff99ca42",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/568c9a09bb12b223.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/accessories/common_copper_coin_necklace.png",
+    "sha256": "568c9a09bb12b2238eb227b838ff99544e126614481a4c6d1d686d0523494056",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/03b35d1c1016aa8a.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/accessories/magical_silver_link_necklace.png",
+    "sha256": "03b35d1c1016aa8ae308c6d3bcc4fba8506187c739311cad1a4afcaa210bc47e",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/3e9906369c165383.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/accessories/common_iron_band_ring.png",
+    "sha256": "3e9906369c165383339489dd760546270331407b025b191fea6e15c3186c847e",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/08777bf77937a772.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/accessories/magical_bronze_signet_ring.png",
+    "sha256": "08777bf77937a7721277429f854b88ee626fede72dc02ec22957815accfc1b32",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/26af37c28927d93c.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/accessories/common_leather_buckle_belt.png",
+    "sha256": "26af37c28927d93c4ddf2c155fc8950b944d11629615a5a43581babebe196418",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/905bf8d7a72d0bd6.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/accessories/magical_double_buckle_belt.png",
+    "sha256": "905bf8d7a72d0bd664ee73fb49d6937151bcfbac9ea2ebedffae551ce12095e8",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/741787bea4821b08.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/accessories/common_wooden_ward_charm.png",
+    "sha256": "741787bea4821b0862776553c339e6ef10a8dacc0a0ac7bcdd5eb22d0debf26e",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/2d749cd65d7a170f.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/accessories/magical_bronze_lock_charm.png",
+    "sha256": "2d749cd65d7a170f3c5789e81c4d677ab2688a8347c23f5c2faa36c7dbb2c7f4",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/6dff2b33795c6261.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/common_iron_armor/helmet.png",
+    "sha256": "6dff2b33795c6261e611e03f9ece4802cc8bc2c872a04c2f6ae2fe2036154956",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/f2e56051ebf480bb.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/common_iron_armor/chestplate.png",
+    "sha256": "f2e56051ebf480bb038386ae4753fa441ecefd8c2399cd1665672f4b7608ba3d",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/cc177cd0322e7305.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/common_iron_armor/leggings.png",
+    "sha256": "cc177cd0322e73058e18b92e6882a2efd033ec0e813eb0967c965f7e0bab1e57",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/401c9a0a7cb31750.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/common_iron_armor/boots.png",
+    "sha256": "401c9a0a7cb317502008bf83e9c8d2afbcbd31c3b39ceb64f65635c4e6b56939",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/3486e1347049678e.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/common_scout_leather/helmet.png",
+    "sha256": "3486e1347049678ed278438e1e018b1c6c20bcec3c9c3dfef3b85c8f658271e1",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/2548043f3e296417.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/common_scout_leather/chestplate.png",
+    "sha256": "2548043f3e2964170f904b976f6a3b8826fa57a6df8bda2aff6fb0601990525d",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/7e24225e54b6ae83.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/common_scout_leather/leggings.png",
+    "sha256": "7e24225e54b6ae83a7bc37e9fc50829c03c2c0151cc8c8108f49a5b2193b5259",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/ddee723d8fffced5.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/common_scout_leather/boots.png",
+    "sha256": "ddee723d8fffced5415784392690f94d35430d3aa03349d96f282cc9ffa29e2c",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/fb6bbadbee24390b.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/common_militia_brigandine/helmet.png",
+    "sha256": "fb6bbadbee24390b13544b7329c307f78b54e127a0eedd22a328e511fa4b07bc",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/4c92fad38645e903.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/common_militia_brigandine/chestplate.png",
+    "sha256": "4c92fad38645e903ae8eb792e8063f20c650aef2567e60e838cd81df6787578f",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/2a1d2a799b21af71.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/common_militia_brigandine/leggings.png",
+    "sha256": "2a1d2a799b21af71d0c3824a90e739228e7032842358ff4a3172e21f78cd5437",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/3523a30a20cc0d97.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/common_militia_brigandine/boots.png",
+    "sha256": "3523a30a20cc0d97a87a62fa7f76787f996b4d54af02591cf753d2694fdd4ba3",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/16ee2a78f7f2ede5.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/magical_amethyst_ward/helmet.png",
+    "sha256": "16ee2a78f7f2ede558f1bea913759a1f59783cb26e80d60ad3cbcc75b92d6dd3",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/1ad36ea0201b2cf6.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/magical_amethyst_ward/chestplate.png",
+    "sha256": "1ad36ea0201b2cf625ad7766046a77ae72ca3067ecfc6bca4dc7c3de85ca3103",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/b03f9b909568b54d.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/magical_amethyst_ward/leggings.png",
+    "sha256": "b03f9b909568b54db2e7b03dd6e7b8d19437a134af57921f9050d7d5314fc533",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/6c2f5ba44c74dbc5.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/magical_amethyst_ward/boots.png",
+    "sha256": "6c2f5ba44c74dbc58371cb4a93c1c8ea8fac0e694b37b4ea3b5da3b5eb0ba548",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/b6fcf5a2829050ee.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/magical_tide_scale/helmet.png",
+    "sha256": "b6fcf5a2829050eefc698739327023ae8e4bcdadf59e0d96d026e44985a40073",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/6852cc976c859b04.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/magical_tide_scale/chestplate.png",
+    "sha256": "6852cc976c859b044a7b2ddecd78d871e9466f9c43a7835bd93fc27e470b3e01",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/9835a9ea6a9c3f22.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/magical_tide_scale/leggings.png",
+    "sha256": "9835a9ea6a9c3f22254619e38867a94273ebcb6c159e3ebe0709bcc9cc95d593",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/cb9e79b74230ba7c.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/magical_tide_scale/boots.png",
+    "sha256": "cb9e79b74230ba7c6399cbb812f11da3a0de262bf6bc8be44bb41cc70f9315a8",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/c7e7c836d2c1af51.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/magical_ember_bronze/helmet.png",
+    "sha256": "c7e7c836d2c1af514bdba4c806a1d0d2c5b62921768d8448f3e96342257e770e",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/b901a9c7c2ff0d1a.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/magical_ember_bronze/chestplate.png",
+    "sha256": "b901a9c7c2ff0d1a80b226526068558376113b23ce4c15a7d490e08c7c8a5cd2",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/87ff7b1bf4cf7052.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/magical_ember_bronze/leggings.png",
+    "sha256": "87ff7b1bf4cf70520c36ab75b5e4a8b1c73e7fa1bfb551e25274225cf7ceada6",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/c4894f507138cb58.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/magical_ember_bronze/boots.png",
+    "sha256": "c4894f507138cb5894979e6ca92006923cc16e900a1bbd3dbb8e8aed5b80155f",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/ab5e91770fb18d13.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/rare_starlight_gilt/helmet.png",
+    "sha256": "ab5e91770fb18d137f42aea7d994de968715cc7407941eaf6311302b1185ff75",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/10d6a08af9b553a5.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/rare_starlight_gilt/chestplate.png",
+    "sha256": "10d6a08af9b553a50782c7eb8dd839f2603f0d8a8908a061b434d6a69c629442",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/0ce38b63d4a3ad19.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/rare_starlight_gilt/leggings.png",
+    "sha256": "0ce38b63d4a3ad193106f33035a12f8e6bd66910a8661ca6cb60e84eca820ac5",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/212331c4b3870ea9.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/rare_starlight_gilt/boots.png",
+    "sha256": "212331c4b3870ea9855f0adda10ec23466683d13c997c1270bcda48d5b40dbef",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/677ebae56c66bbbf.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/rare_crimson_blacksteel/helmet.png",
+    "sha256": "677ebae56c66bbbf280a5e6efa1f3f9f6760e38fff732456673a5c9725c17d63",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/094ebdaf4178495c.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/rare_crimson_blacksteel/chestplate.png",
+    "sha256": "094ebdaf4178495c95d4e519e50a5afb74ba42165cc21459fc9f3e7978562554",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/9cd9040de3d7c5bb.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/rare_crimson_blacksteel/leggings.png",
+    "sha256": "9cd9040de3d7c5bb9e3d37375d28aa8f3e7a1fe77b88b139a5f0abcc0add246d",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/a6c6b1424b972fe9.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/rare_crimson_blacksteel/boots.png",
+    "sha256": "a6c6b1424b972fe932dffc2c9ea7dad28820d2300d547c3f7a56b6f0e71ebb8c",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/55fbac457752763d.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/rare_verdant_drakescale/helmet.png",
+    "sha256": "55fbac457752763d614dcd36f52301cd1c23d6ee8ebea1ae2093a1d1071c3ed3",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/92075247ca4f37eb.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/rare_verdant_drakescale/chestplate.png",
+    "sha256": "92075247ca4f37ebf325bb1f0be27bdb13aa32b5cd671d1c87201f756f42870a",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/749f4bf0470eead9.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/rare_verdant_drakescale/leggings.png",
+    "sha256": "749f4bf0470eead950abb498de051a5c7caf993b71f0e66ef3e6c21468cc946d",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/449b115ecd97ccfa.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/rare_verdant_drakescale/boots.png",
+    "sha256": "449b115ecd97ccfafcc885ba0d4d40f06d0629265e8d7cbcf87966477230bb67",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/7115492f1e1cc477.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/legendary_eclipse_sovereign/helmet.png",
+    "sha256": "7115492f1e1cc477ce91e8bbd78a29374c33c0deaef00268159015a7d8409188",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/ce3bf53610c9f885.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/legendary_eclipse_sovereign/chestplate.png",
+    "sha256": "ce3bf53610c9f8850e4414de925e57636b773850301c8150d6bedf310337b719",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/0105948ed4382346.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/legendary_eclipse_sovereign/leggings.png",
+    "sha256": "0105948ed4382346bae33a4f510c77bd519a31aa52c9a424ea3ec927d8a37a55",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/abf9b8cf137fa5e2.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/legendary_eclipse_sovereign/boots.png",
+    "sha256": "abf9b8cf137fa5e2bf0a444c411fa0e453e609eeaeb19481caf2907dc5b7d5cc",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/00aa29e747c190cd.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/legendary_frostcrown_guard/helmet.png",
+    "sha256": "00aa29e747c190cd9027fe69788a8c2efafd895b0e69dc1a49d2c35b6bc1fada",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/67dcd8d4f02f367d.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/legendary_frostcrown_guard/chestplate.png",
+    "sha256": "67dcd8d4f02f367dc3c199006395939482ca719b8fe5fd90bdd5af67b33d021b",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/6c8e585f1fd63ce0.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/legendary_frostcrown_guard/leggings.png",
+    "sha256": "6c8e585f1fd63ce03f3f156253570f80c4cdc08e15fabb7f548cdd7b327a0887",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/b2cfe0015c8b9d04.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/legendary_frostcrown_guard/boots.png",
+    "sha256": "b2cfe0015c8b9d043da2584507f8b2ede873e55efcfe07e6de0fbc442184eb68",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/2fe67ca9a6a7b8d3.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/legendary_voidflame_regalia/helmet.png",
+    "sha256": "2fe67ca9a6a7b8d360c5f1e6d59917c6a0d3de5dd14ce70aa71147b07f552888",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/143cdceb3e696f14.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/legendary_voidflame_regalia/chestplate.png",
+    "sha256": "143cdceb3e696f1434c0f68dcdbc6eea205019ab43611a9c43fff89ce1555212",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/fc5d5ef74069ce8a.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/legendary_voidflame_regalia/leggings.png",
+    "sha256": "fc5d5ef74069ce8a0a785bad5417c488d3f9a708e7343dc189a47eee6ec43c00",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/bb99578216f2ebc6.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/legendary_voidflame_regalia/boots.png",
+    "sha256": "bb99578216f2ebc68cc6c7364666c3145738449da4bf637b31269564dc7114c0",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/8992df70603ca4cc.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/duskforest_sunset/helmet.png",
+    "sha256": "8992df70603ca4cc8cfd2a06a277f73f034224ecefd648677e10d7e0bfe65ab5",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/2c21fb51613a6122.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/duskforest_sunset/chestplate.png",
+    "sha256": "2c21fb51613a6122bb2c607a6b9d4fc29b6326898c9ebc804dc8659526f5b8bb",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/421848d4bf1edf81.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/duskforest_sunset/leggings.png",
+    "sha256": "421848d4bf1edf81fa930104c99ced49807233080e23d2785cab033f5bdfea07",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/91151266d3566922.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/duskforest_sunset/boots.png",
+    "sha256": "91151266d3566922957fdbf0b9c0fbc8f5da3db8284cf9f1f7d5206aa67f5b2a",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/51190e3cdaabcdc1.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/upgrading/common.png",
+    "sha256": "51190e3cdaabcdc12e4afd7c83b2ac122ac9a8eb95f44e29af522153eef40351",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/2dbed1a488a53c7a.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/upgrading/tide.png",
+    "sha256": "2dbed1a488a53c7a2aa949f4e64a6ea6acee8f31de4028ee6fa47f503e9702d9",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/546c43e42a6bb832.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/upgrading/obsidian.png",
+    "sha256": "546c43e42a6bb832b9ebd5fd8059a475c4c3749526daaaa109fc9c76b8e8f542",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/76a573df755333d6.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/upgrading/sun.png",
+    "sha256": "76a573df755333d6dbfb50e0dd00135f50b59462f756d4b8d29991dec30a36b4",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/9e36a33f9e9e321c.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/item/gems/red_1.png",
+    "sha256": "9e36a33f9e9e321c8aefa9999034ac229372c234cac8c7f296e2f290c30bb720",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/eea209d2f9d525cd.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/item/gems/red_2.png",
+    "sha256": "eea209d2f9d525cda8c712ad83cf25c0d03e3ec3eeebf783d94672ce168b9b0d",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/598b0338ee6e443d.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/item/gems/red_3.png",
+    "sha256": "598b0338ee6e443d0c62ce8e4880e75e2e7157f300cdb243c0c951991ae5012c",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/5ac7857f69b61833.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/item/gems/red_4.png",
+    "sha256": "5ac7857f69b6183306e66bb06f76bbfdefb00c992ebb5776ae7a99cbfacead4c",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/3f9f9d0e97d41be1.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/item/gems/red_5.png",
+    "sha256": "3f9f9d0e97d41be1d4064d48e89464abfa3dad62667d647c4319b7069ddfde05",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/9771e4c0c9a5b238.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/item/gems/blue_1.png",
+    "sha256": "9771e4c0c9a5b238f1ce72dd6d2b04af5e011650f20ad83e21df9703882659de",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/5f2407b5a5694d6a.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/item/gems/blue_2.png",
+    "sha256": "5f2407b5a5694d6a0b2e396bd66a20ae74b0d7ee9d94ac565e66ecc5c6cc6b1b",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/dd5a63694de60fea.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/item/gems/blue_3.png",
+    "sha256": "dd5a63694de60fea117508094bf0329d50fd8ae704bcf3c52560269c65a5589d",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/b8669a40d71ae3d9.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/item/gems/blue_4.png",
+    "sha256": "b8669a40d71ae3d9859c1121714728b4dae13a0e38e5a1a0909afe62cd5b5129",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/9ef52d26adb04a17.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/item/gems/blue_5.png",
+    "sha256": "9ef52d26adb04a17f074eebf5f1d7db7f98f1598c185c7aac913b3549a9a6634",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/f4313a5e8af8249c.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/item/gems/green_1.png",
+    "sha256": "f4313a5e8af8249c9499bbcfa3d6c9b098d32678d4dc07a7c4012dbac22a0979",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/f4fe539a36580144.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/item/gems/green_2.png",
+    "sha256": "f4fe539a365801441cb84ad7f0863bea0a99e5ea6a3032272bbd69a8c6697d8a",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/eedaa52d3421200d.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/item/gems/green_3.png",
+    "sha256": "eedaa52d3421200d13069e4a5d5f45315e8b3fd645340d5dcc1e17227069a3cf",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/6b9b7c50d9600adf.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/item/gems/green_4.png",
+    "sha256": "6b9b7c50d9600adf3f1e5e1acfb0c65996b8ce6d0df7830cb62ed71945429844",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/ac950916254a520d.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/item/gems/green_5.png",
+    "sha256": "ac950916254a520d3f92525d467b0713328770d12eb0d29822797daac790e709",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/b68c7d714aba3e76.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/item/gems/yellow_1.png",
+    "sha256": "b68c7d714aba3e76cd5c70df9d1547c0e0a4f175b4160bc302995612599b9d03",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/3492d805756fde26.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/item/gems/yellow_2.png",
+    "sha256": "3492d805756fde26c7ad7bb8faffc3e975bd0d49acc79b39695090659a01e0c2",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/238fc79cbc053cab.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/item/gems/yellow_3.png",
+    "sha256": "238fc79cbc053cab10de9ba59a6b47edc5c5d09b3faef377dc45030795ebd3f7",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/6d43d1d378047730.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/item/gems/yellow_4.png",
+    "sha256": "6d43d1d3780477301188e34acdebc238f61e0fcd1b694254bf56fad570abb8f8",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/ef772d70de53729a.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/item/gems/yellow_5.png",
+    "sha256": "ef772d70de53729a8ecb7a70be994b82d9ca6e46577e088eec4f6b8cfb2e5170",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/952f7f584b872a1e.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/item/gems/purple_1.png",
+    "sha256": "952f7f584b872a1e484870811ea4dc6dc06cc78c757c3b38a97d78336f2308cc",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/7587279a2fc9fe74.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/item/gems/purple_2.png",
+    "sha256": "7587279a2fc9fe74d5314a3a2178e124a357226fbf3b3f34cba5e6356d44738c",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/fa14d3fbf659b8d9.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/item/gems/purple_3.png",
+    "sha256": "fa14d3fbf659b8d906f11f189049540e1736da4f2ef8b81534a54554b8cf267a",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/236dcd8706e4e4dd.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/item/gems/purple_4.png",
+    "sha256": "236dcd8706e4e4ddcc8c1037ad40efaecb37ec7ad14a9f642b98aa1314ee68cf",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/145c1c84054cad54.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/item/gems/purple_5.png",
+    "sha256": "145c1c84054cad54b6d4288103f05510d008e32fec0425250242eed151683084",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/599bfe53c4682432.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/identification/scroll.png",
+    "sha256": "599bfe53c4682432b7e1ae7fb448c1f9038246e28161a9527088fb94248268f8",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/af22ed6e4435ff77.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/food/fried_egg.png",
+    "sha256": "af22ed6e4435ff772a5cc37a5802e633edd35a6606ec8966d5d189a16bed7e85",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/6896321dc80b68a0.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/food/golden_omelet.png",
+    "sha256": "6896321dc80b68a0df611732fc80b354a45b28a0b1ddba0e0f87a7799c0e0e1c",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/ad9b0fad780d0e3b.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/food/mille_crepe.png",
+    "sha256": "ad9b0fad780d0e3b3182c1d6fa049d38e58d7e91bc5c9dd6790f3ffb47ce978e",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/2cfc44dde9823d22.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/food/hash_brown.png",
+    "sha256": "2cfc44dde9823d22fa51791bf21f2075108b6adf6c5414b2e15abfb36e5f6400",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/9242eef791d71b7b.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/food/fried_pork_chop.png",
+    "sha256": "9242eef791d71b7b8f7c4d47f3c101996cb764052e6848a19ece518e20138cb3",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/29ec1baee3385be0.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/food/grilled_fish.png",
+    "sha256": "29ec1baee3385be02d4cc8dc427a2d889cec8a906d8ee7b8e89ed7317cab1528",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/8c2308a14d77a8cc.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/food/fruit_platter.png",
+    "sha256": "8c2308a14d77a8cce51779af2a638de795b5a51792f813857e5255adf32044e2",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/5b45c90ab3b87185.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/food/pumpkin_soup.png",
+    "sha256": "5b45c90ab3b871857d088089308e0d4e9517795861e282bd4f7353d9d63a32e1",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/a271461ce4053777.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/food/lollipop.png",
+    "sha256": "a271461ce405377714ffc4b344ee014061f16b050ce7d8ed947b08c18c43a58f",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/93863e3911a99a5f.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/food/fruit_cake.png",
+    "sha256": "93863e3911a99a5f18aebf297526f8ec6182cd753f984b44b7ced9053a628623",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/1153a614c6d9f8f1.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/food/special_burger.png",
+    "sha256": "1153a614c6d9f8f1f76ffeff283833240c62ae371f26daa2acec7b5f9e6b4139",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/3d17a7848229c644.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/food/apple_pie.png",
+    "sha256": "3d17a7848229c6447ca130fa634c87aade9673bb98320db610df02de5b742137",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/7789eb89733092b8.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/food/pumpkin_pie.png",
+    "sha256": "7789eb89733092b8950a31df20f8b9339a6c3f6da0ce7546691a9acaed32ccdf",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/1a396ba5cb4ca49d.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/food/fish_chowder.png",
+    "sha256": "1a396ba5cb4ca49d5cd816844d330b7ca3cef70d637d911a5576a81072fe33b5",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/f73617c303704a77.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/food/cocoa_milk_tea.png",
+    "sha256": "f73617c303704a773e23e0ba04a55b04963ea5d84e337b61b6aafd0df563c839",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/a9f9949db784d82e.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/food/beetroot_soup.png",
+    "sha256": "a9f9949db784d82ef52ce9ee9d3466820e16ca017b7d5ba3f823ee05e9a49b7e",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/c83e3f7d2cfeef56.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/food/grilled_lamb_chop.png",
+    "sha256": "c83e3f7d2cfeef565611c2b8ed80befb17aa3abb34e5a74eff89118fb1a872c7",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/05dc4d810777b2c6.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/food/potato_salad.png",
+    "sha256": "05dc4d810777b2c652a25582a2efca0b1c2d659db553091b515293e7877b766f",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/755d454aec4717e1.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/food/beef_ramen.png",
+    "sha256": "755d454aec4717e15872df7fc9bad911054b34243b5277c9195e1411edfbdb33",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/fde882cca8b950ff.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/food/bacon_pizza.png",
+    "sha256": "fde882cca8b950ff19f294547d1c968b09cc5dbbe7ef133cb818e811d2a8e664",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/f11b468c14884fe8.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/food/caramel_waffle.png",
+    "sha256": "f11b468c14884fe80ee3f526bd844b6ec8d994834bf516b0114d7ef864bdd5f6",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/e1c07cf88628ad4e.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/food/hot_dog.png",
+    "sha256": "e1c07cf88628ad4e1d45e9977e6079b870821c7bdba9bc25dc3669619e35d8bb",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/00f34355df5eb0ec.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/food/taco.png",
+    "sha256": "00f34355df5eb0ec3d89c030109d0b7978b0c116b176f5901ccf8a2adb4697fd",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/978062779f4d3548.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/food/chocolate_cake.png",
+    "sha256": "978062779f4d3548c57405b5eb0c7336de034d5a01c6cf539a9921a764135e3f",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/8c8979e5182fb821.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/food/fish_burrito.png",
+    "sha256": "8c8979e5182fb821393f1d4145190b4829582dc595140f661cd1f895c5cd7c25",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/dadb5d820aca0555.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/food/beef_kelp_soup.png",
+    "sha256": "dadb5d820aca0555a95e3c3f9dc32f3b2533c960b84c4efcc3cee49c51534411",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/189ad84bf8b433fc.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/food/pan_fried_tilapia.png",
+    "sha256": "189ad84bf8b433fcc71e385ed58676060954b4d6b2234976690f9278cf10535f",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/4643f86f64973769.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/food/fried_loach.png",
+    "sha256": "4643f86f6497376945082bd0716a27b3e2f427772aaee42901beb9c0da50c2b1",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/bb3c12d07e1cfbfc.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/food/braised_eel.png",
+    "sha256": "bb3c12d07e1cfbfc1c05efcc7b5606336d50b45854737d89b2defce60b95e317",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/0a6a1a645add0ed9.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/food/fried_river_shrimp.png",
+    "sha256": "0a6a1a645add0ed995f0b7d2bbd62ee921113b492baaabddb0349a9df9f8e396",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/4e01bd98c304aa84.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/food/oyster_omelet.png",
+    "sha256": "4e01bd98c304aa84ddd69b9ae07fde8374c6a87dda5361a9aa9d49cbd7ea60b7",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/30295d58621366e2.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/food/clam_steamed_egg.png",
+    "sha256": "30295d58621366e20c2ba0518cfc2dc90502d721f6da9bedf96cd52e1636633a",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/a665a06a943c6696.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/food/tree_sap_pudding.png",
+    "sha256": "a665a06a943c6696c6f83bb0c3c1fa65b88c7983bf318670134ba9039d7ebe4e",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/6f683a449b4f6152.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/food/crab_baked_pie.png",
+    "sha256": "6f683a449b4f6152dd8ab21eace1491b97f73494fddcc50d3c98a5c989130ed4",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/bd5666b077c8503b.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/food/takoyaki.png",
+    "sha256": "bd5666b077c8503b54c1e0ffac01752283c4c7c6f7497ba93dde889b46d3c3c3",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/41b761b3c368e607.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/food/canned_herring.png",
+    "sha256": "41b761b3c368e607e31e30cf1ba547c115bc1dda67deb552d52bab7238dc6ce2",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/2c9cb624b059bdd3.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/food/snail_casserole.png",
+    "sha256": "2c9cb624b059bdd30a09949272ecb1dc42204449f47487351ee33987d934b253",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/16dc2315cbf0d5cf.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/alchemy/minor_health_potion.png",
+    "sha256": "16dc2315cbf0d5cffeb1181a37db8fd8abe829bef436453ae854fe331f4c5aae",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/a5ef4c6380e919ee.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/alchemy/standard_health_potion.png",
+    "sha256": "a5ef4c6380e919eea0e55afb48e0038ca69be0cc4a2858853f28c78148ca3e3c",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/e9aefced15e1f731.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/alchemy/superior_health_potion.png",
+    "sha256": "e9aefced15e1f731f45c36c1ae369c9d9d40fa79f827f3948f4b9058224c0633",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/ee1c551892b1cd71.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/alchemy/minor_mana_potion.png",
+    "sha256": "ee1c551892b1cd711aedf1dd20670782543ea500978f5e16c559836b30e4b3db",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/585a720af6b06691.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/alchemy/standard_mana_potion.png",
+    "sha256": "585a720af6b066919a4b847be8dcc0a70dbffb4737b2444284daf86fadd01944",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/4d4369fb2f9c8d70.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/alchemy/superior_mana_potion.png",
+    "sha256": "4d4369fb2f9c8d70bcb888185195ff2782e7240ef6bd04ce996322e165f1d5c4",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/0179a66020ad6513.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/item/alchemy_effects/ironroot_elixir.png",
+    "sha256": "0179a66020ad65138fea972c0139dc2fd3186d712806699b605e9d8a3884f317",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/fd5f2a54ca319fc2.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/item/alchemy_effects/lightstep_potion.png",
+    "sha256": "fd5f2a54ca319fc2e290162470aa815f4f2a4b831aa03cd8d8e7edf15539b7cd",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/86d0a7bce0e82795.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/item/alchemy_effects/assault_elixir.png",
+    "sha256": "86d0a7bce0e82795a86c97858d1f0c703358388d303c5fccdc2283f712f780a8",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/cec5d67dee4fc4f1.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/item/alchemy_effects/spirit_elixir.png",
+    "sha256": "cec5d67dee4fc4f1266be1e24708161badc808ce5085f1050889617343947523",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/82023615780e9ce6.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/item/alchemy_effects/focus_elixir.png",
+    "sha256": "82023615780e9ce60da9ea7c2f30d147754ce3631def6760bea148155ddce6a4",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/aa45b8a8dfc54a93.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/item/alchemy_effects/lesser_power_flask.png",
+    "sha256": "aa45b8a8dfc54a937872656b00f0428800b4983eca36c9e7690ff45da006a35d",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/e1a313867c404fac.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/item/alchemy_effects/lesser_guardian_flask.png",
+    "sha256": "e1a313867c404faceb1f1650cac627a348ef66739fa8adf9995d729e0ffb2ceb",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/d394143477b35a6e.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/item/specialist_fishing_rods/bamboo_specialist_rod.png",
+    "sha256": "d394143477b35a6eb782a37d6dfaed82d369212a572b8efbafbc63c31b65d127",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/dd84afc6bd7f2cfd.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/item/specialist_fishing_rods/scalekeep_specialist_rod.png",
+    "sha256": "dd84afc6bd7f2cfdd56d7ae88b747afa344e27a15a25f849cc37fcc274f2a6f3",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/78702319c567b30a.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/item/woodcutting_axes/lightedge.png",
+    "sha256": "78702319c567b30a4a2215eb397f7a5f8e0392a132322c0b018291d7d860db96",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/f6b33aaf6e6e1db1.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/item/woodcutting_axes/harvest.png",
+    "sha256": "f6b33aaf6e6e1db15bcf2eac6ffce48d02e2aa2b1557e96318c631568fcf8ee4",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/18eac31b0df66755.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/item/woodcutting_axes/scholar.png",
+    "sha256": "18eac31b0df66755813b0a73429ef5ff6e20196ddab9aff98f0ff2bcca43c9fb",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/3ec4eab0d99e2d52.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/item/mining_picks/lightpoint.png",
+    "sha256": "3ec4eab0d99e2d52d6144df15a5e3c0a49d8b4323e6ab43f0ebd362779b94b3a",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/6b844d65ce34870b.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/item/mining_picks/richvein.png",
+    "sha256": "6b844d65ce34870b3cf3cec196546e64beee8a25058b7114047298c09bbf297f",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/6c3569228f6575e9.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/item/mining_picks/surveyor.png",
+    "sha256": "6c3569228f6575e9308f967830acdcd890a031dbb2f1590322080c8ffb85a12b",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/862bca8b6c842a39.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/item/farming_hoes/bounty.png",
+    "sha256": "862bca8b6c842a393bcdc2bc14834c6482b3b55b381e8bb0a6c0a066e153c935",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/eb815ba922d7f0e6.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/item/farming_hoes/scholar.png",
+    "sha256": "eb815ba922d7f0e689289828e5e6c3e8c341fe5488c8b8a1fbbfad1bfe6ee809",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/c630130d2c98415f.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/item/farming_hoes/gleaner.png",
+    "sha256": "c630130d2c98415fcccacb4913a671eff96781c19ab037ed4bbf5e8ed5d4fec5",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/3780d95060852fd3.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/item/specialist_fishing_rods/ironspine_specialist_rod.png",
+    "sha256": "3780d95060852fd3f4037076bbbfdba05d3d869638334e46a3d88a73714c8ce0",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/5a7133090224766f.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/item/specialist_fishing_rods/flowbind_specialist_rod.png",
+    "sha256": "5a7133090224766f6086c7f50627931812c208264864928bc6e522a394c37402",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/19f859c73c0c706e.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/item/specialist_fishing_rods/seawarden_specialist_rod.png",
+    "sha256": "19f859c73c0c706e1a548cb6ad25bd2d6fca4359196323e5b6ae009c135a1b31",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/38750cf0fe0fba55.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/item/specialist_fishing_rods/abyssanchor_specialist_rod.png",
+    "sha256": "38750cf0fe0fba55f5b13d9da5d3480802215b150bd08c844edb4b5c524dda0c",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/d7ee88d6ecee7c23.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/item/woodcutting_axes/ranger.png",
+    "sha256": "d7ee88d6ecee7c233cf6db51bdde143a1b0cb26b7cfadbb7c4c001c85a7fbef0",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/de8edcb13d5dea84.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/item/woodcutting_axes/heavybranch.png",
+    "sha256": "de8edcb13d5dea84f8a329759b97c5763d11814cd72ea39b1c712f9050443668",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/520a800e97e04a80.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/item/mining_picks/prospector.png",
+    "sha256": "520a800e97e04a8056fc7bce1e6c7ae32ea2b9d98a342b5f9ead00e1f9ec3057",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/775eda6ed4ab715b.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/item/mining_picks/deepcore.png",
+    "sha256": "775eda6ed4ab715b73dd084592c52418b8a77c6daa3714ceaf9252aa92ce819b",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/a041a6f0ade9aa62.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/item/farming_hoes/gardener.png",
+    "sha256": "a041a6f0ade9aa621a829885654250e5d9c291271ac4f7bb000262bd010c90d2",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/7113a9ad3337ec67.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/item/farming_hoes/fieldwarden.png",
+    "sha256": "7113a9ad3337ec67f3b6f99461891cb887f51cb9ae1ac87144b29bf2ae50732a",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/4e7967b38a746126.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/item/woodcutting_axes/gale.png",
+    "sha256": "4e7967b38a7461260287c96a9c67c60892289ab071cdf258e6bb0f2f8efa7173",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/0637c3501587f989.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/item/mining_picks/rift.png",
+    "sha256": "0637c3501587f989c8fcaac612b7fa272788d89978d954b9ba24a3c865e4dad8",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/a66de4e34013c892.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/item/farming_hoes/abundance.png",
+    "sha256": "a66de4e34013c8922144d2485889ae4f259fa8ef694e455d0f2f29167447fc10",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/74ee4c45dd6f35a8.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/item/fishing_baits/earthworm_bait.png",
+    "sha256": "74ee4c45dd6f35a8cf98795c955d4ee90c9cfef712d0b8168ab4c85018eddb83",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/897a969890ff8993.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/item/fishing_baits/woodworm_bait.png",
+    "sha256": "897a969890ff899363af069aebfca7ec99774426dce8866db8d374281eb6c651",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/c40999e9c33ae74e.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/item/fishing_baits/bloodworm_bait.png",
+    "sha256": "c40999e9c33ae74e1c49ec9a03fd5093c027be4473f68c823ec6ed66421bb6bf",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/497ec5b6bbca96c2.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/item/fishing_baits/fish_paste_bait.png",
+    "sha256": "497ec5b6bbca96c2ca8564b7de780e03ed7ab68ea76a3fd342e24b43595ae4bd",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/b2fde820f31a2742.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/item/fishing_baits/fermented_rice_bait.png",
+    "sha256": "b2fde820f31a2742953b16c7016e92e223f8cae6fffd28819223d1a7ba382959",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/fd9e8999c7611889.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/item/fishing_baits/shrimp_bait.png",
+    "sha256": "fd9e8999c7611889717b52e2a5929a4ecca80b2acccb30a18860174f2414c83a",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/8feb7161a4cef660.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/item/forest_materials/tree_resin.png",
+    "sha256": "8feb7161a4cef6607e893e76a30027c96795a984d3641e47a9235e19f849c963",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/2faad779196a703f.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/item/forest_materials/tree_sap.png",
+    "sha256": "2faad779196a703f1af0803797c42371fa75b175794245e7ab8070fd7b3ec6a5",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/110a5794edec23b0.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/item/fishing_baits/woodworm.png",
+    "sha256": "110a5794edec23b0451712e8c21abc2d2d0d42b519d75fb85a02ef8cae09dc29",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/40f6494156323c4d.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/items/fishing/anglerfish.png",
+    "sha256": "40f6494156323c4db682b193fe584255507285529d1fe2fd6140fdef29bf57ee",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/07c88e4a8ea3f1b7.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/items/fishing/bass.png",
+    "sha256": "07c88e4a8ea3f1b70837d98dc7577575289b26e8dbb11ff112a9029997ac2cc6",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/10c2dd9eb98cbb15.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/items/fishing/blobfish.png",
+    "sha256": "10c2dd9eb98cbb15ce1a164aaf5f255590a16e1206597b88dfbdba9638fa713e",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/a10bdc111146979b.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/items/fishing/carp.png",
+    "sha256": "a10bdc111146979b4694b3643b2132fa538051f0c962775fe12123db28b68ae8",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/fe5c0febf35b8639.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/items/fishing/clam.png",
+    "sha256": "fe5c0febf35b8639eac89602cc0e816647009f742fa79d419e5271307a36f323",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/9d63e4d70769c31b.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/items/fishing/crab.png",
+    "sha256": "9d63e4d70769c31b03ba67ce7c15a59ca94e2e4ae2cf5625e4c71370718fb74d",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/6d009228816c2899.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/items/fishing/crucian_carp.png",
+    "sha256": "6d009228816c2899ca2c6a32c467c5aa28bf2c8eef08dd0ea24e14e097dc0526",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/e72e0df5875cbbe8.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/items/fishing/deep_sea_fish_oil.png",
+    "sha256": "e72e0df5875cbbe85a0ed7977b8ba4ae739e59feea264b8b43a6c99e010fd043",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/076cbb674e51c48d.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/items/fishing/fish_oil.png",
+    "sha256": "076cbb674e51c48dbdc0f1ed851100ca61b8ebc33ba19ba595d0b99b6dd70eb6",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/783fd126cab44a90.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/items/fishing/fish_sauce.png",
+    "sha256": "783fd126cab44a90d3181ebb6cd9174d851319e9f783b5d3274e025788f5049f",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/f5b1d69048b2a14d.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/items/fishing/herring.png",
+    "sha256": "f5b1d69048b2a14d28c837b6398f1a3bd085c3e604fa6eebbbf212d2c97179ef",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/1027b7e8cd17f10f.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/items/fishing/kelp.png",
+    "sha256": "1027b7e8cd17f10f438454b71881351bbd5cf5d0884f9853f981e9d5a5e7fb73",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/9328efd17f73fad7.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/items/fishing/loach.png",
+    "sha256": "9328efd17f73fad71a229162622a3bd963bceef777bda7ddc14380ee0b8d80d1",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/ea3cfaae942213e6.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/items/fishing/oyster.png",
+    "sha256": "ea3cfaae942213e6ed452e9d2d6dc71554a6a97fe1f9b271a9d7f628cdebdde9",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/268c2801e7ed58d5.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/items/fishing/pond_snail.png",
+    "sha256": "268c2801e7ed58d5a52902e38c4a43d1918aaaffbd30c5cfd757d7e2abf5f0d4",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/f57144e7b615a522.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/items/fishing/pufferfish.png",
+    "sha256": "f57144e7b615a52238604cd4c5516772a5a99e29148d650cb425ce20d380c295",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/be1861cee02edf17.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/items/fishing/pufferfish_oil.png",
+    "sha256": "be1861cee02edf176f9bdfcc5dbaf21c8f4ca8bc9c24dbee8c428b4fb1efb52d",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/74c67a4fee3161d6.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/items/fishing/refined_fish_oil.png",
+    "sha256": "74c67a4fee3161d6736744b0d532d14fad0ce52b6f6e6f9772162fdef6a5af10",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/38b0b971106828de.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/items/fishing/ricefield_eel.png",
+    "sha256": "38b0b971106828de85f96e732590ef1336372d5ecf99fc31f457314ecdfdf9fd",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/2db3d464b32ee6b5.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/items/fishing/river_shrimp.png",
+    "sha256": "2db3d464b32ee6b55f2646f87c557bd677c8332ad5657b37c18ba4c501c18dc0",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/4f2c8660f29dd634.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/items/fishing/salmon.png",
+    "sha256": "4f2c8660f29dd634e78a43921118a08ee92f5f22f58678dafc8a4121aa256ea5",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/3389d3fa2612b1f2.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/items/fishing/shark.png",
+    "sha256": "3389d3fa2612b1f20606051c9c24be5b1efd6ce1ca8b06eea614ba078e5f647f",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/8853539533e8ff89.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/items/fishing/squid.png",
+    "sha256": "8853539533e8ff89c3924946f1c305fb450036f019e0d6ca472cbb5a63d88816",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/08036f2e38153c89.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/items/fishing/tilapia.png",
+    "sha256": "08036f2e38153c89916ad7f1504b511fd40d06c233117456bd1e32af41cb7909",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/9a8cefed9e378bd8.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/items/fishing/tuna.png",
+    "sha256": "9a8cefed9e378bd879179b522feca29b02d78a5872a32e67ba90457bd9cb3284",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/449901b84397c14f.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/mining/agate.png",
+    "sha256": "449901b84397c14f8c3b148a4533d2635ec4fd38b721ca398c683dad3f944ac6",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/f70e4411d517e1b2.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/mining/black_diamond.png",
+    "sha256": "f70e4411d517e1b238a1d6a4d76a408feea36de5ad966dc6968fefb85873efc3",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/19ae276d6bdb3cf5.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/mining/black_gold_block.png",
+    "sha256": "19ae276d6bdb3cf5d2e2edc8fa780df30a47b4d23006d8d262d682c7bcd6aec5",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/f9449d424477549e.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/mining/black_iron_block.png",
+    "sha256": "f9449d424477549e0b56385753e21de2a033557ac96cffd7d4e8cf123f049654",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/8b37d8dc3becd0e6.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/mining/bloodstone.png",
+    "sha256": "8b37d8dc3becd0e6957e99c57756b3cd41bb415ef78ead1f93860613d45518d1",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/bff5cccd78fc788e.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/mining/chromite.png",
+    "sha256": "bff5cccd78fc788e9783a1bb8c67c5458805117d66a24b8b92d22235614c331c",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/2047e7a9c2db80bd.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/mining/damascus_steel.png",
+    "sha256": "2047e7a9c2db80bd79a10a3f22f99596b19b9790a14dbaefeb3be126f54adef4",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/402fd95bbf3b8a49.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/mining/dark_amethyst.png",
+    "sha256": "402fd95bbf3b8a498f99646b745776311b194f045a8ebcaaf15903f2b927980e",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/848a9908093ef387.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/mining/forest_stone.png",
+    "sha256": "848a9908093ef387e3c604d9762d59779bb37360b27809d70c9ca7e9bea3b8f3",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/a41e7fd7c505e25c.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/mining/jade.png",
+    "sha256": "a41e7fd7c505e25c8109d05eedf974338184e10b323cc7ae3ac0ca63ba460137",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/ea2e17dc8b2484dd.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/mining/malachite.png",
+    "sha256": "ea2e17dc8b2484dd99027b9f7990e2b62b5130e8532695e0c771e3836c7d33c9",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/be1fb314beef8f3a.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/mining/multicolor_gold.png",
+    "sha256": "be1fb314beef8f3a15dbb911e123a56788be4a3c1b2ba0ce3cb105dc544daae6",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/7dd9f357302f7e53.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/mining/pure_crystal.png",
+    "sha256": "7dd9f357302f7e53743403827b7422ed53f5b2acfc4e406b6492d2909ca3e6d2",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/fae7bcdfd77f9df4.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/mining/refined_gold_block.png",
+    "sha256": "fae7bcdfd77f9df414e9989bed2b8d61bb8b0a13ad2e3bcbaf299ee063cda462",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/312f41bea84147a5.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/mining/refined_iron_block.png",
+    "sha256": "312f41bea84147a5d21adb4327aea3203394651e02609498720223acecb6419f",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/f8a276fcb2af6d88.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/mining/sky_stone.png",
+    "sha256": "f8a276fcb2af6d8874c5c789d0e41eb3c45d15f5dadcfe39226ae170796b0fbe",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/c5caa0cfbd5e02d6.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/mining/steel_block.png",
+    "sha256": "c5caa0cfbd5e02d6dbb805ee956b8bd3e9a0b200c8382bc62533dbaefe92d756",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/14a70da893fbd5a1.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/item/fishing_tackle/sea_blessed_sinker.png",
+    "sha256": "14a70da893fbd5a175e6850052aaa103667d87250262d61879f757554f5855ea",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/15c33273f785eaee.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/item/fishing_tackle/sensitive_float.png",
+    "sha256": "15c33273f785eaeeb2a31b7ecb2b5f98c227a2d137d232c31b38691b8ba78bc6",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/d20d19bc152797b4.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/item/fishing_tackle/steel_fishing_hook.png",
+    "sha256": "d20d19bc152797b4c3569088ba240cdfe8c66d68956e016a5f51a3589a236596",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/6f09fdb46acc3a9b.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/item/fishing_tackle/strong_fishing_line.png",
+    "sha256": "6f09fdb46acc3a9bb03e15207355f109198afbdcd7af4a06d81ecdbc6040bf32",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/a7d1bba1de411a11.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/item/alchemy_materials/spirit_concentrate.png",
+    "sha256": "a7d1bba1de411a112e2a309b3d8d7b59100a83048db5027b803b8b36f714dcb4",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/cd61c19682298693.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/item/alchemy_materials/stable_base.png",
+    "sha256": "cd61c196822986933d1e2032a901847906e55173b9a886f7762f02aa31eda15d",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/f4d959dc9fc05bfc.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/item/alchemy_materials/vital_concentrate.png",
+    "sha256": "f4d959dc9fc05bfc08e4ffb45ded2d2f149632ffbd633eda2073bf6ca7000a94",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/be05994eb2c846f8.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/materials/bee_soul_dew.png",
+    "sha256": "be05994eb2c846f871fb00a22980690d700415957374e47b15f36a0beabfe0b3",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/3d34bc81bd6d0e7c.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/materials/broken_blade.png",
+    "sha256": "3d34bc81bd6d0e7cdebade3aceabcf907c691fb0150d51690cd0bee0867cc7c0",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/955a4308543e822b.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/materials/broken_runic_shard.png",
+    "sha256": "955a4308543e822bc802068d557bbecfb4627de84a65487841a7b71f62ae6dc4",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/5a294f91325ce441.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/materials/crystal_blue_gel.png",
+    "sha256": "5a294f91325ce44194aef50a949d8c98c74f44f0b4999af25a8c67933627a6a0",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/84dfeaa62e2d67e4.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/materials/echo_soul_ash.png",
+    "sha256": "84dfeaa62e2d67e44cb6105282a8ebd051bbe41a159eab7d64687158a67775bf",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/a91006f256d64cd8.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/materials/intact_runic_core.png",
+    "sha256": "a91006f256d64cd80237859659fa26aa5ce7dd44a857a108843d2ae99acb2c3a",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/35c3ba6359eb9710.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/materials/pale_bone_fragments.png",
+    "sha256": "35c3ba6359eb9710a8297942ffe52028f7b9426b0b9f94bd1896ffb946670dab",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/b49d6c4b629b2145.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/materials/soft_hide.png",
+    "sha256": "b49d6c4b629b21457025f51235469bb375aad9341c5420f1d1cbc0f5db909037",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/b76145bbe8865497.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/materials/stabilized_soul_crystal.png",
+    "sha256": "b76145bbe8865497a175f3794bfc93ec0067aa75dca4c41221998a94165e0191",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/4084e5d72d925d6c.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/duskforest_sunset/core.png",
+    "sha256": "4084e5d72d925d6c31a99eb3b0c1de03647ef8b7c56bc5182c687ba693d1f0d9",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/a0143ec8b27ac8ab.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/materials/tattered_runic_cloth.png",
+    "sha256": "a0143ec8b27ac8abd58bfad209be68b15da1728b3f7432fd2a33a2fda1d82c59",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/8654f8b9fcb7bc3d.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/materials/crystal_sand.png",
+    "sha256": "8654f8b9fcb7bc3dd23233f11f8e8d6b6cbd8ee4dbb9b78c22f4b673e3f3553a",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/e3e7a876429108c5.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/materials/flawless_crystal_core.png",
+    "sha256": "e3e7a876429108c505dbb2980fc1311f4b52e6a7d01fead95f18582fd6fa7129",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/f60fef8e63a5799c.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/materials/iron_sand.png",
+    "sha256": "f60fef8e63a5799c3ef1679515df20665b7c9abffaf19505049e026aa5e953fe",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/01d2ceb2c81634fb.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/materials/magic_dust.png",
+    "sha256": "01d2ceb2c81634fb389c05c8233113acb932946647bb04a07ecab2c016bc2fd6",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/5c862a048b171c1e.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/item/alchemy_materials/ambersprout.png",
+    "sha256": "5c862a048b171c1e4ea5c31e1d54dabc3308fc529d2ec9812ced459dabe4fd34",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/ab2e8cc7ca3a88dc.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/item/alchemy_materials/bloodvein_herb.png",
+    "sha256": "ab2e8cc7ca3a88dc1a5a2e65537211413ab2f94f752da68b874b040f7c65e35d",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/ede099d231a9ebd1.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/item/fishing_baits/bloodworm.png",
+    "sha256": "ede099d231a9ebd19302e698d0156379467c560533e99ad5aebab8fa5fe1950c",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/8759d8481e425cf3.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/item/alchemy_materials/condensed_dew_bud.png",
+    "sha256": "8759d8481e425cf37c49ad1e95f5d79389b9fb84bc2377f0f9b0cb068f2f1a5a",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/e73e345d8c0047ec.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/item/alchemy_materials/dew_moss.png",
+    "sha256": "e73e345d8c0047ec7c8256e061d3d45a89b769e8eed10b4987608dbd1a9c5c8a",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/9894d1df0188ef84.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/item/fishing_baits/earthworm.png",
+    "sha256": "9894d1df0188ef84036070ce0b85bed77879254a622ae26bfa587445f427f6a5",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/6eff8c17fafc109a.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/item/alchemy_materials/emberheart_herb.png",
+    "sha256": "6eff8c17fafc109a8055c9a0d0c606806cd0b9f1b7ad9c735781ed99be537824",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/ed081f8b4c79c8a5.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/item/alchemy_materials/goldenspike_herb.png",
+    "sha256": "ed081f8b4c79c8a5f238caf66b516d082d23f6fb3579dd3ef22b0d98427487b8",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/6724bd73afacd083.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/item/alchemy_materials/heartpetal_leaf.png",
+    "sha256": "6724bd73afacd08301df5b9e8887204c46f5159cd8a535ce4c2af184ad24316f",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/8a380111363b3e9f.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/item/alchemy_materials/ironroot_herb.png",
+    "sha256": "8a380111363b3e9f94f244ae972f489b2ce7fe1efcc2e8b88a82f47932baed74",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/818036a301048a18.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/item/alchemy_materials/mistblue_thistle.png",
+    "sha256": "818036a301048a18ccc657b2f2aa67c38646e1690451f0769511b548d3f4c245",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/c7da7da0fa14baed.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/item/alchemy_materials/moontide_fern.png",
+    "sha256": "c7da7da0fa14baed31e7354eeb417727a43cd5bcc8a4e3aabf9f8a794fad196d",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/e9482f6ecfdfbb6f.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/item/alchemy_materials/silverfrost_sage.png",
+    "sha256": "e9482f6ecfdfbb6fff8f421f63070fe3a6ceed44e529ef3fac70a7eaae049fb1",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/3bb2fdb0af07ab12.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/item/alchemy_materials/starbell_herb.png",
+    "sha256": "3bb2fdb0af07ab12ce3d9afebdf8f8747d995c3ac34cd0552126b9546f211831",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/0a2d06d389619aab.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/item/alchemy_materials/violetwhorl_herb.png",
+    "sha256": "0a2d06d389619aab7b90a170ed81438c8b562b0b453718becca5893147fa9d9d",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/6eed7933de0b82c3.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/ingredients/cooking_oil.png",
+    "sha256": "6eed7933de0b82c339c64cfc1a3e91bc7e7a359d09d145454ef57190e4502bce",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/b3162958dfe69395.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/ingredients/sugar.png",
+    "sha256": "b3162958dfe69395a32b51ef03f7af34defc65b11a5721634970c15db333da0d",
+    "kind": "server-original"
+  },
+  "assets/server/equipment/14906dc4a969f7db.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/ingredients/wheat_flour.png",
+    "sha256": "14906dc4a969f7dbe02b97c37f0440b64d56d0df5830117e640d2a18ca03084d",
+    "kind": "server-original"
+  }
+}

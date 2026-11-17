@@ -1,0 +1,2055 @@
+{
+  "types": {
+    "sword": {
+      "name": "剑",
+      "stats": {
+        "custom-physical-damage-bonus": {
+          "base": 7.625,
+          "scale": 0.875,
+          "spread": 0.06,
+          "max-spread": 0.12
+        },
+        "custom-attackspeedbouns": {
+          "base": 9.85,
+          "scale": 0.25,
+          "spread": 0.06,
+          "max-spread": 0.12
+        },
+        "critical-strike-chance": {
+          "base": 4.4325,
+          "scale": 0.1125,
+          "spread": 0.06,
+          "max-spread": 0.12
+        },
+        "critical-strike-power": {
+          "base": 9.9,
+          "scale": 0.25,
+          "spread": 0.06,
+          "max-spread": 0.12
+        }
+      },
+      "guaranteed": [],
+      "durability": {
+        "base": 500,
+        "scale": 30
+      }
+    },
+    "axe": {
+      "name": "斧",
+      "stats": {
+        "custom-physical-damage-bonus": {
+          "base": 9.5125,
+          "scale": 1.1375,
+          "spread": 0.06,
+          "max-spread": 0.12
+        },
+        "critical-strike-power": {
+          "base": 19.8,
+          "scale": 0.5,
+          "spread": 0.06,
+          "max-spread": 0.12
+        },
+        "custom-lifesteal-percent": {
+          "base": 1.986666,
+          "scale": 0.033334,
+          "spread": 0.06,
+          "max-spread": 0.12
+        }
+      },
+      "guaranteed": [],
+      "durability": {
+        "base": 550,
+        "scale": 35
+      }
+    },
+    "hammer": {
+      "name": "锤",
+      "stats": {
+        "custom-physical-damage-bonus": {
+          "base": 11.4375,
+          "scale": 1.3125,
+          "spread": 0.06,
+          "max-spread": 0.12
+        },
+        "custom-armor": {
+          "base": 24.5,
+          "scale": 2.5,
+          "spread": 0.06,
+          "max-spread": 0.12
+        },
+        "custom-tenacity-percent": {
+          "base": 7.45,
+          "scale": 0.125,
+          "spread": 0.06,
+          "max-spread": 0.12
+        }
+      },
+      "guaranteed": [],
+      "durability": {
+        "base": 650,
+        "scale": 40
+      }
+    },
+    "spear": {
+      "name": "矛",
+      "stats": {
+        "custom-physical-damage-bonus": {
+          "base": 8.55,
+          "scale": 1.05,
+          "spread": 0.06,
+          "max-spread": 0.12
+        },
+        "custom-attackspeedbouns": {
+          "base": 14.775,
+          "scale": 0.375,
+          "spread": 0.06,
+          "max-spread": 0.12
+        },
+        "critical-strike-chance": {
+          "base": 5.91,
+          "scale": 0.15,
+          "spread": 0.06,
+          "max-spread": 0.12
+        }
+      },
+      "guaranteed": [],
+      "durability": {
+        "base": 520,
+        "scale": 32
+      }
+    },
+    "dagger": {
+      "name": "匕首",
+      "stats": {
+        "custom-physical-damage-bonus": {
+          "base": 5.7,
+          "scale": 0.7,
+          "spread": 0.06,
+          "max-spread": 0.12
+        },
+        "custom-attackspeedbouns": {
+          "base": 24.625,
+          "scale": 0.625,
+          "spread": 0.06,
+          "max-spread": 0.12
+        },
+        "critical-strike-chance": {
+          "base": 8.865,
+          "scale": 0.225,
+          "spread": 0.06,
+          "max-spread": 0.12
+        },
+        "custom-movement-speed-bonus-percent": {
+          "base": 9.933333,
+          "scale": 0.166667,
+          "spread": 0.06,
+          "max-spread": 0.12
+        }
+      },
+      "guaranteed": [],
+      "durability": {
+        "base": 400,
+        "scale": 25
+      }
+    },
+    "scepter": {
+      "name": "权杖",
+      "stats": {
+        "custom-thunder-damage-bonus": {
+          "base": 4.7375,
+          "scale": 0.6125,
+          "spread": 0.06,
+          "max-spread": 0.12
+        },
+        "max-mana": {
+          "base": 11.8,
+          "scale": 1.0,
+          "spread": 0.06,
+          "max-spread": 0.12
+        },
+        "mana-regeneration": {
+          "base": 0.9875,
+          "scale": 0.0625,
+          "spread": 0.06,
+          "max-spread": 0.12
+        },
+        "health-regeneration": {
+          "base": 0.9875,
+          "scale": 0.0625,
+          "spread": 0.06,
+          "max-spread": 0.12
+        },
+        "cooldown-reduction": {
+          "base": 4.966667,
+          "scale": 0.083333,
+          "spread": 0.06,
+          "max-spread": 0.12
+        }
+      },
+      "guaranteed": [],
+      "durability": {
+        "base": 480,
+        "scale": 30
+      }
+    },
+    "wand": {
+      "name": "魔杖",
+      "stats": {
+        "custom-fire-damage-bonus": {
+          "base": 2.8125,
+          "scale": 0.4375,
+          "spread": 0.06,
+          "max-spread": 0.12
+        },
+        "custom-ice-damage-bonus": {
+          "base": 2.8125,
+          "scale": 0.4375,
+          "spread": 0.06,
+          "max-spread": 0.12
+        },
+        "custom-thunder-damage-bonus": {
+          "base": 2.8125,
+          "scale": 0.4375,
+          "spread": 0.06,
+          "max-spread": 0.12
+        },
+        "custom-poison-damage-bonus": {
+          "base": 2.8125,
+          "scale": 0.4375,
+          "spread": 0.06,
+          "max-spread": 0.12
+        },
+        "max-mana": {
+          "base": 9.85,
+          "scale": 0.75,
+          "spread": 0.06,
+          "max-spread": 0.12
+        }
+      },
+      "guaranteed": [],
+      "durability": {
+        "base": 420,
+        "scale": 25
+      }
+    },
+    "tome": {
+      "name": "法书",
+      "stats": {
+        "custom-fire-damage-bonus": {
+          "base": 2.8125,
+          "scale": 0.4375,
+          "spread": 0.06,
+          "max-spread": 0.12
+        },
+        "custom-ice-damage-bonus": {
+          "base": 2.8125,
+          "scale": 0.4375,
+          "spread": 0.06,
+          "max-spread": 0.12
+        },
+        "custom-thunder-damage-bonus": {
+          "base": 2.8125,
+          "scale": 0.4375,
+          "spread": 0.06,
+          "max-spread": 0.12
+        },
+        "custom-poison-damage-bonus": {
+          "base": 2.8125,
+          "scale": 0.4375,
+          "spread": 0.06,
+          "max-spread": 0.12
+        },
+        "max-mana": {
+          "base": 9.85,
+          "scale": 0.75,
+          "spread": 0.06,
+          "max-spread": 0.12
+        },
+        "max-health": {
+          "base": 17.0,
+          "scale": 4.5,
+          "spread": 0.06,
+          "max-spread": 0.12
+        },
+        "mana-regeneration": {
+          "base": 0.9875,
+          "scale": 0.0625,
+          "spread": 0.06,
+          "max-spread": 0.12
+        },
+        "health-regeneration": {
+          "base": 0.9875,
+          "scale": 0.0625,
+          "spread": 0.06,
+          "max-spread": 0.12
+        },
+        "cooldown-reduction": {
+          "base": 2.98,
+          "scale": 0.05,
+          "spread": 0.06,
+          "max-spread": 0.12
+        },
+        "additional-experience": {
+          "base": 4.925,
+          "scale": 0.125,
+          "spread": 0.06,
+          "max-spread": 0.12
+        },
+        "spell-vampirism": {
+          "base": 0.993333,
+          "scale": 0.016667,
+          "spread": 0.06,
+          "max-spread": 0.12
+        }
+      },
+      "guaranteed": [],
+      "durability": null
+    },
+    "shield": {
+      "name": "盾牌",
+      "stats": {
+        "custom-shield-cooldown-reduction-percent": {
+          "base": 12.0,
+          "scale": 0.2
+        },
+        "custom-armor": {
+          "base": 59.0,
+          "scale": 5.0,
+          "spread": 0.06,
+          "max-spread": 0.12
+        },
+        "max-health": {
+          "base": 17.0,
+          "scale": 4.5,
+          "spread": 0.06,
+          "max-spread": 0.12
+        },
+        "custom-tenacity-percent": {
+          "base": 11.920001,
+          "scale": 0.199999,
+          "spread": 0.06,
+          "max-spread": 0.12
+        }
+      },
+      "guaranteed": [],
+      "durability": {
+        "base": 600,
+        "scale": 35
+      }
+    },
+    "helmet": {
+      "name": "头盔",
+      "stats": {
+        "custom-armor": {
+          "base": 29.5,
+          "scale": 2.5,
+          "spread": 0.06,
+          "max-spread": 0.12
+        },
+        "max-mana": {
+          "base": 11.8,
+          "scale": 1.0,
+          "spread": 0.06,
+          "max-spread": 0.12
+        },
+        "mana-regeneration": {
+          "base": 0.9875,
+          "scale": 0.0625,
+          "spread": 0.06,
+          "max-spread": 0.12
+        },
+        "cooldown-reduction": {
+          "base": 2.98,
+          "scale": 0.05,
+          "spread": 0.06,
+          "max-spread": 0.12
+        },
+        "custom-thunder-resistance": {
+          "base": 19.65,
+          "scale": 1.75,
+          "spread": 0.06,
+          "max-spread": 0.12
+        },
+        "custom-ice-resistance": {
+          "base": 19.65,
+          "scale": 1.75,
+          "spread": 0.06,
+          "max-spread": 0.12
+        },
+        "custom-fire-resistance": {
+          "base": 19.65,
+          "scale": 1.75,
+          "spread": 0.06,
+          "max-spread": 0.12
+        },
+        "custom-poison-resistance": {
+          "base": 19.65,
+          "scale": 1.75,
+          "spread": 0.06,
+          "max-spread": 0.12
+        }
+      },
+      "guaranteed": [],
+      "durability": {
+        "base": 420,
+        "scale": 24
+      }
+    },
+    "chestplate": {
+      "name": "胸甲",
+      "stats": {
+        "custom-armor": {
+          "base": 59.0,
+          "scale": 5.0,
+          "spread": 0.06,
+          "max-spread": 0.12
+        },
+        "max-health": {
+          "base": 21.4,
+          "scale": 5.4,
+          "spread": 0.06,
+          "max-spread": 0.12
+        },
+        "health-regeneration": {
+          "base": 0.9875,
+          "scale": 0.0625,
+          "spread": 0.06,
+          "max-spread": 0.12
+        },
+        "custom-fire-resistance": {
+          "base": 29.5,
+          "scale": 2.5,
+          "spread": 0.06,
+          "max-spread": 0.12
+        },
+        "custom-ice-resistance": {
+          "base": 29.5,
+          "scale": 2.5,
+          "spread": 0.06,
+          "max-spread": 0.12
+        },
+        "custom-tenacity-percent": {
+          "base": 4.47,
+          "scale": 0.075,
+          "spread": 0.06,
+          "max-spread": 0.12
+        },
+        "custom-thunder-resistance": {
+          "base": 29.5,
+          "scale": 2.5,
+          "spread": 0.06,
+          "max-spread": 0.12
+        },
+        "custom-poison-resistance": {
+          "base": 29.5,
+          "scale": 2.5,
+          "spread": 0.06,
+          "max-spread": 0.12
+        }
+      },
+      "guaranteed": [],
+      "durability": {
+        "base": 650,
+        "scale": 38
+      }
+    },
+    "leggings": {
+      "name": "护腿",
+      "stats": {
+        "custom-armor": {
+          "base": 44.25,
+          "scale": 3.75,
+          "spread": 0.06,
+          "max-spread": 0.12
+        },
+        "max-health": {
+          "base": 15.6,
+          "scale": 3.6,
+          "spread": 0.06,
+          "max-spread": 0.12
+        },
+        "custom-tenacity-percent": {
+          "base": 5.959999,
+          "scale": 0.100001,
+          "spread": 0.06,
+          "max-spread": 0.12
+        },
+        "custom-poison-resistance": {
+          "base": 24.6,
+          "scale": 2.0,
+          "spread": 0.06,
+          "max-spread": 0.12
+        },
+        "custom-thunder-resistance": {
+          "base": 24.6,
+          "scale": 2.0,
+          "spread": 0.06,
+          "max-spread": 0.12
+        },
+        "health-regeneration": {
+          "base": 0.5925,
+          "scale": 0.0375,
+          "spread": 0.06,
+          "max-spread": 0.12
+        },
+        "custom-fire-resistance": {
+          "base": 24.6,
+          "scale": 2.0,
+          "spread": 0.06,
+          "max-spread": 0.12
+        },
+        "custom-ice-resistance": {
+          "base": 24.6,
+          "scale": 2.0,
+          "spread": 0.06,
+          "max-spread": 0.12
+        }
+      },
+      "guaranteed": [],
+      "durability": {
+        "base": 560,
+        "scale": 32
+      }
+    },
+    "boots": {
+      "name": "靴子",
+      "stats": {
+        "custom-armor": {
+          "base": 24.625,
+          "scale": 1.875,
+          "spread": 0.06,
+          "max-spread": 0.12
+        },
+        "custom-movement-speed-bonus-percent": {
+          "base": 7.946667,
+          "scale": 0.133333,
+          "spread": 0.06,
+          "max-spread": 0.12
+        },
+        "custom-dodge-chance-percent": {
+          "base": 6.0,
+          "scale": 0.12,
+          "spread": 0.06,
+          "max-spread": 0.12
+        },
+        "max-health": {
+          "base": 10.4,
+          "scale": 2.4,
+          "spread": 0.06,
+          "max-spread": 0.12
+        },
+        "custom-tenacity-percent": {
+          "base": 4.47,
+          "scale": 0.075,
+          "spread": 0.06,
+          "max-spread": 0.12
+        },
+        "custom-poison-resistance": {
+          "base": 19.7,
+          "scale": 1.5,
+          "spread": 0.06,
+          "max-spread": 0.12
+        },
+        "custom-fire-resistance": {
+          "base": 19.7,
+          "scale": 1.5,
+          "spread": 0.06,
+          "max-spread": 0.12
+        },
+        "custom-ice-resistance": {
+          "base": 19.7,
+          "scale": 1.5,
+          "spread": 0.06,
+          "max-spread": 0.12
+        },
+        "custom-thunder-resistance": {
+          "base": 19.7,
+          "scale": 1.5,
+          "spread": 0.06,
+          "max-spread": 0.12
+        }
+      },
+      "guaranteed": [
+        "custom-movement-speed-bonus-percent"
+      ],
+      "durability": {
+        "base": 380,
+        "scale": 22
+      }
+    },
+    "necklace": {
+      "name": "项链",
+      "stats": {
+        "max-mana": {
+          "base": 11.8,
+          "scale": 1.0,
+          "spread": 0.06,
+          "max-spread": 0.12
+        }
+      },
+      "guaranteed": [],
+      "durability": null
+    },
+    "ring": {
+      "name": "戒指",
+      "stats": {
+        "critical-strike-chance": {
+          "base": 4.4325,
+          "scale": 0.1125,
+          "spread": 0.06,
+          "max-spread": 0.12
+        }
+      },
+      "guaranteed": [],
+      "durability": null
+    },
+    "belt": {
+      "name": "腰带",
+      "stats": {
+        "max-health": {
+          "base": 15.6,
+          "scale": 3.6,
+          "spread": 0.06,
+          "max-spread": 0.12
+        }
+      },
+      "guaranteed": [],
+      "durability": null
+    },
+    "charm": {
+      "name": "护符",
+      "stats": {
+        "mana-regeneration": {
+          "base": 0.9875,
+          "scale": 0.0625,
+          "spread": 0.06,
+          "max-spread": 0.12
+        }
+      },
+      "guaranteed": [],
+      "durability": null
+    }
+  },
+  "affixes": {
+    "魔法": {
+      "min": 1,
+      "max": 2,
+      "stats": {
+        "custom-summon-movement-speed-bonus-percent": {
+          "growth": {
+            "base": 9.983333,
+            "scale": 0.166667,
+            "spread": 0.06,
+            "max-spread": 0.12
+          },
+          "rank": "T2"
+        },
+        "custom-summon-health-bonus-percent": {
+          "growth": {
+            "base": 9.9,
+            "scale": 0.25,
+            "spread": 0.06,
+            "max-spread": 0.12
+          },
+          "rank": "T2"
+        },
+        "custom-summon-damage-bonus-percent": {
+          "growth": {
+            "base": 9.9,
+            "scale": 0.25,
+            "spread": 0.06,
+            "max-spread": 0.12
+          },
+          "rank": "T2"
+        },
+        "custom-summon-healing-bonus-percent": {
+          "growth": {
+            "base": 9.9,
+            "scale": 0.25,
+            "spread": 0.06,
+            "max-spread": 0.12
+          },
+          "rank": "T2"
+        },
+        "custom-summon-attack-speed-bonus-percent": {
+          "growth": {
+            "base": 9.9,
+            "scale": 0.25,
+            "spread": 0.06,
+            "max-spread": 0.12
+          },
+          "rank": "T2"
+        },
+        "custom-physical-damage-bonus-percent": {
+          "growth": {
+            "base": 9.9,
+            "scale": 0.25,
+            "spread": 0.06,
+            "max-spread": 0.12
+          },
+          "rank": "T2"
+        },
+        "custom-fire-damage-bonus-percent": {
+          "growth": {
+            "base": 9.9,
+            "scale": 0.25,
+            "spread": 0.06,
+            "max-spread": 0.12
+          },
+          "rank": "T2"
+        },
+        "custom-ice-damage-bonus-percent": {
+          "growth": {
+            "base": 9.9,
+            "scale": 0.25,
+            "spread": 0.06,
+            "max-spread": 0.12
+          },
+          "rank": "T2"
+        },
+        "custom-thunder-damage-bonus-percent": {
+          "growth": {
+            "base": 9.9,
+            "scale": 0.25,
+            "spread": 0.06,
+            "max-spread": 0.12
+          },
+          "rank": "T2"
+        },
+        "custom-poison-damage-bonus-percent": {
+          "growth": {
+            "base": 9.9,
+            "scale": 0.25,
+            "spread": 0.06,
+            "max-spread": 0.12
+          },
+          "rank": "T2"
+        },
+        "custom-all-element-damage-bonus-percent": {
+          "growth": {
+            "base": 9.9,
+            "scale": 0.25,
+            "spread": 0.06,
+            "max-spread": 0.12
+          },
+          "rank": "T2"
+        },
+        "custom-mana-on-kill": {
+          "growth": {
+            "base": 5.95,
+            "scale": 0.25,
+            "spread": 0.06,
+            "max-spread": 0.12
+          },
+          "rank": "T2"
+        },
+        "custom-health-on-kill": {
+          "growth": {
+            "base": 8.925,
+            "scale": 0.375,
+            "spread": 0.06,
+            "max-spread": 0.12
+          },
+          "rank": "T2"
+        },
+        "custom-healing-received-percent": {
+          "growth": {
+            "base": 9.9,
+            "scale": 0.25,
+            "spread": 0.06,
+            "max-spread": 0.12
+          },
+          "rank": "T2"
+        },
+        "custom-spell-damage-bonus-percent": {
+          "growth": {
+            "base": 9.9,
+            "scale": 0.25,
+            "spread": 0.06,
+            "max-spread": 0.12
+          },
+          "rank": "T2"
+        },
+        "custom-melee-damage-bonus-percent": {
+          "growth": {
+            "base": 9.9,
+            "scale": 0.25,
+            "spread": 0.06,
+            "max-spread": 0.12
+          },
+          "rank": "T2"
+        },
+        "custom-ranged-damage-bonus-percent": {
+          "growth": {
+            "base": 9.9,
+            "scale": 0.25,
+            "spread": 0.06,
+            "max-spread": 0.12
+          },
+          "rank": "T2"
+        },
+        "custom-area-damage-bonus-percent": {
+          "growth": {
+            "base": 9.9,
+            "scale": 0.25,
+            "spread": 0.06,
+            "max-spread": 0.12
+          },
+          "rank": "T2"
+        },
+        "custom-explosion-damage-bonus-percent": {
+          "growth": {
+            "base": 9.9,
+            "scale": 0.25,
+            "spread": 0.06,
+            "max-spread": 0.12
+          },
+          "rank": "T2"
+        },
+        "custom-dot-damage-bonus-percent": {
+          "growth": {
+            "base": 9.9,
+            "scale": 0.25,
+            "spread": 0.06,
+            "max-spread": 0.12
+          },
+          "rank": "T2"
+        },
+        "custom-all-element-damage-bonus": {
+          "growth": {
+            "base": 1.8875,
+            "scale": 0.2625,
+            "spread": 0.06,
+            "max-spread": 0.12
+          },
+          "rank": "T2"
+        },
+        "custom-all-element-resistance-percent": {
+          "growth": {
+            "base": 5.0,
+            "scale": 0.03,
+            "spread": 0.06,
+            "max-spread": 0.12
+          },
+          "rank": "T2"
+        },
+        "custom-damage-reduction-percent": {
+          "growth": {
+            "base": 4.0,
+            "scale": 0.04,
+            "spread": 0.06,
+            "max-spread": 0.12
+          },
+          "rank": "T2"
+        },
+        "custom-damage-bonus-percent": {
+          "growth": {
+            "base": 9.9,
+            "scale": 0.25,
+            "spread": 0.06,
+            "max-spread": 0.12
+          },
+          "rank": "T2"
+        },
+        "custom-total-armor-percent": {
+          "growth": {
+            "base": 14.85,
+            "scale": 0.375,
+            "spread": 0.06,
+            "max-spread": 0.12
+          },
+          "rank": "T2"
+        },
+        "skill-critical-strike-chance": {
+          "growth": {
+            "base": 4.4625,
+            "scale": 0.1125,
+            "spread": 0.06,
+            "max-spread": 0.12
+          },
+          "rank": "T2"
+        },
+        "skill-critical-strike-power": {
+          "growth": {
+            "base": 9.9,
+            "scale": 0.25,
+            "spread": 0.06,
+            "max-spread": 0.12
+          },
+          "rank": "T2"
+        },
+        "custom-healing-bonus-percent": {
+          "growth": {
+            "base": 9.9,
+            "scale": 0.25,
+            "spread": 0.06,
+            "max-spread": 0.12
+          },
+          "rank": "T2"
+        }
+      }
+    },
+    "稀有": {
+      "min": 2,
+      "max": 4,
+      "stats": {
+        "custom-summon-movement-speed-bonus-percent": {
+          "growth": {
+            "base": 9.983333,
+            "scale": 0.166667,
+            "spread": 0.06,
+            "max-spread": 0.12
+          },
+          "rank": "T2"
+        },
+        "custom-summon-health-bonus-percent": {
+          "growth": {
+            "base": 9.9,
+            "scale": 0.25,
+            "spread": 0.06,
+            "max-spread": 0.12
+          },
+          "rank": "T2"
+        },
+        "custom-summon-damage-bonus-percent": {
+          "growth": {
+            "base": 9.9,
+            "scale": 0.25,
+            "spread": 0.06,
+            "max-spread": 0.12
+          },
+          "rank": "T2"
+        },
+        "custom-summon-healing-bonus-percent": {
+          "growth": {
+            "base": 9.9,
+            "scale": 0.25,
+            "spread": 0.06,
+            "max-spread": 0.12
+          },
+          "rank": "T2"
+        },
+        "custom-summon-attack-speed-bonus-percent": {
+          "growth": {
+            "base": 9.9,
+            "scale": 0.25,
+            "spread": 0.06,
+            "max-spread": 0.12
+          },
+          "rank": "T2"
+        },
+        "custom-physical-damage-bonus-percent": {
+          "growth": {
+            "base": 9.9,
+            "scale": 0.25,
+            "spread": 0.06,
+            "max-spread": 0.12
+          },
+          "rank": "T2"
+        },
+        "custom-fire-damage-bonus-percent": {
+          "growth": {
+            "base": 9.9,
+            "scale": 0.25,
+            "spread": 0.06,
+            "max-spread": 0.12
+          },
+          "rank": "T2"
+        },
+        "custom-ice-damage-bonus-percent": {
+          "growth": {
+            "base": 9.9,
+            "scale": 0.25,
+            "spread": 0.06,
+            "max-spread": 0.12
+          },
+          "rank": "T2"
+        },
+        "custom-thunder-damage-bonus-percent": {
+          "growth": {
+            "base": 9.9,
+            "scale": 0.25,
+            "spread": 0.06,
+            "max-spread": 0.12
+          },
+          "rank": "T2"
+        },
+        "custom-poison-damage-bonus-percent": {
+          "growth": {
+            "base": 9.9,
+            "scale": 0.25,
+            "spread": 0.06,
+            "max-spread": 0.12
+          },
+          "rank": "T2"
+        },
+        "custom-all-element-damage-bonus-percent": {
+          "growth": {
+            "base": 9.9,
+            "scale": 0.25,
+            "spread": 0.06,
+            "max-spread": 0.12
+          },
+          "rank": "T2"
+        },
+        "custom-mana-on-kill": {
+          "growth": {
+            "base": 5.95,
+            "scale": 0.25,
+            "spread": 0.06,
+            "max-spread": 0.12
+          },
+          "rank": "T2"
+        },
+        "custom-health-on-kill": {
+          "growth": {
+            "base": 8.925,
+            "scale": 0.375,
+            "spread": 0.06,
+            "max-spread": 0.12
+          },
+          "rank": "T2"
+        },
+        "custom-healing-received-percent": {
+          "growth": {
+            "base": 9.9,
+            "scale": 0.25,
+            "spread": 0.06,
+            "max-spread": 0.12
+          },
+          "rank": "T2"
+        },
+        "custom-spell-damage-bonus-percent": {
+          "growth": {
+            "base": 9.9,
+            "scale": 0.25,
+            "spread": 0.06,
+            "max-spread": 0.12
+          },
+          "rank": "T2"
+        },
+        "custom-melee-damage-bonus-percent": {
+          "growth": {
+            "base": 9.9,
+            "scale": 0.25,
+            "spread": 0.06,
+            "max-spread": 0.12
+          },
+          "rank": "T2"
+        },
+        "custom-ranged-damage-bonus-percent": {
+          "growth": {
+            "base": 9.9,
+            "scale": 0.25,
+            "spread": 0.06,
+            "max-spread": 0.12
+          },
+          "rank": "T2"
+        },
+        "custom-area-damage-bonus-percent": {
+          "growth": {
+            "base": 9.9,
+            "scale": 0.25,
+            "spread": 0.06,
+            "max-spread": 0.12
+          },
+          "rank": "T2"
+        },
+        "custom-explosion-damage-bonus-percent": {
+          "growth": {
+            "base": 9.9,
+            "scale": 0.25,
+            "spread": 0.06,
+            "max-spread": 0.12
+          },
+          "rank": "T2"
+        },
+        "custom-dot-damage-bonus-percent": {
+          "growth": {
+            "base": 9.9,
+            "scale": 0.25,
+            "spread": 0.06,
+            "max-spread": 0.12
+          },
+          "rank": "T2"
+        },
+        "custom-all-element-damage-bonus": {
+          "growth": {
+            "base": 1.8875,
+            "scale": 0.2625,
+            "spread": 0.06,
+            "max-spread": 0.12
+          },
+          "rank": "T2"
+        },
+        "custom-all-element-resistance-percent": {
+          "growth": {
+            "base": 5.0,
+            "scale": 0.03,
+            "spread": 0.06,
+            "max-spread": 0.12
+          },
+          "rank": "T2"
+        },
+        "custom-damage-reduction-percent": {
+          "growth": {
+            "base": 4.0,
+            "scale": 0.04,
+            "spread": 0.06,
+            "max-spread": 0.12
+          },
+          "rank": "T2"
+        },
+        "custom-damage-bonus-percent": {
+          "growth": {
+            "base": 9.9,
+            "scale": 0.25,
+            "spread": 0.06,
+            "max-spread": 0.12
+          },
+          "rank": "T2"
+        },
+        "custom-total-armor-percent": {
+          "growth": {
+            "base": 14.85,
+            "scale": 0.375,
+            "spread": 0.06,
+            "max-spread": 0.12
+          },
+          "rank": "T2"
+        },
+        "skill-critical-strike-chance": {
+          "growth": {
+            "base": 4.4625,
+            "scale": 0.1125,
+            "spread": 0.06,
+            "max-spread": 0.12
+          },
+          "rank": "T2"
+        },
+        "skill-critical-strike-power": {
+          "growth": {
+            "base": 9.9,
+            "scale": 0.25,
+            "spread": 0.06,
+            "max-spread": 0.12
+          },
+          "rank": "T2"
+        },
+        "custom-healing-bonus-percent": {
+          "growth": {
+            "base": 9.9,
+            "scale": 0.25,
+            "spread": 0.06,
+            "max-spread": 0.12
+          },
+          "rank": "T2"
+        },
+        "custom-fire-dot-damage-bonus-percent": {
+          "growth": {
+            "base": 14.85,
+            "scale": 0.375,
+            "spread": 0.06,
+            "max-spread": 0.12
+          },
+          "rank": "T3"
+        },
+        "custom-ice-dot-damage-bonus-percent": {
+          "growth": {
+            "base": 14.85,
+            "scale": 0.375,
+            "spread": 0.06,
+            "max-spread": 0.12
+          },
+          "rank": "T3"
+        },
+        "custom-thunder-dot-damage-bonus-percent": {
+          "growth": {
+            "base": 14.85,
+            "scale": 0.375,
+            "spread": 0.06,
+            "max-spread": 0.12
+          },
+          "rank": "T3"
+        },
+        "custom-poison-dot-damage-bonus-percent": {
+          "growth": {
+            "base": 14.85,
+            "scale": 0.375,
+            "spread": 0.06,
+            "max-spread": 0.12
+          },
+          "rank": "T3"
+        },
+        "custom-physical-dot-damage-bonus-percent": {
+          "growth": {
+            "base": 14.85,
+            "scale": 0.375,
+            "spread": 0.06,
+            "max-spread": 0.12
+          },
+          "rank": "T3"
+        },
+        "custom-normal-monster-damage-bonus-percent": {
+          "growth": {
+            "base": 14.85,
+            "scale": 0.375,
+            "spread": 0.06,
+            "max-spread": 0.12
+          },
+          "rank": "T3"
+        },
+        "custom-elite-monster-damage-bonus-percent": {
+          "growth": {
+            "base": 14.85,
+            "scale": 0.375,
+            "spread": 0.06,
+            "max-spread": 0.12
+          },
+          "rank": "T3"
+        },
+        "custom-normal-monster-damage-reduction-percent": {
+          "growth": {
+            "base": 5.0,
+            "scale": 0.05,
+            "spread": 0.06,
+            "max-spread": 0.12
+          },
+          "rank": "T3"
+        },
+        "custom-elite-monster-damage-reduction-percent": {
+          "growth": {
+            "base": 5.0,
+            "scale": 0.05,
+            "spread": 0.06,
+            "max-spread": 0.12
+          },
+          "rank": "T3"
+        },
+        "custom-shield-gain-percent": {
+          "growth": {
+            "base": 9.9,
+            "scale": 0.25,
+            "spread": 0.06,
+            "max-spread": 0.12
+          },
+          "rank": "T3"
+        }
+      }
+    },
+    "传奇": {
+      "min": 2,
+      "max": 4,
+      "stats": {
+        "custom-fire-critical-damage-bonus-percent": {
+          "growth": {
+            "base": 14.85,
+            "scale": 0.375,
+            "spread": 0.06,
+            "max-spread": 0.12
+          },
+          "rank": "T4"
+        },
+        "custom-ice-critical-damage-bonus-percent": {
+          "growth": {
+            "base": 14.85,
+            "scale": 0.375,
+            "spread": 0.06,
+            "max-spread": 0.12
+          },
+          "rank": "T4"
+        },
+        "custom-thunder-critical-damage-bonus-percent": {
+          "growth": {
+            "base": 14.85,
+            "scale": 0.375,
+            "spread": 0.06,
+            "max-spread": 0.12
+          },
+          "rank": "T4"
+        },
+        "custom-poison-critical-damage-bonus-percent": {
+          "growth": {
+            "base": 14.85,
+            "scale": 0.375,
+            "spread": 0.06,
+            "max-spread": 0.12
+          },
+          "rank": "T4"
+        },
+        "custom-physical-critical-damage-bonus-percent": {
+          "growth": {
+            "base": 14.85,
+            "scale": 0.375,
+            "spread": 0.06,
+            "max-spread": 0.12
+          },
+          "rank": "T4"
+        },
+        "custom-lord-monster-damage-bonus-percent": {
+          "growth": {
+            "base": 14.85,
+            "scale": 0.375,
+            "spread": 0.06,
+            "max-spread": 0.12
+          },
+          "rank": "T4"
+        },
+        "custom-boss-monster-damage-bonus-percent": {
+          "growth": {
+            "base": 14.85,
+            "scale": 0.375,
+            "spread": 0.06,
+            "max-spread": 0.12
+          },
+          "rank": "T4"
+        },
+        "custom-lord-monster-damage-reduction-percent": {
+          "growth": {
+            "base": 5.0,
+            "scale": 0.05,
+            "spread": 0.06,
+            "max-spread": 0.12
+          },
+          "rank": "T4"
+        },
+        "custom-boss-monster-damage-reduction-percent": {
+          "growth": {
+            "base": 5.0,
+            "scale": 0.05,
+            "spread": 0.06,
+            "max-spread": 0.12
+          },
+          "rank": "T4"
+        },
+        "custom-mana-cost-reduction-percent": {
+          "growth": {
+            "base": 5.0,
+            "scale": 0.1,
+            "spread": 0.06,
+            "max-spread": 0.12
+          },
+          "rank": "T4"
+        },
+        "custom-shield-decay-threshold": {
+          "growth": {
+            "base": 29.875,
+            "scale": 0.625,
+            "spread": 0.06,
+            "max-spread": 0.12
+          },
+          "rank": "T5"
+        }
+      }
+    }
+  },
+  "labels": {
+    "movement-speed": "移动速度",
+    "attack-damage": "攻击伤害",
+    "attack-speed": "武器攻速数值",
+    "range": "范围",
+    "mana-cost": "消耗  法力值",
+    "stamina-cost": "消耗  耐力",
+    "arrow-velocity": "箭矢速度",
+    "blunt-power": "AOE伤害半径",
+    "blunt-rating": "AOE伤害比例",
+    "two-handed": "双手使用",
+    "handworn": "戴在手上",
+    "knockback": "击退",
+    "recoil": "后坐力",
+    "note-weight": "音符强度",
+    "lifesteal": "生命偷取",
+    "pve-damage": "PvE伤害加成",
+    "pvp-damage": "PvP伤害加成",
+    "magic-damage": "魔法伤害加成",
+    "weapon-damage": "武器伤害加成",
+    "undead-damage": "不死生物伤害加成",
+    "skill-damage": "技能伤害加成",
+    "physical-damage": "物理伤害加成",
+    "projectile-damage": "弹射物伤害加成",
+    "faction-damage-undead": "不死派系伤害加成",
+    "ability-format": "",
+    "ability-modifier": "",
+    "ability-splitter": "",
+    "block-power": "格挡比例",
+    "block-rating": "格挡几率",
+    "block-cooldown-reduction": "格挡冷却缩减",
+    "dodge-rating": "闪避几率",
+    "dodge-cooldown-reduction": "闪避冷却缩减",
+    "parry-rating": "招架几率",
+    "parry-cooldown-reduction": "招架冷却缩减",
+    "armor": "护甲值",
+    "armor-toughness": "盔甲韧性",
+    "knockback-resistance": "击退抗性",
+    "defense": "护甲",
+    "damage-reduction": "伤害减免",
+    "fall-damage-reduction": "摔落伤害减免",
+    "fire-damage-reduction": "火焰伤害减免",
+    "magic-damage-reduction": "魔法伤害减免",
+    "projectile-damage-reduction": "弹射物伤害减免",
+    "physical-damage-reduction": "物理伤害减免",
+    "pve-damage-reduction": "PVE伤害减免",
+    "pvp-damage-reduction": "PvP伤害减免",
+    "max-stamina": "耐力上限",
+    "stamina-regeneration": "耐力恢复",
+    "additional-experience-alchemy": "额外炼药经验",
+    "additional-experience-cooking": "额外烹饪经验",
+    "additional-experience-farming": "额外采集经验",
+    "additional-experience-fishing": "额外垂钓经验",
+    "additional-experience-mining": "额外挖掘经验",
+    "additional-experience-smelting": "额外冶炼经验",
+    "additional-experience-smithing": "额外锻造经验",
+    "additional-experience-woodcutting": "额外伐木经验",
+    "perm-effect": "永久效果",
+    "command": "指令:  ( 秒)",
+    "item-cooldown": "秒 Cooldown",
+    "arrow-potion-effects": "箭矢药水效果",
+    "restore-health": "恢复  生命值",
+    "restore-food": "恢复  饥饿值",
+    "restore-saturation": "恢复  饱和度",
+    "restore-mana": "恢复  法力值",
+    "restore-stamina": "恢复  耐力",
+    "effect": "获得  持续 秒",
+    "repair": "修复",
+    "repair-percent": "修复",
+    "can-identify": "用于鉴定物品",
+    "can-deconstruct": "用于拆解物品",
+    "can-deskin": "用于揭下物品皮肤",
+    "success-rate": "成功几率",
+    "max-consume": "剩余使用次数",
+    "empty-gem-socket": "孔",
+    "filled-gem-socket": "",
+    "when-applied": "镶嵌时间",
+    "gem-stone-lore": "将宝石拖放到物品上 以镶嵌!",
+    "soulbinding-chance": "有 % 几率灵魂绑定你的物品",
+    "soulbound-break-chance": "有 % 几率破坏灵魂绑定",
+    "soulbound-level": "灵魂绑定等级",
+    "autosmelt": "自动熔炼",
+    "bouncing-crack": "范围破坏",
+    "pickaxe-power": "挖掘强度",
+    "durability": "耐久: /",
+    "item-type": "类型",
+    "tier": "品质",
+    "required-class": "需要职业",
+    "required-level": "使用等级",
+    "required-dexterity": "需要敏捷",
+    "required-strength": "需要力量",
+    "required-intelligence": "所需智慧",
+    "additional-dexterity": "额外敏捷",
+    "additional-strength": "额外力量",
+    "additional-intelligence": "额外智慧",
+    "profession-alchemy": "炼药等级",
+    "profession-cooking": "烹饪等级",
+    "profession-farming": "需要采集等级",
+    "profession-fishing": "需要垂钓等级",
+    "profession-mining": "需要挖掘等级",
+    "profession-smelting": "冶炼等级",
+    "profession-smithing": "锻造等级",
+    "profession-woodcutting": "需要伐木等级",
+    "elemental-damage": "伤害",
+    "elemental-damage-percent": "伤害加成",
+    "elemental-defense": "防御",
+    "elemental-defense-percent": "防御加成",
+    "elemental-weakness": "弱化",
+    "custom-myluck": "幸运",
+    "custom-layer": "钥匙层数 ▸  层",
+    "custom-map": "",
+    "custom-mapdisplay": "秘境地图 ▸",
+    "custom-season": "",
+    "custom-seasondisplay": "赛季 ▸",
+    "custom-attackspeedbouns": "攻击速度",
+    "custom-physical-damage-bonus": "物理伤害",
+    "custom-fire-damage-bonus": "火焰伤害",
+    "custom-ice-damage-bonus": "冰霜伤害",
+    "custom-thunder-damage-bonus": "闪电伤害",
+    "custom-poison-damage-bonus": "毒素伤害",
+    "custom-fishing-speed-percent": "咬钩速度",
+    "chance": "垂钓幸运",
+    "fishing-strength": "钓鱼力量",
+    "critical-fishing-chance": "瞬钓几率",
+    "critical-fishing-failure-chance": "脱钩几率",
+    "critical-strike-power": "暴击伤害",
+    "critical-strike-chance": "暴击几率",
+    "max-mana": "法力上限",
+    "max-health": "生命上限",
+    "mana-regeneration": "法力恢复",
+    "health-regeneration": "生命恢复",
+    "custom-movement-speed-bonus-percent": "移动速度",
+    "additional-experience": "获取经验",
+    "cooldown-reduction": "技能冷却缩减",
+    "spell-vampirism": "法术吸血",
+    "custom-lifesteal-percent": "生命偷取",
+    "custom-armor": "护甲",
+    "custom-dodge-chance-percent": "躲闪",
+    "custom-fire-resistance": "火焰抗性",
+    "custom-ice-resistance": "冰霜抗性",
+    "custom-thunder-resistance": "闪电抗性",
+    "custom-poison-resistance": "毒素抗性",
+    "custom-tenacity-percent": "韧性",
+    "custom-shield-cooldown-reduction-percent": "盾牌冷却缩减",
+    "custom-summon-movement-speed-bonus-percent": "召唤物移动速度",
+    "custom-summon-health-bonus-percent": "召唤物生命",
+    "custom-summon-damage-bonus-percent": "召唤物伤害",
+    "custom-summon-healing-bonus-percent": "召唤物治疗",
+    "custom-summon-attack-speed-bonus-percent": "召唤物攻击速度",
+    "custom-physical-damage-bonus-percent": "物理伤害",
+    "custom-fire-damage-bonus-percent": "火焰伤害",
+    "custom-ice-damage-bonus-percent": "冰霜伤害",
+    "custom-thunder-damage-bonus-percent": "闪电伤害",
+    "custom-poison-damage-bonus-percent": "毒素伤害",
+    "custom-all-element-damage-bonus-percent": "全元素伤害",
+    "custom-mana-on-kill": "消灭获得法力",
+    "custom-health-on-kill": "消灭获得生命",
+    "custom-healing-received-percent": "受到的治疗",
+    "custom-spell-damage-bonus-percent": "法术伤害",
+    "custom-melee-damage-bonus-percent": "近战伤害",
+    "custom-ranged-damage-bonus-percent": "远程伤害",
+    "custom-area-damage-bonus-percent": "范围伤害",
+    "custom-explosion-damage-bonus-percent": "爆炸伤害",
+    "custom-dot-damage-bonus-percent": "持续性伤害",
+    "custom-all-element-damage-bonus": "全元素伤害",
+    "custom-all-element-resistance-percent": "全元素抗性",
+    "custom-damage-reduction-percent": "伤害减免",
+    "custom-damage-bonus-percent": "伤害提高",
+    "custom-total-armor-percent": "总护甲",
+    "skill-critical-strike-chance": "法术暴击几率",
+    "skill-critical-strike-power": "法术暴击伤害",
+    "custom-healing-bonus-percent": "治疗效果",
+    "custom-fire-dot-damage-bonus-percent": "火焰持续性伤害",
+    "custom-ice-dot-damage-bonus-percent": "冰霜持续性伤害",
+    "custom-thunder-dot-damage-bonus-percent": "闪电持续性伤害",
+    "custom-poison-dot-damage-bonus-percent": "毒素持续性伤害",
+    "custom-physical-dot-damage-bonus-percent": "物理持续性伤害",
+    "custom-normal-monster-damage-bonus-percent": "对普通怪伤害",
+    "custom-elite-monster-damage-bonus-percent": "对精英伤害",
+    "custom-normal-monster-damage-reduction-percent": "普通怪物伤害减免",
+    "custom-elite-monster-damage-reduction-percent": "精英伤害减免",
+    "custom-shield-gain-percent": "护盾获取量",
+    "custom-fire-critical-damage-bonus-percent": "暴击时火焰伤害",
+    "custom-ice-critical-damage-bonus-percent": "暴击时冰霜伤害",
+    "custom-thunder-critical-damage-bonus-percent": "暴击时闪电伤害",
+    "custom-poison-critical-damage-bonus-percent": "暴击时毒素伤害",
+    "custom-physical-critical-damage-bonus-percent": "暴击时物理伤害",
+    "custom-lord-monster-damage-bonus-percent": "对领主伤害",
+    "custom-boss-monster-damage-bonus-percent": "对首领伤害",
+    "custom-lord-monster-damage-reduction-percent": "领主伤害减免",
+    "custom-boss-monster-damage-reduction-percent": "首领伤害减免",
+    "custom-mana-cost-reduction-percent": "法力消耗降低",
+    "custom-shield-decay-threshold": "护盾衰减阈值",
+    "custom-food-regeneration": "旧版生命恢复",
+    "custom-woodcutting-speed-percent": "伐木速度",
+    "custom-woodcutting-double-drop-chance": "双倍掉落",
+    "custom-woodcutting-experience-percent": "额外伐木经验",
+    "custom-mining-speed-percent": "挖掘速度",
+    "custom-mining-double-drop-chance": "双倍掉落",
+    "custom-mining-experience-percent": "额外挖掘经验",
+    "custom-farming-double-drop-chance": "双倍掉落",
+    "custom-farming-experience-percent": "额外采集经验",
+    "custom-farming-extra-harvest-amount": "额外收获",
+    "max-durability": "最大耐久"
+  },
+  "units": {
+    "movement-speed": "",
+    "attack-damage": "",
+    "attack-speed": "",
+    "range": "",
+    "mana-cost": "",
+    "stamina-cost": "",
+    "arrow-velocity": "",
+    "blunt-power": "",
+    "blunt-rating": "%",
+    "two-handed": "",
+    "handworn": "",
+    "knockback": "",
+    "recoil": "%",
+    "note-weight": "",
+    "lifesteal": "%",
+    "pve-damage": "%",
+    "pvp-damage": "%",
+    "magic-damage": "%",
+    "weapon-damage": "%",
+    "undead-damage": "%",
+    "skill-damage": "%",
+    "physical-damage": "%",
+    "projectile-damage": "%",
+    "faction-damage-undead": "%",
+    "ability-format": "",
+    "ability-modifier": "",
+    "ability-splitter": "",
+    "block-power": "%",
+    "block-rating": "%",
+    "block-cooldown-reduction": "%",
+    "dodge-rating": "%",
+    "dodge-cooldown-reduction": "%",
+    "parry-rating": "%",
+    "parry-cooldown-reduction": "%",
+    "armor": "",
+    "armor-toughness": "",
+    "knockback-resistance": "%",
+    "defense": "",
+    "damage-reduction": "%",
+    "fall-damage-reduction": "%",
+    "fire-damage-reduction": "%",
+    "magic-damage-reduction": "%",
+    "projectile-damage-reduction": "%",
+    "physical-damage-reduction": "%",
+    "pve-damage-reduction": "%",
+    "pvp-damage-reduction": "%",
+    "max-stamina": "",
+    "stamina-regeneration": "",
+    "additional-experience-alchemy": "%",
+    "additional-experience-cooking": "%",
+    "additional-experience-farming": "%",
+    "additional-experience-fishing": "%",
+    "additional-experience-mining": "%",
+    "additional-experience-smelting": "%",
+    "additional-experience-smithing": "%",
+    "additional-experience-woodcutting": "%",
+    "perm-effect": "",
+    "command": "",
+    "item-cooldown": "",
+    "arrow-potion-effects": "",
+    "restore-health": "",
+    "restore-food": "",
+    "restore-saturation": "",
+    "restore-mana": "",
+    "restore-stamina": "",
+    "effect": "",
+    "repair": "",
+    "repair-percent": "%",
+    "can-identify": "",
+    "can-deconstruct": "",
+    "can-deskin": "",
+    "success-rate": "%",
+    "max-consume": "",
+    "empty-gem-socket": "",
+    "filled-gem-socket": "",
+    "when-applied": "",
+    "gem-stone-lore": "",
+    "soulbinding-chance": "%",
+    "soulbound-break-chance": "%",
+    "soulbound-level": "",
+    "autosmelt": "",
+    "bouncing-crack": "",
+    "pickaxe-power": "",
+    "durability": "",
+    "item-type": "",
+    "tier": "",
+    "required-class": "",
+    "required-level": "",
+    "required-dexterity": "",
+    "required-strength": "",
+    "required-intelligence": "",
+    "additional-dexterity": "",
+    "additional-strength": "",
+    "additional-intelligence": "",
+    "profession-alchemy": "",
+    "profession-cooking": "",
+    "profession-farming": "",
+    "profession-fishing": "",
+    "profession-mining": "",
+    "profession-smelting": "",
+    "profession-smithing": "",
+    "profession-woodcutting": "",
+    "elemental-damage": "",
+    "elemental-damage-percent": "%",
+    "elemental-defense": "",
+    "elemental-defense-percent": "%",
+    "elemental-weakness": "%",
+    "custom-myluck": "",
+    "custom-layer": "",
+    "custom-map": "",
+    "custom-mapdisplay": "",
+    "custom-season": "",
+    "custom-seasondisplay": "",
+    "custom-attackspeedbouns": "%",
+    "custom-physical-damage-bonus": "",
+    "custom-fire-damage-bonus": "",
+    "custom-ice-damage-bonus": "",
+    "custom-thunder-damage-bonus": "",
+    "custom-poison-damage-bonus": "",
+    "custom-fishing-speed-percent": "%",
+    "chance": "",
+    "fishing-strength": "%",
+    "critical-fishing-chance": "%",
+    "critical-fishing-failure-chance": "%",
+    "critical-strike-power": "%",
+    "critical-strike-chance": "%",
+    "max-mana": "",
+    "max-health": "",
+    "mana-regeneration": "",
+    "health-regeneration": "",
+    "custom-movement-speed-bonus-percent": "%",
+    "additional-experience": "%",
+    "cooldown-reduction": "%",
+    "spell-vampirism": "%",
+    "custom-lifesteal-percent": "%",
+    "custom-armor": "",
+    "custom-dodge-chance-percent": "%",
+    "custom-fire-resistance": "",
+    "custom-ice-resistance": "",
+    "custom-thunder-resistance": "",
+    "custom-poison-resistance": "",
+    "custom-tenacity-percent": "%",
+    "custom-shield-cooldown-reduction-percent": "%",
+    "custom-summon-movement-speed-bonus-percent": "%",
+    "custom-summon-health-bonus-percent": "%",
+    "custom-summon-damage-bonus-percent": "%",
+    "custom-summon-healing-bonus-percent": "%",
+    "custom-summon-attack-speed-bonus-percent": "%",
+    "custom-physical-damage-bonus-percent": "%",
+    "custom-fire-damage-bonus-percent": "%",
+    "custom-ice-damage-bonus-percent": "%",
+    "custom-thunder-damage-bonus-percent": "%",
+    "custom-poison-damage-bonus-percent": "%",
+    "custom-all-element-damage-bonus-percent": "%",
+    "custom-mana-on-kill": "",
+    "custom-health-on-kill": "",
+    "custom-healing-received-percent": "%",
+    "custom-spell-damage-bonus-percent": "%",
+    "custom-melee-damage-bonus-percent": "%",
+    "custom-ranged-damage-bonus-percent": "%",
+    "custom-area-damage-bonus-percent": "%",
+    "custom-explosion-damage-bonus-percent": "%",
+    "custom-dot-damage-bonus-percent": "%",
+    "custom-all-element-damage-bonus": "",
+    "custom-all-element-resistance-percent": "%",
+    "custom-damage-reduction-percent": "%",
+    "custom-damage-bonus-percent": "%",
+    "custom-total-armor-percent": "%",
+    "skill-critical-strike-chance": "%",
+    "skill-critical-strike-power": "%",
+    "custom-healing-bonus-percent": "%",
+    "custom-fire-dot-damage-bonus-percent": "%",
+    "custom-ice-dot-damage-bonus-percent": "%",
+    "custom-thunder-dot-damage-bonus-percent": "%",
+    "custom-poison-dot-damage-bonus-percent": "%",
+    "custom-physical-dot-damage-bonus-percent": "%",
+    "custom-normal-monster-damage-bonus-percent": "%",
+    "custom-elite-monster-damage-bonus-percent": "%",
+    "custom-normal-monster-damage-reduction-percent": "%",
+    "custom-elite-monster-damage-reduction-percent": "%",
+    "custom-shield-gain-percent": "%",
+    "custom-fire-critical-damage-bonus-percent": "%",
+    "custom-ice-critical-damage-bonus-percent": "%",
+    "custom-thunder-critical-damage-bonus-percent": "%",
+    "custom-poison-critical-damage-bonus-percent": "%",
+    "custom-physical-critical-damage-bonus-percent": "%",
+    "custom-lord-monster-damage-bonus-percent": "%",
+    "custom-boss-monster-damage-bonus-percent": "%",
+    "custom-lord-monster-damage-reduction-percent": "%",
+    "custom-boss-monster-damage-reduction-percent": "%",
+    "custom-mana-cost-reduction-percent": "%",
+    "custom-shield-decay-threshold": "",
+    "custom-food-regeneration": "",
+    "custom-woodcutting-speed-percent": "%",
+    "custom-woodcutting-double-drop-chance": "%",
+    "custom-woodcutting-experience-percent": "%",
+    "custom-mining-speed-percent": "%",
+    "custom-mining-double-drop-chance": "%",
+    "custom-mining-experience-percent": "%",
+    "custom-farming-double-drop-chance": "%",
+    "custom-farming-experience-percent": "%",
+    "custom-farming-extra-harvest-amount": ""
+  },
+  "links": {
+    "movement-speed": "#/combat/attributes",
+    "attack-damage": "#/combat/damage",
+    "attack-speed": "#/combat/attributes",
+    "range": "#/combat/attributes",
+    "mana-cost": "#/combat/attributes",
+    "stamina-cost": "#/combat/attributes",
+    "arrow-velocity": "#/combat/attributes",
+    "blunt-power": "#/combat/attributes",
+    "blunt-rating": "#/combat/attributes",
+    "two-handed": "#/combat/attributes",
+    "handworn": "#/combat/attributes",
+    "knockback": "#/combat/attributes",
+    "recoil": "#/combat/attributes",
+    "note-weight": "#/combat/attributes",
+    "lifesteal": "#/combat/defense",
+    "pve-damage": "#/combat/damage",
+    "pvp-damage": "#/combat/damage",
+    "magic-damage": "#/combat/damage",
+    "weapon-damage": "#/combat/damage",
+    "undead-damage": "#/combat/damage",
+    "skill-damage": "#/combat/damage",
+    "physical-damage": "#/combat/damage",
+    "projectile-damage": "#/combat/damage",
+    "faction-damage-undead": "#/combat/damage",
+    "ability-format": "#/combat/attributes",
+    "ability-modifier": "#/combat/attributes",
+    "ability-splitter": "#/combat/attributes",
+    "block-power": "#/combat/attributes",
+    "block-rating": "#/combat/attributes",
+    "block-cooldown-reduction": "#/combat/attributes",
+    "dodge-rating": "#/combat/defense",
+    "dodge-cooldown-reduction": "#/combat/attributes",
+    "parry-rating": "#/combat/attributes",
+    "parry-cooldown-reduction": "#/combat/attributes",
+    "armor": "#/combat/defense",
+    "armor-toughness": "#/combat/defense",
+    "knockback-resistance": "#/combat/defense",
+    "defense": "#/combat/attributes",
+    "damage-reduction": "#/combat/defense",
+    "fall-damage-reduction": "#/combat/defense",
+    "fire-damage-reduction": "#/combat/defense",
+    "magic-damage-reduction": "#/combat/defense",
+    "projectile-damage-reduction": "#/combat/defense",
+    "physical-damage-reduction": "#/combat/defense",
+    "pve-damage-reduction": "#/combat/defense",
+    "pvp-damage-reduction": "#/combat/defense",
+    "max-stamina": "#/combat/attributes",
+    "stamina-regeneration": "#/combat/defense",
+    "additional-experience-alchemy": "#/combat/attributes",
+    "additional-experience-cooking": "#/combat/attributes",
+    "additional-experience-farming": "#/combat/attributes",
+    "additional-experience-fishing": "#/combat/attributes",
+    "additional-experience-mining": "#/combat/attributes",
+    "additional-experience-smelting": "#/combat/attributes",
+    "additional-experience-smithing": "#/combat/attributes",
+    "additional-experience-woodcutting": "#/combat/attributes",
+    "perm-effect": "#/combat/attributes",
+    "command": "#/combat/attributes",
+    "item-cooldown": "#/combat/attributes",
+    "arrow-potion-effects": "#/combat/attributes",
+    "restore-health": "#/combat/attributes",
+    "restore-food": "#/combat/attributes",
+    "restore-saturation": "#/combat/attributes",
+    "restore-mana": "#/combat/attributes",
+    "restore-stamina": "#/combat/attributes",
+    "effect": "#/combat/attributes",
+    "repair": "#/combat/attributes",
+    "repair-percent": "#/combat/attributes",
+    "can-identify": "#/combat/attributes",
+    "can-deconstruct": "#/combat/attributes",
+    "can-deskin": "#/combat/attributes",
+    "success-rate": "#/combat/attributes",
+    "max-consume": "#/combat/attributes",
+    "empty-gem-socket": "#/combat/attributes",
+    "filled-gem-socket": "#/combat/attributes",
+    "when-applied": "#/combat/attributes",
+    "gem-stone-lore": "#/combat/attributes",
+    "soulbinding-chance": "#/combat/attributes",
+    "soulbound-break-chance": "#/combat/attributes",
+    "soulbound-level": "#/combat/attributes",
+    "autosmelt": "#/combat/attributes",
+    "bouncing-crack": "#/combat/attributes",
+    "pickaxe-power": "#/combat/attributes",
+    "durability": "#/combat/attributes",
+    "item-type": "#/combat/attributes",
+    "tier": "#/combat/attributes",
+    "required-class": "#/combat/attributes",
+    "required-dexterity": "#/combat/attributes",
+    "required-strength": "#/combat/attributes",
+    "required-intelligence": "#/combat/attributes",
+    "additional-dexterity": "#/combat/attributes",
+    "additional-strength": "#/combat/attributes",
+    "additional-intelligence": "#/combat/attributes",
+    "profession-alchemy": "#/combat/attributes",
+    "profession-cooking": "#/combat/attributes",
+    "profession-farming": "#/combat/attributes",
+    "profession-fishing": "#/combat/attributes",
+    "profession-mining": "#/combat/attributes",
+    "profession-smelting": "#/combat/attributes",
+    "profession-smithing": "#/combat/attributes",
+    "profession-woodcutting": "#/combat/attributes",
+    "elemental-damage": "#/combat/damage",
+    "elemental-damage-percent": "#/combat/damage",
+    "elemental-defense": "#/combat/attributes",
+    "elemental-defense-percent": "#/combat/attributes",
+    "elemental-weakness": "#/combat/attributes",
+    "custom-myluck": "#/combat/attributes",
+    "custom-layer": "#/combat/attributes",
+    "custom-map": "#/combat/attributes",
+    "custom-mapdisplay": "#/combat/attributes",
+    "custom-season": "#/combat/attributes",
+    "custom-seasondisplay": "#/combat/attributes",
+    "custom-attackspeedbouns": "#/combat/attributes",
+    "custom-physical-damage-bonus": "#/combat/damage",
+    "custom-fire-damage-bonus": "#/combat/damage",
+    "custom-ice-damage-bonus": "#/combat/damage",
+    "custom-thunder-damage-bonus": "#/combat/damage",
+    "custom-poison-damage-bonus": "#/combat/damage",
+    "custom-fishing-speed-percent": "#/combat/attributes",
+    "chance": "#/combat/attributes",
+    "fishing-strength": "#/combat/attributes",
+    "critical-fishing-chance": "#/combat/damage",
+    "critical-fishing-failure-chance": "#/combat/damage",
+    "critical-strike-power": "#/combat/damage",
+    "critical-strike-chance": "#/combat/damage",
+    "max-mana": "#/combat/attributes",
+    "max-health": "#/combat/attributes",
+    "mana-regeneration": "#/combat/defense",
+    "health-regeneration": "#/combat/defense",
+    "custom-movement-speed-bonus-percent": "#/combat/attributes",
+    "additional-experience": "#/combat/attributes",
+    "cooldown-reduction": "#/combat/attributes",
+    "spell-vampirism": "#/combat/attributes",
+    "custom-lifesteal-percent": "#/combat/defense",
+    "custom-armor": "#/combat/defense",
+    "custom-dodge-chance-percent": "#/combat/defense",
+    "custom-fire-resistance": "#/combat/defense",
+    "custom-ice-resistance": "#/combat/defense",
+    "custom-thunder-resistance": "#/combat/defense",
+    "custom-poison-resistance": "#/combat/defense",
+    "custom-tenacity-percent": "#/combat/attributes",
+    "custom-shield-cooldown-reduction-percent": "#/combat/shield",
+    "custom-summon-movement-speed-bonus-percent": "#/combat/summons",
+    "custom-summon-health-bonus-percent": "#/combat/summons",
+    "custom-summon-damage-bonus-percent": "#/combat/summons",
+    "custom-summon-healing-bonus-percent": "#/combat/summons",
+    "custom-summon-attack-speed-bonus-percent": "#/combat/summons",
+    "custom-physical-damage-bonus-percent": "#/combat/damage",
+    "custom-fire-damage-bonus-percent": "#/combat/damage",
+    "custom-ice-damage-bonus-percent": "#/combat/damage",
+    "custom-thunder-damage-bonus-percent": "#/combat/damage",
+    "custom-poison-damage-bonus-percent": "#/combat/damage",
+    "custom-all-element-damage-bonus-percent": "#/combat/damage",
+    "custom-mana-on-kill": "#/combat/attributes",
+    "custom-health-on-kill": "#/combat/attributes",
+    "custom-healing-received-percent": "#/combat/defense",
+    "custom-spell-damage-bonus-percent": "#/combat/damage",
+    "custom-melee-damage-bonus-percent": "#/combat/damage",
+    "custom-ranged-damage-bonus-percent": "#/combat/damage",
+    "custom-area-damage-bonus-percent": "#/combat/damage",
+    "custom-explosion-damage-bonus-percent": "#/combat/damage",
+    "custom-dot-damage-bonus-percent": "#/combat/damage",
+    "custom-all-element-damage-bonus": "#/combat/damage",
+    "custom-all-element-resistance-percent": "#/combat/defense",
+    "custom-damage-reduction-percent": "#/combat/defense",
+    "custom-damage-bonus-percent": "#/combat/damage",
+    "custom-total-armor-percent": "#/combat/defense",
+    "skill-critical-strike-chance": "#/combat/damage",
+    "skill-critical-strike-power": "#/combat/damage",
+    "custom-healing-bonus-percent": "#/combat/defense",
+    "custom-fire-dot-damage-bonus-percent": "#/combat/damage",
+    "custom-ice-dot-damage-bonus-percent": "#/combat/damage",
+    "custom-thunder-dot-damage-bonus-percent": "#/combat/damage",
+    "custom-poison-dot-damage-bonus-percent": "#/combat/damage",
+    "custom-physical-dot-damage-bonus-percent": "#/combat/damage",
+    "custom-normal-monster-damage-bonus-percent": "#/combat/damage",
+    "custom-elite-monster-damage-bonus-percent": "#/combat/damage",
+    "custom-normal-monster-damage-reduction-percent": "#/combat/defense",
+    "custom-elite-monster-damage-reduction-percent": "#/combat/defense",
+    "custom-shield-gain-percent": "#/combat/shield",
+    "custom-fire-critical-damage-bonus-percent": "#/combat/damage",
+    "custom-ice-critical-damage-bonus-percent": "#/combat/damage",
+    "custom-thunder-critical-damage-bonus-percent": "#/combat/damage",
+    "custom-poison-critical-damage-bonus-percent": "#/combat/damage",
+    "custom-physical-critical-damage-bonus-percent": "#/combat/damage",
+    "custom-lord-monster-damage-bonus-percent": "#/combat/damage",
+    "custom-boss-monster-damage-bonus-percent": "#/combat/damage",
+    "custom-lord-monster-damage-reduction-percent": "#/combat/defense",
+    "custom-boss-monster-damage-reduction-percent": "#/combat/defense",
+    "custom-mana-cost-reduction-percent": "#/combat/attributes",
+    "custom-shield-decay-threshold": "#/combat/shield",
+    "custom-food-regeneration": "#/combat/defense",
+    "custom-woodcutting-speed-percent": "#/combat/attributes",
+    "custom-woodcutting-double-drop-chance": "#/combat/attributes",
+    "custom-woodcutting-experience-percent": "#/combat/attributes",
+    "custom-mining-speed-percent": "#/combat/attributes",
+    "custom-mining-double-drop-chance": "#/combat/attributes",
+    "custom-mining-experience-percent": "#/combat/attributes",
+    "custom-farming-double-drop-chance": "#/combat/attributes",
+    "custom-farming-experience-percent": "#/combat/attributes",
+    "custom-farming-extra-harvest-amount": "#/combat/attributes"
+  },
+  "icons": {
+    "custom-physical-damage-bonus-percent": "assets/server/stats/affix_t2.png",
+    "custom-fire-damage-bonus-percent": "assets/server/stats/affix_t2.png",
+    "custom-ice-damage-bonus-percent": "assets/server/stats/affix_t2.png",
+    "custom-thunder-damage-bonus-percent": "assets/server/stats/affix_t2.png",
+    "custom-poison-damage-bonus-percent": "assets/server/stats/affix_t2.png",
+    "custom-all-element-damage-bonus-percent": "assets/server/stats/affix_t2.png",
+    "custom-mana-on-kill": "assets/server/stats/affix_t2.png",
+    "custom-health-on-kill": "assets/server/stats/affix_t2.png",
+    "custom-healing-received-percent": "assets/server/stats/affix_t2.png",
+    "custom-fire-dot-damage-bonus-percent": "assets/server/stats/affix_t3.png",
+    "custom-ice-dot-damage-bonus-percent": "assets/server/stats/affix_t3.png",
+    "custom-thunder-dot-damage-bonus-percent": "assets/server/stats/affix_t3.png",
+    "custom-poison-dot-damage-bonus-percent": "assets/server/stats/affix_t3.png",
+    "custom-physical-dot-damage-bonus-percent": "assets/server/stats/affix_t3.png",
+    "custom-normal-monster-damage-bonus-percent": "assets/server/stats/affix_t3.png",
+    "custom-elite-monster-damage-bonus-percent": "assets/server/stats/affix_t3.png",
+    "custom-normal-monster-damage-reduction-percent": "assets/server/stats/affix_t3.png",
+    "custom-elite-monster-damage-reduction-percent": "assets/server/stats/affix_t3.png",
+    "custom-shield-gain-percent": "assets/server/stats/affix_t3.png",
+    "custom-fire-critical-damage-bonus-percent": "assets/server/stats/affix_t4.png",
+    "custom-ice-critical-damage-bonus-percent": "assets/server/stats/affix_t4.png",
+    "custom-thunder-critical-damage-bonus-percent": "assets/server/stats/affix_t4.png",
+    "custom-poison-critical-damage-bonus-percent": "assets/server/stats/affix_t4.png",
+    "custom-physical-critical-damage-bonus-percent": "assets/server/stats/affix_t4.png",
+    "custom-lord-monster-damage-bonus-percent": "assets/server/stats/affix_t4.png",
+    "custom-boss-monster-damage-bonus-percent": "assets/server/stats/affix_t4.png",
+    "custom-lord-monster-damage-reduction-percent": "assets/server/stats/affix_t4.png",
+    "custom-boss-monster-damage-reduction-percent": "assets/server/stats/affix_t4.png",
+    "custom-mana-cost-reduction-percent": "assets/server/stats/affix_t4.png",
+    "custom-shield-decay-threshold": "assets/server/stats/affix_t5.png",
+    "attack-damage": "assets/server/stats/attack_damage.png",
+    "custom-layer": "assets/server/stats/ability_haste.png",
+    "custom-mapdisplay": "assets/server/stats/ability_haste.png",
+    "cooldown-reduction": "assets/server/stats/ability_haste.png",
+    "attack-speed": "assets/server/stats/attack_speed.png",
+    "custom-attackspeedbouns": "assets/server/stats/attack_speed.png",
+    "custom-summon-attack-speed-bonus-percent": "assets/server/stats/attack_speed.png",
+    "critical-strike-chance": "assets/server/stats/crit_chance.png",
+    "critical-strike-power": "assets/server/stats/crit_damage.png",
+    "custom-damage-reduction-percent": "assets/server/stats/damage_reduction.png",
+    "custom-armor": "assets/server/stats/defense.png",
+    "max-health": "assets/server/stats/health.png",
+    "health-regeneration": "assets/server/stats/health.png",
+    "custom-lifesteal-percent": "assets/server/stats/life_steal.png",
+    "movement-speed": "assets/server/stats/movement_speed.png",
+    "custom-movement-speed-bonus-percent": "assets/server/stats/movement_speed.png",
+    "custom-summon-movement-speed-bonus-percent": "assets/server/stats/movement_speed.png",
+    "custom-physical-damage-bonus": "assets/server/stats/physical_damage.png",
+    "spell-vampirism": "assets/server/stats/spell_vamp.png",
+    "custom-tenacity-percent": "assets/server/stats/tenacity.png",
+    "additional-experience": "assets/server/stats/rune.png",
+    "custom-dodge-chance-percent": "assets/server/stats/dodge.png",
+    "max-mana": "assets/server/stats/mana.png",
+    "mana-regeneration": "assets/server/stats/mana.png",
+    "skill-critical-strike-chance": "assets/server/stats/skill_crit_damage.png",
+    "skill-critical-strike-power": "assets/server/stats/skill_crit_chance.png",
+    "custom-seasondisplay": "assets/server/stats/fire.png",
+    "custom-fire-damage-bonus": "assets/server/stats/fire.png",
+    "custom-ice-damage-bonus": "assets/server/stats/ice.png",
+    "custom-thunder-damage-bonus": "assets/server/stats/thunder.png",
+    "custom-poison-damage-bonus": "assets/server/stats/poison.png",
+    "success-rate": "assets/server/stats/dice.png",
+    "custom-all-element-damage-bonus": "assets/server/stats/all_element_damage.png",
+    "custom-damage-bonus-percent": "assets/server/stats/damage_increase.png",
+    "custom-spell-damage-bonus-percent": "assets/server/stats/spell_damage_bonus.png",
+    "custom-melee-damage-bonus-percent": "assets/server/stats/melee_damage_bonus.png",
+    "custom-ranged-damage-bonus-percent": "assets/server/stats/ranged_damage_bonus.png",
+    "custom-area-damage-bonus-percent": "assets/server/stats/area_damage_bonus.png",
+    "custom-explosion-damage-bonus-percent": "assets/server/stats/explosion_damage_bonus.png",
+    "custom-dot-damage-bonus-percent": "assets/server/stats/dot_damage_bonus.png",
+    "custom-healing-bonus-percent": "assets/server/stats/healing_bonus.png",
+    "custom-summon-health-bonus-percent": "assets/server/stats/summon_health_bonus.png",
+    "custom-summon-damage-bonus-percent": "assets/server/stats/summon_damage_bonus.png",
+    "custom-summon-healing-bonus-percent": "assets/server/stats/summon_healing_bonus.png",
+    "custom-fire-resistance": "assets/server/stats/fire_resistance.png",
+    "custom-ice-resistance": "assets/server/stats/ice_resistance.png",
+    "custom-thunder-resistance": "assets/server/stats/thunder_resistance.png",
+    "custom-poison-resistance": "assets/server/stats/poison_resistance.png",
+    "custom-all-element-resistance-percent": "assets/server/stats/all_element_resistance.png",
+    "custom-total-armor-percent": "assets/server/stats/total_armor.png",
+    "custom-shield-cooldown-reduction-percent": "assets/server/stats/shield_cooldown.png",
+    "fishing-strength": "assets/server/stats/fishing_strength.png",
+    "critical-fishing-chance": "assets/server/stats/critical_fishing_chance.png",
+    "critical-fishing-failure-chance": "assets/server/stats/critical_fishing_failure_chance.png",
+    "chance": "assets/server/stats/fishing_luck.png",
+    "custom-fishing-speed-percent": "assets/server/stats/fishing_bite_speed.png",
+    "custom-woodcutting-speed-percent": "assets/server/stats/woodcutting_speed.png",
+    "custom-woodcutting-double-drop-chance": "assets/server/stats/double_drop.png",
+    "custom-mining-double-drop-chance": "assets/server/stats/double_drop.png",
+    "custom-farming-double-drop-chance": "assets/server/stats/double_drop.png",
+    "custom-woodcutting-experience-percent": "assets/server/stats/additional_experience.png",
+    "custom-mining-experience-percent": "assets/server/stats/additional_experience.png",
+    "custom-farming-experience-percent": "assets/server/stats/additional_experience.png",
+    "custom-mining-speed-percent": "assets/server/stats/mining_speed.png",
+    "custom-farming-extra-harvest-amount": "assets/server/stats/extra_harvest.png"
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "date": "2026-11-16",
+  "userConfirmed": {
+    "address": "topcraft.cc",
+    "clientVersion": "1.21",
+    "classSelection": "User will remove class point cost; not changed in this task",
+    "travel": "NPC travel between lobby and duskforest not added"
+  },
+  "pages": {
+    "guide/join.md": [
+      "plugins/ItemsAdder/config.yml",
+      "plugins/ItemsAdder_4.0.5_.jar",
+      "plugin-src/TopCraftPackCompat/TopCraftPackCompat.java"
+    ],
+    "guide/start.md": [
+      "server.properties",
+      "plugins/TopCraftEquipmentSlots/config.yml",
+      "plugins/MMOCore/config.yml",
+      "plugins/MMOCore/gui/class-select.yml",
+      "plugins/MMOCore/gui/class-confirm/class-confirm-default.yml",
+      "plugins/MMOCore/gui/skill-list.yml",
+      "plugins/MMOCore/classes/战士.yml",
+      "plugins/MMOCore/classes/法师.yml",
+      "plugins/MMOCore/classes/牧师.yml",
+      "plugins/TopCraft-NoHunger/config.yml",
+      "plugins/MMOCore-1.13.1-20260531.191529-59.jar"
+    ],
+    "guide/controls.md": [
+      "plugins/MMOCore/config.yml",
+      "plugins/MMOCore/gui/skill-list.yml",
+      "plugins/PlayerProfiles/config.yml",
+      "plugins/BetterHud/layouts/topcraft-skill-keys.yml",
+      "plugins/MMOCore-1.13.1-20260531.191529-59.jar"
+    ],
+    "guide/interface.md": [
+      "plugins/TopCraftEquipmentSlots/config.yml",
+      "plugin-src/TopCraftEquipmentSlots/TopCraftEquipmentSlots.java",
+      "plugins/zMenu/inventories/main_menu.yml",
+      "plugins/BetterHud/layouts/player-layout.yml",
+      "plugins/BetterHud/layouts/party-layout.yml",
+      "plugins/BetterHud/layouts/topcraft-skill-keys.yml",
+      "plugins/BetterHud/layouts/topcraft-mage-skills.yml",
+      "plugins/TopCraftQuestBook/config.yml"
+    ],
+    "guide/rewards.md": [
+      "plugins/DailyRewards/config.yml",
+      "plugins/DailyReward-2.14.0.jar",
+      "plugins/Citizens/saves.yml",
+      "plugins/MMOItems/item/药水.yml",
+      "plugins/MMOItems/item/consumable.yml"
+    ],
+    "guide/help.md": [
+      "plugins/MMOCore/commands.yml",
+      "plugins/DailyRewards/config.yml",
+      "plugins/ItemsAdder/config.yml"
+    ]
+  },
+  "sources": [
+    "plugin-src/TopCraftEquipmentSlots/TopCraftEquipmentSlots.java",
+    "plugin-src/TopCraftPackCompat/TopCraftPackCompat.java",
+    "plugins/BetterHud/layouts/party-layout.yml",
+    "plugins/BetterHud/layouts/player-layout.yml",
+    "plugins/BetterHud/layouts/topcraft-mage-skills.yml",
+    "plugins/BetterHud/layouts/topcraft-skill-keys.yml",
+    "plugins/Citizens/saves.yml",
+    "plugins/DailyReward-2.14.0.jar",
+    "plugins/DailyRewards/config.yml",
+    "plugins/ItemsAdder/config.yml",
+    "plugins/ItemsAdder_4.0.5_.jar",
+    "plugins/MMOCore-1.13.1-20260531.191529-59.jar",
+    "plugins/MMOCore/classes/战士.yml",
+    "plugins/MMOCore/classes/法师.yml",
+    "plugins/MMOCore/classes/牧师.yml",
+    "plugins/MMOCore/commands.yml",
+    "plugins/MMOCore/config.yml",
+    "plugins/MMOCore/gui/class-confirm/class-confirm-default.yml",
+    "plugins/MMOCore/gui/class-select.yml",
+    "plugins/MMOCore/gui/skill-list.yml",
+    "plugins/MMOItems/item/consumable.yml",
+    "plugins/MMOItems/item/药水.yml",
+    "plugins/PlayerProfiles/config.yml",
+    "plugins/TopCraft-NoHunger/config.yml",
+    "plugins/TopCraftEquipmentSlots/config.yml",
+    "plugins/TopCraftQuestBook/config.yml",
+    "plugins/zMenu/inventories/main_menu.yml",
+    "server.properties"
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "date": "2026-11-17",
+  "tool": "built-in image_gen",
+  "icons": [
+    {
+      "slug": "command-reference",
+      "subject": "An unrolled cream parchment scroll with golden rolled ends and two large dark brown command-prompt symbols >_ centered on its face. A small red ribbon at the lower edge. Symbolic command reference, not a menu button.",
+      "prompt": "Use case: stylized-concept. Create ONE dedicated small icon for a fantasy Minecraft RPG wiki, readable at 32x32 CSS pixels. Hard-edge pixel-art inventory sprite, coherent coarse 32x32 logical pixel grid enlarged to square canvas. Warm gold, ochre, chestnut, dark brown one-pixel contour, cream highlights, 3-4 discrete flat shades per material and a restrained colored accent. Match fantasy parchment scroll, gold-roof castle, crossed pickaxe/herb and ochre notice-board inventory sprites. Compact clear silhouette with few large forms, fills 85 percent of canvas centered. True RGBA transparency. No button border, no backing tile, no scene, no tiny clutter, no gradient, no soft glow, no antialiasing, no realistic rendering. Only the subject requested. No words, letters or watermark except specified command symbols.\nSubject: An unrolled cream parchment scroll with golden rolled ends and two large dark brown command-prompt symbols >_ centered on its face. A small red ribbon at the lower edge. Symbolic command reference, not a menu button.",
+      "path": "assets/editorial-icons/command-reference.png",
+      "source": "C:\\Users\\10740\\.codex\\generated_images\\01a1d559-e028-7ba1-8da9-017db1a4259b\\exec-4c7c0c49-cc57-4582-88ce-e9bcfc51c655.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "sha256": "2da322dff41fd8ed3d84027b819b9f950efe2251c51a6dbea799afa9e4c1e2bc"
+    },
+    {
+      "slug": "connection-diagnostics",
+      "subject": "A small silver magnifying glass with chestnut handle tilted diagonally, examining a cyan crystal with a dark visible crack. A tiny gold wrench alongside the crystal. Represents troubleshooting connection and visual problems; keep just three readable forms, no text.",
+      "prompt": "Use case: stylized-concept. Create ONE dedicated small icon for a fantasy Minecraft RPG wiki, readable at 32x32 CSS pixels. Hard-edge pixel-art inventory sprite, coherent coarse 32x32 logical pixel grid enlarged to square canvas. Warm gold, ochre, chestnut, dark brown one-pixel contour, cream highlights, 3-4 discrete flat shades per material and a restrained colored accent. Match fantasy parchment scroll, gold-roof castle, crossed pickaxe/herb and ochre notice-board inventory sprites. Compact clear silhouette with few large forms, fills 85 percent of canvas centered. True RGBA transparency. No button border, no backing tile, no scene, no tiny clutter, no gradient, no soft glow, no antialiasing, no realistic rendering. Only the subject requested. No words, letters or watermark except specified command symbols.\nSubject: A small silver magnifying glass with chestnut handle tilted diagonally, examining a cyan crystal with a dark visible crack. A tiny gold wrench alongside the crystal. Represents troubleshooting connection and visual problems; keep just three readable forms, no text.",
+      "path": "assets/editorial-icons/connection-diagnostics.png",
+      "source": "C:\\Users\\10740\\.codex\\generated_images\\01a1d559-e028-7ba1-8da9-017db1a4259b\\exec-1905cd33-d1e8-420e-abdc-278b15330ba1.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "sha256": "c8b845de6cb24d553b391dd71ca6927e3142011e0b083f0356cf19579fdf1101"
+    },
+    {
+      "slug": "feedback-letter",
+      "subject": "A cream parchment letter half tucked into a warm gold envelope, with a red wax seal and one cream feather quill angled up beside it. Distinct report-writing silhouette. No writing or text, no question mark.",
+      "prompt": "Use case: stylized-concept. Create ONE dedicated small icon for a fantasy Minecraft RPG wiki, readable at 32x32 CSS pixels. Hard-edge pixel-art inventory sprite, coherent coarse 32x32 logical pixel grid enlarged to square canvas. Warm gold, ochre, chestnut, dark brown one-pixel contour, cream highlights, 3-4 discrete flat shades per material and a restrained colored accent. Match fantasy parchment scroll, gold-roof castle, crossed pickaxe/herb and ochre notice-board inventory sprites. Compact clear silhouette with few large forms, fills 85 percent of canvas centered. True RGBA transparency. No button border, no backing tile, no scene, no tiny clutter, no gradient, no soft glow, no antialiasing, no realistic rendering. Only the subject requested. No words, letters or watermark except specified command symbols.\nSubject: A cream parchment letter half tucked into a warm gold envelope, with a red wax seal and one cream feather quill angled up beside it. Distinct report-writing silhouette. No writing or text, no question mark.",
+      "path": "assets/editorial-icons/feedback-letter.png",
+      "source": "C:\\Users\\10740\\.codex\\generated_images\\01a1d559-e028-7ba1-8da9-017db1a4259b\\exec-4ef3efd3-e2f6-40cd-926e-4783d6801369.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "sha256": "f271c049904f6e15ca3c704bbbdb5ee58b0faabefea97715f2f6ea609ef5420b"
+    },
+    {
+      "slug": "party-follow",
+      "subject": "Two tiny hooded adventurer busts, ochre leader ahead on the right and blue follower behind left, beneath one bold gold right-pointing movement arrow. Simple grouped silhouettes representing party members following to another world. No faces or fine clothing detail.",
+      "prompt": "Use case: stylized-concept. Create ONE dedicated small icon for a fantasy Minecraft RPG wiki, readable at 32x32 CSS pixels. Hard-edge pixel-art inventory sprite, coherent coarse 32x32 logical pixel grid enlarged to square canvas. Warm gold, ochre, chestnut, dark brown one-pixel contour, cream highlights, 3-4 discrete flat shades per material and a restrained colored accent. Match fantasy parchment scroll, gold-roof castle, crossed pickaxe/herb and ochre notice-board inventory sprites. Compact clear silhouette with few large forms, fills 85 percent of canvas centered. True RGBA transparency. No button border, no backing tile, no scene, no tiny clutter, no gradient, no soft glow, no antialiasing, no realistic rendering. Only the subject requested. No words, letters or watermark except specified command symbols.\nSubject: Two tiny hooded adventurer busts, ochre leader ahead on the right and blue follower behind left, beneath one bold gold right-pointing movement arrow. Simple grouped silhouettes representing party members following to another world. No faces or fine clothing detail.",
+      "path": "assets/editorial-icons/party-follow.png",
+      "source": "C:\\Users\\10740\\.codex\\generated_images\\01a1d559-e028-7ba1-8da9-017db1a4259b\\exec-36abbdcc-0aa6-4156-bf20-60c62686b6c8.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "sha256": "cd37c747d47d08a66201b399bc5dac500506855c0b5814ee598d689b64be9490"
+    },
+    {
+      "slug": "rally-point",
+      "subject": "A small red pennant on a gold pole planted in the center of a compact gray stone circular meeting marker. Two small gold chevrons on the ground point toward the pole, symbolizing gathering at a shared arrival point. No people, no map sheet, no landscape, no words.",
+      "prompt": "Use case: stylized-concept. Create ONE dedicated small icon for a fantasy Minecraft RPG wiki, readable at 32x32 CSS pixels. Hard-edge pixel-art inventory sprite, coherent coarse 32x32 logical pixel grid enlarged to square canvas. Warm gold, ochre, chestnut, dark brown one-pixel contour, cream highlights, 3-4 discrete flat shades per material and a restrained colored accent. Match fantasy parchment scroll, gold-roof castle, crossed pickaxe/herb and ochre notice-board inventory sprites. Compact clear silhouette with few large forms, fills 85 percent of canvas centered. True RGBA transparency. No button border, no backing tile, no scene, no tiny clutter, no gradient, no soft glow, no antialiasing, no realistic rendering. Only the subject requested. No words, letters or watermark except specified command symbols.\nSubject: A small red pennant on a gold pole planted in the center of a compact gray stone circular meeting marker. Two small gold chevrons on the ground point toward the pole, symbolizing gathering at a shared arrival point. No people, no map sheet, no landscape, no words.",
+      "path": "assets/editorial-icons/rally-point.png",
+      "source": "C:\\Users\\10740\\.codex\\generated_images\\01a1d559-e028-7ba1-8da9-017db1a4259b\\exec-a6263db3-1d11-4cbc-ad18-66df5c252041.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "sha256": "6ec247fe7c6766708a5b19406efe5439faa952d0345ff8664565278050f5ad6a"
+    }
+  ]
+}

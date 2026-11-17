@@ -1,0 +1,88 @@
+{
+  "date": "2026-11-17",
+  "tool": "built-in image_gen",
+  "preserved": [
+    "assets/server/guide/menu-quests.png",
+    "assets/server/guide/menu-professions.png",
+    "assets/server/guide/menu-party.png",
+    "assets/server/guide/menu-announcements.png"
+  ],
+  "icons": [
+    {
+      "slug": "getting-started",
+      "title": "开始冒险",
+      "subject": "A single sturdy chestnut leather adventurer's boot seen from the side, toe pointing right, golden folded cuff and sole, a small red tied travel cloth around its upper cuff. A clear forward-adventure silhouette. No scroll, no map, no book.",
+      "prompt": "Use case: stylized-concept. Asset type: a dedicated TopCraft fantasy RPG wiki category icon displayed at only 32x32 CSS pixels. Create ONE isolated hard-edged pixel-art inventory sprite, a coherent 32x32 logical pixel grid enlarged with nearest-neighbor to a square canvas. Match a classic Minecraft fantasy inventory icon family: tiny parchment and red-seal scroll, crossed wood-handled pickaxe and green herb, small gold-roof castle with red banners, ochre notice board. These are STYLE examples only; draw only the requested subject below. Warm ochre, gold and chestnut outlines; very dark brown one-pixel silhouette border, 3-4 discrete shade steps per material, cream highlights, restrained saturated accent color. Compact bold silhouette, very few large readable forms. Centered composition, subject occupies about 85 percent of canvas with transparent margins. True RGBA transparent background. No button frame, no circle tile, no scene, no words or letters, no drop shadow outside the sprite, no gradients, no glow haze, no antialiasing, no realistic rendering or tiny ornamental clutter.\nSubject: A single sturdy chestnut leather adventurer's boot seen from the side, toe pointing right, golden folded cuff and sole, a small red tied travel cloth around its upper cuff. A clear forward-adventure silhouette. No scroll, no map, no book.",
+      "path": "assets/home-icons/getting-started.png",
+      "source": "C:\\Users\\10740\\.codex\\generated_images\\01a1d559-e028-7ba1-8da9-017db1a4259b\\exec-39c280de-973f-49b1-a155-7ad2b30fcd58.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "bytes": 825447,
+      "sha256": "9fd4da42e851036b3994c3b0a9a2e2dce097d02671b18718ba0b46474295fe73"
+    },
+    {
+      "slug": "classes-skills",
+      "title": "职业与技能",
+      "subject": "A compact three-part vocation emblem: a short silver sword and a wood-and-gold blue-crystal mage wand crossed behind a small cream-and-gold four-point holy star in the foreground. Exactly these three readable shapes, representing warrior, mage, priest. No shield, no humanoid, no letters.",
+      "prompt": "Use case: stylized-concept. Asset type: a dedicated TopCraft fantasy RPG wiki category icon displayed at only 32x32 CSS pixels. Create ONE isolated hard-edged pixel-art inventory sprite, a coherent 32x32 logical pixel grid enlarged with nearest-neighbor to a square canvas. Match a classic Minecraft fantasy inventory icon family: tiny parchment and red-seal scroll, crossed wood-handled pickaxe and green herb, small gold-roof castle with red banners, ochre notice board. These are STYLE examples only; draw only the requested subject below. Warm ochre, gold and chestnut outlines; very dark brown one-pixel silhouette border, 3-4 discrete shade steps per material, cream highlights, restrained saturated accent color. Compact bold silhouette, very few large readable forms. Centered composition, subject occupies about 85 percent of canvas with transparent margins. True RGBA transparent background. No button frame, no circle tile, no scene, no words or letters, no drop shadow outside the sprite, no gradients, no glow haze, no antialiasing, no realistic rendering or tiny ornamental clutter.\nSubject: A compact three-part vocation emblem: a short silver sword and a wood-and-gold blue-crystal mage wand crossed behind a small cream-and-gold four-point holy star in the foreground. Exactly these three readable shapes, representing warrior, mage, priest. No shield, no humanoid, no letters.",
+      "path": "assets/home-icons/classes-skills.png",
+      "source": "C:\\Users\\10740\\.codex\\generated_images\\01a1d559-e028-7ba1-8da9-017db1a4259b\\exec-dcdc340d-4716-461b-96cf-62018a03cc78.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "bytes": 607606,
+      "sha256": "8356d48819c833c036d41997f5c72874d783dd915a8270b0b73b62253be9b611"
+    },
+    {
+      "slug": "combat-mechanics",
+      "title": "战斗机制",
+      "subject": "A compact steel kite shield with a gold rim and muted blue center struck at its upper-left edge by one diagonally downward silver sword with brown-gold hilt. One small ochre impact spark at the contact point. Bold readable combat/block silhouette, no magic wand.",
+      "prompt": "Use case: stylized-concept. Asset type: a dedicated TopCraft fantasy RPG wiki category icon displayed at only 32x32 CSS pixels. Create ONE isolated hard-edged pixel-art inventory sprite, a coherent 32x32 logical pixel grid enlarged with nearest-neighbor to a square canvas. Match a classic Minecraft fantasy inventory icon family: tiny parchment and red-seal scroll, crossed wood-handled pickaxe and green herb, small gold-roof castle with red banners, ochre notice board. These are STYLE examples only; draw only the requested subject below. Warm ochre, gold and chestnut outlines; very dark brown one-pixel silhouette border, 3-4 discrete shade steps per material, cream highlights, restrained saturated accent color. Compact bold silhouette, very few large readable forms. Centered composition, subject occupies about 85 percent of canvas with transparent margins. True RGBA transparent background. No button frame, no circle tile, no scene, no words or letters, no drop shadow outside the sprite, no gradients, no glow haze, no antialiasing, no realistic rendering or tiny ornamental clutter.\nSubject: A compact steel kite shield with a gold rim and muted blue center struck at its upper-left edge by one diagonally downward silver sword with brown-gold hilt. One small ochre impact spark at the contact point. Bold readable combat/block silhouette, no magic wand.",
+      "path": "assets/home-icons/combat-mechanics.png",
+      "source": "C:\\Users\\10740\\.codex\\generated_images\\01a1d559-e028-7ba1-8da9-017db1a4259b\\exec-31942117-0733-42bf-b040-4de1aa555641.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "bytes": 694541,
+      "sha256": "a47449f3235a2876a350e0adba232ff88ee4cd75c67b9c8c23998cdd6befcb24"
+    },
+    {
+      "slug": "equipment-items",
+      "title": "装备与道具",
+      "subject": "An open small chestnut leather equipment satchel with gold buckle, one short silver dagger and a small round red potion with cream cork visibly protruding. Make the satchel the dominant solid silhouette; only these two contents. No chest, no UI button.",
+      "prompt": "Use case: stylized-concept. Asset type: a dedicated TopCraft fantasy RPG wiki category icon displayed at only 32x32 CSS pixels. Create ONE isolated hard-edged pixel-art inventory sprite, a coherent 32x32 logical pixel grid enlarged with nearest-neighbor to a square canvas. Match a classic Minecraft fantasy inventory icon family: tiny parchment and red-seal scroll, crossed wood-handled pickaxe and green herb, small gold-roof castle with red banners, ochre notice board. These are STYLE examples only; draw only the requested subject below. Warm ochre, gold and chestnut outlines; very dark brown one-pixel silhouette border, 3-4 discrete shade steps per material, cream highlights, restrained saturated accent color. Compact bold silhouette, very few large readable forms. Centered composition, subject occupies about 85 percent of canvas with transparent margins. True RGBA transparent background. No button frame, no circle tile, no scene, no words or letters, no drop shadow outside the sprite, no gradients, no glow haze, no antialiasing, no realistic rendering or tiny ornamental clutter.\nSubject: An open small chestnut leather equipment satchel with gold buckle, one short silver dagger and a small round red potion with cream cork visibly protruding. Make the satchel the dominant solid silhouette; only these two contents. No chest, no UI button.",
+      "path": "assets/home-icons/equipment-items.png",
+      "source": "C:\\Users\\10740\\.codex\\generated_images\\01a1d559-e028-7ba1-8da9-017db1a4259b\\exec-42876a0e-8620-40d1-8958-d1c0ae5ab614.png",
+      "size": [
+        1261,
+        1247
+      ],
+      "bytes": 889712,
+      "sha256": "130983a192c3afbe662b7feb687925b44933ba1e0ffc158931d31c58b52fbdfc"
+    },
+    {
+      "slug": "dungeon-challenges",
+      "title": "秘境挑战",
+      "subject": "A compact upright ancient stone doorway with a pointed arch, dark slate pixel blocks, restrained gold corner bands and a solid violet inner portal split into three discrete purple shade bands. Two short stone steps below. No scenery, no skull, no swirling haze, no key.",
+      "prompt": "Use case: stylized-concept. Asset type: a dedicated TopCraft fantasy RPG wiki category icon displayed at only 32x32 CSS pixels. Create ONE isolated hard-edged pixel-art inventory sprite, a coherent 32x32 logical pixel grid enlarged with nearest-neighbor to a square canvas. Match a classic Minecraft fantasy inventory icon family: tiny parchment and red-seal scroll, crossed wood-handled pickaxe and green herb, small gold-roof castle with red banners, ochre notice board. These are STYLE examples only; draw only the requested subject below. Warm ochre, gold and chestnut outlines; very dark brown one-pixel silhouette border, 3-4 discrete shade steps per material, cream highlights, restrained saturated accent color. Compact bold silhouette, very few large readable forms. Centered composition, subject occupies about 85 percent of canvas with transparent margins. True RGBA transparent background. No button frame, no circle tile, no scene, no words or letters, no drop shadow outside the sprite, no gradients, no glow haze, no antialiasing, no realistic rendering or tiny ornamental clutter.\nSubject: A compact upright ancient stone doorway with a pointed arch, dark slate pixel blocks, restrained gold corner bands and a solid violet inner portal split into three discrete purple shade bands. Two short stone steps below. No scenery, no skull, no swirling haze, no key.",
+      "path": "assets/home-icons/dungeon-challenges.png",
+      "source": "C:\\Users\\10740\\.codex\\generated_images\\01a1d559-e028-7ba1-8da9-017db1a4259b\\exec-8563f4a9-db6c-40a5-9248-03bdb17bb14c.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "bytes": 796007,
+      "sha256": "4d39b78644b72bb8f9093b5d41a414d1e2215ac319d2e6d023d6d2b769c54ddd"
+    }
+  ],
+  "preserved_sha256": {
+    "assets/server/guide/menu-quests.png": "77d7db9d632a1a8fab5cfcd8a00920ee52a4e6698d8368a6073fd672e265e911",
+    "assets/server/guide/menu-professions.png": "8cbbd2de06867fa27540626705ce67b9dd4944c69e1fe98da740045271d48f87",
+    "assets/server/guide/menu-party.png": "47ce08348cbc6ecc4f5833481a0894dec85c87b99f17017e21a694951342c330",
+    "assets/server/guide/menu-announcements.png": "6267fe7fe4c4a1301d8e640da23cf8c322b47a5cdbd7d4db8807ccbe1e374729"
+  }
+}

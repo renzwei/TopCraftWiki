@@ -1,0 +1,20 @@
+{
+  "横扫": "combat/skills/sweep.md",
+  "裂震斩": "combat/skills/rift-slash.md",
+  "飞锤": "combat/skills/flying-hammer.md",
+  "冲锋": "combat/skills/charge.md",
+  "跃击": "combat/skills/leap.md",
+  "图腾": "combat/skills/totem.md",
+  "火球术": "combat/skills/fireball.md",
+  "魔切": "combat/skills/mana-slash.md",
+  "寒冰箭": "combat/skills/ice-arrow.md",
+  "闪现": "combat/skills/blink.md",
+  "闪电链": "combat/skills/chain-lightning.md",
+  "陨石": "combat/skills/meteor.md",
+  "神辉斩": "combat/skills/divine-slash.md",
+  "圣光弹": "combat/skills/holy-bolt.md",
+  "天神降临": "combat/skills/divine-descent.md",
+  "守望之眼": "combat/skills/watchful-eye.md",
+  "圣翼巡礼": "combat/skills/holy-pilgrimage.md",
+  "天赐圣剑": "combat/skills/heavenly-sword.md"
+}

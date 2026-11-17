@@ -1,0 +1,451 @@
+{
+  "README.md": [
+    "plugins/zMenu/inventories/main_menu.yml",
+    "plugins/MMOCore/gui/class-select.yml"
+  ],
+  "guide/start.md": [
+    "server.properties",
+    "plugins/TopCraftEquipmentSlots/config.yml",
+    "plugins/MMOCore/config.yml",
+    "plugins/MMOCore/gui/class-select.yml",
+    "plugins/MMOCore/gui/class-confirm/class-confirm-default.yml",
+    "plugins/MMOCore/gui/skill-list.yml",
+    "plugins/MMOCore/classes/战士.yml",
+    "plugins/MMOCore/classes/法师.yml",
+    "plugins/MMOCore/classes/牧师.yml",
+    "plugins/TopCraft-NoHunger/config.yml",
+    "plugins/MMOCore-1.13.1-20260531.191529-59.jar"
+  ],
+  "guide/interface.md": [
+    "plugins/TopCraftEquipmentSlots/config.yml",
+    "plugin-src/TopCraftEquipmentSlots/TopCraftEquipmentSlots.java",
+    "plugins/zMenu/inventories/main_menu.yml",
+    "plugins/BetterHud/layouts/player-layout.yml",
+    "plugins/BetterHud/layouts/party-layout.yml",
+    "plugins/BetterHud/layouts/topcraft-skill-keys.yml",
+    "plugins/BetterHud/layouts/topcraft-mage-skills.yml",
+    "plugins/TopCraftQuestBook/config.yml"
+  ],
+  "combat/classes.md": [
+    "plugins/MMOCore/gui/class-select.yml",
+    "plugins/MMOCore/classes/战士.yml",
+    "plugins/MMOCore/classes/法师.yml",
+    "plugins/MMOCore/classes/牧师.yml"
+  ],
+  "combat/warrior.md": [
+    "plugins/MMOCore/classes/战士.yml"
+  ],
+  "combat/mage.md": [
+    "plugins/MMOCore/classes/法师.yml"
+  ],
+  "combat/priest.md": [
+    "plugins/MMOCore/classes/牧师.yml"
+  ],
+  "combat/skills.md": [
+    "plugins/MMOCore/config.yml",
+    "plugins/MMOCore/exp-tables/topcraft_skill_tree_rewards.yml",
+    "plugins/MMOCore/gui/skill-tree.yml",
+    "plugins/TopCraftSkillTreePresets/config.yml",
+    "plugin-src/TopCraftDivineDescent/timing.yml",
+    "plugins/TopCraftSkillTreeRefund-1.0.0.jar"
+  ],
+  "combat/attributes.md": [
+    "plugins/MMOCore/attributes/default_attributes.yml",
+    "plugins/MythicMobs/skills/职业技能/伤害处理器.yml",
+    "plugins/MythicMobs/skills/职业技能/受伤处理器.yml",
+    "plugins/MythicMobs/skills/职业技能/召唤物伤害处理器.yml",
+    "plugins/MythicMobs/skills/职业技能/治疗处理器.yml",
+    "plugin-src/TopCraftDivineDescent"
+  ],
+  "combat/builds.md": [
+    "plugins/TopCraftSkillTreePresets/config.yml",
+    "plugins/TopCraftSkillTreePresets-0.1.0.jar"
+  ],
+  "equipment/overview.md": [
+    "plugins/MMOItems/item-tiers.yml",
+    "plugins/TopCraftEquipmentSlots/config.yml"
+  ],
+  "equipment/slots.md": [
+    "plugins/TopCraftEquipmentSlots/config.yml",
+    "plugins/MMOItems/item"
+  ],
+  "equipment/quality.md": [
+    "plugins/MMOItems/item-tiers.yml",
+    "plugins/MMOItems/armor-sets.yml"
+  ],
+  "equipment/consumables.md": [
+    "plugins/TopCraftProfessionMarket/config.yml",
+    "plugins/TopCraft-NoHunger/config.yml"
+  ],
+  "equipment/materials.md": [
+    "docs/落日森林-材料与掉落.md",
+    "plugins/MythicMobs/droptables/落日森林_材料掉落.yml",
+    "plugins/MMOItems/item/落日森林材料.yml"
+  ],
+  "world/overview.md": [
+    "plugins/Multiverse-Core/worlds.yml",
+    "plugins/TopCraftPartyRecruitment/config.yml",
+    "plugin-src/TopCraftPartyRecruitment/TopCraftPartyRecruitment.java"
+  ],
+  "world/town.md": [
+    "plugins/Citizens/saves.yml",
+    "plugins/TopCraftProfessionMarket/profession-npcs.yml"
+  ],
+  "world/forest.md": [
+    "plugins/WorldGuard/worlds/duskforest/regions.yml",
+    "plugins/Citizens/saves.yml",
+    "plugins/MythicMobs/randomspawns"
+  ],
+  "world/monsters.md": [
+    "plugins/MythicMobs/mobs/落日森林",
+    "plugins/MythicMobs/randomspawns",
+    "plugins/MythicMobs/spawners",
+    "plugins/MythicMobs/droptables/落日森林_材料掉落.yml",
+    "plugins/MythicMobs/droptables/落日森林_装备掉落.yml"
+  ],
+  "quests/overview.md": [
+    "plugins/TopCraftQuestBook/config.yml",
+    "plugins/TopCraftQuestBook/tasks/forest.yml"
+  ],
+  "quests/forest.md": [
+    "plugins/TopCraftQuestBook/tasks/forest.yml",
+    "docs/剧情/落日森林/维护说明.md"
+  ],
+  "dungeons/overview.md": [
+    "plugins/TopCraftDungeonKeys/config.yml",
+    "docs/秘境设计/三秘境待办.md"
+  ],
+  "dungeons/rules.md": [
+    "plugins/TopCraftDungeonKeys/config.yml",
+    "plugins/MythicMobs/skills/蘑菇森林技能/全流程.yml",
+    "plugins/MythicMobs/skills/赤沙遗迹/场次与交互.yml",
+    "plugins/MythicMobs/skills/樱落溪涧技能/全流程.yml"
+  ],
+  "dungeons/mushroom.md": [
+    "plugins/MythicMobs/skills/蘑菇森林技能/祭坛召唤.yml",
+    "plugins/MythicMobs/mobs/蘑菇森林"
+  ],
+  "dungeons/desert.md": [
+    "plugins/MythicMobs/skills/赤沙遗迹",
+    "plugins/MythicMobs/mobs/赤沙遗迹",
+    "docs/秘境设计/赤沙遗迹/2026-10-29-熔湖转阶段.md"
+  ],
+  "dungeons/sakura.md": [
+    "plugins/MythicMobs/skills/樱落溪涧技能/场景反馈.yml",
+    "plugins/MythicMobs/skills/樱落溪涧技能/生死将军.yml",
+    "docs/秘境设计/樱落溪涧/制作与验证记录.md"
+  ],
+  "life/overview.md": [
+    "plugins/MMOCore/professions",
+    "plugins/TopCraftProfessionMarket/config.yml",
+    "plugins/TopCraftLifeQuests/config.yml"
+  ],
+  "life/gathering.md": [
+    "plugins/TopCraftProfessionMarket/config.yml",
+    "plugins/TopCraftHerbs/config.yml",
+    "plugin-src/TopCraftHerbs/TopCraftHerbs.java"
+  ],
+  "life/fishing.md": [
+    "plugins/TopCraftProfessionMarket/config.yml",
+    "plugins/MMOItems/item/工具.yml",
+    "plugins/MMOCore/professions/fishing.yml",
+    "plugins/Citizens/saves.yml"
+  ],
+  "life/crafting.md": [
+    "plugins/TopCraftProfessionMarket/config.yml",
+    "plugins/MMOCore/professions/smithing.yml",
+    "plugins/MMOCore/professions/smelting.yml"
+  ],
+  "life/market.md": [
+    "plugins/TopCraftProfessionMarket/config.yml"
+  ],
+  "life/commissions.md": [
+    "plugins/TopCraftLifeQuests/config.yml",
+    "plugin-src/TopCraftLifeQuests/CommissionRules.java",
+    "plugin-src/TopCraftLifeQuests/WorkListeners.java",
+    "plugin-src/TopCraftLifeQuests/TopCraftLifeQuests.java"
+  ],
+  "social/party.md": [
+    "plugins/MMOCore/config.yml",
+    "plugins/MMOCore/gui/party-view.yml",
+    "plugins/MMOCore/gui/party-creation.yml",
+    "plugins/MMOCore/messages.yml",
+    "plugin-src/MMOCorePartyLevelPatch/TopCraftPartyLevelPolicy.java",
+    "plugin-src/TopCraftPartyRecruitment/TopCraftPartyRecruitment.java",
+    "plugins/TopCraftPartyRecruitment/config.yml",
+    "plugins/MMOCore-1.13.1-20260531.191529-59.jar"
+  ],
+  "social/economy.md": [
+    "plugins/TradeMe/config.yml",
+    "plugins/TradeMe/Locale_CH.yml",
+    "plugins/TradeMe6.2.2.10.jar",
+    "plugin-src/TopCraftProfileActions/TopCraftProfileActions.java"
+  ],
+  "social/profile.md": [
+    "plugins/PlayerProfiles/config.yml",
+    "plugins/PlayerProfiles/gui.yml",
+    "plugin-src/TopCraftProfileActions/TopCraftProfileActions.java",
+    "plugin-src/TopCraftEquipmentSlots/TopCraftEquipmentSlots.java",
+    "plugins/MMOCore/gui/friend-list.yml",
+    "plugins/MMOCore/gui/friend-removal.yml",
+    "plugins/MMOCore/messages.yml",
+    "plugins/TopCraftSocialRank/config.yml",
+    "plugins/MMOCore-1.13.1-20260531.191529-59.jar"
+  ],
+  "guide/help.md": [
+    "plugins/MMOCore/commands.yml",
+    "plugins/DailyRewards/config.yml",
+    "plugins/ItemsAdder/config.yml"
+  ],
+  "combat/skills/sweep.md": [
+    "plugins/MythicLib/skill/横扫.yml",
+    "plugins/MMOCore/skill-trees/横扫技能树.yml",
+    "plugins/MythicMobs/skills/职业技能/战士/横扫.yml"
+  ],
+  "combat/skills/rift-slash.md": [
+    "plugins/MythicLib/skill/裂震斩.yml",
+    "plugins/MMOCore/skill-trees/裂震斩技能树.yml",
+    "plugins/MythicMobs/skills/职业技能/战士/裂震斩.yml"
+  ],
+  "combat/skills/flying-hammer.md": [
+    "plugins/MythicLib/skill/飞锤.yml",
+    "plugins/MMOCore/skill-trees/飞锤技能树.yml",
+    "plugins/MythicMobs/skills/职业技能/战士/飞锤.yml"
+  ],
+  "combat/skills/charge.md": [
+    "plugins/MythicLib/skill/冲锋.yml",
+    "plugins/MMOCore/skill-trees/冲锋技能树.yml",
+    "plugins/MythicMobs/skills/职业技能/战士/冲锋.yml"
+  ],
+  "combat/skills/leap.md": [
+    "plugins/MythicLib/skill/跃击.yml",
+    "plugins/MMOCore/skill-trees/跃击技能树.yml",
+    "plugins/MythicMobs/skills/职业技能/战士/跃击.yml"
+  ],
+  "combat/skills/totem.md": [
+    "plugins/MythicLib/skill/图腾.yml",
+    "plugins/MMOCore/skill-trees/图腾技能树.yml",
+    "plugins/MythicMobs/skills/职业技能/战士/图腾.yml"
+  ],
+  "combat/skills/fireball.md": [
+    "plugins/MythicLib/skill/火球术.yml",
+    "plugins/MMOCore/skill-trees/火球术技能树.yml",
+    "plugins/MythicMobs/skills/职业技能/法师/火球术.yml"
+  ],
+  "combat/skills/mana-slash.md": [
+    "plugins/MythicLib/skill/魔切.yml",
+    "plugins/MMOCore/skill-trees/魔切技能树.yml",
+    "plugins/MythicMobs/skills/职业技能/法师/魔切.yml"
+  ],
+  "combat/skills/ice-arrow.md": [
+    "plugins/MythicLib/skill/寒冰箭.yml",
+    "plugins/MMOCore/skill-trees/寒冰箭技能树.yml",
+    "plugins/MythicMobs/skills/职业技能/法师/寒冰箭.yml"
+  ],
+  "combat/skills/blink.md": [
+    "plugins/MythicLib/skill/闪现.yml",
+    "plugins/MMOCore/skill-trees/闪现技能树.yml",
+    "plugins/MythicMobs/skills/职业技能/法师/闪现.yml"
+  ],
+  "combat/skills/chain-lightning.md": [
+    "plugins/MythicLib/skill/闪电链.yml",
+    "plugins/MMOCore/skill-trees/闪电链技能树.yml",
+    "plugins/MythicMobs/skills/职业技能/法师/闪电链.yml"
+  ],
+  "combat/skills/meteor.md": [
+    "plugins/MythicLib/skill/陨石.yml",
+    "plugins/MMOCore/skill-trees/陨石技能树.yml",
+    "plugins/MythicMobs/skills/职业技能/法师/陨石.yml"
+  ],
+  "combat/skills/divine-slash.md": [
+    "plugins/MythicLib/skill/神辉斩.yml",
+    "plugins/MMOCore/skill-trees/神辉斩技能树.yml",
+    "plugins/MythicMobs/skills/职业技能/牧师/神辉斩.yml"
+  ],
+  "combat/skills/holy-bolt.md": [
+    "plugins/MythicLib/skill/圣光弹.yml",
+    "plugins/MMOCore/skill-trees/圣光弹技能树.yml",
+    "plugins/MythicMobs/skills/职业技能/牧师/圣光弹.yml"
+  ],
+  "combat/skills/divine-descent.md": [
+    "plugins/MythicLib/skill/天神降临.yml",
+    "plugins/MMOCore/skill-trees/天神降临技能树.yml",
+    "plugins/MythicMobs/skills/职业技能/牧师/天神降临.yml"
+  ],
+  "combat/skills/watchful-eye.md": [
+    "plugins/MythicLib/skill/守望之眼.yml",
+    "plugins/MMOCore/skill-trees/守望之眼技能树.yml",
+    "plugins/MythicMobs/skills/职业技能/牧师/守望之眼.yml"
+  ],
+  "combat/skills/holy-pilgrimage.md": [
+    "plugins/MythicLib/skill/圣翼巡礼.yml",
+    "plugins/MMOCore/skill-trees/圣翼巡礼技能树.yml",
+    "plugins/MythicMobs/skills/职业技能/牧师/圣翼巡礼.yml"
+  ],
+  "combat/skills/heavenly-sword.md": [
+    "plugins/MythicLib/skill/天赐圣剑.yml",
+    "plugins/MMOCore/skill-trees/天赐圣剑技能树.yml",
+    "plugins/MythicMobs/skills/职业技能/牧师/天赐圣剑.yml"
+  ],
+  "combat/status-effects.md": [
+    "plugins/MythicMobs/skills/状态效果",
+    "plugins/TopCraftControl/config.yml",
+    "plugins/TopCraftControl/effects.yml",
+    "plugin-src/topcraft-control",
+    "plugins/BetterHud/topcraft-buffs.yml",
+    "plugins/MythicMobs/skills/职业技能/战士/飞锤.yml",
+    "plugins/MythicMobs/skills/状态效果/增益/狂怒.yml"
+  ],
+  "combat/progression.md": [
+    "plugins/MMOCore/config.yml",
+    "plugins/MMOCore/exp-tables/topcraft_skill_tree_rewards.yml",
+    "plugins/MMOCore/gui/skill-tree.yml",
+    "plugins/TopCraftSkillTreePresets/config.yml",
+    "plugin-src/TopCraftDivineDescent/timing.yml",
+    "plugins/TopCraftSkillTreeRefund-1.0.0.jar"
+  ],
+  "combat/damage.md": [
+    "plugins/MMOCore/attributes/default_attributes.yml",
+    "plugins/MythicMobs/skills/职业技能/伤害处理器.yml",
+    "plugins/MythicMobs/skills/职业技能/受伤处理器.yml",
+    "plugins/MythicMobs/skills/职业技能/召唤物伤害处理器.yml",
+    "plugins/MythicMobs/skills/职业技能/治疗处理器.yml",
+    "plugin-src/TopCraftDivineDescent"
+  ],
+  "combat/defense.md": [
+    "plugins/MMOCore/attributes/default_attributes.yml",
+    "plugins/MythicMobs/skills/职业技能/伤害处理器.yml",
+    "plugins/MythicMobs/skills/职业技能/受伤处理器.yml",
+    "plugins/MythicMobs/skills/职业技能/召唤物伤害处理器.yml",
+    "plugins/MythicMobs/skills/职业技能/治疗处理器.yml",
+    "plugin-src/TopCraftDivineDescent",
+    "plugins/MMOItems/shield-block.yml",
+    "plugin-src/TopCraftDivineDescent/ShieldBlockHandler.java"
+  ],
+  "combat/damage-over-time.md": [
+    "plugins/MMOCore/attributes/default_attributes.yml",
+    "plugins/MythicMobs/skills/职业技能/伤害处理器.yml",
+    "plugins/MythicMobs/skills/职业技能/受伤处理器.yml",
+    "plugins/MythicMobs/skills/职业技能/召唤物伤害处理器.yml",
+    "plugins/MythicMobs/skills/职业技能/治疗处理器.yml",
+    "plugin-src/TopCraftDivineDescent"
+  ],
+  "combat/summons.md": [
+    "plugins/MMOCore/attributes/default_attributes.yml",
+    "plugins/MythicMobs/skills/职业技能/伤害处理器.yml",
+    "plugins/MythicMobs/skills/职业技能/受伤处理器.yml",
+    "plugins/MythicMobs/skills/职业技能/召唤物伤害处理器.yml",
+    "plugins/MythicMobs/skills/职业技能/治疗处理器.yml",
+    "plugin-src/TopCraftDivineDescent"
+  ],
+  "combat/shield.md": [
+    "plugins/MMOCore/attributes/default_attributes.yml",
+    "plugins/MythicMobs/skills/职业技能/伤害处理器.yml",
+    "plugins/MythicMobs/skills/职业技能/受伤处理器.yml",
+    "plugins/MythicMobs/skills/职业技能/召唤物伤害处理器.yml",
+    "plugins/MythicMobs/skills/职业技能/治疗处理器.yml",
+    "plugin-src/TopCraftDivineDescent",
+    "plugins/MythicMobs/skills/状态效果/增益/护盾.yml",
+    "plugin-src/TopCraftDivineDescent/ShieldDamageHandler.java"
+  ],
+  "life/farming.md": [
+    "plugins/TopCraftProfessionMarket/config.yml",
+    "plugins/MMOItems/item/工具.yml",
+    "plugins/MMOCore/professions/farming.yml",
+    "plugins/Citizens/saves.yml"
+  ],
+  "life/mining.md": [
+    "plugins/TopCraftProfessionMarket/config.yml",
+    "plugins/MMOItems/item/工具.yml",
+    "plugins/MMOCore/professions/mining.yml",
+    "plugins/Citizens/saves.yml"
+  ],
+  "life/woodcutting.md": [
+    "plugins/TopCraftProfessionMarket/config.yml",
+    "plugins/MMOItems/item/工具.yml",
+    "plugins/MMOCore/professions/woodcutting.yml",
+    "plugins/Citizens/saves.yml"
+  ],
+  "life/cooking.md": [
+    "plugins/TopCraftProfessionMarket/config.yml",
+    "plugins/MMOItems/item/工具.yml",
+    "plugins/MMOCore/professions/cooking.yml",
+    "plugins/Citizens/saves.yml"
+  ],
+  "life/alchemy.md": [
+    "plugins/TopCraftProfessionMarket/config.yml",
+    "plugins/MMOItems/item/工具.yml",
+    "plugins/MMOCore/professions/alchemy.yml",
+    "plugins/Citizens/saves.yml"
+  ],
+  "life/smithing.md": [
+    "plugins/TopCraftProfessionMarket/config.yml",
+    "plugins/MMOItems/item/工具.yml",
+    "plugins/MMOCore/professions/smithing.yml",
+    "plugins/Citizens/saves.yml"
+  ],
+  "life/smelting.md": [
+    "plugins/TopCraftProfessionMarket/config.yml",
+    "plugins/MMOItems/item/工具.yml",
+    "plugins/MMOCore/professions/smelting.yml",
+    "plugins/Citizens/saves.yml"
+  ],
+  "life/recipes.md": [
+    "plugins/MMOItems/crafting-stations"
+  ],
+  "life/herbs.md": [
+    "plugins/TopCraftHerbs/config.yml",
+    "plugin-src/TopCraftHerbs/TopCraftHerbs.java"
+  ],
+  "life/fish.md": [
+    "plugins/MMOCore/professions/fishing.yml",
+    "plugins/TopCraftProfessionMarket/config.yml",
+    "plugins/MMOCore-1.13.1-20260531.191529-59.jar"
+  ],
+  "life/tackle.md": [
+    "plugins/TopCraftProfessionMarket/config.yml",
+    "plugins/MMOItems/item/工具.yml",
+    "plugin-src/TopCraftProfessionMarket/FishingRetrofit.java",
+    "plugin-src/TopCraftProfessionMarket/OddFishingRods.java",
+    "plugin-src/TopCraftDivineDescent/FishingBaitHandler.java",
+    "plugin-src/TopCraftDivineDescent/FishingTackleHandler.java"
+  ],
+  "social/cooperation.md": [
+    "plugins/MMOCore/config.yml",
+    "plugins/MMOCore-1.13.1-20260531.191529-59.jar",
+    "plugins/MythicDungeons/config.yml",
+    "plugin-src/TopCraftPartyRecruitment/TopCraftPartyRecruitment.java",
+    "plugins/TopCraftPartyRecruitment/config.yml"
+  ],
+  "social/progression.md": [
+    "plugins/TopCraftSocialRank/config.yml",
+    "plugins/TopCraftSocialRank-1.0.0.jar",
+    "plugins/TopAppreciation/config.yml",
+    "plugins/TopAppreciation-1.0.0.jar",
+    "plugins/TopCraftSocialGroups/applied-v1.txt"
+  ],
+  "social/invitations.md": [
+    "plugins/TopInvite/config.yml",
+    "plugins/TopInvite-1.2.1.jar",
+    "plugins/TopCraftSocialRank-1.0.0.jar"
+  ],
+  "guide/join.md": [
+    "plugins/ItemsAdder/config.yml",
+    "plugins/ItemsAdder_4.0.5_.jar",
+    "plugin-src/TopCraftPackCompat/TopCraftPackCompat.java"
+  ],
+  "guide/controls.md": [
+    "plugins/MMOCore/config.yml",
+    "plugins/MMOCore/gui/skill-list.yml",
+    "plugins/PlayerProfiles/config.yml",
+    "plugins/BetterHud/layouts/topcraft-skill-keys.yml",
+    "plugins/MMOCore-1.13.1-20260531.191529-59.jar"
+  ],
+  "guide/rewards.md": [
+    "plugins/DailyRewards/config.yml",
+    "plugins/DailyReward-2.14.0.jar",
+    "plugins/Citizens/saves.yml",
+    "plugins/MMOItems/item/药水.yml",
+    "plugins/MMOItems/item/consumable.yml"
+  ]
+}

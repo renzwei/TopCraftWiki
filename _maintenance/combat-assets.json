@@ -1,0 +1,2046 @@
+{
+  "assets/server/warrior_texture/skill_icon/sweep.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/warrior_texture/skill_icon/sweep.png",
+    "sha256": "c7b031c6a1f7c7c199d5612b6a91ec133ad2a8f713a34ee373ff562ec88d240b"
+  },
+  "assets/server/stats/physical_damage.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/stats/physical_damage.png",
+    "sha256": "128fc3397e66bef2cbc10387aa7632ffa388da037f4a528e0dd969541e0b7d7f"
+  },
+  "assets/server/gui/skilltree/sweep/bloody_sweep.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/sweep/bloody_sweep.png",
+    "sha256": "97ba69c610f40a613cbf4419835795c8ba17f358a272c4b653e9f3c39b98d602"
+  },
+  "assets/server/gui/skilllocked.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilllocked.png",
+    "sha256": "dc3ddc25b1b4915af53ec446ca696199b171e7f2c94939c7409a1b727f05219e"
+  },
+  "assets/server/abilities/bleed.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/abilities/bleed.png",
+    "sha256": "7d3f87d6787b4cdfdbb07b7f048b0c0c4361a47c2987df5998517651628e0a35"
+  },
+  "assets/server/gui/skilltree/sweep/bloody_critical.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/sweep/bloody_critical.png",
+    "sha256": "cba6e116bd94ca1aad1109f973af6a897ad1a85e7a5168fdb3fe1fea34405d65"
+  },
+  "assets/server/gui/skilltree/sweep/blood_power.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/sweep/blood_power.png",
+    "sha256": "fe9477edc2ceff6bb5fb7be67b48bd6f3c0d11d07a7169b0d8c735750a23b945"
+  },
+  "assets/server/stats/skill_damage.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/stats/skill_damage.png",
+    "sha256": "ef2021fc0a8cd66a8fa6a50ac3b91a17a12240dfe249079cf7db50fbcb9fc9a2"
+  },
+  "assets/server/gui/skilltree/sweep/brutal_sweep.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/sweep/brutal_sweep.png",
+    "sha256": "67ad8a4483aee4af2f716586eb2a67400774bd3d33681644eaca1ef1dc88e0cf"
+  },
+  "assets/server/stats/dice.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/stats/dice.png",
+    "sha256": "ab633529f4c9a70578b32b6ae3a591b0c3f4b56154f468b5a9269f60a453a6e0"
+  },
+  "assets/server/gui/skilltree/sweep/life_steal.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/sweep/life_steal.png",
+    "sha256": "f6d95cbcf9eaa56a2653f08303e9547104846c87b6fb746c51f1e658434ba7ae"
+  },
+  "assets/server/stats/life_steal.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/stats/life_steal.png",
+    "sha256": "5488ce4a42315f6e71174babe3c88ec540c92c5e522b64f1c93730c530c606c2"
+  },
+  "assets/server/gui/skilltree/sweep/wide_sweep.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/sweep/wide_sweep.png",
+    "sha256": "602f402403700545d3989622a7e1fd3592ec86c40deaf5b75fd2a3a9ce9becd4"
+  },
+  "assets/server/stats/range.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/stats/range.png",
+    "sha256": "5ae22959fee53c5b00ba5504164f251118459ecfc4dbacc29fb11d4b5acab2ed"
+  },
+  "assets/server/gui/skilltree/sweep/storm_sweep.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/sweep/storm_sweep.png",
+    "sha256": "bd3311ab6a83a4e3bbf1d92aeee24240411ade8b41282525da3fd3f3d7fed7d8"
+  },
+  "assets/server/stats/thunder.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/stats/thunder.png",
+    "sha256": "7b7eb5723530cf9ba338c882ac594feb7a277185933a8e3c339c237f46c12e8c"
+  },
+  "assets/server/gui/skilltree/sweep/storm_baptism.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/sweep/storm_baptism.png",
+    "sha256": "a73f91943da1f643e038e125872869f075d4be862af0b9c434bb534c0517ad67"
+  },
+  "assets/server/gui/skilltree/sweep/static_charge.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/sweep/static_charge.png",
+    "sha256": "4cf2caf83deb6de7ea2ec5223128f5c899df2c5d660c89a727c614cd2cd5e818"
+  },
+  "assets/server/abilities/static.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/abilities/static.png",
+    "sha256": "2a8d2415e2ed57a50b0fa0be5f02b18d677c7d41db8e647c23595d64ad9a92eb"
+  },
+  "assets/server/gui/skilltree/sweep/shock_weakness.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/sweep/shock_weakness.png",
+    "sha256": "3f01ec8ebd39bde03859225e2f20a3e7a8d9baf0f8cf35ce1e2dab7d08c66e61"
+  },
+  "assets/server/abilities/electrified.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/abilities/electrified.png",
+    "sha256": "fa1952ca569973ac666e340d5fde5e87c71424c02e93aeb5c4cdb9eda13838ca"
+  },
+  "assets/server/stats/stacks.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/stats/stacks.png",
+    "sha256": "5bef9997fcf6a157012080206d73dfe156cd822bdc51a4185deb4246228771a0"
+  },
+  "assets/server/gui/skilltree/sweep/crippling_sweep.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/sweep/crippling_sweep.png",
+    "sha256": "6288e6943f3bbc862fde3cccb63cedfc6d05e8902693664df82ec4052c19dd9e"
+  },
+  "assets/server/abilities/slowness.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/abilities/slowness.png",
+    "sha256": "b04b03175772ef7cf53081712b88a13780d3dd337388d68ffd4f3a87ae9dd785"
+  },
+  "assets/server/gui/skilltree/sweep/third_strike.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/sweep/third_strike.png",
+    "sha256": "c132b9c86109fd2214552beabb4309508b6df3d0092325fea414cc884b1bd320"
+  },
+  "assets/server/gui/skilltree/sweep/armor_split.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/sweep/armor_split.png",
+    "sha256": "ec61001178a0400ad171396b55297aaae25dff69efa124cbf043f0204a7d633f"
+  },
+  "assets/server/abilities/armor_break.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/abilities/armor_break.png",
+    "sha256": "81251beae91ac0980a0616094a8c0d7a855ca3e6efddc8a7bdffaa17e8f49333"
+  },
+  "assets/server/gui/skilltree/sweep/focused_sweep.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/sweep/focused_sweep.png",
+    "sha256": "22430b3d677f844df3be5c85f83474d8fbdffff67b358edb3defcddf02be48f7"
+  },
+  "assets/server/gui/skilltree/sweep/execution.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/sweep/execution.png",
+    "sha256": "6f5f91d8e244a58794d1e02e9a4a65fa202aa07d2fdfdd397432d3baf443b7ab"
+  },
+  "assets/server/abilities/execute.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/abilities/execute.png",
+    "sha256": "4be1d800526692e569f0868029cbd5a14a0086d969fc9cba7d283a1e2aaf2d4c"
+  },
+  "assets/server/gui/skilltree/sweep/sweep_momentum.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/sweep/sweep_momentum.png",
+    "sha256": "7da99f653ccf69fd756f187aaf809a3eb3709db6c48b0aa6720c7efeed5e89ea"
+  },
+  "assets/server/abilities/sweep_momentum.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/abilities/sweep_momentum.png",
+    "sha256": "960e21f3015f8cad0d9809ee311f379462dd0925098ee30a9aae926c0c18c410"
+  },
+  "assets/server/gui/skilltree/sweep/offensive_stride.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/sweep/offensive_stride.png",
+    "sha256": "56ace54ae66165e376fdf7ce398d960114e84abf6bf4b7437965c34b796c9268"
+  },
+  "assets/server/stats/movement_speed.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/stats/movement_speed.png",
+    "sha256": "83baded5bbc85376fe59c6d8da8418821dc22aac6b18bcf80bb06aa395fd4199"
+  },
+  "assets/server/gui/skilltree/sweep/momentum_capacity.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/sweep/momentum_capacity.png",
+    "sha256": "ef7e4ea70ec8729bb96b784aaa6f2a3677b5c1c495fc59a9e9d16ce74066ec15"
+  },
+  "assets/server/gui/skilltree/sweep/critical_momentum.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/sweep/critical_momentum.png",
+    "sha256": "84344766709104229757c7b465f1cc60d900ccc439aec4edcfe2c9b4e56d0e00"
+  },
+  "assets/server/stats/skill_crit_damage.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/stats/skill_crit_damage.png",
+    "sha256": "96d3777916c63302a118d7b1033797f892ec9de041ca0d19caf7d33c1a41b4cc"
+  },
+  "assets/server/gui/skilltree/sweep/defensive_momentum.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/sweep/defensive_momentum.png",
+    "sha256": "98a838a35d83f5cee107b4e95d00c0d671926b52abe5b1ba4e5144f7eb26e884"
+  },
+  "assets/server/stats/time.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/stats/time.png",
+    "sha256": "0495491866ffd95c419cf9e4fa1a1867cb80f3e84237b1712ad8c1e31cbdd545"
+  },
+  "assets/server/stats/health.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/stats/health.png",
+    "sha256": "557190785f60ad1e9fbb85042a26206786cff9359879574048a138ba459c559a"
+  },
+  "assets/server/warrior_texture/skill_icon/earth_rend.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/warrior_texture/skill_icon/earth_rend.png",
+    "sha256": "95cc86da9d90e61eecf691aced3a591998fe13ffcb1cdb210db2b37484ee9939"
+  },
+  "assets/server/gui/skilltree/earthshatter/silent_slash.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/earthshatter/silent_slash.png",
+    "sha256": "88b72c004c58090b234257dfcbfdf4a8a59ae19e3ded27b35248eb201abcada4"
+  },
+  "assets/server/stats/potion_cooldown.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/stats/potion_cooldown.png",
+    "sha256": "c6653de58c192d3f12f7ce97321c9e0fd1e1c615943dd87583d10d4028f28a4b"
+  },
+  "assets/server/gui/skilltree/earthshatter/serpent_slash.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/earthshatter/serpent_slash.png",
+    "sha256": "2fae0ca7b373efd9bdfa2ce39f8e079574d12131b952d892f929e51b2be6cd9f"
+  },
+  "assets/server/stats/poison.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/stats/poison.png",
+    "sha256": "5e1a46a5dd4be24741c90db4fecccf2fb8cbaefdf4d7332fe908f965b2a65713"
+  },
+  "assets/server/gui/skilltree/earthshatter/venom_leech.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/earthshatter/venom_leech.png",
+    "sha256": "0aa880d1d6b9012fd7ed2ae9e4f39e37f3319c4b3c69afa192b815ec02416e37"
+  },
+  "assets/server/gui/skilltree/earthshatter/poison_slash.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/earthshatter/poison_slash.png",
+    "sha256": "1e2671d8f78db2d0f1eac9533ed6890f3a81b0ced8e2549c59638fe1cbf4f4bd"
+  },
+  "assets/server/abilities/toxic_fumes.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/abilities/toxic_fumes.png",
+    "sha256": "a3728fc1ec82744b30b38d42642257805f2866697d216534a8a305725cffcf82"
+  },
+  "assets/server/gui/skilltree/earthshatter/venom_burst.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/earthshatter/venom_burst.png",
+    "sha256": "56edfdb548b87135d320c8c0d5067f258ba547e3fb00bd1c9521cb4cb793cf3d"
+  },
+  "assets/server/gui/skilltree/earthshatter/tremor.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/earthshatter/tremor.png",
+    "sha256": "6772da5e72426836c4c437aa5630edaab57a42c423e5427a4b523febdc18fc62"
+  },
+  "assets/server/gui/skilltree/earthshatter/seismic_waves.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/earthshatter/seismic_waves.png",
+    "sha256": "a7c4dd18724262f602f7cf7e36eabeabb32c7e77ebd6d813f057c8d1bfa1151c"
+  },
+  "assets/server/gui/skilltree/earthshatter/shock_push.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/earthshatter/shock_push.png",
+    "sha256": "7e39178c790e818de56b1bafd0229f9f631ce9e3d579aaee6d30dbd681540bd5"
+  },
+  "assets/server/abilities/wirlwind.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/abilities/wirlwind.png",
+    "sha256": "0dc0580a621282141f2cb4a7511d2b598c67281dcfcf1e344d709aa76fa7e09b"
+  },
+  "assets/server/gui/skilltree/earthshatter/growing_waves.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/earthshatter/growing_waves.png",
+    "sha256": "590f226c253b536b05cc6cd13b84ba2e93cc5a2915f72b0afe42a0d99f53dd03"
+  },
+  "assets/server/gui/skilltree/earthshatter/first_rupture.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/earthshatter/first_rupture.png",
+    "sha256": "c959c5c1513da1c01499fac5b6b5bdca20ffd064f95f3b0c55d50a9622072cd6"
+  },
+  "assets/server/gui/skilltree/earthshatter/wide_quake.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/earthshatter/wide_quake.png",
+    "sha256": "f4c64302e61c35beb539cd036b308f1aeb457073ca245e023ed87c372590118b"
+  },
+  "assets/server/gui/skilltree/earthshatter/aftershock.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/earthshatter/aftershock.png",
+    "sha256": "d2e4a0e1204b30b6c989fa37759eb884a31e4e8794a893b302d30a5e76e83ade"
+  },
+  "assets/server/abilities/doppelganger.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/abilities/doppelganger.png",
+    "sha256": "88f49c10d2e68214ed1266a1bce3aacdaccff421fbc5e5e523fc432ca11173bd"
+  },
+  "assets/server/gui/skilltree/earthshatter/unstable_crust.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/earthshatter/unstable_crust.png",
+    "sha256": "2b43983a9f9d3129a3777f7e6200360dadbedd7014410cf094f0fd1c42b9e6eb"
+  },
+  "assets/server/gui/skilltree/earthshatter/rising_aftershock.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/earthshatter/rising_aftershock.png",
+    "sha256": "f31abbd0a2dbb884ff93f2d182e8bb937f5d73a28a908939bbca84f61f536fcc"
+  },
+  "assets/server/gui/skilltree/earthshatter/launch.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/earthshatter/launch.png",
+    "sha256": "25301f5ffff131d9c628803d69ec29eb4c55576ed085a1b4603e344616b2e792"
+  },
+  "assets/server/gui/skilltree/earthshatter/shatter.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/earthshatter/shatter.png",
+    "sha256": "14a10dc9ae17bb8fffbfa51581aa706cf8cd1c341e37e80ed10f420350650d3d"
+  },
+  "assets/server/gui/skilltree/earthshatter/canyon_slash.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/earthshatter/canyon_slash.png",
+    "sha256": "2f55660d405f9769bb73b2b4e94d996b441541a3ee0def2b6b40f1ffaace03b8"
+  },
+  "assets/server/abilities/leap_momentum.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/abilities/leap_momentum.png",
+    "sha256": "1e2d1b238375fa0d79a42919c4718ee9057de45965c005d8f831e48684a7aa19"
+  },
+  "assets/server/gui/skilltree/earthshatter/canyon_pull.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/earthshatter/canyon_pull.png",
+    "sha256": "4b3d4da17fcc2b88dd3ebe115afb0a5e507afe29bd9fc2bdf37573cde432262c"
+  },
+  "assets/server/abilities/grasp.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/abilities/grasp.png",
+    "sha256": "7674aa59efd6d16ad34e5799ad93d314b96d839db88529bc357b481dcf1eb89e"
+  },
+  "assets/server/gui/skilltree/earthshatter/canyon_mana.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/earthshatter/canyon_mana.png",
+    "sha256": "fdddcd683765496d6cddcab31ae272fa679cdd8dd9964c2a75477fae7e6afd25"
+  },
+  "assets/server/stats/mana.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/stats/mana.png",
+    "sha256": "0616412ce3d3fb242360a2eae5c76684668ec13dbd0daa60190f9a47f01a6fbf"
+  },
+  "assets/server/gui/skilltree/earthshatter/molten.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/earthshatter/molten.png",
+    "sha256": "36e4196a9199045a12f2e9e057ed3cb9a23368d9fff7000e5547655d9ebd33fa"
+  },
+  "assets/server/abilities/ignite.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/abilities/ignite.png",
+    "sha256": "a900d68f8513dadbe0a2653b2d9d28a4b800721d51923d1cbb888ef460a5be66"
+  },
+  "assets/server/warrior_texture/skill_icon/flying_hammer.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/warrior_texture/skill_icon/flying_hammer.png",
+    "sha256": "cf6208e9224a21dd1d36fc7a427febe2906d0f43b9c05f4ad7b79c7d98c99c88"
+  },
+  "assets/server/gui/skilltree/flying_hammer/swift_hammer.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/flying_hammer/swift_hammer.png",
+    "sha256": "c636d51bdb425fe596bae8d5f71b34b24a6bcc4f103d2414c793f95691231875"
+  },
+  "assets/server/abilities/skyfall.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/abilities/skyfall.png",
+    "sha256": "0b0f90c390a83fbffee89521400623de9fe2c8ef79fc947e0918a76beb5e2b81"
+  },
+  "assets/server/gui/skilltree/flying_hammer/hammer_vortex.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/flying_hammer/hammer_vortex.png",
+    "sha256": "d9e84dbdff67838421fd631d58594a42694cb9ef198695f1233ef32d3207d7e9"
+  },
+  "assets/server/gui/skilltree/flying_hammer/lasting_vortex.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/flying_hammer/lasting_vortex.png",
+    "sha256": "afccd9cbe66fb5e45aec17f1833dc8f6742369dc23d8cda813880181c1985ee3"
+  },
+  "assets/server/gui/skilltree/flying_hammer/repelling_orbit.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/flying_hammer/repelling_orbit.png",
+    "sha256": "3126cb5a0df18330d5226b364669911e1e9c41bbe2ac78812c777e6a43c6d003"
+  },
+  "assets/server/gui/skilltree/flying_hammer/vortex_haste.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/flying_hammer/vortex_haste.png",
+    "sha256": "7f683bf1e7cd98948ccd23d5d115420d6a0eb70b4b772e3720120659583e3014"
+  },
+  "assets/server/gui/skilltree/flying_hammer/long_throw.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/flying_hammer/long_throw.png",
+    "sha256": "285018ddb9fd356335d7340d3c7b55a23706216d732fb1e4692c590a61f65b66"
+  },
+  "assets/server/gui/skilltree/flying_hammer/hammer_recall.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/flying_hammer/hammer_recall.png",
+    "sha256": "9575e59c75e37f7fcb392164613e475dccee06b06a89b549a8231eabca1cbf15"
+  },
+  "assets/server/gui/skilltree/flying_hammer/strong_recall.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/flying_hammer/strong_recall.png",
+    "sha256": "8bc7b26682378d1b718cdc5000ac330c02df0499eba62882a36b8e1ea3e73631"
+  },
+  "assets/server/gui/skilltree/flying_hammer/hammer_shield.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/flying_hammer/hammer_shield.png",
+    "sha256": "efe528d71418e7399dd4655fdc026ce8a818987d22fbd3ce244d2f09bd8002d0"
+  },
+  "assets/server/stats/defense.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/stats/defense.png",
+    "sha256": "17c29a18b0ae059bef6e95ed8b95f03acab92def92b35b080334ef4ccde3063d"
+  },
+  "assets/server/gui/skilltree/flying_hammer/recall_ready.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/flying_hammer/recall_ready.png",
+    "sha256": "d90ac4d64de0c6d5d9400bb9bb17f67f69fdea9fd044c78aecb357d0a1c9faa4"
+  },
+  "assets/server/gui/skilltree/flying_hammer/electric_hammer.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/flying_hammer/electric_hammer.png",
+    "sha256": "02da25afd0d98c804dfcf07d20d5ce51dc950f73fa4d99e934fc4e93cd091aa0"
+  },
+  "assets/server/gui/skilltree/flying_hammer/homing_hammer.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/flying_hammer/homing_hammer.png",
+    "sha256": "d80b141f4df3663c8c86d3a30f4bdd5be940ffe9d23f1f51faaf251bf04bbd50"
+  },
+  "assets/server/abilities/flying_hammer.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/abilities/flying_hammer.png",
+    "sha256": "a2e451bbd6ce4ea7f8a850a493f3b4cbf4b0c2965f3434a51d0fb3136b5ec3b4"
+  },
+  "assets/server/gui/skilltree/flying_hammer/chain_tracking.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/flying_hammer/chain_tracking.png",
+    "sha256": "b42d5573e9beb2838bedeb5465bcb7c3f7a59a35cc06b1aed533e265c88beceb"
+  },
+  "assets/server/abilities/mystic_burst.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/abilities/mystic_burst.png",
+    "sha256": "59a21da1c7e7d834a34c6c437283de8f77a633c773e0c373f32827257684df86"
+  },
+  "assets/server/gui/skilltree/flying_hammer/static_shock.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/flying_hammer/static_shock.png",
+    "sha256": "51a0da818d0de7c7bd91097cddfeadf1bd020071fa348bfedf11f71b6e5c4d61"
+  },
+  "assets/server/gui/skilltree/flying_hammer/spark_charge.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/flying_hammer/spark_charge.png",
+    "sha256": "017207d5d3f2d9de3ace285248bbcf7ab929c944b5fdd4384afea1756a52aec0"
+  },
+  "assets/server/abilities/spark_charge.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/abilities/spark_charge.png",
+    "sha256": "ac6ef4d23397667bfd6b97446de4b97d0c61c2dceec3d60e75fd052c3846705e"
+  },
+  "assets/server/gui/skilltree/flying_hammer/hammer_fervor.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/flying_hammer/hammer_fervor.png",
+    "sha256": "a40b9065237919d358ec8bc7f30f31d807a4a07d45909eec77a584bf75e3f248"
+  },
+  "assets/server/abilities/flying_hammer_zeal.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/abilities/flying_hammer_zeal.png",
+    "sha256": "c723770a49e7491735c0e8cd14051f3f14893b593daf0f73371550d34a256b42"
+  },
+  "assets/server/gui/skilltree/flying_hammer/pickup_ready.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/flying_hammer/pickup_ready.png",
+    "sha256": "42ab183350fd87d859e4b6c7deb11d25eebc6190680f4cd2aac2f39f5fc0c0fc"
+  },
+  "assets/server/gui/skilltree/flying_hammer/twin_hammers.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/flying_hammer/twin_hammers.png",
+    "sha256": "f9a8bc108327cf94e9ad0435d850193b5b4e78d60f7cf216f4af2a68af64d9ca"
+  },
+  "assets/server/gui/skilltree/flying_hammer/pickup_fervor.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/flying_hammer/pickup_fervor.png",
+    "sha256": "d5a09ed615b61508567ce0b234b8f78a0c0d44637f618124cef1864671f6b34c"
+  },
+  "assets/server/gui/skilltree/flying_hammer/pickup_haste.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/flying_hammer/pickup_haste.png",
+    "sha256": "e2ba9ef6f2665c97a408e55878d0015cb2b0de96b24a26391aa1473d9416f5f9"
+  },
+  "assets/server/warrior_texture/skill_icon/charge.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/warrior_texture/skill_icon/charge.png",
+    "sha256": "d6aacc357426e79630bd18d49d30aab4fb1e8426d73b1978dbfcb8b5a2139028"
+  },
+  "assets/server/gui/skilltree/charge/onslaught.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/charge/onslaught.png",
+    "sha256": "a45ff1ff0915f898dccf26064c425b9a18b2c289a7c20fbfa721b47c1bb2f681"
+  },
+  "assets/server/gui/skilltree/charge/charge_stomp.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/charge/charge_stomp.png",
+    "sha256": "3eecdfa5814de0c045a5883f0afb3ea37d9547c46692267b026bc0ced9a554fb"
+  },
+  "assets/server/abilities/leap_of_faith.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/abilities/leap_of_faith.png",
+    "sha256": "c78d7683cb1fef83b5512721bbcfd8b9b596a41c5efd8f2a623ab83e83015cd2"
+  },
+  "assets/server/gui/skilltree/charge/heavy_stomp.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/charge/heavy_stomp.png",
+    "sha256": "af47db3238c1725e35f2ead7f93ab8e43a49e641a3ba61077ded281cc3dd5555"
+  },
+  "assets/server/status_effects/stun.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/status_effects/stun.png",
+    "sha256": "62e5ab3bf05eb51b0d8ccffc297e3cf8c5e0eeb8e7db50780e1c4de8107f4c2f"
+  },
+  "assets/server/gui/skilltree/charge/armor_break.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/charge/armor_break.png",
+    "sha256": "b43f1f3d901e884ed6198eb5407b7db71493a5754a0872d780b0fc3af68fe8eb"
+  },
+  "assets/server/gui/skilltree/charge/crusader.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/charge/crusader.png",
+    "sha256": "06eb7f7fe46bf217be3f36575e323da2016ad55896b2f993d4d11338323023e3"
+  },
+  "assets/server/gui/skilltree/charge/wide_charge.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/charge/wide_charge.png",
+    "sha256": "ec8ced6d47235754b9ceca371e490466f3848cf09f93423c0f1f3689c838e8d8"
+  },
+  "assets/server/gui/skilltree/charge/knight_charge.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/charge/knight_charge.png",
+    "sha256": "e35093787a1723172f8be7df05bbfc4f21202bd592afa39efc2429e6041040eb"
+  },
+  "assets/server/abilities/knight_charge.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/abilities/knight_charge.png",
+    "sha256": "5098a228d36b78bcc4156514ed561c6cdfc1d9bd5ec500065296ff7854f63da6"
+  },
+  "assets/server/gui/skilltree/charge/warhorse.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/charge/warhorse.png",
+    "sha256": "00fe04731bbdc157c52d08dbec3961f866d40161b5887a23de79b7e1b481e033"
+  },
+  "assets/server/gui/skilltree/charge/replenish.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/charge/replenish.png",
+    "sha256": "a02296cccc9b702159dc7553cbc2bf9da7f601b4bfac6c5e8ea85a21db162a7a"
+  },
+  "assets/server/gui/skilltree/charge/flying_hooves.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/charge/flying_hooves.png",
+    "sha256": "4c333ec0c2da17c010baf6e0791795b42325a8aeb763ee1bd4adca9cb9d727f2"
+  },
+  "assets/server/gui/skilltree/charge/dawn_charge.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/charge/dawn_charge.png",
+    "sha256": "9e5d98f6d1548aaa34de99bdc860009dd0d94c6fa353b51e1845e4788b3e7bdd"
+  },
+  "assets/server/gui/skilltree/charge/slipstream.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/charge/slipstream.png",
+    "sha256": "7763309f9cfa4446394c5a4ee75dcaf98a239876512132a901d29fdcc829f173"
+  },
+  "assets/server/gui/skilltree/charge/hot_wake.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/charge/hot_wake.png",
+    "sha256": "0c5943371b13c3615ce309bf149e4a6fb6b755dd98f92fd83202113eeb592c91"
+  },
+  "assets/server/stats/fire.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/stats/fire.png",
+    "sha256": "eaba33a83fca2a72549ff77eb6a1f67f203a40590268e25ee1c245c24bedea3c"
+  },
+  "assets/server/gui/skilltree/charge/lasting_wake.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/charge/lasting_wake.png",
+    "sha256": "2a742dab85c20817b730534eda2be964f0454ba8afa830e77cd4b95dd18798ad"
+  },
+  "assets/server/gui/skilltree/charge/fearless.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/charge/fearless.png",
+    "sha256": "d09e88115d3f204f54da458bdf8511aa4915bad993e68315e7a6738347ac6f26"
+  },
+  "assets/server/gui/skilltree/charge/hardened_armor.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/charge/hardened_armor.png",
+    "sha256": "07c0982a7668153ca5e92950ebbf7e176af70a006719b0120c81717ce6e0e8d7"
+  },
+  "assets/server/gui/skilltree/charge/shield_charge.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/charge/shield_charge.png",
+    "sha256": "1be7490f2f8ead2c37b65eb629b093436b31fd415ba9a13cb68894a6718e9e83"
+  },
+  "assets/server/stats/block.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/stats/block.png",
+    "sha256": "b217b06db4086d1afd4594d7238fde2a858bae3ca32f97a1fad34ecd9720786f"
+  },
+  "assets/server/gui/skilltree/charge/shield_taunt.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/charge/shield_taunt.png",
+    "sha256": "0ae22e4b73a8108b0769704b0e1f7339729749deffa9ca7ed21754f1a35109c2"
+  },
+  "assets/server/abilities/intimidate.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/abilities/intimidate.png",
+    "sha256": "848a2094e6b4e0be897e3ded34b93a8b699291ffbb5bb8f90b4e831e228c1381"
+  },
+  "assets/server/gui/skilltree/charge/shield_bash.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/charge/shield_bash.png",
+    "sha256": "e8ef60adad751fe1adf7910951638a4098085e30ba1fbe7c56f23d808dd8559a"
+  },
+  "assets/server/gui/skilltree/charge/shield_guard.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/charge/shield_guard.png",
+    "sha256": "aa85f3526f71b6a0666138bee2ca2163beb52695a7050a414d271e75170f0de8"
+  },
+  "assets/server/warrior_texture/skill_icon/leap.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/warrior_texture/skill_icon/leap.png",
+    "sha256": "d1e52e671ebb3d19484686c10f99d001f67ea775d766a3fd0ede483b7a3c6991"
+  },
+  "assets/server/gui/skilltree/leap/crushing_stun.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/leap/crushing_stun.png",
+    "sha256": "0554aa0c962b3b6e83d6c7ed85516661b8c71c9479e3ea1dd94a5493c757f29f"
+  },
+  "assets/server/abilities/cobra_curse.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/abilities/cobra_curse.png",
+    "sha256": "ffa6b035c16438898caebdf6978812f6052a5a51e9e348ac9b74bf17107fd29b"
+  },
+  "assets/server/gui/skilltree/leap/furious_arrival.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/leap/furious_arrival.png",
+    "sha256": "36285e0dd508cf1f330637398c0111fcedf4db7869c14c23aa7c45dd11fba796"
+  },
+  "assets/server/abilities/fury.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/abilities/fury.png",
+    "sha256": "942ac1b2ac811faf0196d94b3e4a0a49b1bb5c20f00191a983c46754f4efcda0"
+  },
+  "assets/server/stats/attack_speed.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/stats/attack_speed.png",
+    "sha256": "b373f4c2ac14985a7627ceec52404b673a99bc8c113a9616f96e7e2491c30bb3"
+  },
+  "assets/server/gui/skilltree/leap/landing_recovery.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/leap/landing_recovery.png",
+    "sha256": "288cb5cf3094e2094163305f4568e0dffa85679fba489e7ba118a1e34f217640"
+  },
+  "assets/server/gui/skilltree/leap/gravity_pull.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/leap/gravity_pull.png",
+    "sha256": "0286a154278f8e9fad163bd38572eb79018b3f25fc4405a43f0182477a2a2d5d"
+  },
+  "assets/server/gui/skilltree/leap/landing_shield.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/leap/landing_shield.png",
+    "sha256": "a87409a770ec6bc79b3cf8d37f56c66037c999827217c0be2c93d4b063031129"
+  },
+  "assets/server/gui/skilltree/leap/assault.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/leap/assault.png",
+    "sha256": "d71c59b7c6b84708ce100917dc6dca28dff615f540efefebef985bb75307632e"
+  },
+  "assets/server/gui/skilltree/leap/mantis_reset.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/leap/mantis_reset.png",
+    "sha256": "ecd0510ae134f6ca4772a6bab0d1371ba7519c7a8763ebe3201b96ea5a501b43"
+  },
+  "assets/server/gui/skilltree/leap/leap_momentum.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/leap/leap_momentum.png",
+    "sha256": "4dc84606d974f446ebf67541d4c604bea09956bd10032586498f01a1e18ba957"
+  },
+  "assets/server/gui/skilltree/leap/landing_sweep.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/leap/landing_sweep.png",
+    "sha256": "06531b2e649a3a58068796bb61b64febf3a58dd4ebe686252d6e8ba77de998a1"
+  },
+  "assets/server/abilities/slash.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/abilities/slash.png",
+    "sha256": "a6e85ed9026255a7952d6b64de3e23c3af8ca4ad65ab105d7e7b34499ae2b280"
+  },
+  "assets/server/gui/skilltree/leap/mana_return.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/leap/mana_return.png",
+    "sha256": "fe76ed4c2887e032246d7c17d7848ba95a2e88d88c9938a8790d286457af5115"
+  },
+  "assets/server/gui/skilltree/leap/long_leap.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/leap/long_leap.png",
+    "sha256": "735e9c364eac60da93f4cdcfea3f6a7e6088ef3faae1e9486686f261fd937547"
+  },
+  "assets/server/gui/skilltree/leap/critical_center.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/leap/critical_center.png",
+    "sha256": "e9c8093063d80a792384c62e98af35b656cccd90575626799312cad31d9f81cb"
+  },
+  "assets/server/gui/skilltree/leap/brutal_impact.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/leap/brutal_impact.png",
+    "sha256": "352cd6ef7957b57164e733fa5ca346adbe23627438c3a4a0598d8dc164c31a92"
+  },
+  "assets/server/gui/skilltree/leap/dragonfly_cooldown.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/leap/dragonfly_cooldown.png",
+    "sha256": "703c8dc1b23e32d271de25162ecd22168263c1b443e500da79b591a9b5fc25e8"
+  },
+  "assets/server/gui/skilltree/leap/distance_smash.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/leap/distance_smash.png",
+    "sha256": "5df7179ba6f8d328bb95f2036fce6c74976512a2860aae0de4025e48e059b171"
+  },
+  "assets/server/gui/skilltree/leap/wide_crater.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/leap/wide_crater.png",
+    "sha256": "05390122de60b5890dddb6ee01e2be017d204524f2fd78d64d346fca09031b61"
+  },
+  "assets/server/gui/skilltree/leap/airborne_invulnerability.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/leap/airborne_invulnerability.png",
+    "sha256": "684ee4b892aa35f972ed1f3148db152496aac17dcedd9e0d83947856eca25549"
+  },
+  "assets/server/status_effects/invulnerability.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/status_effects/invulnerability.png",
+    "sha256": "89283151c1c58dad593f58db5d7c6b5560117921dd4cd6a5a94cc6bc88283404"
+  },
+  "assets/server/gui/skilltree/leap/full_health_ambush.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/leap/full_health_ambush.png",
+    "sha256": "4fbef887ad89803b8a242faf325de30223714e63a56dbd1834579e3e463507b9"
+  },
+  "assets/server/gui/skilltree/leap/mud_slow.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/leap/mud_slow.png",
+    "sha256": "89b85843608743fd7b0e8af070ce055d9d7c4f1fcdc511033ed8956b33d346a8"
+  },
+  "assets/server/gui/skilltree/leap/takeoff_blast.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/leap/takeoff_blast.png",
+    "sha256": "3ff84ae77f0debcc6d3978a1e47674193bcb3d3f4059237199a1f59fe5c64241"
+  },
+  "assets/server/warrior_texture/skill_icon/totem.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/warrior_texture/skill_icon/totem.png",
+    "sha256": "7bd3402d931ac104f444a46a6a13fc1f70de527747c04eaf7d700d2b4632db29"
+  },
+  "assets/server/gui/skilltree/totem/deadly.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/totem/deadly.png",
+    "sha256": "ee39f122dab751b08e4a3f26ac05d0cae4aa5bea8aff6939a42d1273c64dcae7"
+  },
+  "assets/server/gui/skilltree/totem/guided_arrows.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/totem/guided_arrows.png",
+    "sha256": "fd21cb441a07724bd504d07dc21dba957a87934053767db296573e13fe65f8b1"
+  },
+  "assets/server/gui/skilltree/totem/heavy_crossbow.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/totem/heavy_crossbow.png",
+    "sha256": "ba79d06b6338da073327dea7301c5d7bb8ad8fa3b9fd83585742c99f157ac89c"
+  },
+  "assets/server/abilities/hexified.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/abilities/hexified.png",
+    "sha256": "a5e659adbc8ea2c47316788786ab6f0214080c7d7a65cc41fa7cc0e035ddc3af"
+  },
+  "assets/server/gui/skilltree/totem/mechanical_crossbow.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/totem/mechanical_crossbow.png",
+    "sha256": "4e890c9aae937faef16a019b38c6cb4adb0cae636134e3ec0b31ed561e424f2f"
+  },
+  "assets/server/gui/skilltree/totem/poison_arrows.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/totem/poison_arrows.png",
+    "sha256": "05d1d112897549d9a9a1353faee1f5b289f9854f2bdf2cc0bdbefa8f9aca3adc"
+  },
+  "assets/server/gui/skilltree/totem/healing_totem.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/totem/healing_totem.png",
+    "sha256": "8a2e31c91879cfc108f1084eac0ee8cb435c4fd3a04b207f5b4901078597dfdf"
+  },
+  "assets/server/gui/skilltree/totem/healing_domain.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/totem/healing_domain.png",
+    "sha256": "ed18d2e3be78451759bcbf2b62f51a05223e9f72d3c422089dc5fb804fbe463b"
+  },
+  "assets/server/gui/skilltree/totem/relic.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/totem/relic.png",
+    "sha256": "112c4c1f0673c17b730abfaf16e2fff71e41b2c057805f4e6a54b089b215ba4f"
+  },
+  "assets/server/gui/skilltree/totem/healing_expansion.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/totem/healing_expansion.png",
+    "sha256": "70e0d32f18c5109b63da8ac3e283bae2e23719606d34a2419a2cdde1910c2be0"
+  },
+  "assets/server/abilities/totem.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/abilities/totem.png",
+    "sha256": "871397b3ffccfd6246e789527c3edf18efafde8d1c0c59ca1b5f1b2a68155f28"
+  },
+  "assets/server/gui/skilltree/totem/tenacity.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/totem/tenacity.png",
+    "sha256": "b9f3657e3be63e87fa360ac1e84fb7c99e8b7e2d9502cfd5fb4de378988150bb"
+  },
+  "assets/server/gui/skilltree/totem/wisdom.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/totem/wisdom.png",
+    "sha256": "fabad38a7eeb8fda98d6ceb53bb41b9060ac22fca017005767d3fb90d46ea815"
+  },
+  "assets/server/gui/skilltree/totem/guardian_totem.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/totem/guardian_totem.png",
+    "sha256": "ca8df4d175a5d1c3c6ad2db083e77e31376eb77b232c2d1498d2f36e4afac526"
+  },
+  "assets/server/stats/dome.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/stats/dome.png",
+    "sha256": "754bab20f6825d647fe0748f44194c5fefe88092ed9dbe2216e99f710f1f08ec"
+  },
+  "assets/server/gui/skilltree/totem/wrath.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/totem/wrath.png",
+    "sha256": "2875384a3172aaaf9486a59596cb52a394c2e0d82729f45f88a451eabd775960"
+  },
+  "assets/server/gui/skilltree/totem/guardian_expansion.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/totem/guardian_expansion.png",
+    "sha256": "9a1a3d15c0a875b6d75f97f8088ee92d2b48376f93b440f28edc7d29a981c317"
+  },
+  "assets/server/gui/skilltree/totem/wellbeing.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/totem/wellbeing.png",
+    "sha256": "b973e515de097044283787756f40cd06876b483da513b3cd070feec5f0bf3ff2"
+  },
+  "assets/server/gui/skilltree/totem/eternity.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/totem/eternity.png",
+    "sha256": "f764712414caf8eecc6c548e32c3a13c5b84a5d59b8b3fc2b6823596358187cf"
+  },
+  "assets/server/gui/skilltree/totem/totem_link.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/totem/totem_link.png",
+    "sha256": "b39a16a69a72fc07dd8621803555ddae53f3bb4b8297f244cdb302861b62ea8a"
+  },
+  "assets/server/gui/skilltree/totem/faith_guardian.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/totem/faith_guardian.png",
+    "sha256": "0c24d0c256d4e0a1da4faec409d66f4deb66ce31d774b58626c03f99c0fd7916"
+  },
+  "assets/server/gui/skilltree/totem/totem_vessel.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/totem/totem_vessel.png",
+    "sha256": "a8b5fd574d3894907595d7586fb415f33edf25da7cbcb8187ea3f8653860eecf"
+  },
+  "assets/server/gui/skilltree/totem/link_expansion.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/totem/link_expansion.png",
+    "sha256": "446fb4f545e37217d597b400a135e5dfdeef0c488ca01134bdc60be90ce5a96c"
+  },
+  "assets/server/mage_texture/skill_icon/fireball.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/mage_texture/skill_icon/fireball.png",
+    "sha256": "28b76dca9024d116cc28a9b12cbb8fa3e7be9f721cfa87a5db6a38d9ca25d35f"
+  },
+  "assets/server/gui/skilltree/fireball/fireball_crit.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/fireball/fireball_crit.png",
+    "sha256": "c3f71d24bf594684aefb225097a6209669b6854c95dbd66c43eba02e4c3b85ff"
+  },
+  "assets/server/gui/skilltree/fireball/flame_veins.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/fireball/flame_veins.png",
+    "sha256": "805c0404a556bd3052be4ebbe2c27c616560a0cb6493c9dabb513daa6a91c14a"
+  },
+  "assets/server/gui/skilltree/fireball/critical_burn.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/fireball/critical_burn.png",
+    "sha256": "bcca38d910e13e466ea4eb3899da9a32e3b5adfe5ddba3f4e39b6a901dcc3972"
+  },
+  "assets/server/gui/skilltree/fireball/flame_surge.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/fireball/flame_surge.png",
+    "sha256": "1742d4b98e5f3df008f71f905b12bf1cd7b09bc92a72e4265f269c7e33a47c18"
+  },
+  "assets/server/gui/skilltree/fireball/high_explosive.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/fireball/high_explosive.png",
+    "sha256": "e5f5d9d74bfcd1c1e362f5d0dd3020ed0e7d6810e2e1863d0ba3e502176798bb"
+  },
+  "assets/server/gui/skilltree/fireball/precise_crit.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/fireball/precise_crit.png",
+    "sha256": "86b55468557c583eb4b9480887cc5bacd37f1f4dcd48ceda57bda4fea759f5a4"
+  },
+  "assets/server/gui/skilltree/fireball/efficient_fireball.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/fireball/efficient_fireball.png",
+    "sha256": "6be837a38b3471fd140b08f0f500f4d61c1fd351f13d039431406bfdbd565ef5"
+  },
+  "assets/server/gui/skilltree/fireball/fan_fireball.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/fireball/fan_fireball.png",
+    "sha256": "fbe4fea23f112ecb74b729e9bcad2dc3bc83cf20e3bb65fb517586b230e0f102"
+  },
+  "assets/server/abilities/living_flames.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/abilities/living_flames.png",
+    "sha256": "f4c9e0b15caef79d87aac0e0bdb41016d2957f8487e2ac598aad72839e986c0f"
+  },
+  "assets/server/gui/skilltree/fireball/melee_fireball.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/fireball/melee_fireball.png",
+    "sha256": "5637291d98f4942f84fb4632c27b7aa89c16f419bf4a9469a86511020087d234"
+  },
+  "assets/server/gui/skilltree/fireball/more_fireballs.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/fireball/more_fireballs.png",
+    "sha256": "4f1673c46187c0871c6524275e5d56d9d2d453dbce29ccb7fbb0df790d49bf7c"
+  },
+  "assets/server/gui/skilltree/fireball/flame_rhythm.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/fireball/flame_rhythm.png",
+    "sha256": "03c0fbdf3c875d387cfc6edcda5f3bdb055a3f123f8235b554c97bc75ff797a6"
+  },
+  "assets/server/gui/skilltree/fireball/fireball_ignite.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/fireball/fireball_ignite.png",
+    "sha256": "c16dfa395d3f124823b99cfc5208618e76c3c0147d3b1b7319b11b5b70eedead"
+  },
+  "assets/server/gui/skilltree/fireball/lasting_burn.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/fireball/lasting_burn.png",
+    "sha256": "230d1a301eecf4f6a4b86824cf98cea4c158be36896f402b7588c8b5031fde3d"
+  },
+  "assets/server/gui/skilltree/fireball/wildfire.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/fireball/wildfire.png",
+    "sha256": "27704363a2a54de0c2505c149f927e049ddc7ffc705449633c2d309f6a6bdcf5"
+  },
+  "assets/server/abilities/wildfire.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/abilities/wildfire.png",
+    "sha256": "90338278428a4f72522ca964844bf39d4efa4d7887fa36ab0dca9ef7f83448e2"
+  },
+  "assets/server/gui/skilltree/fireball/first_flame.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/fireball/first_flame.png",
+    "sha256": "f16c7c37885a7444162402f0b2a13054248dfd140d94807648deb306b8fd8fe5"
+  },
+  "assets/server/gui/skilltree/fireball/flame_burst.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/fireball/flame_burst.png",
+    "sha256": "c55e31f2f23fbdf28e6bd188f34b7d19cfdcd8fb9e91fff9bcc6294a3735facb"
+  },
+  "assets/server/abilities/flame_burst.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/abilities/flame_burst.png",
+    "sha256": "48e3629ee17d43b6b5cc068df769010494dfae7d65e8ddcc625d09af935210e1"
+  },
+  "assets/server/gui/skilltree/fireball/fast_fireball.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/fireball/fast_fireball.png",
+    "sha256": "50cf938894bbe347e193ae6ef91cce321b631aafb00b95e834e885caa75e89cb"
+  },
+  "assets/server/gui/skilltree/fireball/piercing_fireball.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/fireball/piercing_fireball.png",
+    "sha256": "d46ad6a607e03690cde65c06119c6021b6fdc3bd87b1e76db6f286b2a391c23a"
+  },
+  "assets/server/gui/skilltree/fireball/fireball_endurance.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/fireball/fireball_endurance.png",
+    "sha256": "adc6d0e7c3f5c08d1b796dce6fad8a5cd54e70b1c329fb8db4ca3e294101fb3b"
+  },
+  "assets/server/gui/skilltree/fireball/ricochet_fireball.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/fireball/ricochet_fireball.png",
+    "sha256": "712adbe0174a84271c3e588cb045283fba3796953ed4f6844951f1deadfc11a3"
+  },
+  "assets/server/gui/skilltree/fireball/penetrating_strike.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/fireball/penetrating_strike.png",
+    "sha256": "b4b1ae91eadbacf6c98831d1eb305438a00c558ffaefc51df8d620c1597510ee"
+  },
+  "assets/server/gui/skilltree/fireball/return_fireball.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/fireball/return_fireball.png",
+    "sha256": "d20ed51a6cebff75fca210806af0e063a9b3a826627e51fc0a5999b30aece24d"
+  },
+  "assets/server/mage_texture/skill_icon/magichit.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/mage_texture/skill_icon/magichit.png",
+    "sha256": "467d36e4ce7369ba60e7e15e80618e81a2b7ff83fb99b8751629bfae45c05c59"
+  },
+  "assets/server/gui/skilltree/magic_cut/deep_cut.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/magic_cut/deep_cut.png",
+    "sha256": "f188cdfcab5cda9fd7489d466e80a726cabe47fff9a4cdf703f12db31cec1cd1"
+  },
+  "assets/server/gui/skilltree/magic_cut/precise_cut.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/magic_cut/precise_cut.png",
+    "sha256": "dad54158ace91c554f19d369b87754ff607a81a8636d0f7158b7453df288f13c"
+  },
+  "assets/server/gui/skilltree/magic_cut/chain_cut.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/magic_cut/chain_cut.png",
+    "sha256": "8814b91c7ab1968dc9a126fd51b31689ca2b1c9d3d31292c6b64d2b468763bfc"
+  },
+  "assets/server/gui/skilltree/magic_cut/mana_feedback.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/magic_cut/mana_feedback.png",
+    "sha256": "6f267daf16a0afd505cddec2d0d6ed785e06b841841ed602ac55dfb02f7537dc"
+  },
+  "assets/server/gui/skilltree/magic_cut/isolated_cut.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/magic_cut/isolated_cut.png",
+    "sha256": "47ff4da98764168322d7cfad3e13a979455fe4adf482031230905df04117af78"
+  },
+  "assets/server/gui/skilltree/magic_cut/swift_drain.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/magic_cut/swift_drain.png",
+    "sha256": "ddc9d24ab203ca227a56679d023af5333be5939126a72c0ffdbed1c18f27a070"
+  },
+  "assets/server/gui/skilltree/magic_cut/overdraft_cut.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/magic_cut/overdraft_cut.png",
+    "sha256": "b9048c91e9055038666593d4bb078e95a918c29b5976fac697322bcf6e9d09f1"
+  },
+  "assets/server/gui/skilltree/magic_cut/mana_recovery.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/magic_cut/mana_recovery.png",
+    "sha256": "a102f95fe65fe6c9f7695230f37a9549822e8e4004de7c58613ab5ae0d6c7324"
+  },
+  "assets/server/gui/skilltree/magic_cut/overdraft_haste.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/magic_cut/overdraft_haste.png",
+    "sha256": "f1cd1ffbec2567ec63f24eeec9a6cbe75af1d9bcd9a84972aebea4c96e6d1b73"
+  },
+  "assets/server/gui/skilltree/magic_cut/deeper_overdraft.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/magic_cut/deeper_overdraft.png",
+    "sha256": "f7bd9240b1af2ae868f2c3090d584ed2a2c387bd57572561b87179f1ad77a3b7"
+  },
+  "assets/server/gui/skilltree/magic_cut/stronger_cut.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/magic_cut/stronger_cut.png",
+    "sha256": "a6ff0beb54243f1bb9eed8824ece94fc5906b14bce0e785a06ceb3210b346bde"
+  },
+  "assets/server/gui/skilltree/magic_cut/critical_drain.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/magic_cut/critical_drain.png",
+    "sha256": "4e5077495d6200854ccab1145b49d7847b230394b67c2ea697a8a20c6795544a"
+  },
+  "assets/server/gui/skilltree/magic_cut/mana_critical.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/magic_cut/mana_critical.png",
+    "sha256": "0df898c1691de33fba89a9d71c10582f125dbdcb321f47fcbb2e308ca35107ec"
+  },
+  "assets/server/gui/skilltree/magic_cut/critical_rhythm.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/magic_cut/critical_rhythm.png",
+    "sha256": "d7537fe028a487f7057d8a4825b60e6050a1820119e2c278d62a5c57cc4f7e6c"
+  },
+  "assets/server/gui/skilltree/magic_cut/critical_revival.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/magic_cut/critical_revival.png",
+    "sha256": "17d4a934ed1ea924475ab0ac93e98a5394370b8c506ed8d944a7a1f0a9c891c8"
+  },
+  "assets/server/gui/skilltree/magic_cut/stored_energy.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/magic_cut/stored_energy.png",
+    "sha256": "780f73efd66199c08dbb4f81a7127bd68227369830f7df9af8998eb77b1b6b10"
+  },
+  "assets/server/gui/skilltree/magic_cut/arcane_blade.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/magic_cut/arcane_blade.png",
+    "sha256": "c9af652b7a45911d29e062e2dbe40d14042a079cb80e1520e5603dfacd830af3"
+  },
+  "assets/server/gui/skilltree/magic_cut/banishing_cut.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/magic_cut/banishing_cut.png",
+    "sha256": "fa324ca7c86cb7262eecb2ab3b01a33f142db9cd7033c94e76f1df021eb1cde5"
+  },
+  "assets/server/gui/skilltree/magic_cut/fire_cut.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/magic_cut/fire_cut.png",
+    "sha256": "d42bff9a0ac99daad2e70f3c298f39165aed452a7c437853d4ec5cf715efbe47"
+  },
+  "assets/server/gui/skilltree/magic_cut/shield_transfer.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/magic_cut/shield_transfer.png",
+    "sha256": "dfdb38a3be1628fad848cb681239af80e25cfca60a131d9c86d1b916f79250da"
+  },
+  "assets/server/gui/skilltree/magic_cut/ice_cut.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/magic_cut/ice_cut.png",
+    "sha256": "90e7d7d5cfc9dd8bbec94a71c708ba4e5856f26559275c04279aae19ce6a455b"
+  },
+  "assets/server/stats/ice.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/stats/ice.png",
+    "sha256": "57347c0ebaad0e09d1b6deee6a4b888c808df578be1981036f17ae7d66526dcd"
+  },
+  "assets/server/abilities/frostbite.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/abilities/frostbite.png",
+    "sha256": "cef89864e96689b55b21372fde7ea9a3c706311bff592b6516e176ee79d2b1b6"
+  },
+  "assets/server/mage_texture/skill_icon/icebolt.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/mage_texture/skill_icon/icebolt.png",
+    "sha256": "1698bb0819bce4c45efc4836f1be8664e48dffa7ff9fad82802850bc34177907"
+  },
+  "assets/server/gui/skilltree/ice_arrow/long_flight.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/ice_arrow/long_flight.png",
+    "sha256": "6e28b0fef00174439e59c061ccada6871cbac552379e99ec94d169a76a203487"
+  },
+  "assets/server/gui/skilltree/ice_arrow/keen_homing.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/ice_arrow/keen_homing.png",
+    "sha256": "0f0e9522feb298d15ca97f989610c899e11fb0aa7626825bfa02f3ba2e0d141e"
+  },
+  "assets/server/gui/skilltree/ice_arrow/accelerating_hunt.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/ice_arrow/accelerating_hunt.png",
+    "sha256": "d5428c6112d530d7696c1141889769180459d7c8663bdcefcf1524aaaf0866c5"
+  },
+  "assets/server/gui/skilltree/ice_arrow/frost_core.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/ice_arrow/frost_core.png",
+    "sha256": "5db6b1abf335881ad81e72243d6e6a80cc8a2f8d508d4b5add017f89811ed1f6"
+  },
+  "assets/server/abilities/frosty_trusty.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/abilities/frosty_trusty.png",
+    "sha256": "e656312caf568e66f0db4d4a3c72a0b395ac81d2372864b70af125a20cd632dd"
+  },
+  "assets/server/gui/skilltree/ice_arrow/piercing.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/ice_arrow/piercing.png",
+    "sha256": "e2ec1ea2afc3f368879004e16b4fa0815ef1644ba9da6765574f93443a0b1782"
+  },
+  "assets/server/gui/skilltree/ice_arrow/swift_ice.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/ice_arrow/swift_ice.png",
+    "sha256": "6ef08d29899e810230658a5294dffc207dde21e7c0e70b9ffb623651e529c612"
+  },
+  "assets/server/gui/skilltree/ice_arrow/double_shot.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/ice_arrow/double_shot.png",
+    "sha256": "e3eb938f6357515eeba1d2058fbc9f05cdd0a790ab281b89071052a31a781b4b"
+  },
+  "assets/server/abilities/ice_spikes.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/abilities/ice_spikes.png",
+    "sha256": "9ea210b0057c247f84be66886249bcc24613b538aeee9516e818e00e0a6d66f0"
+  },
+  "assets/server/gui/skilltree/ice_arrow/ice_ballista.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/ice_arrow/ice_ballista.png",
+    "sha256": "bcdcecd81debb613656b9002ebf46e232e1f7660c13b8afdd608b913ae7ed18b"
+  },
+  "assets/server/gui/skilltree/ice_arrow/winter_coming.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/ice_arrow/winter_coming.png",
+    "sha256": "523e2fa87c802236c238ab6b9d9534e26aa1ae68bc6a53a9564843a3eec2a247"
+  },
+  "assets/server/gui/skilltree/ice_arrow/rapid_barrage.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/ice_arrow/rapid_barrage.png",
+    "sha256": "26ff9823647f87d13bb7d24f5a5149e24b709114025c6a71b33d574b6ce848f1"
+  },
+  "assets/server/abilities/tradeoff.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/abilities/tradeoff.png",
+    "sha256": "19c0f9f565ac0d6a5288e666d3f207b623fa05b6779358fb7b4978788112816c"
+  },
+  "assets/server/gui/skilltree/ice_arrow/deep_cold.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/ice_arrow/deep_cold.png",
+    "sha256": "9b3bc1284f4669765e67ed9e47706ee8be7cb9a8bfe4ceaeb4c6440c06d116bf"
+  },
+  "assets/server/gui/skilltree/ice_arrow/absolute_zero.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/ice_arrow/absolute_zero.png",
+    "sha256": "6b703a6502f1fda943a8be01eab481e2c6ee2f7a26cfaf7cc7e848e6bbb9acbf"
+  },
+  "assets/server/gui/skilltree/ice_arrow/ice_breaker.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/ice_arrow/ice_breaker.png",
+    "sha256": "f8187984846a0db11e590dd727e5e717cd319358b7d7a4c251631498a6df4709"
+  },
+  "assets/server/gui/skilltree/ice_arrow/serrated_ice.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/ice_arrow/serrated_ice.png",
+    "sha256": "557434a599d8da8b8a88aadf7dcadbf395864cd0bbea18738050c7edf790e331"
+  },
+  "assets/server/gui/skilltree/ice_arrow/cold_haste.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/ice_arrow/cold_haste.png",
+    "sha256": "6c44c13306a38ac8cca6b0417394f7048d99ff7a81563ee59cd06dd5fe5d2ad0"
+  },
+  "assets/server/gui/skilltree/ice_arrow/distant_lock.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/ice_arrow/distant_lock.png",
+    "sha256": "b2158b6ba3552ff91239d6107159432eadccba3159be5e73ae6b2c44c3763ead"
+  },
+  "assets/server/gui/skilltree/ice_arrow/patient_hunter.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/ice_arrow/patient_hunter.png",
+    "sha256": "7390f4c9001a625cab5d11691e5412d61bf0fec487fe15a15cb523f909ce11a6"
+  },
+  "assets/server/gui/skilltree/ice_arrow/ice_echo.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/ice_arrow/ice_echo.png",
+    "sha256": "500130323fdf16e5e583f192637149a772c1454ad85200c24822f70c9ceed6d9"
+  },
+  "assets/server/gui/skilltree/ice_arrow/biting_frost.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/ice_arrow/biting_frost.png",
+    "sha256": "e57ccf2a3cd5618253d88eaad8c1aa3dce499b92a8a64ead6f98383ccdc6219a"
+  },
+  "assets/server/gui/skilltree/ice_arrow/cold_fragments.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/ice_arrow/cold_fragments.png",
+    "sha256": "7b62d1493fe5686e6f90edea001d778eec08a8df2f1d14f25e24c0a3522631a9"
+  },
+  "assets/server/mage_texture/skill_icon/blink.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/mage_texture/skill_icon/blink.png",
+    "sha256": "06346aa3faf30a9847287f97708be0b0e581c64108ec594f1a4e405d27934d8c"
+  },
+  "assets/server/gui/skilltree/blink/channel_search.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/blink/channel_search.png",
+    "sha256": "a2441032f0ea88537691145345cd4dc376abc1ac6cff72bbde366e4a05666e80"
+  },
+  "assets/server/gui/skilltree/blink/blink_arrival.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/blink/blink_arrival.png",
+    "sha256": "d995028bbfaac32b823c01573065f1d5970edbf1efac06b31af0de1fca71aa5b"
+  },
+  "assets/server/gui/skilltree/blink/element_affinity.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/blink/element_affinity.png",
+    "sha256": "7702b5e3df1f5c846b509a70a11fd9305e02bf12c24f6e35a98908b24b810bd6"
+  },
+  "assets/server/gui/skilltree/blink/aether_barrier.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/blink/aether_barrier.png",
+    "sha256": "8e07ae0693d75221576ffcd6a6e50735b904e6a92a3b52cf8f1eccdb06f05cd8"
+  },
+  "assets/server/gui/skilltree/blink/flicker.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/blink/flicker.png",
+    "sha256": "9af3f6b65285f12548132fbedea631422f0edefef7da74ecd64eceb7d7364e4e"
+  },
+  "assets/server/gui/skilltree/blink/charged_blink.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/blink/charged_blink.png",
+    "sha256": "9d6d22650cc099e1a34130daea8a669d435398c25f549189b6b827739c7c41cb"
+  },
+  "assets/server/stats/tenacity.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/stats/tenacity.png",
+    "sha256": "664148f152a6b9a6bdc45b92be39832a4092d3bb9d54c498d27e14f56166d419"
+  },
+  "assets/server/gui/skilltree/blink/blink_resonance.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/blink/blink_resonance.png",
+    "sha256": "3fdc5622db94f3a300888f709f93aa4f1dffd01f9ebb48c90d3c0405ce528ff7"
+  },
+  "assets/server/gui/skilltree/blink/abundant_blink.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/blink/abundant_blink.png",
+    "sha256": "cca1eb0f523f67f8f9d1ec61289402027ff40e3cb828634e6abb75913ab9762d"
+  },
+  "assets/server/gui/skilltree/blink/displacement_speed.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/blink/displacement_speed.png",
+    "sha256": "d9bcf3a0e56c71f5816f889296c74fcfb87d86bff9fd04d0dd4504e6ba45c81f"
+  },
+  "assets/server/gui/skilltree/blink/distant_blink.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/blink/distant_blink.png",
+    "sha256": "300e70ab8540818715d9f800612d341b502d82a42c9857f31d6f8b11de8d6235"
+  },
+  "assets/server/gui/skilltree/blink/rewind.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/blink/rewind.png",
+    "sha256": "998759ad92e9c354f8ec6e83952a8ae32ee37dc4129e0e084ad7d57d4397bee1"
+  },
+  "assets/server/gui/skilltree/blink/cycle.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/blink/cycle.png",
+    "sha256": "29672042a5dd47af896888729a67d7d963548bde631f842abcc7cfb6d99f9bd3"
+  },
+  "assets/server/gui/skilltree/blink/mana_reflux.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/blink/mana_reflux.png",
+    "sha256": "50ab6e491a700bbe1b1e1c87cbc194fd39b9501236ab6e1ea1b302ec225871b8"
+  },
+  "assets/server/gui/skilltree/blink/space_guardian.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/blink/space_guardian.png",
+    "sha256": "10126db2cce628b014c4bc9379e8f31037c7331f3dc92de5ba553d71b8beb266"
+  },
+  "assets/server/gui/skilltree/blink/element_channel.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/blink/element_channel.png",
+    "sha256": "28053edc861fe359f34cabf36eef3309abaf0bd894ad56ae4b02f9c27a9f5b7c"
+  },
+  "assets/server/gui/skilltree/blink/blink_impact.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/blink/blink_impact.png",
+    "sha256": "f40515cffa2e6a6601dfd0d7bd026f02c8a5842c039ab88dd594cb840b021b12"
+  },
+  "assets/server/gui/skilltree/blink/decoy_mirror.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/blink/decoy_mirror.png",
+    "sha256": "35b538a56913b08dc6c802ff0ca2759dfc4437e302d5935b2c3211faa3b35617"
+  },
+  "assets/server/gui/skilltree/blink/surprise_mirror.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/blink/surprise_mirror.png",
+    "sha256": "96eac1ef1bc366ea6bad01e54c28528d2fa9ff2e152a0a99d095a8225d43131a"
+  },
+  "assets/server/gui/skilltree/blink/stable_copy.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/blink/stable_copy.png",
+    "sha256": "b79d0bef3796ef8db66d17f4f266b27fb82714359fd7e23ade519ad0479dab31"
+  },
+  "assets/server/gui/skilltree/blink/animated_mirror.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/blink/animated_mirror.png",
+    "sha256": "e8f3a6285b3d0207f02120ec8718a1892d647e83aa6f3de4c1b85c0aea6e830d"
+  },
+  "assets/server/mage_texture/skill_icon/lightchain.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/mage_texture/skill_icon/lightchain.png",
+    "sha256": "ee718a5ad7b3991b9c39688eb87772904749a63cf75ce7bd2a0e48019f1098a2"
+  },
+  "assets/server/gui/skilltree/chain_lightning/chain_lightning.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/chain_lightning/chain_lightning.png",
+    "sha256": "283eed2c597aba984ddcdc9973d82c47e6e4cdd98d4b29e85dd531aed98e1d10"
+  },
+  "assets/server/gui/skilltree/chain_lightning/blinding_spark.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/chain_lightning/blinding_spark.png",
+    "sha256": "dad856981e1158258fa034a5b6a2ce5f2a4193ed342b28a1e6f42daea9286c9c"
+  },
+  "assets/server/abilities/blood_for_blood.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/abilities/blood_for_blood.png",
+    "sha256": "3affe331a240132c93199e6efefef5f339b271acf7d18764bfdbb3c7a8628b71"
+  },
+  "assets/server/gui/skilltree/chain_lightning/high_power.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/chain_lightning/high_power.png",
+    "sha256": "877ec0f7807336d38b8a5d9d7eaf43ae91041c00b3baa1a8a84f65dd960fb492"
+  },
+  "assets/server/gui/skilltree/chain_lightning/chain_overload.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/chain_lightning/chain_overload.png",
+    "sha256": "e32cc9fb15cd4b37d40c048b512e4a11c3bab6d7eb8ac7d73a2ae87014f15434"
+  },
+  "assets/server/gui/skilltree/chain_lightning/resonant_chain.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/chain_lightning/resonant_chain.png",
+    "sha256": "62da1843a7c7120f40f8c470cead0c23a215d2babc727a33a5d042084db37131"
+  },
+  "assets/server/stats/parry.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/stats/parry.png",
+    "sha256": "508a80d466b6dbc62c9eef0f4b8a43773b878e5198bf932d2b6890f529122883"
+  },
+  "assets/server/gui/skilltree/chain_lightning/electric_shield.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/chain_lightning/electric_shield.png",
+    "sha256": "0c4064667ea0a7eac698170d9384a1a78bac9c38c8bca3a83ff7631b432ff485"
+  },
+  "assets/server/gui/skilltree/chain_lightning/chain_reach.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/chain_lightning/chain_reach.png",
+    "sha256": "15c9ba82329edacf9686211d252d473943208358ab79e0655bc51c3a88287e18"
+  },
+  "assets/server/gui/skilltree/chain_lightning/mana_refund.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/chain_lightning/mana_refund.png",
+    "sha256": "41c6410333d2a5301597fc413ca01152f93dd9c78f465e6cb907a484e95f05df"
+  },
+  "assets/server/gui/skilltree/chain_lightning/closed_circuit.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/chain_lightning/closed_circuit.png",
+    "sha256": "a812164a106475270a38ac7854af4d29384b83152dbd1b33c42ca15eb5e8e557"
+  },
+  "assets/server/gui/skilltree/chain_lightning/power_surge.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/chain_lightning/power_surge.png",
+    "sha256": "06c2219f4197028b25e94648f6a49be2a4d6db2af60c23e21487e223ea0817cf"
+  },
+  "assets/server/gui/skilltree/chain_lightning/high_voltage.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/chain_lightning/high_voltage.png",
+    "sha256": "214b41613ef0edda41a5d7e8879b50ac7ee7e11e93b7e1d45c8557b4b68fb6ef"
+  },
+  "assets/server/gui/skilltree/chain_lightning/chain_critical.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/chain_lightning/chain_critical.png",
+    "sha256": "b6fc3b4d376615b26214e7e2b8f3d4f0a3f575e40755330cfe5d6986a8c9b6fd"
+  },
+  "assets/server/gui/skilltree/chain_lightning/energy_recovery.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/chain_lightning/energy_recovery.png",
+    "sha256": "53a01a79393713da88c9ecc7620c402a1939252041df13ccd9d6bf73c9e4daf8"
+  },
+  "assets/server/gui/skilltree/chain_lightning/magnetic_storm.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/chain_lightning/magnetic_storm.png",
+    "sha256": "88c2f2c7bae6968d66f57cff677351ff70146d79734487d3b9756d981bb4d7d0"
+  },
+  "assets/server/gui/skilltree/chain_lightning/lasting_shock.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/chain_lightning/lasting_shock.png",
+    "sha256": "39376966ed5e75c1e59653178fd004242ea856b2977ea4724a01999e0626d061"
+  },
+  "assets/server/gui/skilltree/chain_lightning/static_field.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/chain_lightning/static_field.png",
+    "sha256": "6e3c08344671f79d657d288591c0ce96974afbe5da0c4164e2c11e0cb768d159"
+  },
+  "assets/server/gui/skilltree/chain_lightning/spark_charge.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/chain_lightning/spark_charge.png",
+    "sha256": "179db7480c5ea4a1133df99f328af05f817882300a8681bb0d5c03e07ec91b94"
+  },
+  "assets/server/gui/skilltree/chain_lightning/focused_lightning.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/chain_lightning/focused_lightning.png",
+    "sha256": "0b86fafbeaf5ed509d332e83ac3f42a285eeacb850b9d9d11ccf201f02c5a957"
+  },
+  "assets/server/gui/skilltree/chain_lightning/frozen_chain.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/chain_lightning/frozen_chain.png",
+    "sha256": "3ce7d6cfdd7c6033fb4643770a9167e2b445d8cc8c095663dcbabfb48aae425b"
+  },
+  "assets/server/abilities/chilled.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/abilities/chilled.png",
+    "sha256": "8b05dbcf04c67beb24bcfaac65c8fbac5f760bafaa55fe94f6e68670080a8129"
+  },
+  "assets/server/mage_texture/skill_icon/meteor.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/mage_texture/skill_icon/meteor.png",
+    "sha256": "1a627d5ad1c7f8881bcd894297e5da7330b7b166c57e07567a20b2bc3a33213f"
+  },
+  "assets/server/gui/skilltree/meteor/destruction.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/meteor/destruction.png",
+    "sha256": "81528b18cfb7b9774ed4c9eb84ee2ce1c775edbbebf0c74d166d4128f0052132"
+  },
+  "assets/server/gui/skilltree/meteor/mana_gift.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/meteor/mana_gift.png",
+    "sha256": "0a0a3afda84cd21322eacab6124302ebe758181ccb24abb1bfd8eb2f95a4e844"
+  },
+  "assets/server/gui/skilltree/meteor/annihilation.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/meteor/annihilation.png",
+    "sha256": "54bdd0d4b26e6ddd880530ebe0f098c315fa97d0d709ec6b562d431b027e97fa"
+  },
+  "assets/server/gui/skilltree/meteor/flame_wish.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/meteor/flame_wish.png",
+    "sha256": "1fe823339028e0f4014cec5489326b4c2ed1a3b17bdb1b838003c03eb7569929"
+  },
+  "assets/server/gui/skilltree/meteor/mana_refinement.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/meteor/mana_refinement.png",
+    "sha256": "fb5f6cdeb0ac2ea995987e85f59a1459bf8498cd7fbaa158c61b45768c902a6f"
+  },
+  "assets/server/gui/skilltree/meteor/giant_meteor.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/meteor/giant_meteor.png",
+    "sha256": "ae11ecad14abde611ed17a77e544a0430c4cb05fe688e6fad1f3fa4f43b287be"
+  },
+  "assets/server/gui/skilltree/meteor/crater.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/meteor/crater.png",
+    "sha256": "3c82d1b2a18b43ee168823fa38bbdf711aa7b5bcb908c9f973b2a0841a152570"
+  },
+  "assets/server/gui/skilltree/meteor/burning_lava.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/meteor/burning_lava.png",
+    "sha256": "698874657267fe254d79e165f0862fe84dd0c062224790e7d7974d99af938a94"
+  },
+  "assets/server/gui/skilltree/meteor/lava_trap.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/meteor/lava_trap.png",
+    "sha256": "fa49e2883f185822d5874a3c0778f530da06b3c5871235d57c3a37e26641c055"
+  },
+  "assets/server/gui/skilltree/meteor/ember_eruption.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/meteor/ember_eruption.png",
+    "sha256": "a7cd2157e4e2bd746ae1ce2e653285c241dad0ba9195658617168cb900b1aa55"
+  },
+  "assets/server/gui/skilltree/meteor/violent_impact.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/meteor/violent_impact.png",
+    "sha256": "64d923f58c725cfbfcfd026791e6de84007ec939d32262a1053bc4a1bed25715"
+  },
+  "assets/server/gui/skilltree/meteor/fragments.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/meteor/fragments.png",
+    "sha256": "d4cb400da1e4509e3418ac86fa97d068323cc4ca162d92bf9d78d1f22c07a9b4"
+  },
+  "assets/server/gui/skilltree/meteor/fast_fragments.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/meteor/fast_fragments.png",
+    "sha256": "d22d34b946cd14e706e2d38581a293b8a9cf9a799a57974a98186f20590d0798"
+  },
+  "assets/server/gui/skilltree/meteor/piercing_fragments.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/meteor/piercing_fragments.png",
+    "sha256": "540ce87c38c379d89471b852d608043f7f0128adba236eefeb1b794bfadfbfdb"
+  },
+  "assets/server/gui/skilltree/meteor/spiked_fragments.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/meteor/spiked_fragments.png",
+    "sha256": "fe2cfe6d753691e7a1c23d889e0e70df264b8be05b00570e89b50771f232c6a9"
+  },
+  "assets/server/gui/skilltree/meteor/twin_meteors.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/meteor/twin_meteors.png",
+    "sha256": "9417a4061a0c4fc8ee05529fb83977dbc143480d15f4c5742f74d000b4acda12"
+  },
+  "assets/server/gui/skilltree/meteor/meteor_rain.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/meteor/meteor_rain.png",
+    "sha256": "110879ff7493e4996137a454ae07ad208003fc6ec49669f36f27611e571d5536"
+  },
+  "assets/server/gui/skilltree/meteor/scattered_strikes.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/meteor/scattered_strikes.png",
+    "sha256": "05070ccf7bfe557350581c4b5d9b6b5a12c9cf3b25ce865f544695f881e95484"
+  },
+  "assets/server/gui/skilltree/meteor/fast_fall.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/meteor/fast_fall.png",
+    "sha256": "13db70aa923c2954715ad411eb3915a729fa378cda48c43382142cf5e69650f9"
+  },
+  "assets/server/gui/skilltree/meteor/frequent_impacts.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/meteor/frequent_impacts.png",
+    "sha256": "432b4b327ddc7f5d43f59ead437e46cef6a07c5975afe11ee70ef210eeaae8ad"
+  },
+  "assets/server/abilities/theskydescends.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/abilities/theskydescends.png",
+    "sha256": "f41e97650d19d23ac02974a04a7617b378a5c45b1225f1e8349ea02109e7a01a"
+  },
+  "assets/server/priest_texture/skill_icon/divine_slash.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/priest_texture/skill_icon/divine_slash.png",
+    "sha256": "f01dbba4f6ae39c7569dd9acb5889fbaf4b7768095749b846d71c4e55da7f81c"
+  },
+  "assets/server/gui/skilltree/divine_slash/holy_critical.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/divine_slash/holy_critical.png",
+    "sha256": "cfb7ba59ee575f6924f2d9ae8a5c6073555792104d291bffae807d7bc64ccd8f"
+  },
+  "assets/server/gui/skilltree/divine_slash/holy_execution.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/divine_slash/holy_execution.png",
+    "sha256": "885b60f9ea80723b458b103ca20a0fa34492c7f737650e21d15bb0ef41632ab0"
+  },
+  "assets/server/gui/skilltree/divine_slash/sin.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/divine_slash/sin.png",
+    "sha256": "a271656e255919df8cd4b27416d9ad1498688a681581241a024c2acfe72637a0"
+  },
+  "assets/server/gui/skilltree/divine_slash/mercy.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/divine_slash/mercy.png",
+    "sha256": "282262ade74636f7cf6710f4c6a7ebe3feacfca1a327cf953aeb7b40e46aed71"
+  },
+  "assets/server/gui/skilltree/divine_slash/judgement.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/divine_slash/judgement.png",
+    "sha256": "6469f5010d38c7f086686986736afbf275c072c8b2ebdea82e90cd4146f16d9c"
+  },
+  "assets/server/gui/skilltree/divine_slash/martyr_power.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/divine_slash/martyr_power.png",
+    "sha256": "3b75b136ad673073004e29a04d5d3ca3306e7d21de4c051498ceebf36c85d23c"
+  },
+  "assets/server/gui/skilltree/divine_slash/martyr_pact.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/divine_slash/martyr_pact.png",
+    "sha256": "e9e31db25895daf7172e1ac3103f3641af3578209f4a09ad552828dc8f2b1e2e"
+  },
+  "assets/server/gui/skilltree/divine_slash/wounded_might.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/divine_slash/wounded_might.png",
+    "sha256": "d34544fdfeb399977b77e516fd9b22ec7b28db18360239287473b36251e351d8"
+  },
+  "assets/server/gui/skilltree/divine_slash/ascetic_body.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/divine_slash/ascetic_body.png",
+    "sha256": "4d648d088dce4b75ccd105dca005da1dda3bf153b6a08e4d0c4551a28b60d351"
+  },
+  "assets/server/gui/skilltree/divine_slash/final_prayer.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/divine_slash/final_prayer.png",
+    "sha256": "222b510831bee1d8719a24e30e1f9fb3a7ad18ab3580bf79da28f564aad2d802"
+  },
+  "assets/server/gui/skilltree/divine_slash/devotion.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/divine_slash/devotion.png",
+    "sha256": "76c0f19966b032e8697778cdc657f84ac3838077bd4de6c8c65908bf7c273ba6"
+  },
+  "assets/server/gui/skilltree/divine_slash/holy_aura.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/divine_slash/holy_aura.png",
+    "sha256": "9608e15e9599f2168726fd62f43ff68a076f3fe5e716e8e4124ae5844b122493"
+  },
+  "assets/server/gui/skilltree/divine_slash/aura_stride.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/divine_slash/aura_stride.png",
+    "sha256": "ffc848c197e9a87ebe9c6d3bf365bc6e1c008ce4dd26df02305f8fe1defecdd6"
+  },
+  "assets/server/gui/skilltree/divine_slash/aura_duration.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/divine_slash/aura_duration.png",
+    "sha256": "e19aeb189a0090ecde5d13eba7b82d13017dbb19bb0b1bbcdfb6910b994459d1"
+  },
+  "assets/server/gui/skilltree/divine_slash/aura_gift.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/divine_slash/aura_gift.png",
+    "sha256": "3a1b45ffe70ea9f119f809f97ffe3528b3a53c5404e81b5b02523e964ffce9a0"
+  },
+  "assets/server/gui/skilltree/divine_slash/swift_light.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/divine_slash/swift_light.png",
+    "sha256": "65d06c74a82760525ad952609bc5614e14733c3549ac48fa988b26415e93e263"
+  },
+  "assets/server/gui/skilltree/divine_slash/radiance_mark.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/divine_slash/radiance_mark.png",
+    "sha256": "ebee83093e27f8f88d89715a64f339b2b4b6dc1f8d6492fab9af1840cd57793f"
+  },
+  "assets/server/gui/skilltree/divine_slash/divine_drain.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/divine_slash/divine_drain.png",
+    "sha256": "ce30c7b83775638b04c1bf70184db905b6b7a2be8c96bf0d6c9bc6a6ae432ede"
+  },
+  "assets/server/gui/skilltree/divine_slash/radiant_burst.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/divine_slash/radiant_burst.png",
+    "sha256": "e3c93e9b63477b9cd21b022dd89c8c8524ced5deef7cceb7c0fe31f050a5aa6f"
+  },
+  "assets/server/gui/skilltree/divine_slash/oracle_pursuit.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/divine_slash/oracle_pursuit.png",
+    "sha256": "c0c9cc5968bc0106f716a8c07d636c68e1a2c403a83c51d4a0d5d7db977359a7"
+  },
+  "assets/server/priest_texture/skill_icon/holy_bolt.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/priest_texture/skill_icon/holy_bolt.png",
+    "sha256": "1bb42861cb6427bff7510cdc351c4701b5d50f931c650314ff2ddad4419231a1"
+  },
+  "assets/server/gui/skilltree/holy_bolt/long_shot.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/holy_bolt/long_shot.png",
+    "sha256": "3ef45b3eb8882da9a1c6d22743a8bf8b2fd44cd9de76e5403e8d1f7d8abbf539"
+  },
+  "assets/server/gui/skilltree/holy_bolt/radiant_echo.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/holy_bolt/radiant_echo.png",
+    "sha256": "5b020d6d9208b360cba7d7331c5bd8fc8a5eb0dba7b127523f7b04646c65f112"
+  },
+  "assets/server/gui/skilltree/holy_bolt/twin_echo.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/holy_bolt/twin_echo.png",
+    "sha256": "fdbee3e34ebc9fbca52dbdb2322b5e9c6a02c78c669c595ab2dd398956cfa5c1"
+  },
+  "assets/server/gui/skilltree/holy_bolt/judgment_echo.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/holy_bolt/judgment_echo.png",
+    "sha256": "29df2c9c172a7d0bc5caa1042501b57c78481736fb04543940143fbecd7ee8f3"
+  },
+  "assets/server/gui/skilltree/holy_bolt/healing_echo.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/holy_bolt/healing_echo.png",
+    "sha256": "1c4bbb85cb2d89563da6aac084092229b29c07181b2c76533713359d55d8bf1f"
+  },
+  "assets/server/gui/skilltree/holy_bolt/radiant_damage.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/holy_bolt/radiant_damage.png",
+    "sha256": "abeb95a65091b99f956359cb8146f16c844bb01cb4496b6a8cb479b066eebb57"
+  },
+  "assets/server/gui/skilltree/holy_bolt/holy_burn.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/holy_bolt/holy_burn.png",
+    "sha256": "4093b1ccf9fa51a2e835f4e29359419388d667aaaa0362f882dd28d6d24bac9b"
+  },
+  "assets/server/gui/skilltree/holy_bolt/burning_hunt.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/holy_bolt/burning_hunt.png",
+    "sha256": "1d08c9a8231b4c41009774deeb3be0604aa6dcd0955ae09563771e9ab0b47d03"
+  },
+  "assets/server/gui/skilltree/holy_bolt/flame_burst.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/holy_bolt/flame_burst.png",
+    "sha256": "67682b643fbbd7d4846e322279d9f7969cd19c1387278e22fb5fc813e344e50b"
+  },
+  "assets/server/gui/skilltree/holy_bolt/purging_light.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/holy_bolt/purging_light.png",
+    "sha256": "b983e6e94c7b1ebd5f397aced76d98d657717600e19a5379d0bf27cc2e4f675f"
+  },
+  "assets/server/gui/skilltree/holy_bolt/critical_orb.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/holy_bolt/critical_orb.png",
+    "sha256": "b2606e55ada2dca46e0d50389fdd666de5de963697e93de75e2efcb6b0e848ac"
+  },
+  "assets/server/gui/skilltree/holy_bolt/triple_light.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/holy_bolt/triple_light.png",
+    "sha256": "62be8961bf813b42f8ea5e44dda37d4483ca1ffb69db44f41004a4cdea310587"
+  },
+  "assets/server/gui/skilltree/holy_bolt/critical_healing.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/holy_bolt/critical_healing.png",
+    "sha256": "538af05da04673e589c065b74f50568e51a4841605d51ed919fc83660b6cd3b3"
+  },
+  "assets/server/gui/skilltree/holy_bolt/mana_overflow.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/holy_bolt/mana_overflow.png",
+    "sha256": "b32179d914dc3f88ded3ac8c26f57b08e601b2166b83b776579c5957bedbdf37"
+  },
+  "assets/server/gui/skilltree/holy_bolt/holy_flash.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/holy_bolt/holy_flash.png",
+    "sha256": "676726d7beccbfc2e31e5ff92a0a648c3170499743900517ed067bb8cf5d13cc"
+  },
+  "assets/server/gui/skilltree/holy_bolt/healing_orb.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/holy_bolt/healing_orb.png",
+    "sha256": "ccff30523e045f1edf500baa78c09bd82d9d396955cb7474ce45ecc502839a26"
+  },
+  "assets/server/gui/skilltree/holy_bolt/healing_prayer.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/holy_bolt/healing_prayer.png",
+    "sha256": "e54f258721291d793a99525b6d8e33d0f7a9995d364897309cbaffb064157de1"
+  },
+  "assets/server/gui/skilltree/holy_bolt/afterglow_shelter.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/holy_bolt/afterglow_shelter.png",
+    "sha256": "acdde9c94066f1554937fe1dc406ed837abce0b5657fd17623fddd34731017a9"
+  },
+  "assets/server/gui/skilltree/holy_bolt/healing_favor.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/holy_bolt/healing_favor.png",
+    "sha256": "4b35c678576f6ef406d222b3515d4eff686cb81fc72bbb0d207be0c8282eeaa4"
+  },
+  "assets/server/gui/skilltree/holy_bolt/lingering_grace.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/holy_bolt/lingering_grace.png",
+    "sha256": "dac811e522d10686320881279791aded0be5e621efce6f2cbd269291b76810e8"
+  },
+  "assets/server/priest_texture/skill_icon/divine_descent.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/priest_texture/skill_icon/divine_descent.png",
+    "sha256": "479d14372c5dfc7bad2947fb2f8501fd984291643308a8fec26bae628f489865"
+  },
+  "assets/server/gui/skilltree/divine_descent/holy_avatar.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/divine_descent/holy_avatar.png",
+    "sha256": "651b541099faafbce762f471d7b0f1b1f3cb8be6793fc956e4a12801e9047b9a"
+  },
+  "assets/server/gui/skilltree/divine_descent/sacred_spring.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/divine_descent/sacred_spring.png",
+    "sha256": "5430aebf34afc241764a46e61c8485dd5b7214d471907062d47ff0ea54369bef"
+  },
+  "assets/server/gui/skilltree/divine_descent/cleansing_light.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/divine_descent/cleansing_light.png",
+    "sha256": "6f929c874b5b2c8cf2ccd7291aae00dab3dfd2e47bc437b5e4d5132589b39411"
+  },
+  "assets/server/gui/skilltree/divine_descent/life_seal.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/divine_descent/life_seal.png",
+    "sha256": "1f1fcf6f99fead3657d86f957e18a9880e890225d16450898b6a99bd18d1ff68"
+  },
+  "assets/server/gui/skilltree/divine_descent/inspiring_hymn.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/divine_descent/inspiring_hymn.png",
+    "sha256": "6662dc8dc742a7aaad84de5d194072ab903f437cb280ea352512afb58493a854"
+  },
+  "assets/server/gui/skilltree/divine_descent/judgment_avatar.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/divine_descent/judgment_avatar.png",
+    "sha256": "006c305dc98708f31d6e938c24b9df035365f95253dfe4351d54a070bd46d2a3"
+  },
+  "assets/server/gui/skilltree/divine_descent/sword_combo.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/divine_descent/sword_combo.png",
+    "sha256": "11599d90cd460029e1b7c6dd7b1230b807118325742b696ff5b6d330bc6fe524"
+  },
+  "assets/server/gui/skilltree/divine_descent/pursuit_wings.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/divine_descent/pursuit_wings.png",
+    "sha256": "4d9787378b57c495de4800573ee9765249550918d64b7865ef39206f71a566af"
+  },
+  "assets/server/gui/skilltree/divine_descent/sword_wave.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/divine_descent/sword_wave.png",
+    "sha256": "99df0f5a9b81cf558212c5def874f75f15091276846dea4f69f4e7046008a172"
+  },
+  "assets/server/gui/skilltree/divine_descent/final_verdict.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/divine_descent/final_verdict.png",
+    "sha256": "778fd039abd7869a8217944ef05c9b0cab3674bbb6cc15d3fbe487097cefa8f5"
+  },
+  "assets/server/gui/skilltree/divine_descent/divine_legion.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/divine_descent/divine_legion.png",
+    "sha256": "1da28204a568b4d2ac64a773d83de39bf73bb7628aa0abb8da7b313fb3658fd5"
+  },
+  "assets/server/gui/skilltree/divine_descent/resonant_speed.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/divine_descent/resonant_speed.png",
+    "sha256": "40c60581f3a5334debb5a7a5310e8f795145354fd31e3bd16004fb65398a04fb"
+  },
+  "assets/server/gui/skilltree/divine_descent/power_relay.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/divine_descent/power_relay.png",
+    "sha256": "f8409ee5bdc1d064340850ac6a72f2f236af22bbf64149cac21b1351f1352a84"
+  },
+  "assets/server/gui/skilltree/divine_descent/celestial_resonance.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/divine_descent/celestial_resonance.png",
+    "sha256": "64a83efa2cd2bf37c99efc0c53e87929ad331d56fc9185a0a047454e23a062cf"
+  },
+  "assets/server/gui/skilltree/divine_descent/reinforcements.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/divine_descent/reinforcements.png",
+    "sha256": "4439a2924b9d4636a749ae6a3fadf0b58fdf8f1c70f59dc6be6c569231f8044e"
+  },
+  "assets/server/gui/skilltree/divine_descent/war_avatar.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/divine_descent/war_avatar.png",
+    "sha256": "d8eac068d3d262ac9fe5fcb2b36c8e37215fcc7ca75b5596af9031fddfe1156e"
+  },
+  "assets/server/gui/skilltree/divine_descent/celestial_warcry.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/divine_descent/celestial_warcry.png",
+    "sha256": "4b3cb0354a987c22df199464a1fb00f2cbe050be65ac3d124c0471b212c8bfd2"
+  },
+  "assets/server/gui/skilltree/divine_descent/holy_bulwark.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/divine_descent/holy_bulwark.png",
+    "sha256": "4e252f2c8db08525dd6b0a61ee59effdf593864ebbd37bc2aeef1da3f9c7dd68"
+  },
+  "assets/server/gui/skilltree/divine_descent/protection_oath.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/divine_descent/protection_oath.png",
+    "sha256": "65a17f0b395f3165e2650136a6705e6902e75bafce3fe215604df9d57be48299"
+  },
+  "assets/server/gui/skilltree/divine_descent/formation_stomp.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/divine_descent/formation_stomp.png",
+    "sha256": "e8b2fe889370dbfcc1ada09eed9c0d30483cbd2f20c4d9f335546c61baa0f47d"
+  },
+  "assets/server/priest_texture/skill_icon/watchful_eye.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/priest_texture/skill_icon/watchful_eye.png",
+    "sha256": "0e5ae045919a2a156a77f7ccbdf4aaa99e6584d87bae3100b5d72b00bebea257"
+  },
+  "assets/server/gui/skilltree/watchful_eye/lasting_watch.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/watchful_eye/lasting_watch.png",
+    "sha256": "14d18385365d762cfa03ba5631a506873aafed865a842657edd44ae0fcf9bdaa"
+  },
+  "assets/server/gui/skilltree/watchful_eye/twin_watch.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/watchful_eye/twin_watch.png",
+    "sha256": "fa80d4dd33f30bf9d5b7e678cca37d8f710dfcfa0b248fb6f385168471591bf4"
+  },
+  "assets/server/gui/skilltree/watchful_eye/crossed_sight.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/watchful_eye/crossed_sight.png",
+    "sha256": "dc9487f1dea4bad66fd2d98b68a0a8fb7974937f766fb4ee150346429824f424"
+  },
+  "assets/server/gui/skilltree/watchful_eye/twin_refraction.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/watchful_eye/twin_refraction.png",
+    "sha256": "c37d9a975e72e968e1fea448462b50d23f789a41f896107180064076af059efa"
+  },
+  "assets/server/gui/skilltree/watchful_eye/twin_assault.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/watchful_eye/twin_assault.png",
+    "sha256": "af8381a77d1920f7b3c3aad932a37c8314cdf0b757a4d2ef2a904c8d880326f3"
+  },
+  "assets/server/gui/skilltree/watchful_eye/sharp_eye.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/watchful_eye/sharp_eye.png",
+    "sha256": "720398cf7470d82f572825b589e9df6446095775c063a81420827172574b1b55"
+  },
+  "assets/server/gui/skilltree/watchful_eye/focused_judgment.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/watchful_eye/focused_judgment.png",
+    "sha256": "622ae72094bd14b00d61325133cb8c7ea20376b06360991119e4eb46d4a0fb57"
+  },
+  "assets/server/gui/skilltree/watchful_eye/gathering_hunt.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/watchful_eye/gathering_hunt.png",
+    "sha256": "f011387992c3799774ec815492e9a661907edcfc9e47fed2acaf086547c5a2cf"
+  },
+  "assets/server/gui/skilltree/watchful_eye/blazing_gaze.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/watchful_eye/blazing_gaze.png",
+    "sha256": "2290f3604d3cc09061f424ceee54b0c68d2060ab972fba27a9acf9ce9c852899"
+  },
+  "assets/server/gui/skilltree/watchful_eye/target_lock.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/watchful_eye/target_lock.png",
+    "sha256": "5e1fd201179a7499640d212d44d223d1d6af982c2446c47eaa33e68f24fb663a"
+  },
+  "assets/server/gui/skilltree/watchful_eye/far_sight.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/watchful_eye/far_sight.png",
+    "sha256": "e1dd8e27e10a0a5853d1a7997763116cdf101a0fbaddd7767aee2e967c8c8502"
+  },
+  "assets/server/gui/skilltree/watchful_eye/counter_gaze.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/watchful_eye/counter_gaze.png",
+    "sha256": "07c4519e8010b711a482a8185456579f72e52683a324d9b4a871b347a26cb09d"
+  },
+  "assets/server/gui/skilltree/watchful_eye/punishing_light.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/watchful_eye/punishing_light.png",
+    "sha256": "718591d27a73b254758b020fae50f775ec3bec9466cd51759d85092a6ce3436e"
+  },
+  "assets/server/gui/skilltree/watchful_eye/swift_response.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/watchful_eye/swift_response.png",
+    "sha256": "47ea05ba55b422184c1c03247d4cb5da0e83b21f5a825d78a3086d564a38b886"
+  },
+  "assets/server/gui/skilltree/watchful_eye/watchful_barrier.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/watchful_eye/watchful_barrier.png",
+    "sha256": "11e53c190ad990e3fe4c877915dc57c4fc86d9d94771965dabee11d1f1251c16"
+  },
+  "assets/server/gui/skilltree/watchful_eye/spirit_eye.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/watchful_eye/spirit_eye.png",
+    "sha256": "50665320093c2ea23579cf11d3593644df73cfb0e5e8a6b41dfb6e924ee34944"
+  },
+  "assets/server/gui/skilltree/watchful_eye/merciful_gaze.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/watchful_eye/merciful_gaze.png",
+    "sha256": "6a11998ab3e0545127344ca8df3a7ff861aa26c0d9cc397d98763ab2b5aa8e6c"
+  },
+  "assets/server/gui/skilltree/watchful_eye/soothing_light.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/watchful_eye/soothing_light.png",
+    "sha256": "b632b9851997a77a40e280cae923f57d6a3caf0965b5dade6340b0d4b8e9f19e"
+  },
+  "assets/server/gui/skilltree/watchful_eye/cleansing_eye.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/watchful_eye/cleansing_eye.png",
+    "sha256": "b76df12709b42a933a90430311ff52965ded3175e55b6b758c3d5f546b3c34fb"
+  },
+  "assets/server/gui/skilltree/watchful_eye/spirit_legacy.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/watchful_eye/spirit_legacy.png",
+    "sha256": "716e14ac0570c6c436b93c6e2ac4c14cfe5c182aa2b93d1ca506f4f50e853452"
+  },
+  "assets/server/priest_texture/skill_icon/holy_pilgrimage.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/priest_texture/skill_icon/holy_pilgrimage.png",
+    "sha256": "aaceaf8f3d5db857d42ecdcb8ef3bb7df536b4730eb5362c0e28d85a8402f366"
+  },
+  "assets/server/gui/skilltree/holy_pilgrimage/light_wings.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/holy_pilgrimage/light_wings.png",
+    "sha256": "87c8cbdd12c02401238452e755323e286964de2955df898a5dc029d81ba66da7"
+  },
+  "assets/server/gui/skilltree/holy_pilgrimage/folded_light.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/holy_pilgrimage/folded_light.png",
+    "sha256": "5ab3a396c1cf7b822f50213a986303e809bfce71706620888e5d89568a413b92"
+  },
+  "assets/server/gui/skilltree/holy_pilgrimage/sky_skimming.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/holy_pilgrimage/sky_skimming.png",
+    "sha256": "4b076875a5bdde95bcbca2f4fcb309e5a87aca3701eea93b52ead1d9ff4703a3"
+  },
+  "assets/server/gui/skilltree/holy_pilgrimage/refracted_guard.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/holy_pilgrimage/refracted_guard.png",
+    "sha256": "c1d5544128a2e314b1fb15956a0b5e81439ee467cc3db738e0d217c47ce4376e"
+  },
+  "assets/server/gui/skilltree/holy_pilgrimage/return_wing.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/holy_pilgrimage/return_wing.png",
+    "sha256": "05a33e7eac970dd2f486c8509704a2493dfb6c8a86cdbe1f5b256c4fdf1d1869"
+  },
+  "assets/server/gui/skilltree/holy_pilgrimage/sharp_light.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/holy_pilgrimage/sharp_light.png",
+    "sha256": "eb7ba04d9842fdc376bcd5d832270fbd39fb44d837f32793353984112b10bc89"
+  },
+  "assets/server/gui/skilltree/holy_pilgrimage/sin_chasing_meteor.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/holy_pilgrimage/sin_chasing_meteor.png",
+    "sha256": "e53e84c6b76d046b9c66b110371bd7f784dcff5c23c1db447a3f42e44fea0293"
+  },
+  "assets/server/gui/skilltree/holy_pilgrimage/meteor_swiftness.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/holy_pilgrimage/meteor_swiftness.png",
+    "sha256": "91d9badde6ada8772d4e806c44b9d346d17fb872948a8c4bfe35045d5ca67f9e"
+  },
+  "assets/server/gui/skilltree/holy_pilgrimage/sky_hunt.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/holy_pilgrimage/sky_hunt.png",
+    "sha256": "09fb34a470474cf3a0b122451a08d8608ab6684f52c76b7a0d9a6e7fdddf077e"
+  },
+  "assets/server/gui/skilltree/holy_pilgrimage/stars_return.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/holy_pilgrimage/stars_return.png",
+    "sha256": "75bc7ae3f29447da7fb79ecbb1db8d29cead83d2d6e3e159a9f84441e35a910e"
+  },
+  "assets/server/gui/skilltree/holy_pilgrimage/far_sight.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/holy_pilgrimage/far_sight.png",
+    "sha256": "668ddd1f4beaf313cf184af483aaf621d81241257d515464dfb8245f181310db"
+  },
+  "assets/server/gui/skilltree/holy_pilgrimage/feather_ferry.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/holy_pilgrimage/feather_ferry.png",
+    "sha256": "a4a4f041ce4a839a535bd0e0524f17eea6ed859a314ebaa02e48096b79a26f05"
+  },
+  "assets/server/gui/skilltree/holy_pilgrimage/lasting_gate.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/holy_pilgrimage/lasting_gate.png",
+    "sha256": "828559251c77b72d6fb35163db48df8b29c0f363acaecda917c2af00bb0c460b"
+  },
+  "assets/server/gui/skilltree/holy_pilgrimage/swift_passage.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/holy_pilgrimage/swift_passage.png",
+    "sha256": "5c440f8e37af54b63959aebeb8065bb02a20da0cf04c5f1d7495b4982601ea91"
+  },
+  "assets/server/gui/skilltree/holy_pilgrimage/gate_rearguard.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/holy_pilgrimage/gate_rearguard.png",
+    "sha256": "eb68cf3e11ec91604b7edea565c10bbe1a943e0dacb1097b9efc1e244aad82b8"
+  },
+  "assets/server/gui/skilltree/holy_pilgrimage/warm_feather.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/holy_pilgrimage/warm_feather.png",
+    "sha256": "a31c2e347e39934836402656861880709b54e96737348f06f2b547e108ab7654"
+  },
+  "assets/server/gui/skilltree/holy_pilgrimage/grace_companion.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/holy_pilgrimage/grace_companion.png",
+    "sha256": "cdfb363e66fe1026da268d5027b5d958b4460f13a2a5367814d6dcda3cde5397"
+  },
+  "assets/server/gui/skilltree/holy_pilgrimage/feather_rest.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/holy_pilgrimage/feather_rest.png",
+    "sha256": "74b5ab11ffa80835175e9f2c6fc4a437df0b7a488f6f9a8cf36e864b50a8384c"
+  },
+  "assets/server/gui/skilltree/holy_pilgrimage/nest_first_aid.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/holy_pilgrimage/nest_first_aid.png",
+    "sha256": "de54fae832827a7e7c8a49fd6304f7de0596091ad38fd5a84f515a91f1f1e1fe"
+  },
+  "assets/server/gui/skilltree/holy_pilgrimage/lingering_fragrance.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/holy_pilgrimage/lingering_fragrance.png",
+    "sha256": "6b0f7b2435ff6a27630de850fca211b9a27506a9745eaec326e9f7be116c1d8e"
+  },
+  "assets/server/priest_texture/skill_icon/heavenly_sword.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/priest_texture/skill_icon/heavenly_sword.png",
+    "sha256": "8cc17bfa18629bffaee570195a9bd755a202ab14005c830b229d85329ea3d9be"
+  },
+  "assets/server/gui/skilltree/heavenly_sword/fall_speed.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/heavenly_sword/fall_speed.png",
+    "sha256": "fc39d09eed560230f3fe0dd50a2f5a71cfff256bad4c4e72d73edc60933b85f5"
+  },
+  "assets/server/gui/skilltree/heavenly_sword/heavy_sword.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/heavenly_sword/heavy_sword.png",
+    "sha256": "1f4a421922e4c13de300780f42cfa40c0cdf426e84709cf01fc54f6d9ae4c410"
+  },
+  "assets/server/gui/skilltree/heavenly_sword/center_strike.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/heavenly_sword/center_strike.png",
+    "sha256": "abc95fa3121e55fe7790074921c736d246e0839e9cdb28fbdf8c88f70f7bda7d"
+  },
+  "assets/server/gui/skilltree/heavenly_sword/stun_decree.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/heavenly_sword/stun_decree.png",
+    "sha256": "6e44293f2505f17030c3f05b788901c192d08114c10ce75c7bd829397656f7f2"
+  },
+  "assets/server/gui/skilltree/heavenly_sword/delayed_impact.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/heavenly_sword/delayed_impact.png",
+    "sha256": "4aa5e89d870ab86747dda7e887aedaccfb7a68ae6a4ad47099bd953a6dcaa0b3"
+  },
+  "assets/server/gui/skilltree/heavenly_sword/lasting_ground.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/heavenly_sword/lasting_ground.png",
+    "sha256": "e5a72bc54e5fe1b0236ecaecf26b26a72f372ce5ee008e56f801f027600c0eb5"
+  },
+  "assets/server/gui/skilltree/heavenly_sword/burning_ground.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/heavenly_sword/burning_ground.png",
+    "sha256": "89a33be6fd5a8fe1e91f5d8ccd364a8c8cf21c18050f65a9cdad0990c717409e"
+  },
+  "assets/server/gui/skilltree/heavenly_sword/deepening_burn.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/heavenly_sword/deepening_burn.png",
+    "sha256": "9b73bd9c57d1edbb0aa75e87f41a1f3598aeaa3338251943d9c59474b710aa44"
+  },
+  "assets/server/gui/skilltree/heavenly_sword/binding_embers.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/heavenly_sword/binding_embers.png",
+    "sha256": "99e004bc8af3df862da08e8c3d7b9f64af20a9983fb09b6e85fe7612f93d4bca"
+  },
+  "assets/server/gui/skilltree/heavenly_sword/burning_brand.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/heavenly_sword/burning_brand.png",
+    "sha256": "fffeeafedc67acc92222562c9b06d9a050bf256cb54e3d29fc286ffe06b33d22"
+  },
+  "assets/server/gui/skilltree/heavenly_sword/wide_domain.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/heavenly_sword/wide_domain.png",
+    "sha256": "cba590e07df5d630c5c8528508e78e4a8c00887f9e585f8226cc1f7c37444005"
+  },
+  "assets/server/gui/skilltree/heavenly_sword/battle_blessing.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/heavenly_sword/battle_blessing.png",
+    "sha256": "7ff2d781993bdd627bcea62dd4ae4040a6f3f467c89cfdcc7766de40a1972bfe"
+  },
+  "assets/server/gui/skilltree/heavenly_sword/lingering_blessing.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/heavenly_sword/lingering_blessing.png",
+    "sha256": "50c70a8ac88f05d17888a4a3f3fc00c6f773599b50e4e1d04076a2b70fd391e5"
+  },
+  "assets/server/gui/skilltree/heavenly_sword/called_lightning.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/heavenly_sword/called_lightning.png",
+    "sha256": "a22bd6f1d6c58e819173288bc68d00508691d51cef10d1ab410850181677dc78"
+  },
+  "assets/server/gui/skilltree/heavenly_sword/entry_shield.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/heavenly_sword/entry_shield.png",
+    "sha256": "ee7b3d623b1b270b692ce12e6b1c5161bed8383c3d3198086ddf84ed3773810b"
+  },
+  "assets/server/gui/skilltree/heavenly_sword/holy_dew.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/heavenly_sword/holy_dew.png",
+    "sha256": "eac0d92ff3194e7c4e15470be9c1b6260a72af7ee244c599ef08164b7f436cf3"
+  },
+  "assets/server/gui/skilltree/heavenly_sword/frequent_healing.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/heavenly_sword/frequent_healing.png",
+    "sha256": "cb00f93b373a372579e504f739e3a8de20928fe45d964f8f3259494dffeefb84"
+  },
+  "assets/server/gui/skilltree/heavenly_sword/entry_heal.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/heavenly_sword/entry_heal.png",
+    "sha256": "0692bc34e729ba4b2f9e1065dd3aa8d77780914c6afac292b1ccbe563416637c"
+  },
+  "assets/server/gui/skilltree/heavenly_sword/abundant_prayer.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/heavenly_sword/abundant_prayer.png",
+    "sha256": "7d38f0f161dd2c2a8220e15565416e25cefcae6dd9779d7dc3c706d29dd268a2"
+  },
+  "assets/server/gui/skilltree/heavenly_sword/lingering_heal.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/heavenly_sword/lingering_heal.png",
+    "sha256": "b54248a709bd410dccff3d26672a1b813d153535f3886a3b21fa35e44da5048a"
+  },
+  "assets/server/gui/skilltree_gui.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree_gui.png",
+    "sha256": "aae065606985612ea15fdc2eeff6623ef28c254965b1b2ccbc38a29ac68a655b"
+  },
+  "assets/server/gui/skilltree/skilltree_path_unlocked_up.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/skilltree_path_unlocked_up.png",
+    "sha256": "bbb389d543d25855b65e358254afb4b3ddd46be5c8368a37f060b0a115f49fea"
+  },
+  "assets/server/gui/skilltree/skilltree_path_unlocked_right.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/skilltree_path_unlocked_right.png",
+    "sha256": "531ea8bf527d94f1f8e3e56263e139531343bed675232d3bc12160bca11e0a64"
+  },
+  "assets/server/gui/skilltree/skilltree_path_unlocked_up_right.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/skilltree_path_unlocked_up_right.png",
+    "sha256": "50e827978ac0c7c768fe72e0c9c11f72435f574809a8e6a895df60d64b5b98fd"
+  },
+  "assets/server/gui/skilltree/skilltree_path_unlocked_up_left.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/skilltree_path_unlocked_up_left.png",
+    "sha256": "c2879ab8565d9fd1533210aa52aa4a22f3375c51e884175481eee4600f57eeb1"
+  },
+  "assets/server/gui/skilltree/skilltree_path_unlocked_down_right.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/skilltree_path_unlocked_down_right.png",
+    "sha256": "fd500d21e3fec100a5b497b4236fab9a78af309c96ab24646f6d41be1f91b2fb"
+  },
+  "assets/server/gui/skilltree/skilltree_path_unlocked_down_left.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/skilltree_path_unlocked_down_left.png",
+    "sha256": "d9093c6656ca32ee28f5bfa79b0fc96e1aba90ad12586e7a9cf1268457c4f0cc"
+  },
+  "assets/server/gui/skilltree/junctions/junction_26.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/junctions/junction_26.png",
+    "sha256": "4b5000e824c5a44f9e4eab4e938dff3328f17555e65cb70ed9113a2961334153"
+  },
+  "assets/server/gui/skilltree/junctions/junction_62.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/junctions/junction_62.png",
+    "sha256": "41e4a3a8416f0f559fa4d712fb9a8799333ec424cbc1d99ea94383625bf12f99"
+  },
+  "assets/server/gui/skilltree/junctions/junction_74.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/junctions/junction_74.png",
+    "sha256": "d1f6f62e5a90fa48b22c96297c94fd30e5c15390e1b3bc5fb1d72abe38dd8ea5"
+  },
+  "assets/server/gui/skilltree/junctions/junction_78.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/junctions/junction_78.png",
+    "sha256": "60d02e3db80cfde037af1dc07f06ebe47185253915eca962ff9dae71d203344c"
+  },
+  "assets/server/gui/skilltree/junctions/junction_80.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skilltree/junctions/junction_80.png",
+    "sha256": "aa128f90276dd95f63e1114efdeb79bb1dde7ef5aeaf9a149924cf3407db24f8"
+  },
+  "assets/server/gui/arrow_up.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/arrow_up.png",
+    "sha256": "f26663dccbb925bc0db760e6806930ff4fce7da0313455216315497fb1389866"
+  },
+  "assets/server/gui/arrow_down.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/arrow_down.png",
+    "sha256": "9cc27d63b2fa3473689b808c7cb04553306c1594037f723b031f9a948ece8c75"
+  },
+  "assets/server/gui/arrow_left.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/arrow_left.png",
+    "sha256": "1d1203cb128a7ce35d4b3c715864f97daff5fe7d765e8bad75a4d1f9621c7ea8"
+  },
+  "assets/server/gui/arrow_right.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/arrow_right.png",
+    "sha256": "a285d55762df1bb4c928eb4e57754f53bdf5c21e07f09949bacb4dbc31ed7a9f"
+  },
+  "assets/server/gui/reset.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/reset.png",
+    "sha256": "3e37876b3e96d0800212674beaf038d84513477100e06f4a4801d76d90aa2449"
+  },
+  "assets/server/gui/skillunlock.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skillunlock.png",
+    "sha256": "099c548812db416437ff89e1124ac4048d3c66b8b9a61fca50c92caa15a87500"
+  },
+  "assets/server/stats/ability_haste.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/stats/ability_haste.png",
+    "sha256": "49646c28501cda18d436bdcb0a87d40f79806280bb0b341eb53eee3f6efe7527"
+  },
+  "assets/server/stats/additional_experience.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/stats/additional_experience.png",
+    "sha256": "910cebb769728feb7630690df5e98b5f618bd73a049d71447d2652380cfce5ae"
+  },
+  "assets/server/stats/affix_t2.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/stats/affix_t2.png",
+    "sha256": "36e950547d8e346641b58d2914bee42df05f46f74a9d274cece7a85ecca815cd"
+  },
+  "assets/server/stats/affix_t3.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/stats/affix_t3.png",
+    "sha256": "d8a813361a5b58e1af8b991c8e0c80b28799094973af324fad11af8db7bf5a5c"
+  },
+  "assets/server/stats/affix_t4.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/stats/affix_t4.png",
+    "sha256": "a93ba4a2119d8aeae256329c913c12c3e8b64be6241341b43fdf4341e38e5059"
+  },
+  "assets/server/stats/affix_t5.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/stats/affix_t5.png",
+    "sha256": "79de1a3a30ccf9a9c97166bf36f34d97219eab678778d3f2964dcec88ac68f86"
+  },
+  "assets/server/stats/all_element_damage.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/stats/all_element_damage.png",
+    "sha256": "03db1088f39823bc440e29ebf30b0aa3aba6cad9ac5519633b5b23c658ff4878"
+  },
+  "assets/server/stats/all_element_resistance.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/stats/all_element_resistance.png",
+    "sha256": "98f14ba3c4082a631cd7b5ebc7b661ee72cf5589bac354d9ecebd4c31ebb5138"
+  },
+  "assets/server/stats/area_damage_bonus.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/stats/area_damage_bonus.png",
+    "sha256": "2f35e49ea33fbab753bcdc86b9e6a0850c6f54c7d2f893593535bcc87224e5b5"
+  },
+  "assets/server/stats/arrow_velocity.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/stats/arrow_velocity.png",
+    "sha256": "119ae9f338968255c75a6bbb02bae749ff317184e8c472b697ec1825976cddfc"
+  },
+  "assets/server/stats/attack_damage.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/stats/attack_damage.png",
+    "sha256": "3a0c3172c9722431b03d9b06fc42aa8f52b0922b52bb1f60bca8f8a116638851"
+  },
+  "assets/server/stats/critical_fishing_chance.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/stats/critical_fishing_chance.png",
+    "sha256": "8ff91ebfadb26e8725f125ede77281687637ec14e88377d56c07479fd763114e"
+  },
+  "assets/server/stats/critical_fishing_failure_chance.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/stats/critical_fishing_failure_chance.png",
+    "sha256": "f924415efa98bc7c233bbd292a1b10965921bd53c7062d42044ad371150ad11f"
+  },
+  "assets/server/stats/crit_chance.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/stats/crit_chance.png",
+    "sha256": "d0e98f707803d4e1da48876c3881067b0dd96356e73007178df9ed59aeb346fe"
+  },
+  "assets/server/stats/crit_damage.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/stats/crit_damage.png",
+    "sha256": "83113577fd8fd3032b05eda090bfa30e0a396917fac2a1154bc86a933bcd8b69"
+  },
+  "assets/server/stats/damage_increase.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/stats/damage_increase.png",
+    "sha256": "bd89db84338ee560283172ab9ae7ba3040e4eee50cf219ae744ade61af93ed61"
+  },
+  "assets/server/stats/damage_reduction.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/stats/damage_reduction.png",
+    "sha256": "5846c3ac6edeab47790fbf342399f647b84fbae4bc1b1f1d6f8cc82e01761e93"
+  },
+  "assets/server/stats/dodge.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/stats/dodge.png",
+    "sha256": "1c0f613c7ec9aaa8f1ce26b5c7d7e2f525f407392c2931c527701c95892a37fc"
+  },
+  "assets/server/stats/dot_damage_bonus.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/stats/dot_damage_bonus.png",
+    "sha256": "c096bc4c203623763890c14834f1e2e8507ad6a5c05b7209e165997bc1a07254"
+  },
+  "assets/server/stats/double_drop.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/stats/double_drop.png",
+    "sha256": "2b205f1655a32c88e68d96bb3a94ba19abbefb88a215b91ea64e9e2b6b90cf18"
+  },
+  "assets/server/stats/explosion_damage_bonus.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/stats/explosion_damage_bonus.png",
+    "sha256": "4578dc870c5f0402454619839efcd57a051824e6daa8dcb23a26bdf1153b695c"
+  },
+  "assets/server/stats/extra_harvest.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/stats/extra_harvest.png",
+    "sha256": "5e7b375a9abe7e1e600805d733b5076ee9c3a8d45fbe83ba11ded8f11a19ec0d"
+  },
+  "assets/server/stats/fire_resistance.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/stats/fire_resistance.png",
+    "sha256": "36be1b27afaf0a739242c90f1d755673091f383fec9be9b9c94a9f24f3931f9c"
+  },
+  "assets/server/stats/fishing_bait.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/stats/fishing_bait.png",
+    "sha256": "ca3673172929c3843ae796b6d743228cbef413c43cf0eddb035211b4fb8072e4"
+  },
+  "assets/server/stats/fishing_bait_empty.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/stats/fishing_bait_empty.png",
+    "sha256": "a4a469e7281f659670520a9d130da2eaf399ec72571df292e7f8a21e255f138c"
+  },
+  "assets/server/stats/fishing_bite_speed.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/stats/fishing_bite_speed.png",
+    "sha256": "84b704259656d626aaecdf17bfbf52f9fa69e9dbbd4de8bea035bba1da836058"
+  },
+  "assets/server/stats/fishing_luck.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/stats/fishing_luck.png",
+    "sha256": "24871c08fb8b10999fff401382020a4f4947cb1b104c4e5bf5ea098b049bd8e0"
+  },
+  "assets/server/stats/fishing_strength.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/stats/fishing_strength.png",
+    "sha256": "46cadc085a7d70ca65f3751fb1831adaf2d9748abf68ef4ece3509ab489353f7"
+  },
+  "assets/server/stats/food.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/stats/food.png",
+    "sha256": "e4058156c655d173cfb97f73b550abe2f3df3ce1edd0f25f6cf40af45520b0b0"
+  },
+  "assets/server/stats/healing_bonus.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/stats/healing_bonus.png",
+    "sha256": "00c4a62693aec77f9250a96949093ad940558fd922b9e16ee6269f9da0c71e0d"
+  },
+  "assets/server/stats/ice_resistance.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/stats/ice_resistance.png",
+    "sha256": "8dd97da01756dbfacbf8fd629ce52be00fc6e02c679605ab84198222a1c3eb0d"
+  },
+  "assets/server/stats/melee_damage_bonus.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/stats/melee_damage_bonus.png",
+    "sha256": "dd7929204a590624981a29af2ec5d1a185b8c7f90549a01dbfc5c8fd27ea78b9"
+  },
+  "assets/server/stats/mining_speed.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/stats/mining_speed.png",
+    "sha256": "a9ee7b8aacb4823e7fc841425e24e3f2c88703ebef31275ecf8e2fd7a0428125"
+  },
+  "assets/server/stats/mob_damage.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/stats/mob_damage.png",
+    "sha256": "44f742208b58907fb142ac93f2ca3c6bb33a3731e653662c459b57b579db3d06"
+  },
+  "assets/server/stats/poison_resistance.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/stats/poison_resistance.png",
+    "sha256": "6806a0ac78273b744224a2cd7817aac054b57c9835c72341b5a7033a7599de5d"
+  },
+  "assets/server/stats/potion_use.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/stats/potion_use.png",
+    "sha256": "a2849db26346b0be49fbf46e1e2d80449ff20f188a04dd272c0a3a035579a167"
+  },
+  "assets/server/stats/projectile_damage.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/stats/projectile_damage.png",
+    "sha256": "9333502cffbc4d9e211384ce9e1b3e3f50542c575c8734ba217a7eb7466a8b43"
+  },
+  "assets/server/stats/pvp_damage.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/stats/pvp_damage.png",
+    "sha256": "49e030dc564cff6f78d820a9285355b5cd29117d9e3232026becf0d0a17319b7"
+  },
+  "assets/server/stats/ranged_damage_bonus.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/stats/ranged_damage_bonus.png",
+    "sha256": "4054a87cae97ccf5e90aeee0265137be63a791cdace689f0651c4d3a31867d73"
+  },
+  "assets/server/stats/rune.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/stats/rune.png",
+    "sha256": "f78e36c8a4cae2a402724946a1d2b13186c9f13210064e74b2b8cfa9b452344b"
+  },
+  "assets/server/stats/shield_cooldown.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/stats/shield_cooldown.png",
+    "sha256": "97556a0f296b709240c225b1a7cab38ea63ebf7229c48c1c3b1efc8561ecff3c"
+  },
+  "assets/server/stats/skill_crit_chance.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/stats/skill_crit_chance.png",
+    "sha256": "82c7bec6161cf06036b3fa88399f30075f7482df096f88d32848ddaf23e2edbc"
+  },
+  "assets/server/stats/spell_damage_bonus.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/stats/spell_damage_bonus.png",
+    "sha256": "f95baeaffaebaace8d09b7cc27edddca0d78024eabd7da327a0d2d7ba9e0fdc4"
+  },
+  "assets/server/stats/spell_vamp.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/stats/spell_vamp.png",
+    "sha256": "79cb25dd3fc249331751d21b39fc59d92b30e4423ca9defdf0d4f2facaaa60c2"
+  },
+  "assets/server/stats/summon_damage_bonus.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/stats/summon_damage_bonus.png",
+    "sha256": "ded53f663dc40a0fe4b585129d26cbc26b3c9033ecbe23505c0c66fc5bacf96d"
+  },
+  "assets/server/stats/summon_healing_bonus.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/stats/summon_healing_bonus.png",
+    "sha256": "448cf5ae702316d092f46499e529bf16f64d6798beb2ca047ffb059bb48e269c"
+  },
+  "assets/server/stats/summon_health_bonus.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/stats/summon_health_bonus.png",
+    "sha256": "e69763f885a0c6e47c4878c2649188d83be58d169911aa2b86cfc1c219320d29"
+  },
+  "assets/server/stats/thunder_resistance.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/stats/thunder_resistance.png",
+    "sha256": "f39bf7f6178a7cec1f633807eda5191c34d7a3b976007e9dd045897e8715aa1a"
+  },
+  "assets/server/stats/total_armor.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/stats/total_armor.png",
+    "sha256": "968e5f6b1a3beab39b558b1af5535df84ca70a06d9d4fab18a35ff97a4b3e3af"
+  },
+  "assets/server/stats/woodcutting_double_drop.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/stats/woodcutting_double_drop.png",
+    "sha256": "472a5bb8f0040c0f9078aaff3176f7ea9a2acebfea7ce7ce08f072d474d4240d"
+  },
+  "assets/server/stats/woodcutting_experience.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/stats/woodcutting_experience.png",
+    "sha256": "95afa5aae6cd4e91dfd1abc0c31b0ae6b7a8116e6da41932b6b1071fa7361635"
+  },
+  "assets/server/stats/woodcutting_speed.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/stats/woodcutting_speed.png",
+    "sha256": "839b80c8c6c8dc47a8cdf4eae7e24d23c3a32b10cecccf8c9c285d88b1fcb5e5"
+  }
+}

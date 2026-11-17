@@ -1,0 +1,227 @@
+{
+  "assets/server/life/8cbddf676181c613.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/items/fishing/grass_carp.png",
+    "sha256": "8cbddf676181c61397f3932507562881fd832a282399d36e532e9883032a57f2",
+    "kind": "server-original"
+  },
+  "assets/server/life/c612f136a3498217.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/items/fishing/sea_snail.png",
+    "sha256": "c612f136a34982175cd4e0bb89061d9dca090efb59a5e39bf16e901fe2656ba4",
+    "kind": "server-original"
+  },
+  "assets/server/life/2d43605349b39f01.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/items/fishing/horn_coral.png",
+    "sha256": "2d43605349b39f0120cd9cd94a2011aa6a2ef2d832ecf5af3bf092b21754a952",
+    "kind": "server-original"
+  },
+  "assets/server/life/bd35f1b05eb629f5.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/items/fishing/brain_coral.png",
+    "sha256": "bd35f1b05eb629f5fe14dc80bda5ef40376de3d7eba6173674f057103bbf9e99",
+    "kind": "server-original"
+  },
+  "assets/server/life/bb4ba6b3d45b11d9.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/items/fishing/catfish.png",
+    "sha256": "bb4ba6b3d45b11d98fedff34e4fd5c511d757dc8aba7fc217cff7897027fa637",
+    "kind": "server-original"
+  },
+  "assets/server/life/c26daa36a9bcf6a8.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/items/fishing/cuttlefish.png",
+    "sha256": "c26daa36a9bcf6a87be181c4b2afc90d21a0dc33ded317d6f89e1cbf7bb83080",
+    "kind": "server-original"
+  },
+  "assets/server/life/6789c678e5630ec1.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/items/fishing/butterflyfish.png",
+    "sha256": "6789c678e5630ec13a190fb72cd0e2ed9d1d0989419c14e93377b352b7e70339",
+    "kind": "server-original"
+  },
+  "assets/server/life/86278f6306291389.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/items/fishing/flounder.png",
+    "sha256": "86278f63062913891d1666e0035b686c8e6808e1d67a86faaa02a01c34637579",
+    "kind": "server-original"
+  },
+  "assets/server/life/76ba402fbcf37b18.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/items/fishing/sea_bream.png",
+    "sha256": "76ba402fbcf37b18a42c51119742b853927dd3b5d2c81483b9c132ddc8bf98e3",
+    "kind": "server-original"
+  },
+  "assets/server/life/28bfd71384c749e9.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/items/fishing/tube_coral.png",
+    "sha256": "28bfd71384c749e92787fbddf0685a168908fafad9b616c824157a2940e68a53",
+    "kind": "server-original"
+  },
+  "assets/server/life/44c258930581ae12.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/items/fishing/starfish.png",
+    "sha256": "44c258930581ae12cf03bd9332e386e7517461bea210d1b2ac98b7761e93b08c",
+    "kind": "server-original"
+  },
+  "assets/server/life/93985c8bc7db15ed.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/items/fishing/red_mullet.png",
+    "sha256": "93985c8bc7db15edfc0ecd240a2403a016d9b9a7af771d5de2b9eeea27659688",
+    "kind": "server-original"
+  },
+  "assets/server/life/e6e95301089fe0e6.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/items/fishing/fire_coral.png",
+    "sha256": "e6e95301089fe0e6c6ec059ed55e8f7eb65a061db66ff78e3c2360279db0d493",
+    "kind": "server-original"
+  },
+  "assets/server/life/927b8497743fdec9.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/items/fishing/lobster.png",
+    "sha256": "927b8497743fdec964156dd73ad4c0c47d574c738ecc56bda393263d93bde4c1",
+    "kind": "server-original"
+  },
+  "assets/server/life/520ef9a1aabf7ba2.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/items/fishing/grouper.png",
+    "sha256": "520ef9a1aabf7ba2078df1888980ddcb34cc8f4b8a47afbdba8781418cc6cc93",
+    "kind": "server-original"
+  },
+  "assets/server/life/7080bb1f9f96c0b7.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/items/fishing/scallop.png",
+    "sha256": "7080bb1f9f96c0b7ca523f49a75ca828d6fab8065c0bbfcc2631407fee7eb76f",
+    "kind": "server-original"
+  },
+  "assets/server/life/97dd6978868e6b4c.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/items/fishing/sea_cucumber.png",
+    "sha256": "97dd6978868e6b4ccf21abec212274739ce1c564ea53676168f4baa8c7677dd2",
+    "kind": "server-original"
+  },
+  "assets/server/life/c8c2952ca812acaa.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/items/fishing/koi.png",
+    "sha256": "c8c2952ca812acaa2fefc7f55c1aeef08c22b7d8f3c3d88809a44777b5762528",
+    "kind": "server-original"
+  },
+  "assets/server/life/1f51e9dddc89a177.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/items/fishing/jellyfish.png",
+    "sha256": "1f51e9dddc89a177e233e95ce1b2426afa8dd13353aa4d5f447ff6801652e766",
+    "kind": "server-original"
+  },
+  "assets/server/life/2fdd4cb1f4067074.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/items/fishing/hermit_crab.png",
+    "sha256": "2fdd4cb1f40670745d494783b91f81b1c6195ff54dc7c5a6d09139bfcd2c1de0",
+    "kind": "server-original"
+  },
+  "assets/server/life/fa43fa0a6452bb03.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/items/fishing/bubble_coral.png",
+    "sha256": "fa43fa0a6452bb0364ad11e8d94aad47a57d5009bd0664de164cb5441a26612e",
+    "kind": "server-original"
+  },
+  "assets/server/life/df93654877663a70.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/items/fishing/chinese_sturgeon.png",
+    "sha256": "df93654877663a70c28f69d6c855fdbcac96eebfa1f86af3f5158701a6119462",
+    "kind": "server-original"
+  },
+  "assets/server/life/5cce0cd8cbe56d8f.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/items/fishing/king_crab.png",
+    "sha256": "5cce0cd8cbe56d8f2b6ea0bca04035da0487761a0abae775df84e82fa2a9c35d",
+    "kind": "server-original"
+  },
+  "assets/server/life/0dd6ada157ce2204.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/items/fishing/opah.png",
+    "sha256": "0dd6ada157ce2204fd1bdfe26855fb4a3b9ece2eacfc985ccbe95d0ca28447c4",
+    "kind": "server-original"
+  },
+  "assets/server/life/f14e1fe3d7b3d359.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/items/fishing/oarfish.png",
+    "sha256": "f14e1fe3d7b3d359a30ae867ab14310d82d033532b10ee14ba74befbd372276b",
+    "kind": "server-original"
+  },
+  "assets/server/life/bbd83465f1bcd51b.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/items/fishing/golden_king_fish.png",
+    "sha256": "bbd83465f1bcd51ba80d1daa8026c026d2a8a98fe5b5a59935e87f25e5309679",
+    "kind": "server-original"
+  },
+  "assets/server/life/d851526fab0bfc9d.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/items/fishing/deep_sea_eel.png",
+    "sha256": "d851526fab0bfc9d2c984a757749b5172564fbefbc629981789027050596a202",
+    "kind": "server-original"
+  },
+  "assets/server/life/d469ec2cf353a8cc.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/items/fishing/ambergris.png",
+    "sha256": "d469ec2cf353a8ccd73b94b0ec90ed356ea651441da3b5a64b397b782101784b",
+    "kind": "server-original"
+  },
+  "assets/server/life/cf2c39309b3273db.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/items/fishing/nautilus.png",
+    "sha256": "cf2c39309b3273db148a5d33bc713037b84600f4d8ccabcd3f7ab49f7a375e09",
+    "kind": "server-original"
+  },
+  "assets/server/life/4191e1a564fab672.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/items/fishing/pirate_coin.png",
+    "sha256": "4191e1a564fab6729ccd788d1f654e2c188ae96477fd2e042c3b941353229c02",
+    "kind": "server-original"
+  },
+  "assets/server/life/7a1e0ba0b60dfb51.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/item/fishing_tackle/lost_tackle_box.png",
+    "sha256": "7a1e0ba0b60dfb51683e3fe05484884dbb6c84e991d4fd1245374ceeae5b5874",
+    "kind": "server-original"
+  },
+  "assets/server/life/fec1d6d0880b9eda.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/items/floral_underpants/icon.png",
+    "sha256": "fec1d6d0880b9eda30ae722fe360ce414401fdee19303cf7a60a2434d8657027",
+    "kind": "server-original"
+  },
+  "assets/server/life/dddb786d1192de49.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/item/fishing_rods/expert_rod.png",
+    "sha256": "dddb786d1192de49a79c057235939698943cb8edcbdc7d224751cc2572802d2b",
+    "kind": "server-original"
+  },
+  "assets/server/life/1c501debd11d942e.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/item/fishing_rods/tide_rod.png",
+    "sha256": "1c501debd11d942e91ce445f5792cc643a781cc2a1e34d12258bdfef70c21ae8",
+    "kind": "server-original"
+  },
+  "assets/server/life/25cbca6132b52cef.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/item/fishing_rods/master_rod.png",
+    "sha256": "25cbca6132b52cef4736604285006cbce6cf13648c41deec91ebe52247212f47",
+    "kind": "server-original"
+  },
+  "assets/server/life/68da99ddcf758879.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/item/fishing_rods/corsair_rod.png",
+    "sha256": "68da99ddcf758879eb3eaeca1e75f83fad6234ccd0f167313f5565feb51efce3",
+    "kind": "server-original"
+  },
+  "assets/server/life/8211ef529cfb7387.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/item/fishing_rods/grandmaster_rod.png",
+    "sha256": "8211ef529cfb7387955a70eb81541457e3227ddb3428057bb720eedb0c2e90ad",
+    "kind": "server-original"
+  },
+  "assets/server/life/207130b724bde6a1.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/item/fishing_rods/treasure_rod.png",
+    "sha256": "207130b724bde6a1e58e34f7c7e4c348bee56afd16a87f0ba16227201f77d648",
+    "kind": "server-original"
+  },
+  "assets/server/life/bf857d8cb0bb4053.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/item/fishing_rods/great_grandmaster_rod.png",
+    "sha256": "bf857d8cb0bb40530a4141163981ef1b68f8548dc5c7b28830ee5e1cda17e498",
+    "kind": "server-original"
+  },
+  "assets/server/life/3ad57ec5fb25ef3a.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/item/fishing_rods/seabless_rod.png",
+    "sha256": "3ad57ec5fb25ef3a394c6759764f134091e4f6b3f862a8f27a0e3d646835af1e",
+    "kind": "server-original"
+  },
+  "assets/server/life/5db38f6b695ff6c9.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/item/fishing_rods/odd_frayed_rod.png",
+    "sha256": "5db38f6b695ff6c90656cb65fff0036a18cb70d694b3ade0199e174bb42c4393",
+    "kind": "server-original"
+  },
+  "assets/server/life/8fa850b883cfb250.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/item/fishing_rods/odd_blurred_rod.png",
+    "sha256": "8fa850b883cfb250dc0a8e5e07646d26f764d7227ae250ad796dd34d69529f58",
+    "kind": "server-original"
+  },
+  "assets/server/life/e4a105f163181986.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/item/fishing_rods/odd_bent_rod.png",
+    "sha256": "e4a105f163181986ad4e2481bfd9892bab339e2174140905e9a5585748a46d6d",
+    "kind": "server-original"
+  },
+  "assets/server/life/45fddf24ee000498.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/item/fishing_rods/odd_scrawled_rod.png",
+    "sha256": "45fddf24ee000498c74f70e9fe7dec6e4eba216b4ca80e5f14b0373955b83623",
+    "kind": "server-original"
+  },
+  "assets/server/life/82167a8ed328c433.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/item/fishing_rods/odd_sour_rod.png",
+    "sha256": "82167a8ed328c43386d9e50d76c0926360eca5cd8ab9f478b1dd9c335282270e",
+    "kind": "server-original"
+  }
+}

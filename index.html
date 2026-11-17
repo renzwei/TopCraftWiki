@@ -1,72 +1,51 @@
 <!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <title>TopCraft维基百科</title>
-    <link rel="icon" href="_media/favicon.ico" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-    <meta name="description" content="Description" />
-    <meta
-      name="viewport"
-      content="width=device-width, initial-scale=1.0, minimum-scale=1.0"
-    />
-    <link rel="stylesheet" href="them.css" />
-  </head>
-  <body>
-    <div id="app"></div>
-    <script>
-      window.$docsify = {
-        // logo: '/_media/logo.jpg',
-        name: "<b><font color=#dba134 >TopCraft 维基百科</font></b>",
-        repo: "",
-        coverpage: true,
-        onlyCover: true,
-        homepage: "info.md",
-        loadNavbar: true,
-        loadSidebar: true,
-        subMaxLevel: 2,
-        auto2top: true,
-
-        // 搜索插件配置
-        search: {
-          noData: {
-            "/": "没有匹配的结果",
-          },
-          paths: "auto",
-          placeholder: {
-            "/": "搜索",
-          },
-        },
-
-        // 分页插件配置
-        pagination: {
-          previousText: "上一章节",
-          nextText: "下一章节",
-          crossChapter: true,
-          crossChapterText: true,
-        },
-        footer: {
-          copy: "<span>TopCraft 多人游戏服务器 &copy; 2022</span>",
-          auth: "by TopCraft 制作组",
-          pre: "<hr/>",
-          style: "text-align: center;",
-          class: "className",
-        },
-        timeUpdater: {
-          text: "<br><p align='right'>*此页面最后编辑于{docsify-updated}。*</p>",
-          formatUpdated: "{YYYY}年{MM}月{DD}日 {HH}:{mm}",
-        },
-        notFoundPage: true,
-      };
-    </script>
-    <!-- Docsify v4 -->
-    <script src="//unpkg.com/docsify@4"></script>
-    <!-- 搜索插件 -->
-    <script src="//unpkg.com/docsify/lib/plugins/search.min.js"></script>
-    <!-- 分页插件 -->
-    <script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
-    <script src="https://unpkg.com/docsify-example-panels"></script>
-    <script src="//unpkg.com/docsify-footer-enh/dist/docsify-footer-enh.min.js"></script>
-    <script src="https://unpkg.com/docsify-updated@1/src/time-updater.min.js"></script>
-  </body>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="description" content="TopCraft 玩家手册：职业技能、装备图鉴、落日森林、秘境挑战与生活职业。">
+  <meta name="theme-color" content="#ffffff">
+  <title>TopCraft · 玩家手册</title>
+  <link rel="icon" type="image/jpeg" href="assets/brand/topcraft-logo.jpg">
+  <link rel="apple-touch-icon" href="assets/brand/topcraft-logo.jpg">
+  <link rel="stylesheet" href="them.css">
+  <link rel="stylesheet" href="assets/combat.css">
+  <link rel="stylesheet" href="assets/mechanics.css">
+  <link rel="stylesheet" href="assets/equipment.css">
+  <link rel="stylesheet" href="assets/world.css">
+  <link rel="stylesheet" href="assets/life.css">
+  <link rel="stylesheet" href="assets/social.css">
+  <link rel="stylesheet" href="assets/guide.css">
+  <link rel="stylesheet" href="assets/dungeons.css">
+  <link rel="stylesheet" href="assets/help.css">
+  <link rel="stylesheet" href="assets/modern.css">
+</head>
+<body>
+  <header class="wiki-header">
+    <a class="wiki-logo" href="#/" aria-label="TopCraft Wiki 首页"><img class="wiki-logomark" src="assets/brand/topcraft-logo.jpg" alt="" width="36" height="36"><strong>TopCraft <span>Wiki</span></strong></a>
+    <button class="wiki-search-trigger" type="button"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m16 16 4 4"/></svg><span>搜索指南、物品、技能…</span><kbd>Ctrl K</kbd></button>
+    <div class="wiki-header-links" role="navigation" aria-label="快捷导航"><a href="#/guide/join">开始冒险</a><a href="#/guide/help">帮助</a><button class="wiki-width" type="button" aria-pressed="false" title="切换宽屏阅读">宽屏阅读</button></div>
+  </header>
+  <button class="wiki-backdrop" type="button" aria-label="关闭章节目录" hidden></button>
+  <dialog class="wiki-search-dialog" aria-label="搜索 Wiki"><div class="wiki-search-heading"><strong>搜索 Wiki</strong><button type="button" class="wiki-search-close" aria-label="关闭搜索">Esc</button></div><div class="wiki-search-host"></div><p class="wiki-search-hint">输入职业、技能、材料名称，或描述你遇到的问题。</p></dialog>
+  <aside class="wiki-toc" aria-label="本页目录"></aside>
+  <button class="wiki-top" type="button" aria-label="返回顶部" hidden>↑</button>
+  <a class="skip-link" href="#main">跳到正文</a>
+  <div id="app">正在打开冒险手册…</div>
+  <noscript>此 Wiki 需要 JavaScript 来加载页面。你也可以在仓库中直接阅读 Markdown 文件。</noscript>
+  <script src="assets/search-paths.js"></script>
+  <script src="assets/numbers.js"></script>
+  <script src="assets/wiki.js"></script>
+  <script src="assets/combat.js"></script>
+  <script src="assets/equipment.js"></script>
+  <script src="assets/world.js"></script>
+  <script src="assets/life.js"></script>
+  <script src="assets/social.js"></script>
+  <script src="assets/guide.js"></script>
+  <script src="assets/dungeons.js"></script>
+  <script src="assets/help.js"></script>
+  <script src="assets/modern.js"></script>
+  <script src="assets/vendor/docsify-4.13.1.min.js"></script>
+  <script src="assets/vendor/search-topcraft.js"></script>
+</body>
 </html>

@@ -1,0 +1,52 @@
+{
+  "assets/server/world/df_camp_leader.png": {
+    "source": "plugins/LuxDialogues/Pack/Images/df_camp_leader.png",
+    "sha256": "d6c60c2b4a3fb53c2916c06c2052cdea1ad5eaa133b6d030ab74e1d16bd58aa2",
+    "kind": "server-original"
+  },
+  "assets/server/world/df_camp_repairer.png": {
+    "source": "plugins/LuxDialogues/Pack/Images/df_camp_repairer.png",
+    "sha256": "3a019adcf5bb4a74b90667d73b0c834895cabb0d90f7b600945828a46bffa66c",
+    "kind": "server-original"
+  },
+  "assets/server/world/df_camp_scribe.png": {
+    "source": "plugins/LuxDialogues/Pack/Images/df_camp_scribe.png",
+    "sha256": "7a0aaa81e86943ecee66f68ea2e99625017dfceebd44d085c1c24920b0fc6646",
+    "kind": "server-original"
+  },
+  "assets/server/world/df_camp_scout.png": {
+    "source": "plugins/LuxDialogues/Pack/Images/df_camp_scout.png",
+    "sha256": "83feab742769ca687be79aab788d3c93c5bf7a5683563757138a45b8c6fb5d40",
+    "kind": "server-original"
+  },
+  "assets/server/world/df_camp_apothecary.png": {
+    "source": "plugins/LuxDialogues/Pack/Images/df_camp_apothecary.png",
+    "sha256": "b5a926b756e1727f6bf787459e3f883d14b447a62d15b7e8f83e13c505878fca",
+    "kind": "server-original"
+  },
+  "assets/server/world/df_camp_researcher.png": {
+    "source": "plugins/LuxDialogues/Pack/Images/df_camp_researcher.png",
+    "sha256": "7502ff2ae7f354615b2354f60c7027a8f8f363bf63786a35331966dfb25fbb4c",
+    "kind": "server-original"
+  },
+  "assets/server/world/df_camp_coachman.png": {
+    "source": "plugins/LuxDialogues/Pack/Images/df_camp_coachman.png",
+    "sha256": "4119b17eff7318ea00777dcd4783b8b5e58a367c6f531488e83fbd40cb0c1809",
+    "kind": "server-original"
+  },
+  "assets/server/world/df_camp_guild_delegate.png": {
+    "source": "plugins/LuxDialogues/Pack/Images/df_camp_guild_delegate.png",
+    "sha256": "5fd1cfa720305344ed735072201504dd9cbacb4e4d17a0fdf1190c0a2c9c095f",
+    "kind": "server-original"
+  },
+  "assets/server/world/df_scholar_leader.png": {
+    "source": "plugins/LuxDialogues/Pack/Images/df_scholar_leader.png",
+    "sha256": "59eafde1f65992ce16ce5b027510f6cb7085aa23d35f1d515413f50757888872",
+    "kind": "server-original"
+  },
+  "assets/server/world/df_scholar_epigrapher.png": {
+    "source": "plugins/LuxDialogues/Pack/Images/df_scholar_epigrapher.png",
+    "sha256": "5681a7cf260da9e8255d49e2b5e63d8a3dd43c1225a208ac36b6b1046cff5ace",
+    "kind": "server-original"
+  }
+}

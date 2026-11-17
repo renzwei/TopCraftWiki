@@ -1,0 +1,182 @@
+{
+  "assets/server/guide/inventory-personal_info.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/player_inventory/personal_info.png",
+    "sha256": "b540cc8cde46582a588ce78ad32ad01239cac5c7668cb5f201eb90e0821caba8",
+    "kind": "server-original"
+  },
+  "assets/server/guide/inventory-backpack.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/player_inventory/backpack.png",
+    "sha256": "5b3eb75898c1b0e9893e258108c09969e5298a5685ed30c08ab71febb4e07073",
+    "kind": "server-original"
+  },
+  "assets/server/guide/inventory-skills.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/player_inventory/skills.png",
+    "sha256": "5c238d61e0472266bb3ac0308468c4e10ddfd3e91b7b9de0940d909f21f4c4e9",
+    "kind": "server-original"
+  },
+  "assets/server/guide/inventory-class_select.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/player_inventory/class_select.png",
+    "sha256": "515b1b1b53d9d2d0b17e39e8d0058f8d7673cd36fe4fd0b90ef961dcbbb7086f",
+    "kind": "server-original"
+  },
+  "assets/server/guide/inventory-main_menu.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/player_inventory/main_menu.png",
+    "sha256": "b39ca3c851b27a7155cdd5aa02593dcadebd8bf58acc3fd016b832ae1d29c146",
+    "kind": "server-original"
+  },
+  "assets/server/guide/inventory-coin.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/player_inventory/coin.png",
+    "sha256": "b955df961776994a0532cb8e666a78d91c40041d5007ce5018902e99303f2ccd",
+    "kind": "server-original"
+  },
+  "assets/server/guide/menu-quests.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/main_menu/quests.png",
+    "sha256": "77d7db9d632a1a8fab5cfcd8a00920ee52a4e6698d8368a6073fd672e265e911",
+    "kind": "server-original"
+  },
+  "assets/server/guide/menu-commissions.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/main_menu/commissions.png",
+    "sha256": "2dd32173839f88d15060bc3261e5a23ff077fcf27fdc489519e41f5780cde28f",
+    "kind": "server-original"
+  },
+  "assets/server/guide/menu-professions.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/main_menu/professions.png",
+    "sha256": "8cbbd2de06867fa27540626705ce67b9dd4944c69e1fe98da740045271d48f87",
+    "kind": "server-original"
+  },
+  "assets/server/guide/menu-party.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/main_menu/party.png",
+    "sha256": "47ce08348cbc6ecc4f5833481a0894dec85c87b99f17017e21a694951342c330",
+    "kind": "server-original"
+  },
+  "assets/server/guide/menu-builds.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/main_menu/builds.png",
+    "sha256": "8cdf0d4190ef39012c45731c2b4246f3d0016886aff731c151a65f32b2a9316d",
+    "kind": "server-original"
+  },
+  "assets/server/guide/menu-announcements.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/main_menu/announcements.png",
+    "sha256": "6267fe7fe4c4a1301d8e640da23cf8c322b47a5cdbd7d4db8807ccbe1e374729",
+    "kind": "server-original"
+  },
+  "assets/server/guide/reward-daily.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/rewards/daily.png",
+    "sha256": "84dfb301b00aae13dc60b1e83e5e0c829e9e84b9767a4dc2a4ae57bcbbc5822c",
+    "kind": "server-original"
+  },
+  "assets/server/guide/reward-weekly.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/rewards/weekly.png",
+    "sha256": "7e17e3e357cf5a3a4041945407f838e3095b50da53118689c05ebe08d626d742",
+    "kind": "server-original"
+  },
+  "assets/server/guide/reward-monthly.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/rewards/monthly.png",
+    "sha256": "c4da8136b1857d5fe6f19f98b2c499caa53d14d6aff5910a089f50da0d783232",
+    "kind": "server-original"
+  },
+  "assets/server/guide/reward-daily_wait.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/rewards/daily_wait.png",
+    "sha256": "3c64af79d1bfc96b473329eeadbb5059757c9741faa582a2dc3280c8f5e5dfe6",
+    "kind": "server-original"
+  },
+  "assets/server/guide/reward-weekly_wait.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/rewards/weekly_wait.png",
+    "sha256": "3c64af79d1bfc96b473329eeadbb5059757c9741faa582a2dc3280c8f5e5dfe6",
+    "kind": "server-original"
+  },
+  "assets/server/guide/reward-monthly_wait.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/rewards/monthly_wait.png",
+    "sha256": "3c64af79d1bfc96b473329eeadbb5059757c9741faa582a2dc3280c8f5e5dfe6",
+    "kind": "server-original"
+  },
+  "assets/server/guide/reward-settings_icon.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/rewards/settings_icon.png",
+    "sha256": "4b996a10bdd7950fec12e0c013a638552cf0fa2daf395bca67b5a07414e32863",
+    "kind": "server-original"
+  },
+  "assets/server/guide/reward-switch_on.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/rewards/switch_on.png",
+    "sha256": "0bb510b1823f660b781b44857c6bacb23fa6a466bc51fee308b108ac5c6b0222",
+    "kind": "server-original"
+  },
+  "assets/server/guide/reward-switch_off.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/rewards/switch_off.png",
+    "sha256": "332526a794b437bd3c1878c8542b066a6ab5c2fd53765ab8ced149b4b3c4ebe6",
+    "kind": "server-original"
+  },
+  "assets/server/guide/inventory-panel.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/minecraft/textures/gui/container/inventory.png",
+    "sha256": "2d34073813ec0dfd70ebed76b67d9eaa6db28f1fbdc7c79a7db47f25ad083c41",
+    "kind": "server-original"
+  },
+  "assets/server/guide/hud-health_fill.png": {
+    "source": "plugins/BetterHud/assets/mainhud_health_fill.png",
+    "sha256": "422dbabadbae15bd7651b18e529eb8e3e596c3cff75af1ef8e16a512aed5eb3e",
+    "kind": "server-original"
+  },
+  "assets/server/guide/hud-mana_fill.png": {
+    "source": "plugins/BetterHud/assets/mainhud_mana_fill.png",
+    "sha256": "544537376d270125c31e62cf06dbfb23d2f6cc4ff186afed62413d89601ead7e",
+    "kind": "server-original"
+  },
+  "assets/server/guide/hud-shield_fill.png": {
+    "source": "plugins/BetterHud/assets/mainhud_shield_fill.png",
+    "sha256": "f4bc5860f39e17f7b13b3f35c41cdd73e5a96ba51d4898726d44af8fe30f7f5d",
+    "kind": "server-original"
+  },
+  "assets/server/guide/hud-resource_track.png": {
+    "source": "plugins/BetterHud/assets/mainhud_resource_track.png",
+    "sha256": "f3fd51ed9975f114953426842dc0d8db512fd7b16f1f0b1c70c4d5b3ebbebeca",
+    "kind": "server-original"
+  },
+  "assets/server/guide/hud-experience_track.png": {
+    "source": "plugins/BetterHud/assets/mainhud_experience_track.png",
+    "sha256": "ab284ceef3c9431eadb0cd989ba655d033ab55f1da5959902b4954136fed2263",
+    "kind": "server-original"
+  },
+  "assets/server/guide/hud-experience_fill.png": {
+    "source": "plugins/BetterHud/assets/mainhud_experience_fill.png",
+    "sha256": "b31dc88f142fca8dba532927dafdb504c6d59faf5d310e566be46df2d2a6e0a8",
+    "kind": "server-original"
+  },
+  "assets/server/guide/hud-skill_plate.png": {
+    "source": "plugins/BetterHud/assets/mainhud_skill_plate.png",
+    "sha256": "4a998b07d1e95ac30a12b7cfd8a1099d83a7404c899be3ce49c27a9c8974d88b",
+    "kind": "server-original"
+  },
+  "assets/server/guide/hud-skill_fireball.png": {
+    "source": "plugins/BetterHud/assets/mainhud_skill_fireball.png",
+    "sha256": "5d91eaa36afe9f1b13679d2621192ca4851f31f82f72a365bf9c516ca48a6a40",
+    "kind": "server-original"
+  },
+  "assets/server/guide/hud-skill_frame.png": {
+    "source": "plugins/BetterHud/assets/mainhud_skill_frame.png",
+    "sha256": "20e141781e85685416e1304294fdfbf22c916ad566a02ea660d4abd97665fd98",
+    "kind": "server-original"
+  },
+  "assets/server/guide/hud-skill_cooldown_mask.png": {
+    "source": "plugins/BetterHud/assets/mainhud_skill_cooldown_mask.png",
+    "sha256": "fad2662cc2f6ec6bb3d2d566d0361488ee254b285a5a3b85d055d919b6948832",
+    "kind": "server-original"
+  },
+  "assets/server/guide/hud-skill_mana_mask.png": {
+    "source": "plugins/BetterHud/assets/mainhud_skill_mana_mask.png",
+    "sha256": "14a2a8aa133c8f226f93d0809781ae693dcd70aeac5afc4d2e554ffe2027d556",
+    "kind": "server-original"
+  },
+  "assets/server/guide/hud-skill_empty_mark.png": {
+    "source": "plugins/BetterHud/assets/mainhud_skill_empty_mark.png",
+    "sha256": "09cfdaa233e854934f0b6a098557739e95220333598681fd6a1f1f03a1060fbe",
+    "kind": "server-original"
+  },
+  "assets/server/guide/hud-skill_ready.png": {
+    "source": "plugins/BetterHud/assets/mainhud_skill_ready.png",
+    "sha256": "b8110f3d43d421ced25c815d3fe0d506d69a1b85329b6843b1f63a8ee7bc401e",
+    "kind": "server-original"
+  },
+  "assets/server/guide/hud-mana_warning.png": {
+    "source": "plugins/BetterHud/assets/mainhud_mana_warning.png",
+    "sha256": "bc66f165c70882f3e17cb57b80603d65dfff7248052409322e641d7503036b34",
+    "kind": "server-original"
+  }
+}

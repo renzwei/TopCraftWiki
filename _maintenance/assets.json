@@ -1,0 +1,427 @@
+{
+  "assets/art/adventure.webp": {
+    "kind": "imagegen-concept",
+    "source_image": "exec-ae7c1bb3-69c7-4e75-b34f-d61f26b1b7b7.png",
+    "note": "AI 概念插画，非游戏实机截图；仅转换为 WebP 以优化网页体积。"
+  },
+  "assets/art/professions.webp": {
+    "kind": "imagegen-concept",
+    "source_image": "exec-c3d5f1e2-beeb-4744-acb0-b7844d4aa09c.png",
+    "note": "AI 概念插画，非游戏实机截图；仅转换为 WebP 以优化网页体积。"
+  },
+  "assets/server/warrior_texture/skill_icon/sweep.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/warrior_texture/skill_icon/sweep.png",
+    "sha256": "c7b031c6a1f7c7c199d5612b6a91ec133ad2a8f713a34ee373ff562ec88d240b",
+    "kind": "server-original"
+  },
+  "assets/server/mage_texture/skill_icon/fireball.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/mage_texture/skill_icon/fireball.png",
+    "sha256": "28b76dca9024d116cc28a9b12cbb8fa3e7be9f721cfa87a5db6a38d9ca25d35f",
+    "kind": "server-original"
+  },
+  "assets/server/priest_texture/skill_icon/divine_slash.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/priest_texture/skill_icon/divine_slash.png",
+    "sha256": "f01dbba4f6ae39c7569dd9acb5889fbaf4b7768095749b846d71c4e55da7f81c",
+    "kind": "server-original"
+  },
+  "assets/server/warrior_texture/skill_icon/earth_rend.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/warrior_texture/skill_icon/earth_rend.png",
+    "sha256": "95cc86da9d90e61eecf691aced3a591998fe13ffcb1cdb210db2b37484ee9939",
+    "kind": "server-original"
+  },
+  "assets/server/warrior_texture/skill_icon/flying_hammer.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/warrior_texture/skill_icon/flying_hammer.png",
+    "sha256": "cf6208e9224a21dd1d36fc7a427febe2906d0f43b9c05f4ad7b79c7d98c99c88",
+    "kind": "server-original"
+  },
+  "assets/server/warrior_texture/skill_icon/charge.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/warrior_texture/skill_icon/charge.png",
+    "sha256": "d6aacc357426e79630bd18d49d30aab4fb1e8426d73b1978dbfcb8b5a2139028",
+    "kind": "server-original"
+  },
+  "assets/server/warrior_texture/skill_icon/leap.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/warrior_texture/skill_icon/leap.png",
+    "sha256": "d1e52e671ebb3d19484686c10f99d001f67ea775d766a3fd0ede483b7a3c6991",
+    "kind": "server-original"
+  },
+  "assets/server/warrior_texture/skill_icon/totem.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/warrior_texture/skill_icon/totem.png",
+    "sha256": "7bd3402d931ac104f444a46a6a13fc1f70de527747c04eaf7d700d2b4632db29",
+    "kind": "server-original"
+  },
+  "assets/server/mage_texture/skill_icon/magichit.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/mage_texture/skill_icon/magichit.png",
+    "sha256": "467d36e4ce7369ba60e7e15e80618e81a2b7ff83fb99b8751629bfae45c05c59",
+    "kind": "server-original"
+  },
+  "assets/server/mage_texture/skill_icon/icebolt.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/mage_texture/skill_icon/icebolt.png",
+    "sha256": "1698bb0819bce4c45efc4836f1be8664e48dffa7ff9fad82802850bc34177907",
+    "kind": "server-original"
+  },
+  "assets/server/mage_texture/skill_icon/blink.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/mage_texture/skill_icon/blink.png",
+    "sha256": "06346aa3faf30a9847287f97708be0b0e581c64108ec594f1a4e405d27934d8c",
+    "kind": "server-original"
+  },
+  "assets/server/mage_texture/skill_icon/lightchain.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/mage_texture/skill_icon/lightchain.png",
+    "sha256": "ee718a5ad7b3991b9c39688eb87772904749a63cf75ce7bd2a0e48019f1098a2",
+    "kind": "server-original"
+  },
+  "assets/server/mage_texture/skill_icon/meteor.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/mage_texture/skill_icon/meteor.png",
+    "sha256": "1a627d5ad1c7f8881bcd894297e5da7330b7b166c57e07567a20b2bc3a33213f",
+    "kind": "server-original"
+  },
+  "assets/server/priest_texture/skill_icon/holy_bolt.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/priest_texture/skill_icon/holy_bolt.png",
+    "sha256": "1bb42861cb6427bff7510cdc351c4701b5d50f931c650314ff2ddad4419231a1",
+    "kind": "server-original"
+  },
+  "assets/server/priest_texture/skill_icon/divine_descent.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/priest_texture/skill_icon/divine_descent.png",
+    "sha256": "479d14372c5dfc7bad2947fb2f8501fd984291643308a8fec26bae628f489865",
+    "kind": "server-original"
+  },
+  "assets/server/priest_texture/skill_icon/watchful_eye.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/priest_texture/skill_icon/watchful_eye.png",
+    "sha256": "0e5ae045919a2a156a77f7ccbdf4aaa99e6584d87bae3100b5d72b00bebea257",
+    "kind": "server-original"
+  },
+  "assets/server/priest_texture/skill_icon/holy_pilgrimage.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/priest_texture/skill_icon/holy_pilgrimage.png",
+    "sha256": "aaceaf8f3d5db857d42ecdcb8ef3bb7df536b4730eb5362c0e28d85a8402f366",
+    "kind": "server-original"
+  },
+  "assets/server/priest_texture/skill_icon/heavenly_sword.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/priest_texture/skill_icon/heavenly_sword.png",
+    "sha256": "8cc17bfa18629bffaee570195a9bd755a202ab14005c830b229d85329ea3d9be",
+    "kind": "server-original"
+  },
+  "assets/server/keys/lc.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/keys/lc.png",
+    "sha256": "fc075d5ed1771a7493c0d0b1f08ad131a031c0ff76f8d032227fc649b73c6e29",
+    "kind": "server-original"
+  },
+  "assets/server/keys/f.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/keys/f.png",
+    "sha256": "df02f3b20756720ec56d44fdd66db35a0f93ca73725f77a396e927b4dac35a11",
+    "kind": "server-original"
+  },
+  "assets/server/keys/s.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/keys/s.png",
+    "sha256": "7c56ef19d5fa93189091fbe0e45c4fa059d9677d4fdbb5dfbad458a686884540",
+    "kind": "server-original"
+  },
+  "assets/server/keys/rc.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/keys/rc.png",
+    "sha256": "54c6e7f795b0a84b744d94906f1debd931c77f26127ec8cc7ebc1cafdec5b174",
+    "kind": "server-original"
+  },
+  "assets/server/keys/q.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/keys/q.png",
+    "sha256": "06ac58982c12a21fb184a5a1fd10aaf0ed0c6dbbebff84ee1c75c3230b7ebf39",
+    "kind": "server-original"
+  },
+  "assets/server/stats/attack_damage.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/stats/attack_damage.png",
+    "sha256": "3a0c3172c9722431b03d9b06fc42aa8f52b0922b52bb1f60bca8f8a116638851",
+    "kind": "server-original"
+  },
+  "assets/server/stats/health.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/stats/health.png",
+    "sha256": "557190785f60ad1e9fbb85042a26206786cff9359879574048a138ba459c559a",
+    "kind": "server-original"
+  },
+  "assets/server/stats/mana.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/stats/mana.png",
+    "sha256": "0616412ce3d3fb242360a2eae5c76684668ec13dbd0daa60190f9a47f01a6fbf",
+    "kind": "server-original"
+  },
+  "assets/server/stats/defense.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/stats/defense.png",
+    "sha256": "17c29a18b0ae059bef6e95ed8b95f03acab92def92b35b080334ef4ccde3063d",
+    "kind": "server-original"
+  },
+  "assets/server/stats/crit_chance.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/stats/crit_chance.png",
+    "sha256": "d0e98f707803d4e1da48876c3881067b0dd96356e73007178df9ed59aeb346fe",
+    "kind": "server-original"
+  },
+  "assets/server/stats/ability_haste.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/stats/ability_haste.png",
+    "sha256": "49646c28501cda18d436bdcb0a87d40f79806280bb0b341eb53eee3f6efe7527",
+    "kind": "server-original"
+  },
+  "assets/server/stats/fire.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/stats/fire.png",
+    "sha256": "eaba33a83fca2a72549ff77eb6a1f67f203a40590268e25ee1c245c24bedea3c",
+    "kind": "server-original"
+  },
+  "assets/server/stats/ice.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/stats/ice.png",
+    "sha256": "57347c0ebaad0e09d1b6deee6a4b888c808df578be1981036f17ae7d66526dcd",
+    "kind": "server-original"
+  },
+  "assets/server/stats/thunder.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/stats/thunder.png",
+    "sha256": "7b7eb5723530cf9ba338c882ac594feb7a277185933a8e3c339c237f46c12e8c",
+    "kind": "server-original"
+  },
+  "assets/server/stats/poison.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/stats/poison.png",
+    "sha256": "5e1a46a5dd4be24741c90db4fecccf2fb8cbaefdf4d7332fe908f965b2a65713",
+    "kind": "server-original"
+  },
+  "assets/server/stats/all_element_damage.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/stats/all_element_damage.png",
+    "sha256": "03db1088f39823bc440e29ebf30b0aa3aba6cad9ac5519633b5b23c658ff4878",
+    "kind": "server-original"
+  },
+  "assets/server/stats/movement_speed.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/stats/movement_speed.png",
+    "sha256": "83baded5bbc85376fe59c6d8da8418821dc22aac6b18bcf80bb06aa395fd4199",
+    "kind": "server-original"
+  },
+  "assets/server/gui/skill_presets/save.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skill_presets/save.png",
+    "sha256": "ac47f408eb391c2caea5698469f765e95f46c913f8d8197c66400d01ec41772a",
+    "kind": "server-original"
+  },
+  "assets/server/gui/skill_presets/apply.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skill_presets/apply.png",
+    "sha256": "5dac708c96014e303ab5dd8dcc9875c66c530e50b0102253afa88f0ecfbae2b3",
+    "kind": "server-original"
+  },
+  "assets/server/gui/skill_presets/publish.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skill_presets/publish.png",
+    "sha256": "3e4d0d001336ba8a49cd504305e059471629b58c5472be06bbf98382f9c7f549",
+    "kind": "server-original"
+  },
+  "assets/server/gui/skill_presets/hall.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/gui/skill_presets/hall.png",
+    "sha256": "3904a42b2dccc3f748b428be780cbc0e0d9e44a0aeaeacd1c471b1155c6ea510",
+    "kind": "server-original"
+  },
+  "assets/server/rarities/tier_common.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/rarities/tier_common.png",
+    "sha256": "af6e30a737de517490d84dcd8fec13048dac470b5a62f7ec4be3b698428f0812",
+    "kind": "server-original"
+  },
+  "assets/server/rarities/tier_magical.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/rarities/tier_magical.png",
+    "sha256": "7bbbcb98c9b40f9dac984616f2bada1b9eeba94c115981ad062f5eb82e9ceae0",
+    "kind": "server-original"
+  },
+  "assets/server/rarities/tier_rare.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/rarities/tier_rare.png",
+    "sha256": "1f5eadfc83eee3a76fc8191a1454e2ec56b56edf09ad8236bea104fcec744bab",
+    "kind": "server-original"
+  },
+  "assets/server/rarities/tier_legendary.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/rarities/tier_legendary.png",
+    "sha256": "d81ec38df000f23c9350f607f9f1d8dcd01712e7ecc1632fb110ecde6930bd8b",
+    "kind": "server-original"
+  },
+  "assets/server/rarities/tier_set.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/rarities/tier_set.png",
+    "sha256": "a29f3643368bc93895a23c3a2ffd56ae398486abb1ab43f1a884ed369764a72a",
+    "kind": "server-original"
+  },
+  "assets/server/rarities/tier_unique.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/rarities/tier_unique.png",
+    "sha256": "e864b879c89f1c2ad439a0f4e08865800e489a94fb61721e9cd91848c91d4b9c",
+    "kind": "server-original"
+  },
+  "assets/server/materials/crystal_blue_gel.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/materials/crystal_blue_gel.png",
+    "sha256": "5a294f91325ce44194aef50a949d8c98c74f44f0b4999af25a8c67933627a6a0",
+    "kind": "server-original"
+  },
+  "assets/server/materials/soft_hide.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/materials/soft_hide.png",
+    "sha256": "b49d6c4b629b21457025f51235469bb375aad9341c5420f1d1cbc0f5db909037",
+    "kind": "server-original"
+  },
+  "assets/server/materials/broken_blade.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/materials/broken_blade.png",
+    "sha256": "3d34bc81bd6d0e7cdebade3aceabcf907c691fb0150d51690cd0bee0867cc7c0",
+    "kind": "server-original"
+  },
+  "assets/server/materials/tattered_runic_cloth.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/materials/tattered_runic_cloth.png",
+    "sha256": "a0143ec8b27ac8abd58bfad209be68b15da1728b3f7432fd2a33a2fda1d82c59",
+    "kind": "server-original"
+  },
+  "assets/server/materials/pale_bone_fragments.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/materials/pale_bone_fragments.png",
+    "sha256": "35c3ba6359eb9710a8297942ffe52028f7b9426b0b9f94bd1896ffb946670dab",
+    "kind": "server-original"
+  },
+  "assets/server/materials/broken_runic_shard.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/materials/broken_runic_shard.png",
+    "sha256": "955a4308543e822bc802068d557bbecfb4627de84a65487841a7b71f62ae6dc4",
+    "kind": "server-original"
+  },
+  "assets/server/materials/bee_soul_dew.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/materials/bee_soul_dew.png",
+    "sha256": "be05994eb2c846f871fb00a22980690d700415957374e47b15f36a0beabfe0b3",
+    "kind": "server-original"
+  },
+  "assets/server/materials/echo_soul_ash.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/materials/echo_soul_ash.png",
+    "sha256": "84dfeaa62e2d67e44cb6105282a8ebd051bbe41a159eab7d64687158a67775bf",
+    "kind": "server-original"
+  },
+  "assets/server/materials/intact_runic_core.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/materials/intact_runic_core.png",
+    "sha256": "a91006f256d64cd80237859659fa26aa5ce7dd44a857a108843d2ae99acb2c3a",
+    "kind": "server-original"
+  },
+  "assets/server/materials/stabilized_soul_crystal.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/materials/stabilized_soul_crystal.png",
+    "sha256": "b76145bbe8865497a175f3794bfc93ec0067aa75dca4c41221998a94165e0191",
+    "kind": "server-original"
+  },
+  "assets/server/materials/iron_sand.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/materials/iron_sand.png",
+    "sha256": "f60fef8e63a5799c3ef1679515df20665b7c9abffaf19505049e026aa5e953fe",
+    "kind": "server-original"
+  },
+  "assets/server/materials/crystal_sand.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/materials/crystal_sand.png",
+    "sha256": "8654f8b9fcb7bc3dd23233f11f8e8d6b6cbd8ee4dbb9b78c22f4b673e3f3553a",
+    "kind": "server-original"
+  },
+  "assets/server/materials/magic_dust.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/materials/magic_dust.png",
+    "sha256": "01d2ceb2c81634fb389c05c8233113acb932946647bb04a07ecab2c016bc2fd6",
+    "kind": "server-original"
+  },
+  "assets/server/materials/flawless_crystal_core.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/materials/flawless_crystal_core.png",
+    "sha256": "e3e7a876429108c505dbb2980fc1311f4b52e6a7d01fead95f18582fd6fa7129",
+    "kind": "server-original"
+  },
+  "assets/server/stats/mining_speed.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/stats/mining_speed.png",
+    "sha256": "a9ee7b8aacb4823e7fc841425e24e3f2c88703ebef31275ecf8e2fd7a0428125",
+    "kind": "server-original"
+  },
+  "assets/server/stats/woodcutting_speed.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/stats/woodcutting_speed.png",
+    "sha256": "839b80c8c6c8dc47a8cdf4eae7e24d23c3a32b10cecccf8c9c285d88b1fcb5e5",
+    "kind": "server-original"
+  },
+  "assets/server/stats/extra_harvest.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/stats/extra_harvest.png",
+    "sha256": "5e7b375a9abe7e1e600805d733b5076ee9c3a8d45fbe83ba11ded8f11a19ec0d",
+    "kind": "server-original"
+  },
+  "assets/server/stats/fishing_strength.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/stats/fishing_strength.png",
+    "sha256": "46cadc085a7d70ca65f3751fb1831adaf2d9748abf68ef4ece3509ab489353f7",
+    "kind": "server-original"
+  },
+  "assets/server/stats/critical_fishing_chance.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/stats/critical_fishing_chance.png",
+    "sha256": "8ff91ebfadb26e8725f125ede77281687637ec14e88377d56c07479fd763114e",
+    "kind": "server-original"
+  },
+  "assets/server/stats/fishing_luck.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/stats/fishing_luck.png",
+    "sha256": "24871c08fb8b10999fff401382020a4f4947cb1b104c4e5bf5ea098b049bd8e0",
+    "kind": "server-original"
+  },
+  "assets/server/stats/fishing_bait.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/stats/fishing_bait.png",
+    "sha256": "ca3673172929c3843ae796b6d743228cbef413c43cf0eddb035211b4fb8072e4",
+    "kind": "server-original"
+  },
+  "assets/server/stats/fishing_bite_speed.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/stats/fishing_bite_speed.png",
+    "sha256": "84b704259656d626aaecdf17bfbf52f9fa69e9dbbd4de8bea035bba1da836058",
+    "kind": "server-original"
+  },
+  "assets/server/buffs/ignite.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/buffs/ignite.png",
+    "sha256": "4e62483bed808c60968008e6f3988d67060802f266124bc02662f609d730c39f"
+  },
+  "assets/server/buffs/frostbite.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/buffs/frostbite.png",
+    "sha256": "c8dcc1d8f5e70905aa5ad0107da9e903712a019c0a4c6fa2cc8067be575263c7"
+  },
+  "assets/server/buffs/static.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/buffs/static.png",
+    "sha256": "fa4098c52f35dfb4c5ddaa5956439fb6776d2e4ef1b7d269069c0661adf17006"
+  },
+  "assets/server/buffs/bleed.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/buffs/bleed.png",
+    "sha256": "c39a9cb7e9d39997c725d7855b2b4f9a2ddafceef4deb6348d7b45409d86b3dd"
+  },
+  "assets/server/buffs/armor_break.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/buffs/armor_break.png",
+    "sha256": "a1a3340879cc2eec9dcef802c60c6d054828c5a9f9f17396eedac95003078d45"
+  },
+  "assets/server/buffs/electrified.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/buffs/electrified.png",
+    "sha256": "0831114f4445da20ee12188ad4979761c7ebe38919514ac63f5f209f1ed41169"
+  },
+  "assets/server/buffs/slow.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/buffs/slow.png",
+    "sha256": "468197183f542cc9c23949590eaf5bf40b2d8ab660c4c20aff1454c64247255c"
+  },
+  "assets/server/buffs/ice_slow.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/buffs/ice_slow.png",
+    "sha256": "bc4c121eb070fb3eb2dcde5928cd3cbf8aa16cbda1c4fec072e8ca9b530893fb"
+  },
+  "assets/server/buffs/blind.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/buffs/blind.png",
+    "sha256": "690a15a87410c4cd7aba8c22a1d8a7aed56276b27d1d9791a35853fa6d6fe5e1"
+  },
+  "assets/server/buffs/healing_suppression.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/buffs/healing_suppression.png",
+    "sha256": "2e8139f65b826d0410414a0216b866a3933d7a2b20c004081980b844cab55448"
+  },
+  "assets/server/buffs/spark_charge.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/buffs/spark_charge.png",
+    "sha256": "f1c6c19e29eaff7e1ed8ead851df0b603415f5659adcc9bf9214b9c29a9278b6"
+  },
+  "assets/server/buffs/toxin_burst.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/buffs/toxin_burst.png",
+    "sha256": "5945e26270128fe8b3f7f1f5ff848d37a6ab40661e40e053d09a017a9f0ce430"
+  },
+  "assets/server/buffs/stun.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/buffs/stun.png",
+    "sha256": "be183adaa90c589dc3674787a1283c90639cffca43d49624c0dc4ee959628625"
+  },
+  "assets/server/buffs/freeze.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/buffs/freeze.png",
+    "sha256": "be883ace5a045fcc9111fbaf68317cbccc9e9a7ef491a52c72df770eb5185e2a"
+  },
+  "assets/server/buffs/silence.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/buffs/silence.png",
+    "sha256": "0f68f143a796584da79de5b3172b6feab2b3b61d1e44acd8e53f0a37efa8ec56"
+  },
+  "assets/server/buffs/sweep_momentum.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/buffs/sweep_momentum.png",
+    "sha256": "addcc2c63c668a175a8317adc80ed357ac1df83d38e92e8a41ba55a22499fce4"
+  },
+  "assets/server/buffs/leap_momentum.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/buffs/leap_momentum.png",
+    "sha256": "f0235e04abf4bc17c24bfe53ae77e0365262ea61fde249715d6a895439eec8e4"
+  },
+  "assets/server/buffs/fury.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/buffs/fury.png",
+    "sha256": "2947d9241fca8f68014c185859a8030b2b110b76a260553f174abb868821bb94"
+  },
+  "assets/server/buffs/invulnerability.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/buffs/invulnerability.png",
+    "sha256": "a30c8759b7aab7e80c412cd41f8849796d716be331d9726e91fff8bc738578f9"
+  },
+  "assets/server/buffs/control_immunity.png": {
+    "source": "plugins/ItemsAdder/contents/topcraft/resourcepack/assets/topcraft/textures/buffs/control_immunity.png",
+    "sha256": "a3c73e8cffa5a4d7fc072a884ab4d24fa2ea77e7680c81073be154ece3b98a82"
+  }
+}

@@ -1,0 +1,643 @@
+{
+  "forest": {
+    "name": "落日森林",
+    "bounds": [
+      -245,
+      -350,
+      720,
+      590
+    ],
+    "regions": [
+      {
+        "id": "df_mxzyd",
+        "name": "冒险者营地",
+        "points": [
+          [
+            -8,
+            -315
+          ],
+          [
+            201,
+            -315
+          ],
+          [
+            201,
+            -203
+          ],
+          [
+            -8,
+            -203
+          ]
+        ],
+        "route": "world/regions/camp",
+        "description": "落日森林的落脚点。营地中的玛蕾、阿缇和托宾提供森林前段任务，其他驻员可交谈了解营地与遗迹。",
+        "underground": false,
+        "level": "—"
+      },
+      {
+        "id": "df_clly",
+        "name": "璨蓝林野",
+        "points": [
+          [
+            203,
+            -272
+          ],
+          [
+            203,
+            -203
+          ],
+          [
+            201,
+            -184
+          ],
+          [
+            174,
+            -186
+          ],
+          [
+            169,
+            -115
+          ],
+          [
+            302,
+            -160
+          ],
+          [
+            313,
+            -231
+          ]
+        ],
+        "route": "world/regions/blue-woods",
+        "description": "晶蓝史莱姆与野兔出没的林野，也是「东路的第一趟」与「巡查补给」的狩猎地点。",
+        "underground": false,
+        "level": "7–10"
+      },
+      {
+        "id": "df_fspy",
+        "name": "符石平原",
+        "points": [
+          [
+            187,
+            -118
+          ],
+          [
+            252,
+            -128
+          ],
+          [
+            323,
+            -120
+          ],
+          [
+            315,
+            -42
+          ],
+          [
+            291,
+            -2
+          ],
+          [
+            263,
+            33
+          ],
+          [
+            185,
+            8
+          ],
+          [
+            117,
+            1
+          ]
+        ],
+        "route": "world/regions/runestone-plains",
+        "description": "符文怪物聚集的平原。骑士、亡灵和灵狼近身攻击，术士远程施法；东南侧还有带领狼群的符文驯兽师。",
+        "underground": false,
+        "level": "10–17"
+      },
+      {
+        "id": "df_rydk",
+        "name": "日影洞窟",
+        "points": [
+          [
+            -19,
+            27
+          ],
+          [
+            116,
+            27
+          ],
+          [
+            116,
+            61
+          ],
+          [
+            -19,
+            61
+          ]
+        ],
+        "route": "world/regions/sunshadow-cave",
+        "description": "位于地下的狭长洞窟。黯日石傀能治疗附近同伴，磷穴幽偶则靠近目标攻击。",
+        "underground": true,
+        "level": "16–20"
+      },
+      {
+        "id": "df_ywsg",
+        "name": "遗忘山谷",
+        "points": [
+          [
+            361,
+            -69
+          ],
+          [
+            381,
+            -70
+          ],
+          [
+            417,
+            -26
+          ],
+          [
+            422,
+            -6
+          ],
+          [
+            382,
+            18
+          ]
+        ],
+        "route": "world/regions/forgotten-valley",
+        "description": "白骨骷髅和弓箭手出没的山谷，位于符石平原以东。苍白骨片是这里的主要掉落。",
+        "underground": false,
+        "level": "16–18"
+      },
+      {
+        "id": "df_lrzs",
+        "name": "落日之森",
+        "points": [
+          [
+            -84,
+            19
+          ],
+          [
+            -87,
+            91
+          ],
+          [
+            -202,
+            88
+          ],
+          [
+            -189,
+            -21
+          ],
+          [
+            -137,
+            -37
+          ],
+          [
+            -103,
+            -24
+          ]
+        ],
+        "route": "world/regions/sunset-woods",
+        "description": "虎头蜂魂灵与低等级符文怪物共同出没的森林。这里的敌人等级跨度较大，蜂魂露可从虎头蜂魂灵身上取得。",
+        "underground": false,
+        "level": "7–26"
+      },
+      {
+        "id": "df_yxjy",
+        "name": "余响交椅",
+        "points": [
+          [
+            -134,
+            -59
+          ],
+          [
+            -89,
+            -40
+          ],
+          [
+            -40,
+            -69
+          ],
+          [
+            -119,
+            -118
+          ]
+        ],
+        "route": "world/regions/echo-seat",
+        "description": "失魂掠夺者、战灵、巫师和守卫聚集的区域。敌人等级为 25–29，掉落回响魂灰与灵魂结晶。",
+        "underground": false,
+        "level": "25–29"
+      },
+      {
+        "id": "df_hyjt",
+        "name": "回音祭坛",
+        "points": [
+          [
+            -63,
+            -154
+          ],
+          [
+            -2,
+            -154
+          ],
+          [
+            -2,
+            -106
+          ],
+          [
+            -63,
+            -106
+          ]
+        ],
+        "route": "world/regions/echo-altar",
+        "description": "破碎魂灵的挑战地点。祭坛骷髅头结束倒计时后，攻击它即可唤醒领主。",
+        "underground": false,
+        "level": "25"
+      },
+      {
+        "id": "df_djt",
+        "name": "断剑台",
+        "points": [
+          [
+            85,
+            102
+          ],
+          [
+            185,
+            102
+          ],
+          [
+            185,
+            201
+          ],
+          [
+            85,
+            201
+          ]
+        ],
+        "route": "world/regions/broken-sword-terrace",
+        "description": "区域事件「昔日幻影」的战场。集结后清剿残阳军势，再迎战残阳君主罗斯特·席尔德。",
+        "underground": false,
+        "level": "25–29"
+      }
+    ],
+    "markers": [
+      {
+        "id": "npc-0",
+        "name": "玛蕾",
+        "x": 119.5,
+        "z": -235.5,
+        "y": 10.0,
+        "kind": "npc",
+        "description": "营地领队 · 接取「东路的第一趟」并报告探索进展。",
+        "route": "world/regions/camp?id=npc-0"
+      },
+      {
+        "id": "npc-1",
+        "name": "托宾",
+        "x": 150.644,
+        "z": -249.1187,
+        "y": 7.0,
+        "kind": "npc",
+        "description": "整备员 · 「巡查补给」：收集 8 张柔软兽皮并交付。",
+        "route": "world/regions/camp?id=npc-1"
+      },
+      {
+        "id": "npc-2",
+        "name": "艾文",
+        "x": 124.6563,
+        "z": -242.5513,
+        "y": 11.0,
+        "kind": "npc",
+        "description": "记录员 · 交谈了解营地与森林。",
+        "route": "world/regions/camp?id=npc-2"
+      },
+      {
+        "id": "npc-4",
+        "name": "阿缇",
+        "x": 179.5,
+        "z": -247.5,
+        "y": 6.0,
+        "kind": "npc",
+        "description": "斥候 · 「核对林野旧路」与「平原入口的威胁」相关任务。",
+        "route": "world/regions/camp?id=npc-4"
+      },
+      {
+        "id": "npc-5",
+        "name": "莉榭",
+        "x": 171.0,
+        "z": -256.0,
+        "y": 6.0,
+        "kind": "npc",
+        "description": "药剂师 · 营地补给与药剂相关对话。",
+        "route": "world/regions/camp?id=npc-5"
+      },
+      {
+        "id": "npc-6",
+        "name": "塞温",
+        "x": 171.75,
+        "z": -249.5,
+        "y": 5.9,
+        "kind": "npc",
+        "description": "研究员 · 符石与遗迹相关对话。",
+        "route": "world/regions/camp?id=npc-6"
+      },
+      {
+        "id": "npc-7",
+        "name": "洛恩",
+        "x": 140.5,
+        "z": -231.5,
+        "y": 7.4,
+        "kind": "npc",
+        "description": "驿站车夫 · 可以交谈；传送服务尚未开放。",
+        "route": "world/regions/camp?id=npc-7"
+      },
+      {
+        "id": "npc-8",
+        "name": "达伦",
+        "x": 141.0,
+        "z": -260.0,
+        "y": 8.0,
+        "kind": "npc",
+        "description": "公会派驻员 · 可以交谈；尚未提供委托领取与结算。",
+        "route": "world/regions/camp?id=npc-8"
+      },
+      {
+        "id": "npc-9",
+        "name": "伊蕾娜",
+        "x": -142.5461,
+        "y": 7.0,
+        "z": 169.5352,
+        "kind": "npc",
+        "description": "学者领队 · 位于营地西南方的遗迹附近。",
+        "route": "world/forest?id=学者驻地"
+      },
+      {
+        "id": "npc-10",
+        "name": "诺菈",
+        "x": -150.4599,
+        "y": 7.0,
+        "z": 173.2325,
+        "kind": "npc",
+        "description": "铭文学者 · 位于营地西南方的遗迹附近。",
+        "route": "world/forest?id=学者驻地"
+      },
+      {
+        "id": "arrival",
+        "name": "森林抵达点",
+        "kind": "arrival",
+        "x": 158.5,
+        "y": 7.0,
+        "z": -231.5,
+        "description": "抵达位置；主城往返入口尚未开放。",
+        "route": "world/overview"
+      },
+      {
+        "id": "elite",
+        "name": "符文驯兽师",
+        "kind": "elite",
+        "x": 257,
+        "y": 7,
+        "z": 16,
+        "route": "world/monsters?id=mob-aa3679b630",
+        "description": "15–17 级精英 · 带领两只灵狼"
+      },
+      {
+        "id": "boss",
+        "name": "破碎魂灵",
+        "kind": "boss",
+        "x": -29,
+        "y": 31,
+        "z": -130,
+        "route": "world/bosses/shattered-soul",
+        "description": "25 级领主 · 攻击就绪的祭坛骷髅头召唤"
+      },
+      {
+        "id": "event",
+        "name": "昔日幻影",
+        "kind": "event",
+        "x": 136,
+        "y": 25,
+        "z": 152,
+        "route": "world/events/past-phantoms",
+        "description": "区域事件 · 集结、清剿与残阳君主"
+      }
+    ]
+  },
+  "town": {
+    "name": "主城",
+    "bounds": [
+      -85,
+      -20,
+      145,
+      115
+    ],
+    "regions": [],
+    "markers": [
+      {
+        "id": "service-11",
+        "name": "伊芙琳",
+        "x": -18.4735,
+        "y": 24.0,
+        "z": 11.5171,
+        "kind": "npc",
+        "description": "烹饪 · 制作食物",
+        "route": "life/crafting"
+      },
+      {
+        "id": "service-12",
+        "name": "欧文",
+        "x": -7.998,
+        "y": 25.0625,
+        "z": 2.4899,
+        "kind": "npc",
+        "description": "采集 · 采集工具与资源收购",
+        "route": "life/market"
+      },
+      {
+        "id": "service-13",
+        "name": "加雷特",
+        "x": -59.4856,
+        "y": 24.0,
+        "z": 19.5041,
+        "kind": "npc",
+        "description": "锻造 · 锻造装备与工具",
+        "route": "equipment/catalog"
+      },
+      {
+        "id": "service-14",
+        "name": "罗温",
+        "x": -52.4783,
+        "y": 24.0,
+        "z": 43.6533,
+        "kind": "npc",
+        "description": "伐木 · 伐木工具与资源收购",
+        "route": "life/market"
+      },
+      {
+        "id": "service-15",
+        "name": "瑟琳",
+        "x": -34.4286,
+        "y": 24.0,
+        "z": 53.5834,
+        "kind": "npc",
+        "description": "炼药 · 制作药水",
+        "route": "life/crafting"
+      },
+      {
+        "id": "service-16",
+        "name": "多里安",
+        "x": 33.573,
+        "y": 25.0,
+        "z": 1.5108,
+        "kind": "npc",
+        "description": "挖掘 · 挖掘工具与资源收购",
+        "route": "life/market"
+      },
+      {
+        "id": "service-17",
+        "name": "芬恩",
+        "x": -0.4941,
+        "y": 27.0,
+        "z": 70.5373,
+        "kind": "npc",
+        "description": "垂钓 · 钓竿、鱼饵与鱼获收购",
+        "route": "life/market"
+      },
+      {
+        "id": "service-18",
+        "name": "奥尔登",
+        "x": -54.5081,
+        "y": 24.0,
+        "z": 16.5717,
+        "kind": "npc",
+        "description": "冶炼 · 加工矿石与材料",
+        "route": "life/crafting"
+      },
+      {
+        "id": "service-19",
+        "name": "奖励",
+        "x": -15.4758,
+        "y": 25.0,
+        "z": 36.5133,
+        "kind": "npc",
+        "description": "每日 · 每周 · 每月 · 领取每日、每周、每月奖励",
+        "route": "guide/interface"
+      },
+      {
+        "id": "town-arrival",
+        "name": "主城抵达点",
+        "kind": "arrival",
+        "x": -26.495335605500035,
+        "y": 25.0,
+        "z": 29.503366572478644,
+        "description": "主城的抵达位置。",
+        "route": "world/overview"
+      }
+    ]
+  },
+  "camp": {
+    "name": "冒险者营地",
+    "bounds": [
+      100,
+      -277,
+      100,
+      65
+    ],
+    "regions": [],
+    "markers": [
+      {
+        "id": "npc-0",
+        "name": "玛蕾",
+        "x": 119.5,
+        "z": -235.5,
+        "y": 10.0,
+        "kind": "npc",
+        "description": "营地领队 · 接取「东路的第一趟」并报告探索进展。",
+        "route": "world/regions/camp?id=npc-0"
+      },
+      {
+        "id": "npc-1",
+        "name": "托宾",
+        "x": 150.644,
+        "z": -249.1187,
+        "y": 7.0,
+        "kind": "npc",
+        "description": "整备员 · 「巡查补给」：收集 8 张柔软兽皮并交付。",
+        "route": "world/regions/camp?id=npc-1"
+      },
+      {
+        "id": "npc-2",
+        "name": "艾文",
+        "x": 124.6563,
+        "z": -242.5513,
+        "y": 11.0,
+        "kind": "npc",
+        "description": "记录员 · 交谈了解营地与森林。",
+        "route": "world/regions/camp?id=npc-2"
+      },
+      {
+        "id": "npc-4",
+        "name": "阿缇",
+        "x": 179.5,
+        "z": -247.5,
+        "y": 6.0,
+        "kind": "npc",
+        "description": "斥候 · 「核对林野旧路」与「平原入口的威胁」相关任务。",
+        "route": "world/regions/camp?id=npc-4"
+      },
+      {
+        "id": "npc-5",
+        "name": "莉榭",
+        "x": 171.0,
+        "z": -256.0,
+        "y": 6.0,
+        "kind": "npc",
+        "description": "药剂师 · 营地补给与药剂相关对话。",
+        "route": "world/regions/camp?id=npc-5"
+      },
+      {
+        "id": "npc-6",
+        "name": "塞温",
+        "x": 171.75,
+        "z": -249.5,
+        "y": 5.9,
+        "kind": "npc",
+        "description": "研究员 · 符石与遗迹相关对话。",
+        "route": "world/regions/camp?id=npc-6"
+      },
+      {
+        "id": "npc-7",
+        "name": "洛恩",
+        "x": 140.5,
+        "z": -231.5,
+        "y": 7.4,
+        "kind": "npc",
+        "description": "驿站车夫 · 可以交谈；传送服务尚未开放。",
+        "route": "world/regions/camp?id=npc-7"
+      },
+      {
+        "id": "npc-8",
+        "name": "达伦",
+        "x": 141.0,
+        "z": -260.0,
+        "y": 8.0,
+        "kind": "npc",
+        "description": "公会派驻员 · 可以交谈；尚未提供委托领取与结算。",
+        "route": "world/regions/camp?id=npc-8"
+      },
+      {
+        "id": "arrival",
+        "name": "森林抵达点",
+        "kind": "arrival",
+        "x": 158.5,
+        "y": 7.0,
+        "z": -231.5,
+        "description": "抵达位置；主城往返入口尚未开放。",
+        "route": "world/overview"
+      }
+    ]
+  }
+}

@@ -1,0 +1,8189 @@
+{
+  "professions": {
+    "farming": "采集",
+    "mining": "挖掘",
+    "woodcutting": "伐木",
+    "fishing": "垂钓",
+    "cooking": "烹饪",
+    "alchemy": "炼药",
+    "smithing": "锻造",
+    "smelting": "冶炼"
+  },
+  "curves": {
+    "farming": [
+      853,
+      906,
+      960,
+      1013,
+      1066,
+      1120,
+      1174,
+      1227,
+      1281,
+      2048,
+      2121,
+      2194,
+      2267,
+      2340,
+      2413,
+      2486,
+      2560,
+      2633,
+      2707,
+      2780,
+      2853,
+      2926,
+      2999,
+      3073,
+      3584,
+      3712,
+      3840,
+      3968,
+      4096,
+      4224,
+      4352,
+      4480,
+      4607,
+      4736,
+      4864,
+      4992,
+      5120,
+      5248,
+      5377,
+      4032,
+      4138,
+      4244,
+      4350,
+      4456,
+      4562,
+      4668,
+      4774,
+      4880,
+      4986,
+      5093,
+      5200,
+      5306,
+      5412,
+      5518,
+      5624,
+      5730,
+      5836,
+      5942,
+      6049,
+      4800,
+      4926,
+      5052,
+      5178,
+      5305,
+      5431,
+      5557,
+      5684,
+      5810,
+      5936,
+      6063,
+      6190,
+      6316,
+      6443,
+      6569,
+      6695,
+      6822,
+      6948,
+      7074,
+      7201,
+      5760,
+      5911,
+      6063,
+      6214,
+      6366,
+      6517,
+      6669,
+      6821,
+      6972,
+      7124,
+      7275,
+      7428,
+      7579,
+      7731,
+      7883,
+      8034,
+      8186,
+      8337,
+      8489,
+      8641,
+      8641
+    ],
+    "mining": [
+      426,
+      453,
+      480,
+      506,
+      533,
+      560,
+      587,
+      614,
+      641,
+      1024,
+      1060,
+      1097,
+      1133,
+      1170,
+      1206,
+      1243,
+      1280,
+      1316,
+      1354,
+      1390,
+      1427,
+      1463,
+      1500,
+      1537,
+      1792,
+      1856,
+      1920,
+      1984,
+      2048,
+      2112,
+      2176,
+      2240,
+      2303,
+      2368,
+      2432,
+      2496,
+      2560,
+      2624,
+      2689,
+      2016,
+      2069,
+      2122,
+      2175,
+      2228,
+      2281,
+      2334,
+      2387,
+      2440,
+      2493,
+      2546,
+      2600,
+      2653,
+      2706,
+      2759,
+      2812,
+      2865,
+      2918,
+      2971,
+      3025,
+      2400,
+      2463,
+      2526,
+      2589,
+      2652,
+      2715,
+      2778,
+      2842,
+      2905,
+      2968,
+      3031,
+      3095,
+      3158,
+      3222,
+      3285,
+      3348,
+      3411,
+      3474,
+      3537,
+      3601,
+      2880,
+      2955,
+      3031,
+      3107,
+      3183,
+      3258,
+      3334,
+      3410,
+      3486,
+      3562,
+      3637,
+      3714,
+      3790,
+      3866,
+      3942,
+      4017,
+      4093,
+      4169,
+      4245,
+      4321,
+      4321
+    ],
+    "woodcutting": [
+      355,
+      377,
+      400,
+      422,
+      444,
+      467,
+      489,
+      512,
+      534,
+      853,
+      883,
+      914,
+      944,
+      975,
+      1005,
+      1036,
+      1066,
+      1097,
+      1128,
+      1159,
+      1189,
+      1220,
+      1250,
+      1281,
+      1493,
+      1546,
+      1600,
+      1653,
+      1706,
+      1760,
+      1813,
+      1866,
+      1920,
+      1973,
+      2027,
+      2081,
+      2134,
+      2187,
+      2241,
+      1680,
+      1724,
+      1768,
+      1812,
+      1856,
+      1901,
+      1945,
+      1989,
+      2033,
+      2077,
+      2122,
+      2167,
+      2211,
+      2255,
+      2299,
+      2344,
+      2388,
+      2432,
+      2476,
+      2521,
+      2000,
+      2052,
+      2105,
+      2157,
+      2210,
+      2263,
+      2315,
+      2368,
+      2421,
+      2473,
+      2526,
+      2579,
+      2632,
+      2685,
+      2737,
+      2790,
+      2843,
+      2895,
+      2948,
+      3001,
+      2400,
+      2463,
+      2526,
+      2589,
+      2652,
+      2715,
+      2778,
+      2842,
+      2905,
+      2968,
+      3031,
+      3095,
+      3158,
+      3222,
+      3285,
+      3348,
+      3411,
+      3474,
+      3537,
+      3601,
+      3601
+    ],
+    "fishing": [
+      480,
+      510,
+      540,
+      570,
+      600,
+      630,
+      660,
+      690,
+      720,
+      1152,
+      1193,
+      1234,
+      1275,
+      1316,
+      1357,
+      1398,
+      1440,
+      1481,
+      1523,
+      1564,
+      1605,
+      1646,
+      1687,
+      1729,
+      2016,
+      2088,
+      2160,
+      2232,
+      2304,
+      2376,
+      2448,
+      2520,
+      2591,
+      2664,
+      2736,
+      2808,
+      2880,
+      2952,
+      3025,
+      2268,
+      2327,
+      2387,
+      2447,
+      2506,
+      2566,
+      2626,
+      2685,
+      2745,
+      2805,
+      2864,
+      2925,
+      2985,
+      3044,
+      3104,
+      3164,
+      3223,
+      3283,
+      3343,
+      3403,
+      2700,
+      2771,
+      2842,
+      2913,
+      2984,
+      3055,
+      3126,
+      3197,
+      3268,
+      3339,
+      3410,
+      3482,
+      3553,
+      3624,
+      3695,
+      3766,
+      3837,
+      3908,
+      3979,
+      4051,
+      3240,
+      3325,
+      3410,
+      3495,
+      3581,
+      3666,
+      3751,
+      3836,
+      3922,
+      4007,
+      4092,
+      4178,
+      4264,
+      4349,
+      4434,
+      4519,
+      4605,
+      4690,
+      4775,
+      4861,
+      4861
+    ],
+    "cooking": [
+      4,
+      5,
+      7,
+      8,
+      21,
+      26,
+      33,
+      19,
+      22,
+      26,
+      29,
+      24,
+      26,
+      28,
+      31,
+      34,
+      37,
+      36,
+      39,
+      43,
+      46,
+      49,
+      52,
+      55,
+      64,
+      72,
+      80,
+      88,
+      96,
+      96,
+      96,
+      96,
+      96,
+      96,
+      96,
+      96,
+      96,
+      96,
+      96,
+      96,
+      96,
+      96,
+      96,
+      96,
+      96,
+      96,
+      96,
+      96,
+      96,
+      96,
+      96,
+      96,
+      96,
+      96,
+      96,
+      96,
+      96,
+      96,
+      96,
+      96,
+      96,
+      96,
+      96,
+      96,
+      96,
+      96,
+      96,
+      96,
+      96,
+      96,
+      96,
+      96,
+      96,
+      96,
+      96,
+      96,
+      96,
+      96,
+      96,
+      96,
+      96,
+      96,
+      96,
+      96,
+      96,
+      96,
+      96,
+      96,
+      96,
+      96,
+      96,
+      96,
+      96,
+      96,
+      96,
+      96,
+      96,
+      96,
+      96,
+      96
+    ],
+    "alchemy": [
+      20,
+      23,
+      26,
+      31,
+      24,
+      30,
+      36,
+      24,
+      28,
+      32,
+      36,
+      42,
+      53,
+      65,
+      42,
+      53,
+      65,
+      80,
+      120,
+      28,
+      32,
+      36,
+      40,
+      44,
+      128,
+      160,
+      192,
+      108,
+      162,
+      32,
+      32,
+      33,
+      33,
+      34,
+      34,
+      35,
+      35,
+      36,
+      36,
+      37,
+      38,
+      38,
+      39,
+      39,
+      40,
+      41,
+      42,
+      42,
+      43,
+      44,
+      44,
+      45,
+      45,
+      46,
+      46,
+      47,
+      47,
+      48,
+      49,
+      49,
+      49,
+      49,
+      49,
+      49,
+      49,
+      49,
+      49,
+      49,
+      49,
+      49,
+      49,
+      49,
+      49,
+      49,
+      49,
+      49,
+      49,
+      49,
+      49,
+      49,
+      49,
+      49,
+      49,
+      49,
+      49,
+      49,
+      49,
+      49,
+      49,
+      49,
+      49,
+      49,
+      49,
+      49,
+      49,
+      49,
+      49,
+      49,
+      49,
+      49
+    ],
+    "smithing": [
+      72,
+      84,
+      96,
+      108,
+      153,
+      172,
+      192,
+      212,
+      231,
+      230,
+      243,
+      256,
+      268,
+      281,
+      294,
+      308,
+      321,
+      333,
+      346,
+      614,
+      691,
+      768,
+      845,
+      922,
+      1056,
+      1188,
+      1320,
+      1452,
+      1584,
+      1584,
+      1584,
+      1584,
+      1584,
+      1584,
+      1584,
+      1584,
+      1584,
+      1584,
+      1584,
+      1584,
+      1584,
+      1584,
+      1584,
+      1584,
+      1584,
+      1584,
+      1584,
+      1584,
+      1584,
+      1584,
+      1584,
+      1584,
+      1584,
+      1584,
+      1584,
+      1584,
+      1584,
+      1584,
+      1584,
+      1584,
+      1584,
+      1584,
+      1584,
+      1584,
+      1584,
+      1584,
+      1584,
+      1584,
+      1584,
+      1584,
+      1584,
+      1584,
+      1584,
+      1584,
+      1584,
+      1584,
+      1584,
+      1584,
+      1584,
+      1584,
+      1584,
+      1584,
+      1584,
+      1584,
+      1584,
+      1584,
+      1584,
+      1584,
+      1584,
+      1584,
+      1584,
+      1584,
+      1584,
+      1584,
+      1584,
+      1584,
+      1584,
+      1584,
+      1584,
+      1584
+    ],
+    "smelting": [
+      19,
+      22,
+      26,
+      29,
+      46,
+      51,
+      57,
+      64,
+      70,
+      76,
+      86,
+      96,
+      106,
+      116,
+      61,
+      64,
+      68,
+      71,
+      75,
+      79,
+      82,
+      86,
+      89,
+      93,
+      156,
+      164,
+      173,
+      182,
+      190,
+      199,
+      208,
+      217,
+      226,
+      235,
+      208,
+      234,
+      260,
+      286,
+      312,
+      208,
+      234,
+      260,
+      286,
+      312,
+      240,
+      253,
+      266,
+      280,
+      293,
+      306,
+      320,
+      334,
+      347,
+      361,
+      422,
+      475,
+      528,
+      581,
+      634,
+      422,
+      475,
+      528,
+      581,
+      634,
+      614,
+      691,
+      768,
+      845,
+      922,
+      576,
+      648,
+      720,
+      792,
+      864,
+      512,
+      540,
+      568,
+      597,
+      625,
+      654,
+      683,
+      712,
+      740,
+      769,
+      769,
+      769,
+      769,
+      769,
+      769,
+      769,
+      769,
+      769,
+      769,
+      769,
+      769,
+      769,
+      769,
+      769,
+      769,
+      769
+    ]
+  },
+  "rewards": {
+    "mining": {
+      "daily": [
+        {
+          "min_level": 1,
+          "experience": 1200.0
+        }
+      ],
+      "weekly": [
+        {
+          "min_level": 1,
+          "experience": 4800.0
+        }
+      ]
+    },
+    "farming": {
+      "daily": [
+        {
+          "min_level": 1,
+          "experience": 2400.0
+        }
+      ],
+      "weekly": [
+        {
+          "min_level": 1,
+          "experience": 9600.0
+        }
+      ]
+    },
+    "woodcutting": {
+      "daily": [
+        {
+          "min_level": 1,
+          "experience": 1000.0
+        }
+      ],
+      "weekly": [
+        {
+          "min_level": 1,
+          "experience": 4000.0
+        }
+      ]
+    },
+    "fishing": {
+      "daily": [
+        {
+          "min_level": 1,
+          "experience": 1350.0
+        }
+      ],
+      "weekly": [
+        {
+          "min_level": 1,
+          "experience": 5400.0
+        }
+      ]
+    },
+    "smithing": {
+      "daily": [
+        {
+          "min_level": 1,
+          "experience": 360
+        },
+        {
+          "min_level": 5,
+          "experience": 480
+        },
+        {
+          "min_level": 10,
+          "experience": 720
+        },
+        {
+          "min_level": 20,
+          "experience": 960
+        },
+        {
+          "min_level": 25,
+          "experience": 1320
+        }
+      ],
+      "weekly": [
+        {
+          "min_level": 1,
+          "experience": 1440
+        },
+        {
+          "min_level": 5,
+          "experience": 1920
+        },
+        {
+          "min_level": 10,
+          "experience": 2880
+        },
+        {
+          "min_level": 20,
+          "experience": 3840
+        },
+        {
+          "min_level": 25,
+          "experience": 5280
+        }
+      ]
+    },
+    "cooking": {
+      "daily": [
+        {
+          "min_level": 1,
+          "experience": 12
+        },
+        {
+          "min_level": 5,
+          "experience": 24
+        },
+        {
+          "min_level": 12,
+          "experience": 36
+        },
+        {
+          "min_level": 18,
+          "experience": 48
+        }
+      ],
+      "weekly": [
+        {
+          "min_level": 1,
+          "experience": 48
+        },
+        {
+          "min_level": 5,
+          "experience": 96
+        },
+        {
+          "min_level": 12,
+          "experience": 144
+        },
+        {
+          "min_level": 18,
+          "experience": 192
+        }
+      ]
+    },
+    "alchemy": {
+      "daily": [
+        {
+          "min_level": 1,
+          "experience": 30
+        },
+        {
+          "min_level": 5,
+          "experience": 36
+        },
+        {
+          "min_level": 12,
+          "experience": 48
+        },
+        {
+          "min_level": 18,
+          "experience": 60
+        },
+        {
+          "min_level": 25,
+          "experience": 72
+        },
+        {
+          "min_level": 30,
+          "experience": 114.0
+        },
+        {
+          "min_level": 60,
+          "experience": 150.0
+        }
+      ],
+      "weekly": [
+        {
+          "min_level": 1,
+          "experience": 120
+        },
+        {
+          "min_level": 5,
+          "experience": 144
+        },
+        {
+          "min_level": 12,
+          "experience": 192
+        },
+        {
+          "min_level": 18,
+          "experience": 240
+        },
+        {
+          "min_level": 25,
+          "experience": 288
+        },
+        {
+          "min_level": 30,
+          "experience": 456.0
+        },
+        {
+          "min_level": 60,
+          "experience": 600.0
+        }
+      ]
+    },
+    "smelting": {
+      "daily": [
+        {
+          "min_level": 1,
+          "experience": 72
+        },
+        {
+          "min_level": 5,
+          "experience": 144
+        },
+        {
+          "min_level": 10,
+          "experience": 180
+        },
+        {
+          "min_level": 15,
+          "experience": 192
+        },
+        {
+          "min_level": 25,
+          "experience": 390
+        },
+        {
+          "min_level": 45,
+          "experience": 600
+        },
+        {
+          "min_level": 55,
+          "experience": 660
+        },
+        {
+          "min_level": 65,
+          "experience": 960
+        }
+      ],
+      "weekly": [
+        {
+          "min_level": 1,
+          "experience": 288
+        },
+        {
+          "min_level": 5,
+          "experience": 576
+        },
+        {
+          "min_level": 10,
+          "experience": 720
+        },
+        {
+          "min_level": 15,
+          "experience": 768
+        },
+        {
+          "min_level": 25,
+          "experience": 1560
+        },
+        {
+          "min_level": 45,
+          "experience": 2400
+        },
+        {
+          "min_level": 55,
+          "experience": 2640
+        },
+        {
+          "min_level": 65,
+          "experience": 3840
+        }
+      ]
+    }
+  },
+  "fish": [
+    {
+      "type": "垂钓",
+      "item": "CLAM",
+      "name": "蚌",
+      "tugs": 4,
+      "xp": 15,
+      "weight": 76901.342278
+    },
+    {
+      "type": "垂钓",
+      "item": "KELP",
+      "name": "海带",
+      "tugs": 4,
+      "xp": 15,
+      "weight": 54482.415014
+    },
+    {
+      "type": "垂钓",
+      "item": "CRUCIAN_CARP",
+      "name": "鲫鱼",
+      "tugs": 4,
+      "xp": 15,
+      "weight": 54482.415014
+    },
+    {
+      "type": "垂钓",
+      "item": "CARP",
+      "name": "鲤鱼",
+      "tugs": 4,
+      "xp": 15,
+      "weight": 42663.690876
+    },
+    {
+      "type": "垂钓",
+      "item": "BASS",
+      "name": "鲈鱼",
+      "tugs": 4,
+      "xp": 15,
+      "weight": 35292.702309
+    },
+    {
+      "type": "垂钓",
+      "item": "TILAPIA",
+      "name": "罗非鱼",
+      "tugs": 4,
+      "xp": 15,
+      "weight": 42663.690876
+    },
+    {
+      "type": "垂钓",
+      "item": "LOACH",
+      "name": "泥鳅",
+      "tugs": 4,
+      "xp": 15,
+      "weight": 54482.415014
+    },
+    {
+      "type": "垂钓",
+      "item": "GRASS_CARP",
+      "name": "草鱼",
+      "tugs": 4,
+      "xp": 15,
+      "weight": 42663.690876
+    },
+    {
+      "type": "垂钓",
+      "item": "RIVER_SHRIMP",
+      "name": "河虾",
+      "tugs": 4,
+      "xp": 15,
+      "weight": 42663.690876
+    },
+    {
+      "type": "垂钓",
+      "item": "POND_SNAIL",
+      "name": "田螺",
+      "tugs": 4,
+      "xp": 15,
+      "weight": 63615.128566
+    },
+    {
+      "type": "垂钓",
+      "item": "HERRING",
+      "name": "鲱鱼",
+      "tugs": 6,
+      "xp": 20,
+      "weight": 23343.751777
+    },
+    {
+      "type": "垂钓",
+      "item": "SALMON",
+      "name": "鲑鱼",
+      "tugs": 6,
+      "xp": 20,
+      "weight": 28219.165566
+    },
+    {
+      "type": "垂钓",
+      "item": "SEA_SNAIL",
+      "name": "海蜗牛",
+      "tugs": 6,
+      "xp": 20,
+      "weight": 12950.757168
+    },
+    {
+      "type": "垂钓",
+      "item": "HORN_CORAL",
+      "name": "鹿角珊瑚",
+      "tugs": 6,
+      "xp": 20,
+      "weight": 42077.134177
+    },
+    {
+      "type": "垂钓",
+      "item": "BRAIN_CORAL",
+      "name": "脑纹珊瑚",
+      "tugs": 6,
+      "xp": 20,
+      "weight": 42077.134177
+    },
+    {
+      "type": "垂钓",
+      "item": "CATFISH",
+      "name": "鲶鱼",
+      "tugs": 6,
+      "xp": 20,
+      "weight": 21527.166715
+    },
+    {
+      "type": "垂钓",
+      "item": "CRAB",
+      "name": "螃蟹",
+      "tugs": 6,
+      "xp": 20,
+      "weight": 12950.757168
+    },
+    {
+      "type": "垂钓",
+      "item": "SQUID",
+      "name": "鱿鱼",
+      "tugs": 6,
+      "xp": 20,
+      "weight": 14164.101401
+    },
+    {
+      "type": "垂钓",
+      "item": "RICEFIELD_EEL",
+      "name": "黄鳝",
+      "tugs": 6,
+      "xp": 20,
+      "weight": 19992.476648
+    },
+    {
+      "type": "垂钓",
+      "item": "OYSTER",
+      "name": "牡蛎",
+      "tugs": 6,
+      "xp": 20,
+      "weight": 28219.165566
+    },
+    {
+      "type": "垂钓",
+      "item": "CUTTLEFISH",
+      "name": "墨鱼",
+      "tugs": 6,
+      "xp": 20,
+      "weight": 14164.101401
+    },
+    {
+      "type": "垂钓",
+      "item": "BUTTERFLYFISH",
+      "name": "蝴蝶鱼",
+      "tugs": 6,
+      "xp": 20,
+      "weight": 15655.562319
+    },
+    {
+      "type": "垂钓",
+      "item": "FLOUNDER",
+      "name": "比目鱼",
+      "tugs": 8,
+      "xp": 30,
+      "weight": 10352.992916
+    },
+    {
+      "type": "垂钓",
+      "item": "SEA_BREAM",
+      "name": "鲷鱼",
+      "tugs": 8,
+      "xp": 30,
+      "weight": 9242.14466
+    },
+    {
+      "type": "垂钓",
+      "item": "TUBE_CORAL",
+      "name": "管珊瑚",
+      "tugs": 8,
+      "xp": 30,
+      "weight": 24839.922899
+    },
+    {
+      "type": "垂钓",
+      "item": "STARFISH",
+      "name": "海星",
+      "tugs": 8,
+      "xp": 30,
+      "weight": 6917.029164
+    },
+    {
+      "type": "垂钓",
+      "item": "PUFFERFISH",
+      "name": "河豚",
+      "tugs": 8,
+      "xp": 30,
+      "weight": 6117.125651
+    },
+    {
+      "type": "垂钓",
+      "item": "RED_MULLET",
+      "name": "红鲻鱼",
+      "tugs": 8,
+      "xp": 30,
+      "weight": 11026.124646
+    },
+    {
+      "type": "垂钓",
+      "item": "FIRE_CORAL",
+      "name": "火珊瑚",
+      "tugs": 8,
+      "xp": 30,
+      "weight": 24839.922899
+    },
+    {
+      "type": "垂钓",
+      "item": "LOBSTER",
+      "name": "龙虾",
+      "tugs": 8,
+      "xp": 30,
+      "weight": 5416.536583
+    },
+    {
+      "type": "垂钓",
+      "item": "GROUPER",
+      "name": "石斑鱼",
+      "tugs": 8,
+      "xp": 30,
+      "weight": 8564.310529
+    },
+    {
+      "type": "垂钓",
+      "item": "SCALLOP",
+      "name": "扇贝",
+      "tugs": 8,
+      "xp": 30,
+      "weight": 11399.905103
+    },
+    {
+      "type": "垂钓",
+      "item": "SEA_CUCUMBER",
+      "name": "海参",
+      "tugs": 8,
+      "xp": 30,
+      "weight": 6547.796776
+    },
+    {
+      "type": "垂钓",
+      "item": "KOI",
+      "name": "锦鲤",
+      "tugs": 8,
+      "xp": 30,
+      "weight": 4241.541832
+    },
+    {
+      "type": "垂钓",
+      "item": "JELLYFISH",
+      "name": "海蜇",
+      "tugs": 10,
+      "xp": 50,
+      "weight": 2227.215153
+    },
+    {
+      "type": "垂钓",
+      "item": "HERMIT_CRAB",
+      "name": "寄居蟹",
+      "tugs": 10,
+      "xp": 50,
+      "weight": 3412.790028
+    },
+    {
+      "type": "垂钓",
+      "item": "TUNA",
+      "name": "金枪鱼",
+      "tugs": 10,
+      "xp": 50,
+      "weight": 1577.918625
+    },
+    {
+      "type": "垂钓",
+      "item": "BUBBLE_CORAL",
+      "name": "气泡珊瑚",
+      "tugs": 10,
+      "xp": 50,
+      "weight": 15094.795619
+    },
+    {
+      "type": "垂钓",
+      "item": "SHARK",
+      "name": "鲨鱼",
+      "tugs": 10,
+      "xp": 50,
+      "weight": 2577.51231
+    },
+    {
+      "type": "垂钓",
+      "item": "BLOBFISH",
+      "name": "水滴鱼",
+      "tugs": 10,
+      "xp": 50,
+      "weight": 2132.196554
+    },
+    {
+      "type": "垂钓",
+      "item": "CHINESE_STURGEON",
+      "name": "中华鲟",
+      "tugs": 10,
+      "xp": 50,
+      "weight": 1325.088533
+    },
+    {
+      "type": "垂钓",
+      "item": "KING_CRAB",
+      "name": "帝王蟹",
+      "tugs": 10,
+      "xp": 50,
+      "weight": 2331.96004
+    },
+    {
+      "type": "垂钓",
+      "item": "OPAH",
+      "name": "月亮鱼",
+      "tugs": 10,
+      "xp": 50,
+      "weight": 1966.271366
+    },
+    {
+      "type": "垂钓",
+      "item": "OARFISH",
+      "name": "皇带鱼",
+      "tugs": 10,
+      "xp": 50,
+      "weight": 1293.735835
+    },
+    {
+      "type": "垂钓",
+      "item": "ANGLERFISH",
+      "name": "鮟鱇",
+      "tugs": 12,
+      "xp": 100,
+      "weight": 432.007239
+    },
+    {
+      "type": "垂钓",
+      "item": "GOLDEN_KING_FISH",
+      "name": "金色鱼王",
+      "tugs": 12,
+      "xp": 100,
+      "weight": 99.430023
+    },
+    {
+      "type": "垂钓",
+      "item": "DEEP_SEA_EEL",
+      "name": "深海电鳗",
+      "tugs": 12,
+      "xp": 100,
+      "weight": 251.263356
+    },
+    {
+      "type": "垂钓",
+      "item": "AMBERGRIS",
+      "name": "龙涎香",
+      "tugs": 12,
+      "xp": 100,
+      "weight": 185.550654
+    },
+    {
+      "type": "垂钓",
+      "item": "NAUTILUS",
+      "name": "鹦鹉螺",
+      "tugs": 12,
+      "xp": 100,
+      "weight": 334.455226
+    },
+    {
+      "type": "垂钓",
+      "item": "PIRATE_COIN",
+      "name": "海盗币",
+      "tugs": 10,
+      "xp": 50,
+      "weight": 50000.0
+    },
+    {
+      "type": "CONSUMABLE",
+      "item": "LOST_TACKLE_BOX",
+      "name": "遗失的渔具箱",
+      "tugs": 8,
+      "xp": 30,
+      "weight": 15228.426396
+    },
+    {
+      "type": "头盔",
+      "item": "FLORAL_UNDERPANTS",
+      "name": "三角花内裤",
+      "tugs": 12,
+      "xp": 100,
+      "weight": 1016.244671
+    }
+  ],
+  "recipes": [
+    {
+      "id": "cooking-fried-egg",
+      "key": "cooking:fried-egg",
+      "skill": "cooking",
+      "station": "烹饪",
+      "level": 1,
+      "type": "食物",
+      "item": "FRIED_EGG",
+      "name": "煎蛋",
+      "amount": 1.0,
+      "seconds": 5,
+      "xp": 2.0,
+      "ingredients": [
+        [
+          "食材",
+          "EGG",
+          1.0
+        ],
+        [
+          "食材",
+          "COOKING_OIL",
+          1.0
+        ]
+      ]
+    },
+    {
+      "id": "cooking-golden-omelet",
+      "key": "cooking:golden-omelet",
+      "skill": "cooking",
+      "station": "烹饪",
+      "level": 1,
+      "type": "食物",
+      "item": "GOLDEN_OMELET",
+      "name": "黄金蛋卷",
+      "amount": 1.0,
+      "seconds": 5,
+      "xp": 2.0,
+      "ingredients": [
+        [
+          "食材",
+          "EGG",
+          1.0
+        ],
+        [
+          "食材",
+          "MILK",
+          1.0
+        ]
+      ]
+    },
+    {
+      "id": "cooking-mille-crepe",
+      "key": "cooking:mille-crepe",
+      "skill": "cooking",
+      "station": "烹饪",
+      "level": 5,
+      "type": "食物",
+      "item": "MILLE_CREPE",
+      "name": "千层饼",
+      "amount": 1.0,
+      "seconds": 5,
+      "xp": 4.0,
+      "ingredients": [
+        [
+          "食材",
+          "EGG",
+          1.0
+        ],
+        [
+          "食材",
+          "WHEAT_FLOUR",
+          1.0
+        ]
+      ]
+    },
+    {
+      "id": "cooking-hash-brown",
+      "key": "cooking:hash-brown",
+      "skill": "cooking",
+      "station": "烹饪",
+      "level": 5,
+      "type": "食物",
+      "item": "HASH_BROWN",
+      "name": "薯饼",
+      "amount": 1.0,
+      "seconds": 5,
+      "xp": 4.0,
+      "ingredients": [
+        [
+          "采集",
+          "POTATO",
+          1.0
+        ],
+        [
+          "食材",
+          "COOKING_OIL",
+          1.0
+        ]
+      ]
+    },
+    {
+      "id": "cooking-pan-fried-tilapia",
+      "key": "cooking:pan-fried-tilapia",
+      "skill": "cooking",
+      "station": "烹饪",
+      "level": 5,
+      "type": "食物",
+      "item": "PAN_FRIED_TILAPIA",
+      "name": "香煎罗非鱼",
+      "amount": 1.0,
+      "seconds": 10,
+      "xp": 4.0,
+      "ingredients": [
+        [
+          "垂钓",
+          "TILAPIA",
+          1.0
+        ],
+        [
+          "食材",
+          "COOKING_OIL",
+          1.0
+        ]
+      ]
+    },
+    {
+      "id": "cooking-fried-pork-chop",
+      "key": "cooking:fried-pork-chop",
+      "skill": "cooking",
+      "station": "烹饪",
+      "level": 10,
+      "type": "食物",
+      "item": "FRIED_PORK_CHOP",
+      "name": "炸猪排",
+      "amount": 1.0,
+      "seconds": 10,
+      "xp": 4.0,
+      "ingredients": [
+        [
+          "食材",
+          "RAW_PORK_CHOP",
+          1.0
+        ],
+        [
+          "食材",
+          "WHEAT_FLOUR",
+          1.0
+        ],
+        [
+          "食材",
+          "COOKING_OIL",
+          1.0
+        ]
+      ]
+    },
+    {
+      "id": "cooking-grilled-fish",
+      "key": "cooking:grilled-fish",
+      "skill": "cooking",
+      "station": "烹饪",
+      "level": 10,
+      "type": "食物",
+      "item": "GRILLED_FISH",
+      "name": "烤鱼",
+      "amount": 1.0,
+      "seconds": 10,
+      "xp": 4.0,
+      "ingredients": [
+        [
+          "垂钓",
+          "CRUCIAN_CARP",
+          1.0
+        ],
+        [
+          "垂钓",
+          "CARP",
+          1.0
+        ],
+        [
+          "食材",
+          "WHEAT_FLOUR",
+          1.0
+        ]
+      ]
+    },
+    {
+      "id": "cooking-fried-loach",
+      "key": "cooking:fried-loach",
+      "skill": "cooking",
+      "station": "烹饪",
+      "level": 10,
+      "type": "食物",
+      "item": "FRIED_LOACH",
+      "name": "炸泥鳅",
+      "amount": 1.0,
+      "seconds": 10,
+      "xp": 4.0,
+      "ingredients": [
+        [
+          "垂钓",
+          "LOACH",
+          2.0
+        ],
+        [
+          "食材",
+          "WHEAT_FLOUR",
+          1.0
+        ],
+        [
+          "食材",
+          "COOKING_OIL",
+          1.0
+        ]
+      ]
+    },
+    {
+      "id": "cooking-fried-river-shrimp",
+      "key": "cooking:fried-river-shrimp",
+      "skill": "cooking",
+      "station": "烹饪",
+      "level": 10,
+      "type": "食物",
+      "item": "FRIED_RIVER_SHRIMP",
+      "name": "炸河虾",
+      "amount": 1.0,
+      "seconds": 10,
+      "xp": 4.0,
+      "ingredients": [
+        [
+          "垂钓",
+          "RIVER_SHRIMP",
+          1.0
+        ],
+        [
+          "食材",
+          "WHEAT_FLOUR",
+          1.0
+        ],
+        [
+          "食材",
+          "COOKING_OIL",
+          1.0
+        ]
+      ]
+    },
+    {
+      "id": "cooking-pumpkin-soup",
+      "key": "cooking:pumpkin-soup",
+      "skill": "cooking",
+      "station": "烹饪",
+      "level": 15,
+      "type": "食物",
+      "item": "PUMPKIN_SOUP",
+      "name": "南瓜汤",
+      "amount": 1.0,
+      "seconds": 10,
+      "xp": 4.0,
+      "ingredients": [
+        [
+          "采集",
+          "PUMPKIN",
+          1.0
+        ],
+        [
+          "食材",
+          "MILK",
+          1.0
+        ]
+      ]
+    },
+    {
+      "id": "cooking-fruit-platter",
+      "key": "cooking:fruit-platter",
+      "skill": "cooking",
+      "station": "烹饪",
+      "level": 15,
+      "type": "食物",
+      "item": "FRUIT_PLATTER",
+      "name": "水果拼盘",
+      "amount": 1.0,
+      "seconds": 10,
+      "xp": 4.0,
+      "ingredients": [
+        [
+          "采集",
+          "MELON_SLICE",
+          1.0
+        ],
+        [
+          "采集",
+          "APPLE",
+          1.0
+        ],
+        [
+          "采集",
+          "BEETROOT",
+          1.0
+        ],
+        [
+          "采集",
+          "CARROT",
+          1.0
+        ]
+      ]
+    },
+    {
+      "id": "cooking-lollipop",
+      "key": "cooking:lollipop",
+      "skill": "cooking",
+      "station": "烹饪",
+      "level": 15,
+      "type": "食物",
+      "item": "LOLLIPOP",
+      "name": "棒棒糖",
+      "amount": 1.0,
+      "seconds": 10,
+      "xp": 4.0,
+      "ingredients": [
+        [
+          "食材",
+          "SUGAR",
+          1.0
+        ],
+        [
+          "采集",
+          "BEETROOT",
+          1.0
+        ],
+        [
+          "食材",
+          "MILK",
+          1.0
+        ]
+      ]
+    },
+    {
+      "id": "cooking-beef-kelp-soup",
+      "key": "cooking:beef-kelp-soup",
+      "skill": "cooking",
+      "station": "烹饪",
+      "level": 15,
+      "type": "食物",
+      "item": "BEEF_KELP_SOUP",
+      "name": "牛肉海带汤",
+      "amount": 1.0,
+      "seconds": 10,
+      "xp": 4.0,
+      "ingredients": [
+        [
+          "食材",
+          "RAW_BEEF",
+          1.0
+        ],
+        [
+          "垂钓",
+          "KELP",
+          1.0
+        ],
+        [
+          "采集",
+          "CARROT",
+          1.0
+        ]
+      ]
+    },
+    {
+      "id": "cooking-snail-casserole",
+      "key": "cooking:snail-casserole",
+      "skill": "cooking",
+      "station": "烹饪",
+      "level": 20,
+      "type": "食物",
+      "item": "SNAIL_CASSEROLE",
+      "name": "螺蛳煲",
+      "amount": 1.0,
+      "seconds": 15,
+      "xp": 4.0,
+      "ingredients": [
+        [
+          "垂钓",
+          "POND_SNAIL",
+          2.0
+        ],
+        [
+          "食材",
+          "RAW_PORK_CHOP",
+          1.0
+        ],
+        [
+          "食材",
+          "COOKING_OIL",
+          1.0
+        ],
+        [
+          "采集",
+          "BROWN_MUSHROOM",
+          1.0
+        ]
+      ]
+    },
+    {
+      "id": "cooking-fruit-cake",
+      "key": "cooking:fruit-cake",
+      "skill": "cooking",
+      "station": "烹饪",
+      "level": 20,
+      "type": "食物",
+      "item": "FRUIT_CAKE",
+      "name": "水果蛋糕",
+      "amount": 1.0,
+      "seconds": 15,
+      "xp": 6.0,
+      "ingredients": [
+        [
+          "采集",
+          "APPLE",
+          1.0
+        ],
+        [
+          "食材",
+          "MILK",
+          1.0
+        ],
+        [
+          "食材",
+          "SUGAR",
+          1.0
+        ],
+        [
+          "食材",
+          "EGG",
+          1.0
+        ]
+      ]
+    },
+    {
+      "id": "cooking-apple-pie",
+      "key": "cooking:apple-pie",
+      "skill": "cooking",
+      "station": "烹饪",
+      "level": 20,
+      "type": "食物",
+      "item": "APPLE_PIE",
+      "name": "苹果派",
+      "amount": 1.0,
+      "seconds": 20,
+      "xp": 6.0,
+      "ingredients": [
+        [
+          "采集",
+          "APPLE",
+          1.0
+        ],
+        [
+          "食材",
+          "SUGAR",
+          1.0
+        ],
+        [
+          "食材",
+          "WHEAT_FLOUR",
+          1.0
+        ],
+        [
+          "食材",
+          "MILK",
+          1.0
+        ]
+      ]
+    },
+    {
+      "id": "cooking-clam-steamed-egg",
+      "key": "cooking:clam-steamed-egg",
+      "skill": "cooking",
+      "station": "烹饪",
+      "level": 20,
+      "type": "食物",
+      "item": "CLAM_STEAMED_EGG",
+      "name": "蚌肉蒸蛋",
+      "amount": 1.0,
+      "seconds": 15,
+      "xp": 6.0,
+      "ingredients": [
+        [
+          "垂钓",
+          "CLAM",
+          2.0
+        ],
+        [
+          "食材",
+          "EGG",
+          1.0
+        ]
+      ]
+    },
+    {
+      "id": "cooking-pumpkin-pie",
+      "key": "cooking:pumpkin-pie",
+      "skill": "cooking",
+      "station": "烹饪",
+      "level": 25,
+      "type": "食物",
+      "item": "PUMPKIN_PIE",
+      "name": "南瓜派",
+      "amount": 1.0,
+      "seconds": 20,
+      "xp": 6.0,
+      "ingredients": [
+        [
+          "采集",
+          "PUMPKIN",
+          1.0
+        ],
+        [
+          "食材",
+          "SUGAR",
+          1.0
+        ],
+        [
+          "食材",
+          "WHEAT_FLOUR",
+          1.0
+        ],
+        [
+          "食材",
+          "MILK",
+          1.0
+        ]
+      ]
+    },
+    {
+      "id": "cooking-beetroot-soup",
+      "key": "cooking:beetroot-soup",
+      "skill": "cooking",
+      "station": "烹饪",
+      "level": 25,
+      "type": "食物",
+      "item": "BEETROOT_SOUP",
+      "name": "甜菜根汤",
+      "amount": 1.0,
+      "seconds": 20,
+      "xp": 6.0,
+      "ingredients": [
+        [
+          "采集",
+          "BEETROOT",
+          2.0
+        ],
+        [
+          "采集",
+          "CARROT",
+          1.0
+        ],
+        [
+          "采集",
+          "POTATO",
+          1.0
+        ]
+      ]
+    },
+    {
+      "id": "cooking-tree-sap-pudding",
+      "key": "cooking:tree-sap-pudding",
+      "skill": "cooking",
+      "station": "烹饪",
+      "level": 25,
+      "type": "食物",
+      "item": "TREE_SAP_PUDDING",
+      "name": "树液奶冻",
+      "amount": 1.0,
+      "seconds": 15,
+      "xp": 6.0,
+      "ingredients": [
+        [
+          "伐木",
+          "TREE_SAP",
+          1.0
+        ],
+        [
+          "食材",
+          "MILK",
+          1.0
+        ],
+        [
+          "食材",
+          "EGG",
+          1.0
+        ]
+      ]
+    },
+    {
+      "id": "cooking-special-burger",
+      "key": "cooking:special-burger",
+      "skill": "cooking",
+      "station": "烹饪",
+      "level": 30,
+      "type": "食物",
+      "item": "SPECIAL_BURGER",
+      "name": "特制汉堡",
+      "amount": 1.0,
+      "seconds": 15,
+      "xp": 6.0,
+      "ingredients": [
+        [
+          "食物",
+          "BREAD",
+          1.0
+        ],
+        [
+          "采集",
+          "CARROT",
+          2.0
+        ],
+        [
+          "食材",
+          "RAW_CHICKEN",
+          1.0
+        ]
+      ]
+    },
+    {
+      "id": "cooking-fish-chowder",
+      "key": "cooking:fish-chowder",
+      "skill": "cooking",
+      "station": "烹饪",
+      "level": 30,
+      "type": "食物",
+      "item": "FISH_CHOWDER",
+      "name": "杂烩鱼汤",
+      "amount": 1.0,
+      "seconds": 20,
+      "xp": 6.0,
+      "ingredients": [
+        [
+          "垂钓",
+          "CRUCIAN_CARP",
+          1.0
+        ],
+        [
+          "垂钓",
+          "CARP",
+          1.0
+        ],
+        [
+          "采集",
+          "CARROT",
+          1.0
+        ],
+        [
+          "采集",
+          "BEETROOT",
+          1.0
+        ],
+        [
+          "食材",
+          "MILK",
+          1.0
+        ]
+      ]
+    },
+    {
+      "id": "cooking-cocoa-milk-tea",
+      "key": "cooking:cocoa-milk-tea",
+      "skill": "cooking",
+      "station": "烹饪",
+      "level": 30,
+      "type": "食物",
+      "item": "COCOA_MILK_TEA",
+      "name": "可可奶茶",
+      "amount": 1.0,
+      "seconds": 25,
+      "xp": 6.0,
+      "ingredients": [
+        [
+          "采集",
+          "COCOA_BEANS",
+          1.0
+        ],
+        [
+          "采集",
+          "WHEAT",
+          1.0
+        ],
+        [
+          "食材",
+          "MILK",
+          1.0
+        ],
+        [
+          "食材",
+          "SUGAR",
+          1.0
+        ]
+      ]
+    },
+    {
+      "id": "cooking-bacon-pizza",
+      "key": "cooking:bacon-pizza",
+      "skill": "cooking",
+      "station": "烹饪",
+      "level": 35,
+      "type": "食物",
+      "item": "BACON_PIZZA",
+      "name": "培根披萨",
+      "amount": 1.0,
+      "seconds": 30,
+      "xp": 8.0,
+      "ingredients": [
+        [
+          "食材",
+          "RAW_PORK_CHOP",
+          1.0
+        ],
+        [
+          "食材",
+          "WHEAT_FLOUR",
+          1.0
+        ],
+        [
+          "食材",
+          "MILK",
+          1.0
+        ]
+      ]
+    },
+    {
+      "id": "cooking-braised-eel",
+      "key": "cooking:braised-eel",
+      "skill": "cooking",
+      "station": "烹饪",
+      "level": 35,
+      "type": "食物",
+      "item": "BRAISED_EEL",
+      "name": "红烧鳝鱼",
+      "amount": 1.0,
+      "seconds": 20,
+      "xp": 6.0,
+      "ingredients": [
+        [
+          "垂钓",
+          "RICEFIELD_EEL",
+          1.0
+        ],
+        [
+          "食材",
+          "SUGAR",
+          1.0
+        ],
+        [
+          "食材",
+          "COOKING_OIL",
+          1.0
+        ],
+        [
+          "采集",
+          "BEETROOT",
+          1.0
+        ]
+      ]
+    },
+    {
+      "id": "cooking-oyster-omelet",
+      "key": "cooking:oyster-omelet",
+      "skill": "cooking",
+      "station": "烹饪",
+      "level": 35,
+      "type": "食物",
+      "item": "OYSTER_OMELET",
+      "name": "蚵仔煎",
+      "amount": 1.0,
+      "seconds": 20,
+      "xp": 6.0,
+      "ingredients": [
+        [
+          "垂钓",
+          "OYSTER",
+          1.0
+        ],
+        [
+          "食材",
+          "EGG",
+          1.0
+        ],
+        [
+          "食材",
+          "WHEAT_FLOUR",
+          1.0
+        ],
+        [
+          "食材",
+          "COOKING_OIL",
+          1.0
+        ],
+        [
+          "采集",
+          "CARROT",
+          1.0
+        ]
+      ]
+    },
+    {
+      "id": "cooking-takoyaki",
+      "key": "cooking:takoyaki",
+      "skill": "cooking",
+      "station": "烹饪",
+      "level": 40,
+      "type": "食物",
+      "item": "TAKOYAKI",
+      "name": "章鱼小丸子",
+      "amount": 1.0,
+      "seconds": 20,
+      "xp": 6.0,
+      "ingredients": [
+        [
+          "垂钓",
+          "SQUID",
+          1.0
+        ],
+        [
+          "食材",
+          "WHEAT_FLOUR",
+          1.0
+        ],
+        [
+          "食材",
+          "EGG",
+          1.0
+        ],
+        [
+          "食材",
+          "COOKING_OIL",
+          1.0
+        ]
+      ]
+    },
+    {
+      "id": "cooking-canned-herring",
+      "key": "cooking:canned-herring",
+      "skill": "cooking",
+      "station": "烹饪",
+      "level": 40,
+      "type": "食物",
+      "item": "CANNED_HERRING",
+      "name": "鲱鱼罐头",
+      "amount": 1.0,
+      "seconds": 43200,
+      "xp": 6.0,
+      "ingredients": [
+        [
+          "垂钓",
+          "HERRING",
+          1.0
+        ],
+        [
+          "食材",
+          "COOKING_OIL",
+          1.0
+        ],
+        [
+          "食材",
+          "SUGAR",
+          1.0
+        ]
+      ]
+    },
+    {
+      "id": "cooking-grilled-lamb-chop",
+      "key": "cooking:grilled-lamb-chop",
+      "skill": "cooking",
+      "station": "烹饪",
+      "level": 40,
+      "type": "食物",
+      "item": "GRILLED_LAMB_CHOP",
+      "name": "碳烤羊排",
+      "amount": 1.0,
+      "seconds": 25,
+      "xp": 8.0,
+      "ingredients": [
+        [
+          "食材",
+          "RAW_MUTTON",
+          1.0
+        ],
+        [
+          "采集",
+          "CARROT",
+          1.0
+        ],
+        [
+          "采集",
+          "POTATO",
+          1.0
+        ]
+      ]
+    },
+    {
+      "id": "cooking-potato-salad",
+      "key": "cooking:potato-salad",
+      "skill": "cooking",
+      "station": "烹饪",
+      "level": 40,
+      "type": "食物",
+      "item": "POTATO_SALAD",
+      "name": "土豆沙拉",
+      "amount": 1.0,
+      "seconds": 25,
+      "xp": 8.0,
+      "ingredients": [
+        [
+          "采集",
+          "POTATO",
+          1.0
+        ],
+        [
+          "采集",
+          "CARROT",
+          1.0
+        ],
+        [
+          "食材",
+          "COOKING_OIL",
+          1.0
+        ]
+      ]
+    },
+    {
+      "id": "cooking-beef-ramen",
+      "key": "cooking:beef-ramen",
+      "skill": "cooking",
+      "station": "烹饪",
+      "level": 45,
+      "type": "食物",
+      "item": "BEEF_RAMEN",
+      "name": "牛肉拉面",
+      "amount": 1.0,
+      "seconds": 30,
+      "xp": 8.0,
+      "ingredients": [
+        [
+          "食材",
+          "RAW_BEEF",
+          1.0
+        ],
+        [
+          "食材",
+          "WHEAT_FLOUR",
+          1.0
+        ],
+        [
+          "食材",
+          "EGG",
+          1.0
+        ],
+        [
+          "采集",
+          "CARROT",
+          1.0
+        ]
+      ]
+    },
+    {
+      "id": "cooking-caramel-waffle",
+      "key": "cooking:caramel-waffle",
+      "skill": "cooking",
+      "station": "烹饪",
+      "level": 45,
+      "type": "食物",
+      "item": "CARAMEL_WAFFLE",
+      "name": "焦糖华夫饼",
+      "amount": 1.0,
+      "seconds": 30,
+      "xp": 8.0,
+      "ingredients": [
+        [
+          "食材",
+          "WHEAT_FLOUR",
+          1.0
+        ],
+        [
+          "食材",
+          "EGG",
+          1.0
+        ],
+        [
+          "食材",
+          "MILK",
+          1.0
+        ],
+        [
+          "食材",
+          "SUGAR",
+          1.0
+        ]
+      ]
+    },
+    {
+      "id": "cooking-hot-dog",
+      "key": "cooking:hot-dog",
+      "skill": "cooking",
+      "station": "烹饪",
+      "level": 45,
+      "type": "食物",
+      "item": "HOT_DOG",
+      "name": "热狗",
+      "amount": 1.0,
+      "seconds": 35,
+      "xp": 8.0,
+      "ingredients": [
+        [
+          "食物",
+          "BREAD",
+          1.0
+        ],
+        [
+          "食材",
+          "RAW_PORK_CHOP",
+          1.0
+        ],
+        [
+          "采集",
+          "CARROT",
+          1.0
+        ],
+        [
+          "食材",
+          "EGG",
+          1.0
+        ]
+      ]
+    },
+    {
+      "id": "cooking-taco",
+      "key": "cooking:taco",
+      "skill": "cooking",
+      "station": "烹饪",
+      "level": 50,
+      "type": "食物",
+      "item": "TACO",
+      "name": "塔可",
+      "amount": 1.0,
+      "seconds": 35,
+      "xp": 10.0,
+      "ingredients": [
+        [
+          "食材",
+          "WHEAT_FLOUR",
+          1.0
+        ],
+        [
+          "食材",
+          "RAW_CHICKEN",
+          1.0
+        ],
+        [
+          "食材",
+          "RAW_PORK_CHOP",
+          1.0
+        ],
+        [
+          "采集",
+          "POTATO",
+          1.0
+        ],
+        [
+          "采集",
+          "CARROT",
+          1.0
+        ]
+      ]
+    },
+    {
+      "id": "cooking-chocolate-cake",
+      "key": "cooking:chocolate-cake",
+      "skill": "cooking",
+      "station": "烹饪",
+      "level": 50,
+      "type": "食物",
+      "item": "CHOCOLATE_CAKE",
+      "name": "巧克力蛋糕",
+      "amount": 1.0,
+      "seconds": 35,
+      "xp": 10.0,
+      "ingredients": [
+        [
+          "采集",
+          "COCOA_BEANS",
+          2.0
+        ],
+        [
+          "食材",
+          "WHEAT_FLOUR",
+          1.0
+        ],
+        [
+          "食材",
+          "EGG",
+          1.0
+        ],
+        [
+          "食材",
+          "MILK",
+          1.0
+        ],
+        [
+          "食材",
+          "SUGAR",
+          1.0
+        ]
+      ]
+    },
+    {
+      "id": "cooking-fish-burrito",
+      "key": "cooking:fish-burrito",
+      "skill": "cooking",
+      "station": "烹饪",
+      "level": 50,
+      "type": "食物",
+      "item": "FISH_BURRITO",
+      "name": "鱼肉卷饼",
+      "amount": 1.0,
+      "seconds": 35,
+      "xp": 10.0,
+      "ingredients": [
+        [
+          "垂钓",
+          "BASS",
+          2.0
+        ],
+        [
+          "食材",
+          "WHEAT_FLOUR",
+          1.0
+        ],
+        [
+          "采集",
+          "CARROT",
+          1.0
+        ],
+        [
+          "食材",
+          "EGG",
+          1.0
+        ]
+      ]
+    },
+    {
+      "id": "cooking-crab-baked-pie",
+      "key": "cooking:crab-baked-pie",
+      "skill": "cooking",
+      "station": "烹饪",
+      "level": 50,
+      "type": "食物",
+      "item": "CRAB_BAKED_PIE",
+      "name": "蟹肉焗饼",
+      "amount": 1.0,
+      "seconds": 35,
+      "xp": 10.0,
+      "ingredients": [
+        [
+          "垂钓",
+          "CRAB",
+          1.0
+        ],
+        [
+          "食材",
+          "WHEAT_FLOUR",
+          1.0
+        ],
+        [
+          "食材",
+          "MILK",
+          1.0
+        ],
+        [
+          "食材",
+          "EGG",
+          1.0
+        ],
+        [
+          "采集",
+          "POTATO",
+          1.0
+        ]
+      ]
+    },
+    {
+      "id": "alchemy-minor-health-potion",
+      "key": "alchemy:minor-health-potion",
+      "skill": "alchemy",
+      "station": "炼药",
+      "level": 1,
+      "type": "药水",
+      "item": "MINOR_HEALTH_POTION",
+      "name": "初级生命药水",
+      "amount": 1.0,
+      "seconds": 5,
+      "xp": 5.0,
+      "ingredients": [
+        [
+          "采集",
+          "BLOODVEIN_HERB",
+          2.0
+        ],
+        [
+          "采集",
+          "GOLDENSPIKE_HERB",
+          1.0
+        ],
+        [
+          "采集",
+          "GLASS_BOTTLE",
+          1.0
+        ]
+      ]
+    },
+    {
+      "id": "alchemy-minor-mana-potion",
+      "key": "alchemy:minor-mana-potion",
+      "skill": "alchemy",
+      "station": "炼药",
+      "level": 1,
+      "type": "药水",
+      "item": "MINOR_MANA_POTION",
+      "name": "初级法力药水",
+      "amount": 1.0,
+      "seconds": 5,
+      "xp": 5.0,
+      "ingredients": [
+        [
+          "采集",
+          "MOONTIDE_FERN",
+          2.0
+        ],
+        [
+          "采集",
+          "MISTBLUE_THISTLE",
+          1.0
+        ],
+        [
+          "采集",
+          "GLASS_BOTTLE",
+          1.0
+        ]
+      ]
+    },
+    {
+      "id": "alchemy-ironroot-elixir",
+      "key": "alchemy:ironroot-elixir",
+      "skill": "alchemy",
+      "station": "炼药",
+      "level": 5,
+      "type": "药水",
+      "item": "IRONROOT_ELIXIR",
+      "name": "铁根药剂",
+      "amount": 1.0,
+      "seconds": 5,
+      "xp": 6.0,
+      "ingredients": [
+        [
+          "采集",
+          "IRONROOT_HERB",
+          2.0
+        ],
+        [
+          "采集",
+          "GOLDENSPIKE_HERB",
+          1.0
+        ],
+        [
+          "采集",
+          "GLASS_BOTTLE",
+          1.0
+        ]
+      ]
+    },
+    {
+      "id": "alchemy-lightstep-potion",
+      "key": "alchemy:lightstep-potion",
+      "skill": "alchemy",
+      "station": "炼药",
+      "level": 8,
+      "type": "药水",
+      "item": "LIGHTSTEP_POTION",
+      "name": "轻步药水",
+      "amount": 1.0,
+      "seconds": 5,
+      "xp": 6.0,
+      "ingredients": [
+        [
+          "采集",
+          "DEW_MOSS",
+          2.0
+        ],
+        [
+          "采集",
+          "MOONTIDE_FERN",
+          1.0
+        ],
+        [
+          "采集",
+          "GLASS_BOTTLE",
+          1.0
+        ]
+      ]
+    },
+    {
+      "id": "alchemy-assault-elixir",
+      "key": "alchemy:assault-elixir",
+      "skill": "alchemy",
+      "station": "炼药",
+      "level": 12,
+      "type": "药水",
+      "item": "ASSAULT_ELIXIR",
+      "name": "强攻药剂",
+      "amount": 1.0,
+      "seconds": 6,
+      "xp": 8.0,
+      "ingredients": [
+        [
+          "采集",
+          "EMBERHEART_HERB",
+          2.0
+        ],
+        [
+          "采集",
+          "BLOODVEIN_HERB",
+          2.0
+        ],
+        [
+          "采集",
+          "GLASS_BOTTLE",
+          1.0
+        ],
+        [
+          "垂钓",
+          "FISH_OIL",
+          1.0
+        ]
+      ]
+    },
+    {
+      "id": "alchemy-spirit-elixir",
+      "key": "alchemy:spirit-elixir",
+      "skill": "alchemy",
+      "station": "炼药",
+      "level": 15,
+      "type": "药水",
+      "item": "SPIRIT_ELIXIR",
+      "name": "灵性药剂",
+      "amount": 1.0,
+      "seconds": 7,
+      "xp": 8.0,
+      "ingredients": [
+        [
+          "采集",
+          "VIOLETWHORL_HERB",
+          2.0
+        ],
+        [
+          "采集",
+          "AMBERSPROUT",
+          1.0
+        ],
+        [
+          "采集",
+          "GLASS_BOTTLE",
+          1.0
+        ],
+        [
+          "垂钓",
+          "FISH_OIL",
+          1.0
+        ]
+      ]
+    },
+    {
+      "id": "alchemy-focus-elixir",
+      "key": "alchemy:focus-elixir",
+      "skill": "alchemy",
+      "station": "炼药",
+      "level": 18,
+      "type": "药水",
+      "item": "FOCUS_ELIXIR",
+      "name": "凝神药剂",
+      "amount": 1.0,
+      "seconds": 9,
+      "xp": 10.0,
+      "ingredients": [
+        [
+          "采集",
+          "MOONTIDE_FERN",
+          2.0
+        ],
+        [
+          "采集",
+          "SILVERFROST_SAGE",
+          1.0
+        ],
+        [
+          "采集",
+          "GLASS_BOTTLE",
+          1.0
+        ]
+      ]
+    },
+    {
+      "id": "alchemy-standard-health-potion",
+      "key": "alchemy:standard-health-potion",
+      "skill": "alchemy",
+      "station": "炼药",
+      "level": 25,
+      "type": "药水",
+      "item": "STANDARD_HEALTH_POTION",
+      "name": "强效生命药水",
+      "amount": 1.0,
+      "seconds": 12,
+      "xp": 12.0,
+      "ingredients": [
+        [
+          "炼药材料",
+          "VITAL_CONCENTRATE",
+          1.0
+        ],
+        [
+          "采集",
+          "HEARTPETAL_LEAF",
+          1.0
+        ],
+        [
+          "伐木",
+          "TREE_SAP",
+          1.0
+        ],
+        [
+          "采集",
+          "GLASS_BOTTLE",
+          1.0
+        ]
+      ]
+    },
+    {
+      "id": "alchemy-standard-mana-potion",
+      "key": "alchemy:standard-mana-potion",
+      "skill": "alchemy",
+      "station": "炼药",
+      "level": 25,
+      "type": "药水",
+      "item": "STANDARD_MANA_POTION",
+      "name": "强效法力药水",
+      "amount": 1.0,
+      "seconds": 12,
+      "xp": 12.0,
+      "ingredients": [
+        [
+          "炼药材料",
+          "SPIRIT_CONCENTRATE",
+          1.0
+        ],
+        [
+          "采集",
+          "AMBERSPROUT",
+          1.0
+        ],
+        [
+          "伐木",
+          "TREE_SAP",
+          1.0
+        ],
+        [
+          "采集",
+          "GLASS_BOTTLE",
+          1.0
+        ]
+      ]
+    },
+    {
+      "id": "alchemy-lesser-power-flask",
+      "key": "alchemy:lesser-power-flask",
+      "skill": "alchemy",
+      "station": "炼药",
+      "level": 30,
+      "type": "药水",
+      "item": "LESSER_POWER_FLASK",
+      "name": "初级强力合剂",
+      "amount": 1.0,
+      "seconds": 15,
+      "xp": 16.0,
+      "ingredients": [
+        [
+          "炼药材料",
+          "VITAL_CONCENTRATE",
+          1.0
+        ],
+        [
+          "炼药材料",
+          "SPIRIT_CONCENTRATE",
+          1.0
+        ],
+        [
+          "炼药材料",
+          "STABLE_BASE",
+          1.0
+        ],
+        [
+          "采集",
+          "CONDENSED_DEW_BUD",
+          1.0
+        ],
+        [
+          "采集",
+          "GLASS_BOTTLE",
+          1.0
+        ]
+      ]
+    },
+    {
+      "id": "alchemy-lesser-guardian-flask",
+      "key": "alchemy:lesser-guardian-flask",
+      "skill": "alchemy",
+      "station": "炼药",
+      "level": 30,
+      "type": "药水",
+      "item": "LESSER_GUARDIAN_FLASK",
+      "name": "初级守护合剂",
+      "amount": 1.0,
+      "seconds": 15,
+      "xp": 16.0,
+      "ingredients": [
+        [
+          "炼药材料",
+          "STABLE_BASE",
+          1.0
+        ],
+        [
+          "采集",
+          "IRONROOT_HERB",
+          2.0
+        ],
+        [
+          "采集",
+          "CONDENSED_DEW_BUD",
+          1.0
+        ],
+        [
+          "采集",
+          "GLASS_BOTTLE",
+          1.0
+        ]
+      ]
+    },
+    {
+      "id": "alchemy-superior-health-potion",
+      "key": "alchemy:superior-health-potion",
+      "skill": "alchemy",
+      "station": "炼药",
+      "level": 60,
+      "type": "药水",
+      "item": "SUPERIOR_HEALTH_POTION",
+      "name": "精制生命药水",
+      "amount": 1.0,
+      "seconds": 30,
+      "xp": 24.0,
+      "ingredients": [
+        [
+          "炼药材料",
+          "VITAL_CONCENTRATE",
+          2.0
+        ],
+        [
+          "采集",
+          "HEARTPETAL_LEAF",
+          1.0
+        ],
+        [
+          "伐木",
+          "TREE_SAP",
+          1.0
+        ],
+        [
+          "采集",
+          "SILVERFROST_SAGE",
+          2.0
+        ],
+        [
+          "采集",
+          "GLASS_BOTTLE",
+          1.0
+        ]
+      ]
+    },
+    {
+      "id": "alchemy-superior-mana-potion",
+      "key": "alchemy:superior-mana-potion",
+      "skill": "alchemy",
+      "station": "炼药",
+      "level": 60,
+      "type": "药水",
+      "item": "SUPERIOR_MANA_POTION",
+      "name": "精制法力药水",
+      "amount": 1.0,
+      "seconds": 30,
+      "xp": 24.0,
+      "ingredients": [
+        [
+          "炼药材料",
+          "SPIRIT_CONCENTRATE",
+          2.0
+        ],
+        [
+          "采集",
+          "AMBERSPROUT",
+          1.0
+        ],
+        [
+          "伐木",
+          "TREE_SAP",
+          1.0
+        ],
+        [
+          "采集",
+          "SILVERFROST_SAGE",
+          2.0
+        ],
+        [
+          "采集",
+          "GLASS_BOTTLE",
+          1.0
+        ]
+      ]
+    },
+    {
+      "id": "alchemy-extracting-vital-concentrate",
+      "key": "alchemy-extracting:vital-concentrate",
+      "skill": "alchemy",
+      "station": "草药提炼",
+      "level": 20,
+      "type": "炼药材料",
+      "item": "VITAL_CONCENTRATE",
+      "name": "生机浓缩液",
+      "amount": 1.0,
+      "seconds": 10,
+      "xp": 6.0,
+      "ingredients": [
+        [
+          "采集",
+          "BLOODVEIN_HERB",
+          3.0
+        ],
+        [
+          "采集",
+          "EMBERHEART_HERB",
+          2.0
+        ]
+      ]
+    },
+    {
+      "id": "alchemy-extracting-spirit-concentrate",
+      "key": "alchemy-extracting:spirit-concentrate",
+      "skill": "alchemy",
+      "station": "草药提炼",
+      "level": 20,
+      "type": "炼药材料",
+      "item": "SPIRIT_CONCENTRATE",
+      "name": "灵性浓缩液",
+      "amount": 1.0,
+      "seconds": 10,
+      "xp": 6.0,
+      "ingredients": [
+        [
+          "采集",
+          "MOONTIDE_FERN",
+          3.0
+        ],
+        [
+          "采集",
+          "VIOLETWHORL_HERB",
+          2.0
+        ]
+      ]
+    },
+    {
+      "id": "alchemy-extracting-stable-base",
+      "key": "alchemy-extracting:stable-base",
+      "skill": "alchemy",
+      "station": "草药提炼",
+      "level": 28,
+      "type": "炼药材料",
+      "item": "STABLE_BASE",
+      "name": "稳定基液",
+      "amount": 1.0,
+      "seconds": 15,
+      "xp": 9.0,
+      "ingredients": [
+        [
+          "采集",
+          "SILVERFROST_SAGE",
+          1.0
+        ],
+        [
+          "采集",
+          "STARBELL_HERB",
+          2.0
+        ],
+        [
+          "伐木",
+          "TREE_RESIN",
+          1.0
+        ]
+      ]
+    },
+    {
+      "id": "alchemy-extracting-vital-concentrate-batch",
+      "key": "alchemy-extracting:vital-concentrate-batch",
+      "skill": "alchemy",
+      "station": "草药提炼",
+      "level": 20,
+      "type": "炼药材料",
+      "item": "VITAL_CONCENTRATE",
+      "name": "生机浓缩液",
+      "amount": 5.0,
+      "seconds": 50,
+      "xp": 30.0,
+      "ingredients": [
+        [
+          "采集",
+          "BLOODVEIN_HERB",
+          15.0
+        ],
+        [
+          "采集",
+          "EMBERHEART_HERB",
+          10.0
+        ]
+      ]
+    },
+    {
+      "id": "alchemy-extracting-spirit-concentrate-batch",
+      "key": "alchemy-extracting:spirit-concentrate-batch",
+      "skill": "alchemy",
+      "station": "草药提炼",
+      "level": 20,
+      "type": "炼药材料",
+      "item": "SPIRIT_CONCENTRATE",
+      "name": "灵性浓缩液",
+      "amount": 5.0,
+      "seconds": 50,
+      "xp": 30.0,
+      "ingredients": [
+        [
+          "采集",
+          "MOONTIDE_FERN",
+          15.0
+        ],
+        [
+          "采集",
+          "VIOLETWHORL_HERB",
+          10.0
+        ]
+      ]
+    },
+    {
+      "id": "alchemy-extracting-stable-base-batch",
+      "key": "alchemy-extracting:stable-base-batch",
+      "skill": "alchemy",
+      "station": "草药提炼",
+      "level": 28,
+      "type": "炼药材料",
+      "item": "STABLE_BASE",
+      "name": "稳定基液",
+      "amount": 5.0,
+      "seconds": 75,
+      "xp": 45.0,
+      "ingredients": [
+        [
+          "采集",
+          "SILVERFROST_SAGE",
+          5.0
+        ],
+        [
+          "采集",
+          "STARBELL_HERB",
+          10.0
+        ],
+        [
+          "伐木",
+          "TREE_RESIN",
+          5.0
+        ]
+      ]
+    },
+    {
+      "id": "smithing-df-forged-sword-05",
+      "key": "smithing:df-forged-sword-05",
+      "skill": "smithing",
+      "station": "锻造",
+      "level": 1,
+      "type": "剑",
+      "item": "DF_FORGED_SWORD_L05",
+      "name": "磨锋铁剑",
+      "amount": 1.0,
+      "seconds": 10,
+      "xp": 60.0,
+      "ingredients": [
+        [
+          "挖掘",
+          "IRON_INGOT",
+          3.0
+        ],
+        [
+          "挖掘",
+          "QUARTZ",
+          1.0
+        ]
+      ]
+    },
+    {
+      "id": "smithing-df-forged-axe-05",
+      "key": "smithing:df-forged-axe-05",
+      "skill": "smithing",
+      "station": "锻造",
+      "level": 1,
+      "type": "斧",
+      "item": "DF_FORGED_AXE_L05",
+      "name": "宽刃手斧",
+      "amount": 1.0,
+      "seconds": 10,
+      "xp": 60.0,
+      "ingredients": [
+        [
+          "挖掘",
+          "IRON_INGOT",
+          4.0
+        ],
+        [
+          "挖掘",
+          "COPPER_INGOT",
+          1.0
+        ]
+      ]
+    },
+    {
+      "id": "smithing-df-forged-hammer-05",
+      "key": "smithing:df-forged-hammer-05",
+      "skill": "smithing",
+      "station": "锻造",
+      "level": 1,
+      "type": "锤",
+      "item": "DF_FORGED_HAMMER_L05",
+      "name": "方头铁锤",
+      "amount": 1.0,
+      "seconds": 10,
+      "xp": 60.0,
+      "ingredients": [
+        [
+          "挖掘",
+          "IRON_INGOT",
+          5.0
+        ],
+        [
+          "挖掘",
+          "COPPER_INGOT",
+          2.0
+        ]
+      ]
+    },
+    {
+      "id": "smithing-df-forged-spear-05",
+      "key": "smithing:df-forged-spear-05",
+      "skill": "smithing",
+      "station": "锻造",
+      "level": 1,
+      "type": "矛",
+      "item": "DF_FORGED_SPEAR_L05",
+      "name": "叶尖铁矛",
+      "amount": 1.0,
+      "seconds": 10,
+      "xp": 60.0,
+      "ingredients": [
+        [
+          "挖掘",
+          "IRON_INGOT",
+          3.0
+        ],
+        [
+          "挖掘",
+          "COPPER_INGOT",
+          2.0
+        ]
+      ]
+    },
+    {
+      "id": "smithing-df-forged-dagger-05",
+      "key": "smithing:df-forged-dagger-05",
+      "skill": "smithing",
+      "station": "锻造",
+      "level": 1,
+      "type": "匕首",
+      "item": "DF_FORGED_DAGGER_L05",
+      "name": "弧腹匕首",
+      "amount": 1.0,
+      "seconds": 10,
+      "xp": 60.0,
+      "ingredients": [
+        [
+          "挖掘",
+          "IRON_INGOT",
+          2.0
+        ],
+        [
+          "挖掘",
+          "QUARTZ",
+          2.0
+        ]
+      ]
+    },
+    {
+      "id": "smithing-df-forged-scepter-05",
+      "key": "smithing:df-forged-scepter-05",
+      "skill": "smithing",
+      "station": "锻造",
+      "level": 1,
+      "type": "权杖",
+      "item": "DF_FORGED_SCEPTER_L05",
+      "name": "含苞短杖",
+      "amount": 1.0,
+      "seconds": 10,
+      "xp": 60.0,
+      "ingredients": [
+        [
+          "挖掘",
+          "COPPER_INGOT",
+          3.0
+        ],
+        [
+          "挖掘",
+          "QUARTZ",
+          2.0
+        ],
+        [
+          "挖掘",
+          "REDSTONE",
+          2.0
+        ]
+      ]
+    },
+    {
+      "id": "smithing-df-forged-wand-05",
+      "key": "smithing:df-forged-wand-05",
+      "skill": "smithing",
+      "station": "锻造",
+      "level": 1,
+      "type": "魔杖",
+      "item": "DF_FORGED_WAND_L05",
+      "name": "石英短杖",
+      "amount": 1.0,
+      "seconds": 10,
+      "xp": 60.0,
+      "ingredients": [
+        [
+          "挖掘",
+          "COPPER_INGOT",
+          2.0
+        ],
+        [
+          "挖掘",
+          "QUARTZ",
+          3.0
+        ],
+        [
+          "挖掘",
+          "LAPIS_LAZULI",
+          2.0
+        ]
+      ]
+    },
+    {
+      "id": "smithing-df-forged-helmet-05",
+      "key": "smithing:df-forged-helmet-05",
+      "skill": "smithing",
+      "station": "锻造",
+      "level": 1,
+      "type": "头盔",
+      "item": "DF_FORGED_HELMET_L05",
+      "name": "铆钉铁盔",
+      "amount": 1.0,
+      "seconds": 10,
+      "xp": 60.0,
+      "ingredients": [
+        [
+          "挖掘",
+          "IRON_INGOT",
+          3.0
+        ],
+        [
+          "挖掘",
+          "COPPER_INGOT",
+          1.0
+        ]
+      ]
+    },
+    {
+      "id": "smithing-df-forged-chestplate-05",
+      "key": "smithing:df-forged-chestplate-05",
+      "skill": "smithing",
+      "station": "锻造",
+      "level": 1,
+      "type": "胸甲",
+      "item": "DF_FORGED_CHESTPLATE_L05",
+      "name": "锁环甲衣",
+      "amount": 1.0,
+      "seconds": 10,
+      "xp": 60.0,
+      "ingredients": [
+        [
+          "挖掘",
+          "IRON_INGOT",
+          5.0
+        ],
+        [
+          "挖掘",
+          "COPPER_INGOT",
+          2.0
+        ]
+      ]
+    },
+    {
+      "id": "smithing-df-forged-leggings-05",
+      "key": "smithing:df-forged-leggings-05",
+      "skill": "smithing",
+      "station": "锻造",
+      "level": 1,
+      "type": "护腿",
+      "item": "DF_FORGED_LEGGINGS_L05",
+      "name": "石板胫甲",
+      "amount": 1.0,
+      "seconds": 10,
+      "xp": 60.0,
+      "ingredients": [
+        [
+          "挖掘",
+          "IRON_INGOT",
+          4.0
+        ],
+        [
+          "挖掘",
+          "COPPER_INGOT",
+          1.0
+        ]
+      ]
+    },
+    {
+      "id": "smithing-df-forged-boots-05",
+      "key": "smithing:df-forged-boots-05",
+      "skill": "smithing",
+      "station": "锻造",
+      "level": 1,
+      "type": "靴子",
+      "item": "DF_FORGED_BOOTS_L05",
+      "name": "包铁短靴",
+      "amount": 1.0,
+      "seconds": 10,
+      "xp": 60.0,
+      "ingredients": [
+        [
+          "挖掘",
+          "IRON_INGOT",
+          2.0
+        ],
+        [
+          "挖掘",
+          "COPPER_INGOT",
+          1.0
+        ]
+      ]
+    },
+    {
+      "id": "smithing-df-forged-sword-10",
+      "key": "smithing:df-forged-sword-10",
+      "skill": "smithing",
+      "station": "锻造",
+      "level": 5,
+      "type": "剑",
+      "item": "DF_FORGED_SWORD_L10",
+      "name": "叶锋短剑",
+      "amount": 1.0,
+      "seconds": 20,
+      "xp": 80.0,
+      "ingredients": [
+        [
+          "挖掘",
+          "IRON_INGOT",
+          4.0
+        ],
+        [
+          "落日森林材料",
+          "DF_BROKEN_BLADE",
+          2.0
+        ]
+      ]
+    },
+    {
+      "id": "smithing-df-forged-axe-10",
+      "key": "smithing:df-forged-axe-10",
+      "skill": "smithing",
+      "station": "锻造",
+      "level": 5,
+      "type": "斧",
+      "item": "DF_FORGED_AXE_L10",
+      "name": "钩锋战斧",
+      "amount": 1.0,
+      "seconds": 20,
+      "xp": 80.0,
+      "ingredients": [
+        [
+          "挖掘",
+          "IRON_INGOT",
+          5.0
+        ],
+        [
+          "落日森林材料",
+          "DF_BROKEN_BLADE",
+          3.0
+        ]
+      ]
+    },
+    {
+      "id": "smithing-df-forged-hammer-10",
+      "key": "smithing:df-forged-hammer-10",
+      "skill": "smithing",
+      "station": "锻造",
+      "level": 5,
+      "type": "锤",
+      "item": "DF_FORGED_HAMMER_L10",
+      "name": "束环战锤",
+      "amount": 1.0,
+      "seconds": 20,
+      "xp": 80.0,
+      "ingredients": [
+        [
+          "挖掘",
+          "IRON_INGOT",
+          6.0
+        ],
+        [
+          "落日森林材料",
+          "DF_BROKEN_BLADE",
+          2.0
+        ]
+      ]
+    },
+    {
+      "id": "smithing-df-forged-spear-10",
+      "key": "smithing:df-forged-spear-10",
+      "skill": "smithing",
+      "station": "锻造",
+      "level": 5,
+      "type": "矛",
+      "item": "DF_FORGED_SPEAR_L10",
+      "name": "翼刃长矛",
+      "amount": 1.0,
+      "seconds": 20,
+      "xp": 80.0,
+      "ingredients": [
+        [
+          "挖掘",
+          "IRON_INGOT",
+          4.0
+        ],
+        [
+          "落日森林材料",
+          "DF_BROKEN_BLADE",
+          2.0
+        ],
+        [
+          "落日森林材料",
+          "DF_SOFT_HIDE",
+          1.0
+        ]
+      ]
+    },
+    {
+      "id": "smithing-df-forged-dagger-10",
+      "key": "smithing:df-forged-dagger-10",
+      "skill": "smithing",
+      "station": "锻造",
+      "level": 5,
+      "type": "匕首",
+      "item": "DF_FORGED_DAGGER_L10",
+      "name": "尖吻短刃",
+      "amount": 1.0,
+      "seconds": 20,
+      "xp": 80.0,
+      "ingredients": [
+        [
+          "挖掘",
+          "IRON_INGOT",
+          3.0
+        ],
+        [
+          "落日森林材料",
+          "DF_BROKEN_BLADE",
+          2.0
+        ]
+      ]
+    },
+    {
+      "id": "smithing-df-forged-scepter-10",
+      "key": "smithing:df-forged-scepter-10",
+      "skill": "smithing",
+      "station": "锻造",
+      "level": 5,
+      "type": "权杖",
+      "item": "DF_FORGED_SCEPTER_L10",
+      "name": "凝珠权杖",
+      "amount": 1.0,
+      "seconds": 20,
+      "xp": 80.0,
+      "ingredients": [
+        [
+          "挖掘",
+          "COPPER_INGOT",
+          4.0
+        ],
+        [
+          "挖掘",
+          "QUARTZ",
+          3.0
+        ],
+        [
+          "落日森林材料",
+          "DF_CRYSTAL_BLUE_GEL",
+          3.0
+        ]
+      ]
+    },
+    {
+      "id": "smithing-df-forged-wand-10",
+      "key": "smithing:df-forged-wand-10",
+      "skill": "smithing",
+      "station": "锻造",
+      "level": 5,
+      "type": "魔杖",
+      "item": "DF_FORGED_WAND_L10",
+      "name": "白釉魔杖",
+      "amount": 1.0,
+      "seconds": 20,
+      "xp": 80.0,
+      "ingredients": [
+        [
+          "挖掘",
+          "COPPER_INGOT",
+          4.0
+        ],
+        [
+          "挖掘",
+          "LAPIS_LAZULI",
+          3.0
+        ],
+        [
+          "落日森林材料",
+          "DF_CRYSTAL_BLUE_GEL",
+          3.0
+        ]
+      ]
+    },
+    {
+      "id": "smithing-df-forged-spellbook-10",
+      "key": "smithing:df-forged-spellbook-10",
+      "skill": "smithing",
+      "station": "锻造",
+      "level": 5,
+      "type": "法书",
+      "item": "DF_FORGED_SPELLBOOK_L10",
+      "name": "胶封术册",
+      "amount": 1.0,
+      "seconds": 20,
+      "xp": 80.0,
+      "ingredients": [
+        [
+          "挖掘",
+          "COPPER_INGOT",
+          2.0
+        ],
+        [
+          "挖掘",
+          "QUARTZ",
+          3.0
+        ],
+        [
+          "落日森林材料",
+          "DF_CRYSTAL_BLUE_GEL",
+          3.0
+        ],
+        [
+          "落日森林材料",
+          "DF_SOFT_HIDE",
+          2.0
+        ]
+      ]
+    },
+    {
+      "id": "smithing-df-forged-shield-10",
+      "key": "smithing:df-forged-shield-10",
+      "skill": "smithing",
+      "station": "锻造",
+      "level": 5,
+      "type": "盾牌",
+      "item": "DF_FORGED_SHIELD_L10",
+      "name": "铆铁圆盾",
+      "amount": 1.0,
+      "seconds": 20,
+      "xp": 80.0,
+      "ingredients": [
+        [
+          "挖掘",
+          "IRON_INGOT",
+          5.0
+        ],
+        [
+          "落日森林材料",
+          "DF_SOFT_HIDE",
+          3.0
+        ]
+      ]
+    },
+    {
+      "id": "smithing-df-forged-necklace-10",
+      "key": "smithing:df-forged-necklace-10",
+      "skill": "smithing",
+      "station": "锻造",
+      "level": 5,
+      "type": "项链",
+      "item": "DF_FORGED_NECKLACE_L10",
+      "name": "青金坠链",
+      "amount": 1.0,
+      "seconds": 20,
+      "xp": 80.0,
+      "ingredients": [
+        [
+          "挖掘",
+          "COPPER_INGOT",
+          2.0
+        ],
+        [
+          "挖掘",
+          "LAPIS_LAZULI",
+          4.0
+        ],
+        [
+          "挖掘",
+          "QUARTZ",
+          2.0
+        ]
+      ]
+    },
+    {
+      "id": "smithing-df-forged-ring-10",
+      "key": "smithing:df-forged-ring-10",
+      "skill": "smithing",
+      "station": "锻造",
+      "level": 5,
+      "type": "戒指",
+      "item": "DF_FORGED_RING_L10",
+      "name": "石英嵌戒",
+      "amount": 1.0,
+      "seconds": 20,
+      "xp": 80.0,
+      "ingredients": [
+        [
+          "挖掘",
+          "IRON_INGOT",
+          2.0
+        ],
+        [
+          "挖掘",
+          "QUARTZ",
+          4.0
+        ]
+      ]
+    },
+    {
+      "id": "smithing-df-forged-belt-10",
+      "key": "smithing:df-forged-belt-10",
+      "skill": "smithing",
+      "station": "锻造",
+      "level": 5,
+      "type": "腰带",
+      "item": "DF_FORGED_BELT_L10",
+      "name": "赤纹束带",
+      "amount": 1.0,
+      "seconds": 20,
+      "xp": 80.0,
+      "ingredients": [
+        [
+          "挖掘",
+          "IRON_INGOT",
+          3.0
+        ],
+        [
+          "挖掘",
+          "COPPER_INGOT",
+          2.0
+        ],
+        [
+          "挖掘",
+          "REDSTONE",
+          3.0
+        ]
+      ]
+    },
+    {
+      "id": "smithing-df-forged-charm-10",
+      "key": "smithing:df-forged-charm-10",
+      "skill": "smithing",
+      "station": "锻造",
+      "level": 5,
+      "type": "护符",
+      "item": "DF_FORGED_CHARM_L10",
+      "name": "刻纹护符",
+      "amount": 1.0,
+      "seconds": 20,
+      "xp": 80.0,
+      "ingredients": [
+        [
+          "挖掘",
+          "COPPER_INGOT",
+          2.0
+        ],
+        [
+          "挖掘",
+          "AMETHYST_SHARD",
+          3.0
+        ],
+        [
+          "挖掘",
+          "QUARTZ",
+          2.0
+        ]
+      ]
+    },
+    {
+      "id": "smithing-df-forged-sword-15",
+      "key": "smithing:df-forged-sword-15",
+      "skill": "smithing",
+      "station": "锻造",
+      "level": 10,
+      "type": "剑",
+      "item": "DF_FORGED_SWORD_L15",
+      "name": "鸣泉长剑",
+      "amount": 1.0,
+      "seconds": 30,
+      "xp": 120.0,
+      "ingredients": [
+        [
+          "挖掘",
+          "STEEL_BLOCK",
+          1.0
+        ],
+        [
+          "落日森林材料",
+          "DF_BROKEN_BLADE",
+          4.0
+        ],
+        [
+          "通用掉落材料",
+          "IRON_SAND",
+          2.0
+        ]
+      ]
+    },
+    {
+      "id": "smithing-df-forged-axe-15",
+      "key": "smithing:df-forged-axe-15",
+      "skill": "smithing",
+      "station": "锻造",
+      "level": 10,
+      "type": "斧",
+      "item": "DF_FORGED_AXE_L15",
+      "name": "铆月战斧",
+      "amount": 1.0,
+      "seconds": 30,
+      "xp": 120.0,
+      "ingredients": [
+        [
+          "挖掘",
+          "STEEL_BLOCK",
+          1.0
+        ],
+        [
+          "挖掘",
+          "IRON_INGOT",
+          2.0
+        ],
+        [
+          "落日森林材料",
+          "DF_BROKEN_BLADE",
+          4.0
+        ],
+        [
+          "通用掉落材料",
+          "IRON_SAND",
+          2.0
+        ]
+      ]
+    },
+    {
+      "id": "smithing-df-forged-hammer-15",
+      "key": "smithing:df-forged-hammer-15",
+      "skill": "smithing",
+      "station": "锻造",
+      "level": 10,
+      "type": "锤",
+      "item": "DF_FORGED_HAMMER_L15",
+      "name": "铜封重锤",
+      "amount": 1.0,
+      "seconds": 30,
+      "xp": 120.0,
+      "ingredients": [
+        [
+          "挖掘",
+          "STEEL_BLOCK",
+          2.0
+        ],
+        [
+          "落日森林材料",
+          "DF_BROKEN_BLADE",
+          3.0
+        ],
+        [
+          "通用掉落材料",
+          "IRON_SAND",
+          2.0
+        ]
+      ]
+    },
+    {
+      "id": "smithing-df-forged-spear-15",
+      "key": "smithing:df-forged-spear-15",
+      "skill": "smithing",
+      "station": "锻造",
+      "level": 10,
+      "type": "矛",
+      "item": "DF_FORGED_SPEAR_L15",
+      "name": "赤羽战矛",
+      "amount": 1.0,
+      "seconds": 30,
+      "xp": 120.0,
+      "ingredients": [
+        [
+          "挖掘",
+          "STEEL_BLOCK",
+          1.0
+        ],
+        [
+          "落日森林材料",
+          "DF_BROKEN_BLADE",
+          3.0
+        ],
+        [
+          "落日森林材料",
+          "DF_SOFT_HIDE",
+          2.0
+        ],
+        [
+          "通用掉落材料",
+          "IRON_SAND",
+          2.0
+        ]
+      ]
+    },
+    {
+      "id": "smithing-df-forged-dagger-15",
+      "key": "smithing:df-forged-dagger-15",
+      "skill": "smithing",
+      "station": "锻造",
+      "level": 10,
+      "type": "匕首",
+      "item": "DF_FORGED_DAGGER_L15",
+      "name": "铜叶匕首",
+      "amount": 1.0,
+      "seconds": 30,
+      "xp": 120.0,
+      "ingredients": [
+        [
+          "挖掘",
+          "STEEL_BLOCK",
+          1.0
+        ],
+        [
+          "落日森林材料",
+          "DF_BROKEN_BLADE",
+          3.0
+        ],
+        [
+          "通用掉落材料",
+          "IRON_SAND",
+          1.0
+        ]
+      ]
+    },
+    {
+      "id": "smithing-df-forged-scepter-15",
+      "key": "smithing:df-forged-scepter-15",
+      "skill": "smithing",
+      "station": "锻造",
+      "level": 10,
+      "type": "权杖",
+      "item": "DF_FORGED_SCEPTER_L15",
+      "name": "古印权杖",
+      "amount": 1.0,
+      "seconds": 30,
+      "xp": 120.0,
+      "ingredients": [
+        [
+          "挖掘",
+          "STEEL_BLOCK",
+          1.0
+        ],
+        [
+          "挖掘",
+          "LAPIS_LAZULI",
+          4.0
+        ],
+        [
+          "落日森林材料",
+          "DF_TATTERED_RUNIC_CLOTH",
+          4.0
+        ],
+        [
+          "通用掉落材料",
+          "CRYSTAL_SAND",
+          2.0
+        ]
+      ]
+    },
+    {
+      "id": "smithing-df-forged-wand-15",
+      "key": "smithing:df-forged-wand-15",
+      "skill": "smithing",
+      "station": "锻造",
+      "level": 10,
+      "type": "魔杖",
+      "item": "DF_FORGED_WAND_L15",
+      "name": "铜节导杖",
+      "amount": 1.0,
+      "seconds": 30,
+      "xp": 120.0,
+      "ingredients": [
+        [
+          "挖掘",
+          "STEEL_BLOCK",
+          1.0
+        ],
+        [
+          "落日森林材料",
+          "DF_CRYSTAL_BLUE_GEL",
+          3.0
+        ],
+        [
+          "落日森林材料",
+          "DF_TATTERED_RUNIC_CLOTH",
+          4.0
+        ],
+        [
+          "通用掉落材料",
+          "CRYSTAL_SAND",
+          3.0
+        ]
+      ]
+    },
+    {
+      "id": "smithing-df-forged-helmet-15",
+      "key": "smithing:df-forged-helmet-15",
+      "skill": "smithing",
+      "station": "锻造",
+      "level": 10,
+      "type": "头盔",
+      "item": "DF_FORGED_HELMET_L15",
+      "name": "护鼻钢盔",
+      "amount": 1.0,
+      "seconds": 30,
+      "xp": 120.0,
+      "ingredients": [
+        [
+          "挖掘",
+          "STEEL_BLOCK",
+          1.0
+        ],
+        [
+          "落日森林材料",
+          "DF_TATTERED_RUNIC_CLOTH",
+          3.0
+        ],
+        [
+          "通用掉落材料",
+          "CRYSTAL_SAND",
+          2.0
+        ]
+      ]
+    },
+    {
+      "id": "smithing-df-forged-chestplate-15",
+      "key": "smithing:df-forged-chestplate-15",
+      "skill": "smithing",
+      "station": "锻造",
+      "level": 10,
+      "type": "胸甲",
+      "item": "DF_FORGED_CHESTPLATE_L15",
+      "name": "叠铆胸甲",
+      "amount": 1.0,
+      "seconds": 30,
+      "xp": 120.0,
+      "ingredients": [
+        [
+          "挖掘",
+          "STEEL_BLOCK",
+          2.0
+        ],
+        [
+          "落日森林材料",
+          "DF_SOFT_HIDE",
+          4.0
+        ],
+        [
+          "通用掉落材料",
+          "IRON_SAND",
+          3.0
+        ]
+      ]
+    },
+    {
+      "id": "smithing-df-forged-leggings-15",
+      "key": "smithing:df-forged-leggings-15",
+      "skill": "smithing",
+      "station": "锻造",
+      "level": 10,
+      "type": "护腿",
+      "item": "DF_FORGED_LEGGINGS_L15",
+      "name": "垂环护腿",
+      "amount": 1.0,
+      "seconds": 30,
+      "xp": 120.0,
+      "ingredients": [
+        [
+          "挖掘",
+          "STEEL_BLOCK",
+          1.0
+        ],
+        [
+          "落日森林材料",
+          "DF_SOFT_HIDE",
+          4.0
+        ],
+        [
+          "落日森林材料",
+          "DF_TATTERED_RUNIC_CLOTH",
+          2.0
+        ]
+      ]
+    },
+    {
+      "id": "smithing-df-forged-boots-15",
+      "key": "smithing:df-forged-boots-15",
+      "skill": "smithing",
+      "station": "锻造",
+      "level": 10,
+      "type": "靴子",
+      "item": "DF_FORGED_BOOTS_L15",
+      "name": "绒衬战靴",
+      "amount": 1.0,
+      "seconds": 30,
+      "xp": 120.0,
+      "ingredients": [
+        [
+          "挖掘",
+          "STEEL_BLOCK",
+          1.0
+        ],
+        [
+          "落日森林材料",
+          "DF_SOFT_HIDE",
+          5.0
+        ],
+        [
+          "通用掉落材料",
+          "IRON_SAND",
+          1.0
+        ]
+      ]
+    },
+    {
+      "id": "smithing-df-forged-sword-20",
+      "key": "smithing:df-forged-sword-20",
+      "skill": "smithing",
+      "station": "锻造",
+      "level": 20,
+      "type": "剑",
+      "item": "DF_FORGED_SWORD_L20",
+      "name": "风弦细剑",
+      "amount": 1.0,
+      "seconds": 40,
+      "xp": 160.0,
+      "ingredients": [
+        [
+          "挖掘",
+          "REFINED_IRON_BLOCK",
+          1.0
+        ],
+        [
+          "落日森林材料",
+          "DF_BROKEN_BLADE",
+          3.0
+        ],
+        [
+          "落日森林材料",
+          "DF_PALE_BONE_FRAGMENTS",
+          4.0
+        ],
+        [
+          "通用掉落材料",
+          "IRON_SAND",
+          3.0
+        ]
+      ]
+    },
+    {
+      "id": "smithing-df-forged-axe-20",
+      "key": "smithing:df-forged-axe-20",
+      "skill": "smithing",
+      "station": "锻造",
+      "level": 20,
+      "type": "斧",
+      "item": "DF_FORGED_AXE_L20",
+      "name": "凿痕巨斧",
+      "amount": 1.0,
+      "seconds": 40,
+      "xp": 160.0,
+      "ingredients": [
+        [
+          "挖掘",
+          "REFINED_IRON_BLOCK",
+          1.0
+        ],
+        [
+          "挖掘",
+          "STEEL_BLOCK",
+          1.0
+        ],
+        [
+          "落日森林材料",
+          "DF_PALE_BONE_FRAGMENTS",
+          4.0
+        ],
+        [
+          "通用掉落材料",
+          "IRON_SAND",
+          3.0
+        ]
+      ]
+    },
+    {
+      "id": "smithing-df-forged-hammer-20",
+      "key": "smithing:df-forged-hammer-20",
+      "skill": "smithing",
+      "station": "锻造",
+      "level": 20,
+      "type": "锤",
+      "item": "DF_FORGED_HAMMER_L20",
+      "name": "双鼓震槌",
+      "amount": 1.0,
+      "seconds": 40,
+      "xp": 160.0,
+      "ingredients": [
+        [
+          "挖掘",
+          "REFINED_IRON_BLOCK",
+          1.0
+        ],
+        [
+          "挖掘",
+          "STEEL_BLOCK",
+          1.0
+        ],
+        [
+          "落日森林材料",
+          "DF_PALE_BONE_FRAGMENTS",
+          5.0
+        ],
+        [
+          "通用掉落材料",
+          "IRON_SAND",
+          3.0
+        ]
+      ]
+    },
+    {
+      "id": "smithing-df-forged-spear-20",
+      "key": "smithing:df-forged-spear-20",
+      "skill": "smithing",
+      "station": "锻造",
+      "level": 20,
+      "type": "矛",
+      "item": "DF_FORGED_SPEAR_L20",
+      "name": "戟锋刺枪",
+      "amount": 1.0,
+      "seconds": 40,
+      "xp": 160.0,
+      "ingredients": [
+        [
+          "挖掘",
+          "REFINED_IRON_BLOCK",
+          1.0
+        ],
+        [
+          "落日森林材料",
+          "DF_BROKEN_BLADE",
+          3.0
+        ],
+        [
+          "落日森林材料",
+          "DF_PALE_BONE_FRAGMENTS",
+          3.0
+        ],
+        [
+          "通用掉落材料",
+          "IRON_SAND",
+          3.0
+        ]
+      ]
+    },
+    {
+      "id": "smithing-df-forged-dagger-20",
+      "key": "smithing:df-forged-dagger-20",
+      "skill": "smithing",
+      "station": "锻造",
+      "level": 20,
+      "type": "匕首",
+      "item": "DF_FORGED_DAGGER_L20",
+      "name": "骨弯短刃",
+      "amount": 1.0,
+      "seconds": 40,
+      "xp": 160.0,
+      "ingredients": [
+        [
+          "挖掘",
+          "REFINED_IRON_BLOCK",
+          1.0
+        ],
+        [
+          "落日森林材料",
+          "DF_PALE_BONE_FRAGMENTS",
+          3.0
+        ],
+        [
+          "落日森林材料",
+          "DF_BROKEN_BLADE",
+          2.0
+        ]
+      ]
+    },
+    {
+      "id": "smithing-df-forged-scepter-20",
+      "key": "smithing:df-forged-scepter-20",
+      "skill": "smithing",
+      "station": "锻造",
+      "level": 20,
+      "type": "权杖",
+      "item": "DF_FORGED_SCEPTER_L20",
+      "name": "象牙祷杖",
+      "amount": 1.0,
+      "seconds": 40,
+      "xp": 160.0,
+      "ingredients": [
+        [
+          "挖掘",
+          "REFINED_IRON_BLOCK",
+          1.0
+        ],
+        [
+          "挖掘",
+          "AMETHYST_SHARD",
+          3.0
+        ],
+        [
+          "落日森林材料",
+          "DF_TATTERED_RUNIC_CLOTH",
+          4.0
+        ],
+        [
+          "落日森林材料",
+          "DF_PALE_BONE_FRAGMENTS",
+          3.0
+        ],
+        [
+          "通用掉落材料",
+          "CRYSTAL_SAND",
+          3.0
+        ]
+      ]
+    },
+    {
+      "id": "smithing-df-forged-wand-20",
+      "key": "smithing:df-forged-wand-20",
+      "skill": "smithing",
+      "station": "锻造",
+      "level": 20,
+      "type": "魔杖",
+      "item": "DF_FORGED_WAND_L20",
+      "name": "霜釉魔杖",
+      "amount": 1.0,
+      "seconds": 40,
+      "xp": 160.0,
+      "ingredients": [
+        [
+          "挖掘",
+          "REFINED_IRON_BLOCK",
+          1.0
+        ],
+        [
+          "落日森林材料",
+          "DF_TATTERED_RUNIC_CLOTH",
+          4.0
+        ],
+        [
+          "落日森林材料",
+          "DF_CRYSTAL_BLUE_GEL",
+          4.0
+        ],
+        [
+          "通用掉落材料",
+          "CRYSTAL_SAND",
+          4.0
+        ]
+      ]
+    },
+    {
+      "id": "smithing-df-forged-spellbook-20",
+      "key": "smithing:df-forged-spellbook-20",
+      "skill": "smithing",
+      "station": "锻造",
+      "level": 20,
+      "type": "法书",
+      "item": "DF_FORGED_SPELLBOOK_L20",
+      "name": "静潮秘典",
+      "amount": 1.0,
+      "seconds": 40,
+      "xp": 160.0,
+      "ingredients": [
+        [
+          "挖掘",
+          "STEEL_BLOCK",
+          1.0
+        ],
+        [
+          "挖掘",
+          "LAPIS_LAZULI",
+          4.0
+        ],
+        [
+          "落日森林材料",
+          "DF_TATTERED_RUNIC_CLOTH",
+          5.0
+        ],
+        [
+          "落日森林材料",
+          "DF_CRYSTAL_BLUE_GEL",
+          3.0
+        ],
+        [
+          "通用掉落材料",
+          "CRYSTAL_SAND",
+          4.0
+        ]
+      ]
+    },
+    {
+      "id": "smithing-df-forged-shield-20",
+      "key": "smithing:df-forged-shield-20",
+      "skill": "smithing",
+      "station": "锻造",
+      "level": 20,
+      "type": "盾牌",
+      "item": "DF_FORGED_SHIELD_L20",
+      "name": "折沿鸢盾",
+      "amount": 1.0,
+      "seconds": 40,
+      "xp": 160.0,
+      "ingredients": [
+        [
+          "挖掘",
+          "REFINED_IRON_BLOCK",
+          1.0
+        ],
+        [
+          "挖掘",
+          "STEEL_BLOCK",
+          1.0
+        ],
+        [
+          "落日森林材料",
+          "DF_SOFT_HIDE",
+          4.0
+        ],
+        [
+          "落日森林材料",
+          "DF_PALE_BONE_FRAGMENTS",
+          3.0
+        ],
+        [
+          "通用掉落材料",
+          "IRON_SAND",
+          3.0
+        ]
+      ]
+    },
+    {
+      "id": "smithing-df-forged-necklace-20",
+      "key": "smithing:df-forged-necklace-20",
+      "skill": "smithing",
+      "station": "锻造",
+      "level": 20,
+      "type": "项链",
+      "item": "DF_FORGED_NECKLACE_L20",
+      "name": "静辉链坠",
+      "amount": 1.0,
+      "seconds": 40,
+      "xp": 160.0,
+      "ingredients": [
+        [
+          "挖掘",
+          "REFINED_GOLD_BLOCK",
+          1.0
+        ],
+        [
+          "挖掘",
+          "LAPIS_LAZULI",
+          6.0
+        ],
+        [
+          "挖掘",
+          "QUARTZ",
+          3.0
+        ]
+      ]
+    },
+    {
+      "id": "smithing-df-forged-ring-20",
+      "key": "smithing:df-forged-ring-20",
+      "skill": "smithing",
+      "station": "锻造",
+      "level": 20,
+      "type": "戒指",
+      "item": "DF_FORGED_RING_L20",
+      "name": "棱光刻印戒",
+      "amount": 1.0,
+      "seconds": 40,
+      "xp": 160.0,
+      "ingredients": [
+        [
+          "挖掘",
+          "REFINED_GOLD_BLOCK",
+          1.0
+        ],
+        [
+          "挖掘",
+          "QUARTZ",
+          4.0
+        ],
+        [
+          "挖掘",
+          "AMETHYST_SHARD",
+          3.0
+        ]
+      ]
+    },
+    {
+      "id": "smithing-df-forged-belt-20",
+      "key": "smithing:df-forged-belt-20",
+      "skill": "smithing",
+      "station": "锻造",
+      "level": 20,
+      "type": "腰带",
+      "item": "DF_FORGED_BELT_L20",
+      "name": "双扣重束带",
+      "amount": 1.0,
+      "seconds": 40,
+      "xp": 160.0,
+      "ingredients": [
+        [
+          "挖掘",
+          "REFINED_IRON_BLOCK",
+          1.0
+        ],
+        [
+          "挖掘",
+          "GOLD_INGOT",
+          2.0
+        ],
+        [
+          "挖掘",
+          "REDSTONE",
+          6.0
+        ]
+      ]
+    },
+    {
+      "id": "smithing-df-forged-charm-20",
+      "key": "smithing:df-forged-charm-20",
+      "skill": "smithing",
+      "station": "锻造",
+      "level": 20,
+      "type": "护符",
+      "item": "DF_FORGED_CHARM_L20",
+      "name": "紫晶锁符",
+      "amount": 1.0,
+      "seconds": 40,
+      "xp": 160.0,
+      "ingredients": [
+        [
+          "挖掘",
+          "REFINED_GOLD_BLOCK",
+          1.0
+        ],
+        [
+          "挖掘",
+          "AMETHYST_SHARD",
+          6.0
+        ],
+        [
+          "挖掘",
+          "LAPIS_LAZULI",
+          3.0
+        ]
+      ]
+    },
+    {
+      "id": "smithing-df-forged-sword-25",
+      "key": "smithing:df-forged-sword-25",
+      "skill": "smithing",
+      "station": "锻造",
+      "level": 25,
+      "type": "剑",
+      "item": "DF_FORGED_SWORD_L25",
+      "name": "弧光弯刃",
+      "amount": 1.0,
+      "seconds": 50,
+      "xp": 220.0,
+      "ingredients": [
+        [
+          "挖掘",
+          "REFINED_IRON_BLOCK",
+          1.0
+        ],
+        [
+          "挖掘",
+          "STEEL_BLOCK",
+          1.0
+        ],
+        [
+          "落日森林材料",
+          "DF_BROKEN_BLADE",
+          4.0
+        ],
+        [
+          "落日森林材料",
+          "DF_BROKEN_RUNIC_SHARD",
+          2.0
+        ],
+        [
+          "通用掉落材料",
+          "MAGIC_DUST",
+          2.0
+        ]
+      ]
+    },
+    {
+      "id": "smithing-df-forged-axe-25",
+      "key": "smithing:df-forged-axe-25",
+      "skill": "smithing",
+      "station": "锻造",
+      "level": 25,
+      "type": "斧",
+      "item": "DF_FORGED_AXE_L25",
+      "name": "衡刃双斧",
+      "amount": 1.0,
+      "seconds": 50,
+      "xp": 220.0,
+      "ingredients": [
+        [
+          "挖掘",
+          "REFINED_IRON_BLOCK",
+          2.0
+        ],
+        [
+          "落日森林材料",
+          "DF_BROKEN_BLADE",
+          4.0
+        ],
+        [
+          "落日森林材料",
+          "DF_BROKEN_RUNIC_SHARD",
+          2.0
+        ],
+        [
+          "通用掉落材料",
+          "MAGIC_DUST",
+          2.0
+        ]
+      ]
+    },
+    {
+      "id": "smithing-df-forged-hammer-25",
+      "key": "smithing:df-forged-hammer-25",
+      "skill": "smithing",
+      "station": "锻造",
+      "level": 25,
+      "type": "锤",
+      "item": "DF_FORGED_HAMMER_L25",
+      "name": "砧脊战锤",
+      "amount": 1.0,
+      "seconds": 50,
+      "xp": 220.0,
+      "ingredients": [
+        [
+          "挖掘",
+          "REFINED_IRON_BLOCK",
+          2.0
+        ],
+        [
+          "落日森林材料",
+          "DF_PALE_BONE_FRAGMENTS",
+          5.0
+        ],
+        [
+          "通用掉落材料",
+          "IRON_SAND",
+          4.0
+        ],
+        [
+          "落日森林材料",
+          "DF_BROKEN_RUNIC_SHARD",
+          2.0
+        ],
+        [
+          "通用掉落材料",
+          "MAGIC_DUST",
+          2.0
+        ]
+      ]
+    },
+    {
+      "id": "smithing-df-forged-spear-25",
+      "key": "smithing:df-forged-spear-25",
+      "skill": "smithing",
+      "station": "锻造",
+      "level": 25,
+      "type": "矛",
+      "item": "DF_FORGED_SPEAR_L25",
+      "name": "贯甲槽矛",
+      "amount": 1.0,
+      "seconds": 50,
+      "xp": 220.0,
+      "ingredients": [
+        [
+          "挖掘",
+          "REFINED_IRON_BLOCK",
+          1.0
+        ],
+        [
+          "挖掘",
+          "STEEL_BLOCK",
+          1.0
+        ],
+        [
+          "落日森林材料",
+          "DF_BROKEN_BLADE",
+          4.0
+        ],
+        [
+          "落日森林材料",
+          "DF_BROKEN_RUNIC_SHARD",
+          2.0
+        ],
+        [
+          "通用掉落材料",
+          "MAGIC_DUST",
+          2.0
+        ]
+      ]
+    },
+    {
+      "id": "smithing-df-forged-dagger-25",
+      "key": "smithing:df-forged-dagger-25",
+      "skill": "smithing",
+      "station": "锻造",
+      "level": 25,
+      "type": "匕首",
+      "item": "DF_FORGED_DAGGER_L25",
+      "name": "血槽刺刃",
+      "amount": 1.0,
+      "seconds": 50,
+      "xp": 220.0,
+      "ingredients": [
+        [
+          "挖掘",
+          "REFINED_IRON_BLOCK",
+          1.0
+        ],
+        [
+          "落日森林材料",
+          "DF_BROKEN_BLADE",
+          4.0
+        ],
+        [
+          "落日森林材料",
+          "DF_BROKEN_RUNIC_SHARD",
+          2.0
+        ],
+        [
+          "通用掉落材料",
+          "MAGIC_DUST",
+          2.0
+        ]
+      ]
+    },
+    {
+      "id": "smithing-df-forged-scepter-25",
+      "key": "smithing:df-forged-scepter-25",
+      "skill": "smithing",
+      "station": "锻造",
+      "level": 25,
+      "type": "权杖",
+      "item": "DF_FORGED_SCEPTER_L25",
+      "name": "菱铁裁杖",
+      "amount": 1.0,
+      "seconds": 50,
+      "xp": 220.0,
+      "ingredients": [
+        [
+          "挖掘",
+          "REFINED_IRON_BLOCK",
+          1.0
+        ],
+        [
+          "挖掘",
+          "LAPIS_LAZULI",
+          4.0
+        ],
+        [
+          "落日森林材料",
+          "DF_TATTERED_RUNIC_CLOTH",
+          5.0
+        ],
+        [
+          "落日森林材料",
+          "DF_BROKEN_RUNIC_SHARD",
+          2.0
+        ],
+        [
+          "通用掉落材料",
+          "MAGIC_DUST",
+          3.0
+        ]
+      ]
+    },
+    {
+      "id": "smithing-df-forged-wand-25",
+      "key": "smithing:df-forged-wand-25",
+      "skill": "smithing",
+      "station": "锻造",
+      "level": 25,
+      "type": "魔杖",
+      "item": "DF_FORGED_WAND_L25",
+      "name": "骨纹双晶杖",
+      "amount": 1.0,
+      "seconds": 50,
+      "xp": 220.0,
+      "ingredients": [
+        [
+          "挖掘",
+          "REFINED_IRON_BLOCK",
+          1.0
+        ],
+        [
+          "落日森林材料",
+          "DF_TATTERED_RUNIC_CLOTH",
+          5.0
+        ],
+        [
+          "落日森林材料",
+          "DF_PALE_BONE_FRAGMENTS",
+          3.0
+        ],
+        [
+          "通用掉落材料",
+          "CRYSTAL_SAND",
+          3.0
+        ],
+        [
+          "落日森林材料",
+          "DF_BROKEN_RUNIC_SHARD",
+          2.0
+        ],
+        [
+          "通用掉落材料",
+          "MAGIC_DUST",
+          3.0
+        ]
+      ]
+    },
+    {
+      "id": "smithing-df-forged-helmet-25",
+      "key": "smithing:df-forged-helmet-25",
+      "skill": "smithing",
+      "station": "锻造",
+      "level": 25,
+      "type": "头盔",
+      "item": "DF_FORGED_HELMET_L25",
+      "name": "灰烬兜帽",
+      "amount": 1.0,
+      "seconds": 50,
+      "xp": 220.0,
+      "ingredients": [
+        [
+          "挖掘",
+          "REFINED_IRON_BLOCK",
+          1.0
+        ],
+        [
+          "落日森林材料",
+          "DF_TATTERED_RUNIC_CLOTH",
+          4.0
+        ],
+        [
+          "通用掉落材料",
+          "CRYSTAL_SAND",
+          3.0
+        ],
+        [
+          "落日森林材料",
+          "DF_BROKEN_RUNIC_SHARD",
+          2.0
+        ],
+        [
+          "通用掉落材料",
+          "MAGIC_DUST",
+          2.0
+        ]
+      ]
+    },
+    {
+      "id": "smithing-df-forged-chestplate-25",
+      "key": "smithing:df-forged-chestplate-25",
+      "skill": "smithing",
+      "station": "锻造",
+      "level": 25,
+      "type": "胸甲",
+      "item": "DF_FORGED_CHESTPLATE_L25",
+      "name": "青钢护甲",
+      "amount": 1.0,
+      "seconds": 50,
+      "xp": 220.0,
+      "ingredients": [
+        [
+          "挖掘",
+          "REFINED_IRON_BLOCK",
+          2.0
+        ],
+        [
+          "落日森林材料",
+          "DF_SOFT_HIDE",
+          5.0
+        ],
+        [
+          "通用掉落材料",
+          "IRON_SAND",
+          4.0
+        ],
+        [
+          "落日森林材料",
+          "DF_BROKEN_RUNIC_SHARD",
+          2.0
+        ],
+        [
+          "通用掉落材料",
+          "MAGIC_DUST",
+          2.0
+        ]
+      ]
+    },
+    {
+      "id": "smithing-df-forged-leggings-25",
+      "key": "smithing:df-forged-leggings-25",
+      "skill": "smithing",
+      "station": "锻造",
+      "level": 25,
+      "type": "护腿",
+      "item": "DF_FORGED_LEGGINGS_L25",
+      "name": "铜扣腿甲",
+      "amount": 1.0,
+      "seconds": 50,
+      "xp": 220.0,
+      "ingredients": [
+        [
+          "挖掘",
+          "REFINED_IRON_BLOCK",
+          1.0
+        ],
+        [
+          "落日森林材料",
+          "DF_SOFT_HIDE",
+          4.0
+        ],
+        [
+          "落日森林材料",
+          "DF_PALE_BONE_FRAGMENTS",
+          3.0
+        ],
+        [
+          "落日森林材料",
+          "DF_BROKEN_RUNIC_SHARD",
+          2.0
+        ],
+        [
+          "通用掉落材料",
+          "MAGIC_DUST",
+          2.0
+        ]
+      ]
+    },
+    {
+      "id": "smithing-df-forged-boots-25",
+      "key": "smithing:df-forged-boots-25",
+      "skill": "smithing",
+      "station": "锻造",
+      "level": 25,
+      "type": "靴子",
+      "item": "DF_FORGED_BOOTS_L25",
+      "name": "铜跟长靴",
+      "amount": 1.0,
+      "seconds": 50,
+      "xp": 220.0,
+      "ingredients": [
+        [
+          "挖掘",
+          "REFINED_IRON_BLOCK",
+          1.0
+        ],
+        [
+          "挖掘",
+          "STEEL_BLOCK",
+          1.0
+        ],
+        [
+          "落日森林材料",
+          "DF_SOFT_HIDE",
+          6.0
+        ],
+        [
+          "通用掉落材料",
+          "CRYSTAL_SAND",
+          2.0
+        ],
+        [
+          "落日森林材料",
+          "DF_BROKEN_RUNIC_SHARD",
+          2.0
+        ],
+        [
+          "通用掉落材料",
+          "MAGIC_DUST",
+          2.0
+        ]
+      ]
+    },
+    {
+      "id": "smithing-df-forged-helmet-sunset-25",
+      "key": "smithing:df-forged-helmet-sunset-25",
+      "skill": "smithing",
+      "station": "锻造",
+      "level": 30,
+      "type": "头盔",
+      "item": "DF_SUNSET_HELMET_L25",
+      "name": "残阳战盔",
+      "amount": 1.0,
+      "seconds": 50,
+      "xp": 220.0,
+      "ingredients": [
+        [
+          "落日森林材料",
+          "DF_SUNSET_EMBER_CORE",
+          4.0
+        ],
+        [
+          "挖掘",
+          "REFINED_IRON_BLOCK",
+          2.0
+        ],
+        [
+          "挖掘",
+          "STEEL_BLOCK",
+          1.0
+        ],
+        [
+          "通用掉落材料",
+          "MAGIC_DUST",
+          3.0
+        ]
+      ]
+    },
+    {
+      "id": "smithing-df-forged-chestplate-sunset-25",
+      "key": "smithing:df-forged-chestplate-sunset-25",
+      "skill": "smithing",
+      "station": "锻造",
+      "level": 30,
+      "type": "胸甲",
+      "item": "DF_SUNSET_CHESTPLATE_L25",
+      "name": "残阳胸铠",
+      "amount": 1.0,
+      "seconds": 50,
+      "xp": 220.0,
+      "ingredients": [
+        [
+          "落日森林材料",
+          "DF_SUNSET_EMBER_CORE",
+          4.0
+        ],
+        [
+          "挖掘",
+          "REFINED_IRON_BLOCK",
+          2.0
+        ],
+        [
+          "挖掘",
+          "STEEL_BLOCK",
+          1.0
+        ],
+        [
+          "通用掉落材料",
+          "MAGIC_DUST",
+          3.0
+        ]
+      ]
+    },
+    {
+      "id": "smithing-df-forged-leggings-sunset-25",
+      "key": "smithing:df-forged-leggings-sunset-25",
+      "skill": "smithing",
+      "station": "锻造",
+      "level": 30,
+      "type": "护腿",
+      "item": "DF_SUNSET_LEGGINGS_L25",
+      "name": "残阳腿甲",
+      "amount": 1.0,
+      "seconds": 50,
+      "xp": 220.0,
+      "ingredients": [
+        [
+          "落日森林材料",
+          "DF_SUNSET_EMBER_CORE",
+          4.0
+        ],
+        [
+          "挖掘",
+          "REFINED_IRON_BLOCK",
+          2.0
+        ],
+        [
+          "挖掘",
+          "STEEL_BLOCK",
+          1.0
+        ],
+        [
+          "通用掉落材料",
+          "MAGIC_DUST",
+          3.0
+        ]
+      ]
+    },
+    {
+      "id": "smithing-df-forged-boots-sunset-25",
+      "key": "smithing:df-forged-boots-sunset-25",
+      "skill": "smithing",
+      "station": "锻造",
+      "level": 30,
+      "type": "靴子",
+      "item": "DF_SUNSET_BOOTS_L25",
+      "name": "残阳战靴",
+      "amount": 1.0,
+      "seconds": 50,
+      "xp": 220.0,
+      "ingredients": [
+        [
+          "落日森林材料",
+          "DF_SUNSET_EMBER_CORE",
+          4.0
+        ],
+        [
+          "挖掘",
+          "REFINED_IRON_BLOCK",
+          2.0
+        ],
+        [
+          "挖掘",
+          "STEEL_BLOCK",
+          1.0
+        ],
+        [
+          "通用掉落材料",
+          "MAGIC_DUST",
+          3.0
+        ]
+      ]
+    },
+    {
+      "id": "smithing-axe-tool-iron",
+      "key": "smithing:axe-tool-iron",
+      "skill": "smithing",
+      "station": "锻造",
+      "level": 1,
+      "type": "工具",
+      "item": "WOODCUTTING_IRON_AXE",
+      "name": "铁制伐木斧",
+      "amount": 1.0,
+      "seconds": 10,
+      "xp": 60.0,
+      "ingredients": [
+        [
+          "挖掘",
+          "IRON_INGOT",
+          3.0
+        ],
+        [
+          "伐木",
+          "OAK_LOG",
+          2.0
+        ]
+      ]
+    },
+    {
+      "id": "smithing-pickaxe-tool-iron",
+      "key": "smithing:pickaxe-tool-iron",
+      "skill": "smithing",
+      "station": "锻造",
+      "level": 1,
+      "type": "工具",
+      "item": "MINING_IRON_PICKAXE",
+      "name": "铁制挖掘镐",
+      "amount": 1.0,
+      "seconds": 10,
+      "xp": 60.0,
+      "ingredients": [
+        [
+          "挖掘",
+          "IRON_INGOT",
+          3.0
+        ],
+        [
+          "伐木",
+          "OAK_LOG",
+          2.0
+        ]
+      ]
+    },
+    {
+      "id": "smithing-hoe-tool-iron",
+      "key": "smithing:hoe-tool-iron",
+      "skill": "smithing",
+      "station": "锻造",
+      "level": 1,
+      "type": "工具",
+      "item": "FARMING_IRON_HOE",
+      "name": "铁制采集锄",
+      "amount": 1.0,
+      "seconds": 10,
+      "xp": 60.0,
+      "ingredients": [
+        [
+          "挖掘",
+          "IRON_INGOT",
+          2.0
+        ],
+        [
+          "伐木",
+          "OAK_LOG",
+          2.0
+        ]
+      ]
+    },
+    {
+      "id": "smithing-rod-specialist-bamboo-specialist-rod",
+      "key": "smithing:rod-specialist-bamboo-specialist-rod",
+      "skill": "smithing",
+      "station": "锻造",
+      "level": 10,
+      "type": "工具",
+      "item": "FISHING_SPECIALIST_BAMBOO",
+      "name": "青篁钓竿",
+      "amount": 1.0,
+      "seconds": 0,
+      "xp": 120.0,
+      "ingredients": [
+        [
+          "伐木",
+          "SPRUCE_LOG",
+          4.0
+        ],
+        [
+          "挖掘",
+          "IRON_INGOT",
+          2.0
+        ],
+        [
+          "伐木",
+          "TREE_RESIN",
+          1.0
+        ],
+        [
+          "垂钓",
+          "FISH_OIL",
+          1.0
+        ],
+        [
+          "渔具部件",
+          "STRONG_FISHING_LINE",
+          4.0
+        ],
+        [
+          "渔具部件",
+          "SENSITIVE_FLOAT",
+          1.0
+        ]
+      ]
+    },
+    {
+      "id": "smithing-rod-specialist-scalekeep-specialist-rod",
+      "key": "smithing:rod-specialist-scalekeep-specialist-rod",
+      "skill": "smithing",
+      "station": "锻造",
+      "level": 10,
+      "type": "工具",
+      "item": "FISHING_SPECIALIST_SCALEKEEP",
+      "name": "留鳞钓竿",
+      "amount": 1.0,
+      "seconds": 0,
+      "xp": 120.0,
+      "ingredients": [
+        [
+          "伐木",
+          "SPRUCE_LOG",
+          4.0
+        ],
+        [
+          "挖掘",
+          "IRON_INGOT",
+          2.0
+        ],
+        [
+          "伐木",
+          "TREE_RESIN",
+          1.0
+        ],
+        [
+          "垂钓",
+          "FISH_OIL",
+          1.0
+        ],
+        [
+          "渔具部件",
+          "STEEL_FISHING_HOOK",
+          4.0
+        ],
+        [
+          "渔具部件",
+          "STRONG_FISHING_LINE",
+          1.0
+        ]
+      ]
+    },
+    {
+      "id": "smithing-axe-tool-lightedge",
+      "key": "smithing:axe-tool-lightedge",
+      "skill": "smithing",
+      "station": "锻造",
+      "level": 10,
+      "type": "工具",
+      "item": "WOODCUTTING_LIGHTEDGE",
+      "name": "轻锋伐木斧",
+      "amount": 1.0,
+      "seconds": 20,
+      "xp": 120.0,
+      "ingredients": [
+        [
+          "挖掘",
+          "IRON_INGOT",
+          6.0
+        ],
+        [
+          "伐木",
+          "BIRCH_LOG",
+          4.0
+        ],
+        [
+          "伐木",
+          "TREE_RESIN",
+          1.0
+        ]
+      ]
+    },
+    {
+      "id": "smithing-axe-tool-harvest",
+      "key": "smithing:axe-tool-harvest",
+      "skill": "smithing",
+      "station": "锻造",
+      "level": 10,
+      "type": "工具",
+      "item": "WOODCUTTING_HARVEST",
+      "name": "丰材伐木斧",
+      "amount": 1.0,
+      "seconds": 20,
+      "xp": 120.0,
+      "ingredients": [
+        [
+          "挖掘",
+          "IRON_INGOT",
+          6.0
+        ],
+        [
+          "伐木",
+          "OAK_LOG",
+          4.0
+        ],
+        [
+          "伐木",
+          "TREE_RESIN",
+          1.0
+        ]
+      ]
+    },
+    {
+      "id": "smithing-axe-tool-scholar",
+      "key": "smithing:axe-tool-scholar",
+      "skill": "smithing",
+      "station": "锻造",
+      "level": 10,
+      "type": "工具",
+      "item": "WOODCUTTING_SCHOLAR",
+      "name": "研林伐木斧",
+      "amount": 1.0,
+      "seconds": 20,
+      "xp": 120.0,
+      "ingredients": [
+        [
+          "挖掘",
+          "IRON_INGOT",
+          6.0
+        ],
+        [
+          "伐木",
+          "SPRUCE_LOG",
+          4.0
+        ],
+        [
+          "伐木",
+          "TREE_RESIN",
+          1.0
+        ]
+      ]
+    },
+    {
+      "id": "smithing-pickaxe-tool-lightpoint",
+      "key": "smithing:pickaxe-tool-lightpoint",
+      "skill": "smithing",
+      "station": "锻造",
+      "level": 10,
+      "type": "工具",
+      "item": "MINING_LIGHTPOINT",
+      "name": "轻尖挖掘镐",
+      "amount": 1.0,
+      "seconds": 20,
+      "xp": 120.0,
+      "ingredients": [
+        [
+          "挖掘",
+          "IRON_INGOT",
+          6.0
+        ],
+        [
+          "伐木",
+          "BIRCH_LOG",
+          4.0
+        ],
+        [
+          "伐木",
+          "TREE_RESIN",
+          1.0
+        ]
+      ]
+    },
+    {
+      "id": "smithing-pickaxe-tool-richvein",
+      "key": "smithing:pickaxe-tool-richvein",
+      "skill": "smithing",
+      "station": "锻造",
+      "level": 10,
+      "type": "工具",
+      "item": "MINING_RICHVEIN",
+      "name": "丰脉挖掘镐",
+      "amount": 1.0,
+      "seconds": 20,
+      "xp": 120.0,
+      "ingredients": [
+        [
+          "挖掘",
+          "IRON_INGOT",
+          8.0
+        ],
+        [
+          "伐木",
+          "OAK_LOG",
+          4.0
+        ],
+        [
+          "伐木",
+          "TREE_RESIN",
+          1.0
+        ]
+      ]
+    },
+    {
+      "id": "smithing-pickaxe-tool-surveyor",
+      "key": "smithing:pickaxe-tool-surveyor",
+      "skill": "smithing",
+      "station": "锻造",
+      "level": 10,
+      "type": "工具",
+      "item": "MINING_SURVEYOR",
+      "name": "勘岩挖掘镐",
+      "amount": 1.0,
+      "seconds": 20,
+      "xp": 120.0,
+      "ingredients": [
+        [
+          "挖掘",
+          "IRON_INGOT",
+          6.0
+        ],
+        [
+          "挖掘",
+          "LAPIS_LAZULI",
+          8.0
+        ],
+        [
+          "伐木",
+          "SPRUCE_LOG",
+          4.0
+        ],
+        [
+          "伐木",
+          "TREE_RESIN",
+          1.0
+        ]
+      ]
+    },
+    {
+      "id": "smithing-hoe-tool-bounty",
+      "key": "smithing:hoe-tool-bounty",
+      "skill": "smithing",
+      "station": "锻造",
+      "level": 10,
+      "type": "工具",
+      "item": "FARMING_BOUNTY",
+      "name": "丰收采集锄",
+      "amount": 1.0,
+      "seconds": 20,
+      "xp": 120.0,
+      "ingredients": [
+        [
+          "挖掘",
+          "IRON_INGOT",
+          6.0
+        ],
+        [
+          "伐木",
+          "OAK_LOG",
+          4.0
+        ],
+        [
+          "伐木",
+          "TREE_RESIN",
+          1.0
+        ]
+      ]
+    },
+    {
+      "id": "smithing-hoe-tool-scholar",
+      "key": "smithing:hoe-tool-scholar",
+      "skill": "smithing",
+      "station": "锻造",
+      "level": 10,
+      "type": "工具",
+      "item": "FARMING_SCHOLAR",
+      "name": "研耕采集锄",
+      "amount": 1.0,
+      "seconds": 20,
+      "xp": 120.0,
+      "ingredients": [
+        [
+          "挖掘",
+          "IRON_INGOT",
+          6.0
+        ],
+        [
+          "挖掘",
+          "LAPIS_LAZULI",
+          8.0
+        ],
+        [
+          "伐木",
+          "SPRUCE_LOG",
+          4.0
+        ],
+        [
+          "伐木",
+          "TREE_RESIN",
+          1.0
+        ]
+      ]
+    },
+    {
+      "id": "smithing-hoe-tool-gleaner",
+      "key": "smithing:hoe-tool-gleaner",
+      "skill": "smithing",
+      "station": "锻造",
+      "level": 10,
+      "type": "工具",
+      "item": "FARMING_GLEANER",
+      "name": "拾穗采集锄",
+      "amount": 1.0,
+      "seconds": 20,
+      "xp": 120.0,
+      "ingredients": [
+        [
+          "挖掘",
+          "IRON_INGOT",
+          6.0
+        ],
+        [
+          "伐木",
+          "BIRCH_LOG",
+          4.0
+        ],
+        [
+          "伐木",
+          "TREE_RESIN",
+          1.0
+        ]
+      ]
+    },
+    {
+      "id": "smithing-rod-specialist-ironspine-specialist-rod",
+      "key": "smithing:rod-specialist-ironspine-specialist-rod",
+      "skill": "smithing",
+      "station": "锻造",
+      "level": 15,
+      "type": "工具",
+      "item": "FISHING_SPECIALIST_IRONSPINE",
+      "name": "铁脊钓竿",
+      "amount": 1.0,
+      "seconds": 0,
+      "xp": 140.0,
+      "ingredients": [
+        [
+          "伐木",
+          "DARK_OAK_LOG",
+          6.0
+        ],
+        [
+          "挖掘",
+          "STEEL_BLOCK",
+          1.0
+        ],
+        [
+          "伐木",
+          "TREE_RESIN",
+          1.0
+        ],
+        [
+          "垂钓",
+          "REFINED_FISH_OIL",
+          1.0
+        ],
+        [
+          "渔具部件",
+          "STRONG_FISHING_LINE",
+          8.0
+        ],
+        [
+          "渔具部件",
+          "SENSITIVE_FLOAT",
+          2.0
+        ]
+      ]
+    },
+    {
+      "id": "smithing-rod-specialist-flowbind-specialist-rod",
+      "key": "smithing:rod-specialist-flowbind-specialist-rod",
+      "skill": "smithing",
+      "station": "锻造",
+      "level": 15,
+      "type": "工具",
+      "item": "FISHING_SPECIALIST_FLOWBIND",
+      "name": "缚流钓竿",
+      "amount": 1.0,
+      "seconds": 0,
+      "xp": 140.0,
+      "ingredients": [
+        [
+          "伐木",
+          "DARK_OAK_LOG",
+          6.0
+        ],
+        [
+          "挖掘",
+          "STEEL_BLOCK",
+          1.0
+        ],
+        [
+          "伐木",
+          "TREE_RESIN",
+          1.0
+        ],
+        [
+          "垂钓",
+          "REFINED_FISH_OIL",
+          1.0
+        ],
+        [
+          "渔具部件",
+          "STEEL_FISHING_HOOK",
+          8.0
+        ],
+        [
+          "渔具部件",
+          "STRONG_FISHING_LINE",
+          2.0
+        ]
+      ]
+    },
+    {
+      "id": "smithing-rod-specialist-seawarden-specialist-rod",
+      "key": "smithing:rod-specialist-seawarden-specialist-rod",
+      "skill": "smithing",
+      "station": "锻造",
+      "level": 20,
+      "type": "工具",
+      "item": "FISHING_SPECIALIST_SEAWARDEN",
+      "name": "镇海钓竿",
+      "amount": 1.0,
+      "seconds": 0,
+      "xp": 160.0,
+      "ingredients": [
+        [
+          "伐木",
+          "DARK_OAK_LOG",
+          8.0
+        ],
+        [
+          "挖掘",
+          "REFINED_IRON_BLOCK",
+          1.0
+        ],
+        [
+          "伐木",
+          "TREE_RESIN",
+          2.0
+        ],
+        [
+          "垂钓",
+          "REFINED_FISH_OIL",
+          1.0
+        ],
+        [
+          "渔具部件",
+          "STRONG_FISHING_LINE",
+          12.0
+        ],
+        [
+          "渔具部件",
+          "SENSITIVE_FLOAT",
+          3.0
+        ],
+        [
+          "渔具部件",
+          "SEA_BLESSED_SINKER",
+          1.0
+        ]
+      ]
+    },
+    {
+      "id": "smithing-rod-specialist-abyssanchor-specialist-rod",
+      "key": "smithing:rod-specialist-abyssanchor-specialist-rod",
+      "skill": "smithing",
+      "station": "锻造",
+      "level": 20,
+      "type": "工具",
+      "item": "FISHING_SPECIALIST_ABYSSANCHOR",
+      "name": "定渊钓竿",
+      "amount": 1.0,
+      "seconds": 0,
+      "xp": 160.0,
+      "ingredients": [
+        [
+          "伐木",
+          "DARK_OAK_LOG",
+          8.0
+        ],
+        [
+          "挖掘",
+          "REFINED_IRON_BLOCK",
+          1.0
+        ],
+        [
+          "伐木",
+          "TREE_RESIN",
+          2.0
+        ],
+        [
+          "垂钓",
+          "REFINED_FISH_OIL",
+          1.0
+        ],
+        [
+          "渔具部件",
+          "STEEL_FISHING_HOOK",
+          12.0
+        ],
+        [
+          "渔具部件",
+          "STRONG_FISHING_LINE",
+          3.0
+        ],
+        [
+          "渔具部件",
+          "SEA_BLESSED_SINKER",
+          1.0
+        ]
+      ]
+    },
+    {
+      "id": "smithing-axe-tool-ranger",
+      "key": "smithing:axe-tool-ranger",
+      "skill": "smithing",
+      "station": "锻造",
+      "level": 20,
+      "type": "工具",
+      "item": "WOODCUTTING_RANGER",
+      "name": "巡林伐木斧",
+      "amount": 1.0,
+      "seconds": 20,
+      "xp": 160.0,
+      "ingredients": [
+        [
+          "挖掘",
+          "STEEL_BLOCK",
+          1.0
+        ],
+        [
+          "挖掘",
+          "IRON_INGOT",
+          4.0
+        ],
+        [
+          "伐木",
+          "SPRUCE_LOG",
+          8.0
+        ],
+        [
+          "伐木",
+          "TREE_RESIN",
+          2.0
+        ]
+      ]
+    },
+    {
+      "id": "smithing-axe-tool-heavybranch",
+      "key": "smithing:axe-tool-heavybranch",
+      "skill": "smithing",
+      "station": "锻造",
+      "level": 20,
+      "type": "工具",
+      "item": "WOODCUTTING_HEAVYBRANCH",
+      "name": "重枝伐木斧",
+      "amount": 1.0,
+      "seconds": 20,
+      "xp": 160.0,
+      "ingredients": [
+        [
+          "挖掘",
+          "STEEL_BLOCK",
+          1.0
+        ],
+        [
+          "挖掘",
+          "IRON_INGOT",
+          6.0
+        ],
+        [
+          "伐木",
+          "DARK_OAK_LOG",
+          8.0
+        ],
+        [
+          "伐木",
+          "TREE_RESIN",
+          2.0
+        ]
+      ]
+    },
+    {
+      "id": "smithing-pickaxe-tool-prospector",
+      "key": "smithing:pickaxe-tool-prospector",
+      "skill": "smithing",
+      "station": "锻造",
+      "level": 20,
+      "type": "工具",
+      "item": "MINING_PROSPECTOR",
+      "name": "探脉挖掘镐",
+      "amount": 1.0,
+      "seconds": 20,
+      "xp": 160.0,
+      "ingredients": [
+        [
+          "挖掘",
+          "STEEL_BLOCK",
+          1.0
+        ],
+        [
+          "挖掘",
+          "IRON_INGOT",
+          4.0
+        ],
+        [
+          "伐木",
+          "SPRUCE_LOG",
+          8.0
+        ],
+        [
+          "伐木",
+          "TREE_RESIN",
+          2.0
+        ]
+      ]
+    },
+    {
+      "id": "smithing-pickaxe-tool-deepcore",
+      "key": "smithing:pickaxe-tool-deepcore",
+      "skill": "smithing",
+      "station": "锻造",
+      "level": 20,
+      "type": "工具",
+      "item": "MINING_DEEPCORE",
+      "name": "重岩挖掘镐",
+      "amount": 1.0,
+      "seconds": 20,
+      "xp": 160.0,
+      "ingredients": [
+        [
+          "挖掘",
+          "STEEL_BLOCK",
+          1.0
+        ],
+        [
+          "挖掘",
+          "IRON_INGOT",
+          6.0
+        ],
+        [
+          "挖掘",
+          "COPPER_INGOT",
+          2.0
+        ],
+        [
+          "伐木",
+          "DARK_OAK_LOG",
+          8.0
+        ],
+        [
+          "伐木",
+          "TREE_RESIN",
+          2.0
+        ]
+      ]
+    },
+    {
+      "id": "smithing-hoe-tool-gardener",
+      "key": "smithing:hoe-tool-gardener",
+      "skill": "smithing",
+      "station": "锻造",
+      "level": 20,
+      "type": "工具",
+      "item": "FARMING_GARDENER",
+      "name": "园艺采集锄",
+      "amount": 1.0,
+      "seconds": 20,
+      "xp": 160.0,
+      "ingredients": [
+        [
+          "挖掘",
+          "STEEL_BLOCK",
+          1.0
+        ],
+        [
+          "挖掘",
+          "IRON_INGOT",
+          4.0
+        ],
+        [
+          "伐木",
+          "SPRUCE_LOG",
+          8.0
+        ],
+        [
+          "伐木",
+          "TREE_RESIN",
+          2.0
+        ]
+      ]
+    },
+    {
+      "id": "smithing-hoe-tool-fieldwarden",
+      "key": "smithing:hoe-tool-fieldwarden",
+      "skill": "smithing",
+      "station": "锻造",
+      "level": 20,
+      "type": "工具",
+      "item": "FARMING_FIELDWARDEN",
+      "name": "厚土采集锄",
+      "amount": 1.0,
+      "seconds": 20,
+      "xp": 160.0,
+      "ingredients": [
+        [
+          "挖掘",
+          "STEEL_BLOCK",
+          1.0
+        ],
+        [
+          "挖掘",
+          "IRON_INGOT",
+          6.0
+        ],
+        [
+          "挖掘",
+          "COPPER_INGOT",
+          2.0
+        ],
+        [
+          "伐木",
+          "DARK_OAK_LOG",
+          8.0
+        ],
+        [
+          "伐木",
+          "TREE_RESIN",
+          2.0
+        ]
+      ]
+    },
+    {
+      "id": "smithing-axe-tool-gale",
+      "key": "smithing:axe-tool-gale",
+      "skill": "smithing",
+      "station": "锻造",
+      "level": 30,
+      "type": "工具",
+      "item": "WOODCUTTING_GALE",
+      "name": "疾风伐木斧",
+      "amount": 1.0,
+      "seconds": 20,
+      "xp": 280.0,
+      "ingredients": [
+        [
+          "挖掘",
+          "REFINED_IRON_BLOCK",
+          1.0
+        ],
+        [
+          "挖掘",
+          "STEEL_BLOCK",
+          1.0
+        ],
+        [
+          "伐木",
+          "DARK_OAK_LOG",
+          12.0
+        ],
+        [
+          "伐木",
+          "TREE_RESIN",
+          3.0
+        ]
+      ]
+    },
+    {
+      "id": "smithing-pickaxe-tool-rift",
+      "key": "smithing:pickaxe-tool-rift",
+      "skill": "smithing",
+      "station": "锻造",
+      "level": 30,
+      "type": "工具",
+      "item": "MINING_RIFT",
+      "name": "破岩挖掘镐",
+      "amount": 1.0,
+      "seconds": 20,
+      "xp": 280.0,
+      "ingredients": [
+        [
+          "挖掘",
+          "REFINED_IRON_BLOCK",
+          1.0
+        ],
+        [
+          "挖掘",
+          "STEEL_BLOCK",
+          1.0
+        ],
+        [
+          "伐木",
+          "DARK_OAK_LOG",
+          12.0
+        ],
+        [
+          "伐木",
+          "TREE_RESIN",
+          2.0
+        ]
+      ]
+    },
+    {
+      "id": "smithing-hoe-tool-abundance",
+      "key": "smithing:hoe-tool-abundance",
+      "skill": "smithing",
+      "station": "锻造",
+      "level": 30,
+      "type": "工具",
+      "item": "FARMING_ABUNDANCE",
+      "name": "盈仓采集锄",
+      "amount": 1.0,
+      "seconds": 20,
+      "xp": 280.0,
+      "ingredients": [
+        [
+          "挖掘",
+          "REFINED_IRON_BLOCK",
+          1.0
+        ],
+        [
+          "挖掘",
+          "STEEL_BLOCK",
+          1.0
+        ],
+        [
+          "伐木",
+          "DARK_OAK_LOG",
+          12.0
+        ],
+        [
+          "伐木",
+          "TREE_RESIN",
+          2.0
+        ]
+      ]
+    },
+    {
+      "id": "smelting-copper-ingot",
+      "key": "smelting:copper-ingot",
+      "skill": "smelting",
+      "station": "冶炼",
+      "level": 1,
+      "type": "挖掘",
+      "item": "COPPER_INGOT",
+      "name": "铜锭",
+      "amount": 8.0,
+      "seconds": 40,
+      "xp": 12.0,
+      "ingredients": [
+        [
+          "挖掘",
+          "RAW_COPPER",
+          8.0
+        ],
+        [
+          "挖掘",
+          "COAL",
+          1.0
+        ]
+      ]
+    },
+    {
+      "id": "smelting-iron-ingot",
+      "key": "smelting:iron-ingot",
+      "skill": "smelting",
+      "station": "冶炼",
+      "level": 1,
+      "type": "挖掘",
+      "item": "IRON_INGOT",
+      "name": "铁锭",
+      "amount": 8.0,
+      "seconds": 40,
+      "xp": 12.0,
+      "ingredients": [
+        [
+          "挖掘",
+          "RAW_IRON",
+          8.0
+        ],
+        [
+          "挖掘",
+          "COAL",
+          1.0
+        ]
+      ]
+    },
+    {
+      "id": "smelting-gold-ingot",
+      "key": "smelting:gold-ingot",
+      "skill": "smelting",
+      "station": "冶炼",
+      "level": 1,
+      "type": "挖掘",
+      "item": "GOLD_INGOT",
+      "name": "金锭",
+      "amount": 8.0,
+      "seconds": 40,
+      "xp": 12.0,
+      "ingredients": [
+        [
+          "挖掘",
+          "RAW_GOLD",
+          8.0
+        ],
+        [
+          "挖掘",
+          "COAL",
+          1.0
+        ]
+      ]
+    },
+    {
+      "id": "smelting-gold-nugget-refining",
+      "key": "smelting:gold-nugget-refining",
+      "skill": "smelting",
+      "station": "冶炼",
+      "level": 1,
+      "type": "挖掘",
+      "item": "GOLD_INGOT",
+      "name": "金锭",
+      "amount": 1.0,
+      "seconds": 10,
+      "xp": 2.0,
+      "ingredients": [
+        [
+          "挖掘",
+          "GOLD_NUGGET",
+          9.0
+        ],
+        [
+          "挖掘",
+          "COAL",
+          1.0
+        ]
+      ]
+    },
+    {
+      "id": "smelting-steel-block",
+      "key": "smelting:steel-block",
+      "skill": "smelting",
+      "station": "冶炼",
+      "level": 5,
+      "type": "挖掘",
+      "item": "STEEL_BLOCK",
+      "name": "钢块",
+      "amount": 1.0,
+      "seconds": 60,
+      "xp": 24.0,
+      "ingredients": [
+        [
+          "挖掘",
+          "IRON_INGOT",
+          8.0
+        ],
+        [
+          "挖掘",
+          "COAL",
+          4.0
+        ],
+        [
+          "挖掘",
+          "QUARTZ",
+          4.0
+        ]
+      ]
+    },
+    {
+      "id": "smelting-refined-iron-block",
+      "key": "smelting:refined-iron-block",
+      "skill": "smelting",
+      "station": "冶炼",
+      "level": 15,
+      "type": "挖掘",
+      "item": "REFINED_IRON_BLOCK",
+      "name": "精铁块",
+      "amount": 1.0,
+      "seconds": 75,
+      "xp": 32.0,
+      "ingredients": [
+        [
+          "挖掘",
+          "IRON_INGOT",
+          12.0
+        ],
+        [
+          "挖掘",
+          "COAL",
+          4.0
+        ],
+        [
+          "挖掘",
+          "QUARTZ",
+          8.0
+        ]
+      ]
+    },
+    {
+      "id": "smelting-refined-gold-block",
+      "key": "smelting:refined-gold-block",
+      "skill": "smelting",
+      "station": "冶炼",
+      "level": 15,
+      "type": "挖掘",
+      "item": "REFINED_GOLD_BLOCK",
+      "name": "精金块",
+      "amount": 1.0,
+      "seconds": 75,
+      "xp": 32.0,
+      "ingredients": [
+        [
+          "挖掘",
+          "GOLD_INGOT",
+          8.0
+        ],
+        [
+          "挖掘",
+          "COAL",
+          4.0
+        ],
+        [
+          "挖掘",
+          "QUARTZ",
+          8.0
+        ]
+      ]
+    },
+    {
+      "id": "smelting-black-iron-block",
+      "key": "smelting:black-iron-block",
+      "skill": "smelting",
+      "station": "冶炼",
+      "level": 40,
+      "type": "挖掘",
+      "item": "BLACK_IRON_BLOCK",
+      "name": "黑铁块",
+      "amount": 1.0,
+      "seconds": 120,
+      "xp": 65.0,
+      "ingredients": [
+        [
+          "挖掘",
+          "REFINED_IRON_BLOCK",
+          2.0
+        ],
+        [
+          "挖掘",
+          "STEEL_BLOCK",
+          1.0
+        ],
+        [
+          "挖掘",
+          "COAL",
+          8.0
+        ]
+      ]
+    },
+    {
+      "id": "smelting-black-gold-block",
+      "key": "smelting:black-gold-block",
+      "skill": "smelting",
+      "station": "冶炼",
+      "level": 40,
+      "type": "挖掘",
+      "item": "BLACK_GOLD_BLOCK",
+      "name": "黑金块",
+      "amount": 1.0,
+      "seconds": 120,
+      "xp": 65.0,
+      "ingredients": [
+        [
+          "挖掘",
+          "REFINED_GOLD_BLOCK",
+          2.0
+        ],
+        [
+          "挖掘",
+          "REDSTONE",
+          16.0
+        ],
+        [
+          "挖掘",
+          "COAL",
+          8.0
+        ]
+      ]
+    },
+    {
+      "id": "smelting-damascus-steel",
+      "key": "smelting:damascus-steel",
+      "skill": "smelting",
+      "station": "冶炼",
+      "level": 60,
+      "type": "挖掘",
+      "item": "DAMASCUS_STEEL",
+      "name": "大马士革钢",
+      "amount": 1.0,
+      "seconds": 180,
+      "xp": 110.0,
+      "ingredients": [
+        [
+          "挖掘",
+          "BLACK_IRON_BLOCK",
+          2.0
+        ],
+        [
+          "挖掘",
+          "STEEL_BLOCK",
+          2.0
+        ],
+        [
+          "挖掘",
+          "QUARTZ",
+          16.0
+        ],
+        [
+          "挖掘",
+          "COAL",
+          8.0
+        ]
+      ]
+    },
+    {
+      "id": "smelting-multicolor-gold",
+      "key": "smelting:multicolor-gold",
+      "skill": "smelting",
+      "station": "冶炼",
+      "level": 60,
+      "type": "挖掘",
+      "item": "MULTICOLOR_GOLD",
+      "name": "彩金",
+      "amount": 1.0,
+      "seconds": 180,
+      "xp": 110.0,
+      "ingredients": [
+        [
+          "挖掘",
+          "BLACK_GOLD_BLOCK",
+          2.0
+        ],
+        [
+          "挖掘",
+          "RAW_COPPER",
+          16.0
+        ],
+        [
+          "挖掘",
+          "LAPIS_LAZULI",
+          16.0
+        ],
+        [
+          "挖掘",
+          "COAL",
+          8.0
+        ]
+      ]
+    },
+    {
+      "id": "smelting-bloodstone",
+      "key": "smelting:bloodstone",
+      "skill": "smelting",
+      "station": "冶炼",
+      "level": 10,
+      "type": "挖掘",
+      "item": "BLOODSTONE",
+      "name": "血石",
+      "amount": 1.0,
+      "seconds": 60,
+      "xp": 30.0,
+      "ingredients": [
+        [
+          "挖掘",
+          "REDSTONE",
+          24.0
+        ],
+        [
+          "挖掘",
+          "QUARTZ",
+          8.0
+        ],
+        [
+          "挖掘",
+          "COAL",
+          4.0
+        ]
+      ]
+    },
+    {
+      "id": "smelting-sky-stone",
+      "key": "smelting:sky-stone",
+      "skill": "smelting",
+      "station": "冶炼",
+      "level": 10,
+      "type": "挖掘",
+      "item": "SKY_STONE",
+      "name": "天蓝石",
+      "amount": 1.0,
+      "seconds": 60,
+      "xp": 30.0,
+      "ingredients": [
+        [
+          "挖掘",
+          "LAPIS_LAZULI",
+          24.0
+        ],
+        [
+          "挖掘",
+          "QUARTZ",
+          8.0
+        ],
+        [
+          "挖掘",
+          "COAL",
+          4.0
+        ]
+      ]
+    },
+    {
+      "id": "smelting-malachite",
+      "key": "smelting:malachite",
+      "skill": "smelting",
+      "station": "冶炼",
+      "level": 10,
+      "type": "挖掘",
+      "item": "MALACHITE",
+      "name": "孔雀石",
+      "amount": 1.0,
+      "seconds": 60,
+      "xp": 30.0,
+      "ingredients": [
+        [
+          "挖掘",
+          "EMERALD",
+          8.0
+        ],
+        [
+          "挖掘",
+          "QUARTZ",
+          8.0
+        ],
+        [
+          "挖掘",
+          "COAL",
+          4.0
+        ]
+      ]
+    },
+    {
+      "id": "smelting-agate",
+      "key": "smelting:agate",
+      "skill": "smelting",
+      "station": "冶炼",
+      "level": 10,
+      "type": "挖掘",
+      "item": "AGATE",
+      "name": "玛瑙",
+      "amount": 1.0,
+      "seconds": 60,
+      "xp": 30.0,
+      "ingredients": [
+        [
+          "挖掘",
+          "GOLD_INGOT",
+          8.0
+        ],
+        [
+          "挖掘",
+          "QUARTZ",
+          8.0
+        ],
+        [
+          "挖掘",
+          "COAL",
+          4.0
+        ]
+      ]
+    },
+    {
+      "id": "smelting-jade",
+      "key": "smelting:jade",
+      "skill": "smelting",
+      "station": "冶炼",
+      "level": 35,
+      "type": "挖掘",
+      "item": "JADE",
+      "name": "翡翠",
+      "amount": 1.0,
+      "seconds": 120,
+      "xp": 65.0,
+      "ingredients": [
+        [
+          "挖掘",
+          "MALACHITE",
+          2.0
+        ],
+        [
+          "挖掘",
+          "EMERALD",
+          8.0
+        ],
+        [
+          "挖掘",
+          "QUARTZ",
+          12.0
+        ],
+        [
+          "挖掘",
+          "COAL",
+          8.0
+        ]
+      ]
+    },
+    {
+      "id": "smelting-dark-amethyst",
+      "key": "smelting:dark-amethyst",
+      "skill": "smelting",
+      "station": "冶炼",
+      "level": 35,
+      "type": "挖掘",
+      "item": "DARK_AMETHYST",
+      "name": "暗紫水晶",
+      "amount": 1.0,
+      "seconds": 120,
+      "xp": 65.0,
+      "ingredients": [
+        [
+          "挖掘",
+          "SKY_STONE",
+          1.0
+        ],
+        [
+          "挖掘",
+          "AMETHYST_SHARD",
+          24.0
+        ],
+        [
+          "挖掘",
+          "QUARTZ",
+          12.0
+        ],
+        [
+          "挖掘",
+          "COAL",
+          8.0
+        ]
+      ]
+    },
+    {
+      "id": "smelting-chromite",
+      "key": "smelting:chromite",
+      "skill": "smelting",
+      "station": "冶炼",
+      "level": 55,
+      "type": "挖掘",
+      "item": "CHROMITE",
+      "name": "铬红晶石",
+      "amount": 1.0,
+      "seconds": 180,
+      "xp": 110.0,
+      "ingredients": [
+        [
+          "挖掘",
+          "BLOODSTONE",
+          2.0
+        ],
+        [
+          "挖掘",
+          "AGATE",
+          1.0
+        ],
+        [
+          "挖掘",
+          "DIAMOND",
+          2.0
+        ],
+        [
+          "挖掘",
+          "COAL",
+          8.0
+        ]
+      ]
+    },
+    {
+      "id": "smelting-forest-stone",
+      "key": "smelting:forest-stone",
+      "skill": "smelting",
+      "station": "冶炼",
+      "level": 55,
+      "type": "挖掘",
+      "item": "FOREST_STONE",
+      "name": "森林之石",
+      "amount": 1.0,
+      "seconds": 180,
+      "xp": 110.0,
+      "ingredients": [
+        [
+          "挖掘",
+          "JADE",
+          1.0
+        ],
+        [
+          "挖掘",
+          "MALACHITE",
+          2.0
+        ],
+        [
+          "挖掘",
+          "EMERALD",
+          8.0
+        ],
+        [
+          "挖掘",
+          "COAL",
+          8.0
+        ]
+      ]
+    },
+    {
+      "id": "smelting-black-diamond",
+      "key": "smelting:black-diamond",
+      "skill": "smelting",
+      "station": "冶炼",
+      "level": 70,
+      "type": "挖掘",
+      "item": "BLACK_DIAMOND",
+      "name": "黑钻",
+      "amount": 1.0,
+      "seconds": 240,
+      "xp": 150.0,
+      "ingredients": [
+        [
+          "挖掘",
+          "DIAMOND",
+          8.0
+        ],
+        [
+          "挖掘",
+          "COAL",
+          16.0
+        ],
+        [
+          "挖掘",
+          "QUARTZ",
+          16.0
+        ]
+      ]
+    },
+    {
+      "id": "smelting-pure-crystal",
+      "key": "smelting:pure-crystal",
+      "skill": "smelting",
+      "station": "冶炼",
+      "level": 75,
+      "type": "挖掘",
+      "item": "PURE_CRYSTAL",
+      "name": "纯净晶体",
+      "amount": 1.0,
+      "seconds": 240,
+      "xp": 160.0,
+      "ingredients": [
+        [
+          "挖掘",
+          "QUARTZ",
+          48.0
+        ],
+        [
+          "挖掘",
+          "AMETHYST_SHARD",
+          16.0
+        ],
+        [
+          "挖掘",
+          "DIAMOND",
+          4.0
+        ],
+        [
+          "挖掘",
+          "COAL",
+          8.0
+        ]
+      ]
+    },
+    {
+      "id": "gem-cutting-tc-red-gem-cut-10",
+      "key": "gem-cutting:tc-red-gem-cut-10",
+      "skill": "smelting",
+      "station": "宝石切割",
+      "level": 10,
+      "type": "GEM_STONE",
+      "item": "TC_RED_GEM_CUT_10",
+      "name": "微瑕的红宝石",
+      "amount": 1.0,
+      "seconds": 90,
+      "xp": 40.0,
+      "ingredients": [
+        [
+          "挖掘",
+          "BLOODSTONE",
+          1.0
+        ],
+        [
+          "挖掘",
+          "COPPER_INGOT",
+          8.0
+        ],
+        [
+          "挖掘",
+          "QUARTZ",
+          4.0
+        ]
+      ]
+    },
+    {
+      "id": "gem-cutting-tc-red-gem-cut-25",
+      "key": "gem-cutting:tc-red-gem-cut-25",
+      "skill": "smelting",
+      "station": "宝石切割",
+      "level": 25,
+      "type": "GEM_STONE",
+      "item": "TC_RED_GEM_CUT_25",
+      "name": "明净的红宝石",
+      "amount": 1.0,
+      "seconds": 120,
+      "xp": 65.0,
+      "ingredients": [
+        [
+          "挖掘",
+          "BLOODSTONE",
+          2.0
+        ],
+        [
+          "挖掘",
+          "STEEL_BLOCK",
+          1.0
+        ],
+        [
+          "挖掘",
+          "DIAMOND",
+          1.0
+        ],
+        [
+          "伐木",
+          "TREE_RESIN",
+          1.0
+        ]
+      ]
+    },
+    {
+      "id": "gem-cutting-tc-red-gem-cut-40",
+      "key": "gem-cutting:tc-red-gem-cut-40",
+      "skill": "smelting",
+      "station": "宝石切割",
+      "level": 45,
+      "type": "GEM_STONE",
+      "item": "TC_RED_GEM_CUT_40",
+      "name": "精纯的红宝石",
+      "amount": 1.0,
+      "seconds": 180,
+      "xp": 100.0,
+      "ingredients": [
+        [
+          "挖掘",
+          "BLOODSTONE",
+          3.0
+        ],
+        [
+          "挖掘",
+          "REFINED_IRON_BLOCK",
+          1.0
+        ],
+        [
+          "挖掘",
+          "REFINED_GOLD_BLOCK",
+          1.0
+        ],
+        [
+          "挖掘",
+          "DIAMOND",
+          2.0
+        ],
+        [
+          "伐木",
+          "TREE_RESIN",
+          1.0
+        ]
+      ]
+    },
+    {
+      "id": "gem-cutting-tc-red-gem-cut-60",
+      "key": "gem-cutting:tc-red-gem-cut-60",
+      "skill": "smelting",
+      "station": "宝石切割",
+      "level": 65,
+      "type": "GEM_STONE",
+      "item": "TC_RED_GEM_CUT_60",
+      "name": "无瑕的红宝石",
+      "amount": 1.0,
+      "seconds": 240,
+      "xp": 160.0,
+      "ingredients": [
+        [
+          "挖掘",
+          "CHROMITE",
+          1.0
+        ],
+        [
+          "挖掘",
+          "BLACK_IRON_BLOCK",
+          1.0
+        ],
+        [
+          "挖掘",
+          "BLACK_GOLD_BLOCK",
+          1.0
+        ],
+        [
+          "挖掘",
+          "DIAMOND",
+          4.0
+        ],
+        [
+          "伐木",
+          "TREE_RESIN",
+          1.0
+        ]
+      ]
+    },
+    {
+      "id": "gem-cutting-tc-red-gem-cut-80",
+      "key": "gem-cutting:tc-red-gem-cut-80",
+      "skill": "smelting",
+      "station": "宝石切割",
+      "level": 85,
+      "type": "GEM_STONE",
+      "item": "TC_RED_GEM_CUT_80",
+      "name": "完美的红宝石",
+      "amount": 1.0,
+      "seconds": 300,
+      "xp": 230.0,
+      "ingredients": [
+        [
+          "挖掘",
+          "CHROMITE",
+          2.0
+        ],
+        [
+          "挖掘",
+          "DAMASCUS_STEEL",
+          1.0
+        ],
+        [
+          "挖掘",
+          "PURE_CRYSTAL",
+          1.0
+        ],
+        [
+          "挖掘",
+          "BLACK_DIAMOND",
+          1.0
+        ],
+        [
+          "伐木",
+          "TREE_RESIN",
+          2.0
+        ]
+      ]
+    },
+    {
+      "id": "gem-cutting-tc-blue-gem-cut-10",
+      "key": "gem-cutting:tc-blue-gem-cut-10",
+      "skill": "smelting",
+      "station": "宝石切割",
+      "level": 10,
+      "type": "GEM_STONE",
+      "item": "TC_BLUE_GEM_CUT_10",
+      "name": "微瑕的蓝宝石",
+      "amount": 1.0,
+      "seconds": 90,
+      "xp": 40.0,
+      "ingredients": [
+        [
+          "挖掘",
+          "SKY_STONE",
+          1.0
+        ],
+        [
+          "挖掘",
+          "COPPER_INGOT",
+          8.0
+        ],
+        [
+          "挖掘",
+          "QUARTZ",
+          4.0
+        ]
+      ]
+    },
+    {
+      "id": "gem-cutting-tc-blue-gem-cut-25",
+      "key": "gem-cutting:tc-blue-gem-cut-25",
+      "skill": "smelting",
+      "station": "宝石切割",
+      "level": 25,
+      "type": "GEM_STONE",
+      "item": "TC_BLUE_GEM_CUT_25",
+      "name": "明净的蓝宝石",
+      "amount": 1.0,
+      "seconds": 120,
+      "xp": 65.0,
+      "ingredients": [
+        [
+          "挖掘",
+          "SKY_STONE",
+          2.0
+        ],
+        [
+          "挖掘",
+          "STEEL_BLOCK",
+          1.0
+        ],
+        [
+          "挖掘",
+          "DIAMOND",
+          1.0
+        ],
+        [
+          "伐木",
+          "TREE_RESIN",
+          1.0
+        ]
+      ]
+    },
+    {
+      "id": "gem-cutting-tc-blue-gem-cut-40",
+      "key": "gem-cutting:tc-blue-gem-cut-40",
+      "skill": "smelting",
+      "station": "宝石切割",
+      "level": 45,
+      "type": "GEM_STONE",
+      "item": "TC_BLUE_GEM_CUT_40",
+      "name": "精纯的蓝宝石",
+      "amount": 1.0,
+      "seconds": 180,
+      "xp": 100.0,
+      "ingredients": [
+        [
+          "挖掘",
+          "SKY_STONE",
+          2.0
+        ],
+        [
+          "挖掘",
+          "DARK_AMETHYST",
+          1.0
+        ],
+        [
+          "挖掘",
+          "REFINED_IRON_BLOCK",
+          1.0
+        ],
+        [
+          "挖掘",
+          "REFINED_GOLD_BLOCK",
+          1.0
+        ],
+        [
+          "挖掘",
+          "DIAMOND",
+          2.0
+        ],
+        [
+          "伐木",
+          "TREE_RESIN",
+          1.0
+        ]
+      ]
+    },
+    {
+      "id": "gem-cutting-tc-blue-gem-cut-60",
+      "key": "gem-cutting:tc-blue-gem-cut-60",
+      "skill": "smelting",
+      "station": "宝石切割",
+      "level": 65,
+      "type": "GEM_STONE",
+      "item": "TC_BLUE_GEM_CUT_60",
+      "name": "无瑕的蓝宝石",
+      "amount": 1.0,
+      "seconds": 240,
+      "xp": 160.0,
+      "ingredients": [
+        [
+          "挖掘",
+          "SKY_STONE",
+          3.0
+        ],
+        [
+          "挖掘",
+          "DARK_AMETHYST",
+          1.0
+        ],
+        [
+          "挖掘",
+          "BLACK_IRON_BLOCK",
+          1.0
+        ],
+        [
+          "挖掘",
+          "BLACK_GOLD_BLOCK",
+          1.0
+        ],
+        [
+          "挖掘",
+          "DIAMOND",
+          4.0
+        ],
+        [
+          "伐木",
+          "TREE_RESIN",
+          1.0
+        ]
+      ]
+    },
+    {
+      "id": "gem-cutting-tc-blue-gem-cut-80",
+      "key": "gem-cutting:tc-blue-gem-cut-80",
+      "skill": "smelting",
+      "station": "宝石切割",
+      "level": 85,
+      "type": "GEM_STONE",
+      "item": "TC_BLUE_GEM_CUT_80",
+      "name": "完美的蓝宝石",
+      "amount": 1.0,
+      "seconds": 300,
+      "xp": 230.0,
+      "ingredients": [
+        [
+          "挖掘",
+          "SKY_STONE",
+          4.0
+        ],
+        [
+          "挖掘",
+          "DARK_AMETHYST",
+          2.0
+        ],
+        [
+          "挖掘",
+          "DAMASCUS_STEEL",
+          1.0
+        ],
+        [
+          "挖掘",
+          "PURE_CRYSTAL",
+          1.0
+        ],
+        [
+          "挖掘",
+          "BLACK_DIAMOND",
+          1.0
+        ],
+        [
+          "伐木",
+          "TREE_RESIN",
+          2.0
+        ]
+      ]
+    },
+    {
+      "id": "gem-cutting-tc-green-gem-cut-10",
+      "key": "gem-cutting:tc-green-gem-cut-10",
+      "skill": "smelting",
+      "station": "宝石切割",
+      "level": 10,
+      "type": "GEM_STONE",
+      "item": "TC_GREEN_GEM_CUT_10",
+      "name": "微瑕的绿宝石",
+      "amount": 1.0,
+      "seconds": 90,
+      "xp": 40.0,
+      "ingredients": [
+        [
+          "挖掘",
+          "MALACHITE",
+          1.0
+        ],
+        [
+          "挖掘",
+          "COPPER_INGOT",
+          8.0
+        ],
+        [
+          "挖掘",
+          "QUARTZ",
+          4.0
+        ]
+      ]
+    },
+    {
+      "id": "gem-cutting-tc-green-gem-cut-25",
+      "key": "gem-cutting:tc-green-gem-cut-25",
+      "skill": "smelting",
+      "station": "宝石切割",
+      "level": 25,
+      "type": "GEM_STONE",
+      "item": "TC_GREEN_GEM_CUT_25",
+      "name": "明净的绿宝石",
+      "amount": 1.0,
+      "seconds": 120,
+      "xp": 65.0,
+      "ingredients": [
+        [
+          "挖掘",
+          "MALACHITE",
+          2.0
+        ],
+        [
+          "挖掘",
+          "STEEL_BLOCK",
+          1.0
+        ],
+        [
+          "挖掘",
+          "DIAMOND",
+          1.0
+        ],
+        [
+          "伐木",
+          "TREE_RESIN",
+          1.0
+        ]
+      ]
+    },
+    {
+      "id": "gem-cutting-tc-green-gem-cut-40",
+      "key": "gem-cutting:tc-green-gem-cut-40",
+      "skill": "smelting",
+      "station": "宝石切割",
+      "level": 45,
+      "type": "GEM_STONE",
+      "item": "TC_GREEN_GEM_CUT_40",
+      "name": "精纯的绿宝石",
+      "amount": 1.0,
+      "seconds": 180,
+      "xp": 100.0,
+      "ingredients": [
+        [
+          "挖掘",
+          "JADE",
+          1.0
+        ],
+        [
+          "挖掘",
+          "REFINED_IRON_BLOCK",
+          1.0
+        ],
+        [
+          "挖掘",
+          "REFINED_GOLD_BLOCK",
+          1.0
+        ],
+        [
+          "挖掘",
+          "DIAMOND",
+          2.0
+        ],
+        [
+          "伐木",
+          "TREE_RESIN",
+          1.0
+        ]
+      ]
+    },
+    {
+      "id": "gem-cutting-tc-green-gem-cut-60",
+      "key": "gem-cutting:tc-green-gem-cut-60",
+      "skill": "smelting",
+      "station": "宝石切割",
+      "level": 65,
+      "type": "GEM_STONE",
+      "item": "TC_GREEN_GEM_CUT_60",
+      "name": "无瑕的绿宝石",
+      "amount": 1.0,
+      "seconds": 240,
+      "xp": 160.0,
+      "ingredients": [
+        [
+          "挖掘",
+          "FOREST_STONE",
+          1.0
+        ],
+        [
+          "挖掘",
+          "BLACK_IRON_BLOCK",
+          1.0
+        ],
+        [
+          "挖掘",
+          "BLACK_GOLD_BLOCK",
+          1.0
+        ],
+        [
+          "挖掘",
+          "DIAMOND",
+          4.0
+        ],
+        [
+          "伐木",
+          "TREE_RESIN",
+          1.0
+        ]
+      ]
+    },
+    {
+      "id": "gem-cutting-tc-green-gem-cut-80",
+      "key": "gem-cutting:tc-green-gem-cut-80",
+      "skill": "smelting",
+      "station": "宝石切割",
+      "level": 85,
+      "type": "GEM_STONE",
+      "item": "TC_GREEN_GEM_CUT_80",
+      "name": "完美的绿宝石",
+      "amount": 1.0,
+      "seconds": 300,
+      "xp": 230.0,
+      "ingredients": [
+        [
+          "挖掘",
+          "FOREST_STONE",
+          2.0
+        ],
+        [
+          "挖掘",
+          "DAMASCUS_STEEL",
+          1.0
+        ],
+        [
+          "挖掘",
+          "PURE_CRYSTAL",
+          1.0
+        ],
+        [
+          "挖掘",
+          "BLACK_DIAMOND",
+          1.0
+        ],
+        [
+          "伐木",
+          "TREE_RESIN",
+          2.0
+        ]
+      ]
+    },
+    {
+      "id": "gem-cutting-tc-yellow-gem-cut-10",
+      "key": "gem-cutting:tc-yellow-gem-cut-10",
+      "skill": "smelting",
+      "station": "宝石切割",
+      "level": 10,
+      "type": "GEM_STONE",
+      "item": "TC_YELLOW_GEM_CUT_10",
+      "name": "微瑕的黄宝石",
+      "amount": 1.0,
+      "seconds": 90,
+      "xp": 40.0,
+      "ingredients": [
+        [
+          "挖掘",
+          "AGATE",
+          1.0
+        ],
+        [
+          "挖掘",
+          "COPPER_INGOT",
+          8.0
+        ],
+        [
+          "挖掘",
+          "QUARTZ",
+          4.0
+        ]
+      ]
+    },
+    {
+      "id": "gem-cutting-tc-yellow-gem-cut-25",
+      "key": "gem-cutting:tc-yellow-gem-cut-25",
+      "skill": "smelting",
+      "station": "宝石切割",
+      "level": 25,
+      "type": "GEM_STONE",
+      "item": "TC_YELLOW_GEM_CUT_25",
+      "name": "明净的黄宝石",
+      "amount": 1.0,
+      "seconds": 120,
+      "xp": 65.0,
+      "ingredients": [
+        [
+          "挖掘",
+          "AGATE",
+          2.0
+        ],
+        [
+          "挖掘",
+          "STEEL_BLOCK",
+          1.0
+        ],
+        [
+          "挖掘",
+          "DIAMOND",
+          1.0
+        ],
+        [
+          "伐木",
+          "TREE_RESIN",
+          1.0
+        ]
+      ]
+    },
+    {
+      "id": "gem-cutting-tc-yellow-gem-cut-40",
+      "key": "gem-cutting:tc-yellow-gem-cut-40",
+      "skill": "smelting",
+      "station": "宝石切割",
+      "level": 45,
+      "type": "GEM_STONE",
+      "item": "TC_YELLOW_GEM_CUT_40",
+      "name": "精纯的黄宝石",
+      "amount": 1.0,
+      "seconds": 180,
+      "xp": 100.0,
+      "ingredients": [
+        [
+          "挖掘",
+          "AGATE",
+          3.0
+        ],
+        [
+          "挖掘",
+          "REFINED_IRON_BLOCK",
+          1.0
+        ],
+        [
+          "挖掘",
+          "REFINED_GOLD_BLOCK",
+          1.0
+        ],
+        [
+          "挖掘",
+          "DIAMOND",
+          2.0
+        ],
+        [
+          "伐木",
+          "TREE_RESIN",
+          1.0
+        ]
+      ]
+    },
+    {
+      "id": "gem-cutting-tc-yellow-gem-cut-60",
+      "key": "gem-cutting:tc-yellow-gem-cut-60",
+      "skill": "smelting",
+      "station": "宝石切割",
+      "level": 65,
+      "type": "GEM_STONE",
+      "item": "TC_YELLOW_GEM_CUT_60",
+      "name": "无瑕的黄宝石",
+      "amount": 1.0,
+      "seconds": 240,
+      "xp": 160.0,
+      "ingredients": [
+        [
+          "挖掘",
+          "AGATE",
+          3.0
+        ],
+        [
+          "挖掘",
+          "BLACK_GOLD_BLOCK",
+          2.0
+        ],
+        [
+          "挖掘",
+          "BLACK_IRON_BLOCK",
+          1.0
+        ],
+        [
+          "挖掘",
+          "DIAMOND",
+          4.0
+        ],
+        [
+          "伐木",
+          "TREE_RESIN",
+          1.0
+        ]
+      ]
+    },
+    {
+      "id": "gem-cutting-tc-yellow-gem-cut-80",
+      "key": "gem-cutting:tc-yellow-gem-cut-80",
+      "skill": "smelting",
+      "station": "宝石切割",
+      "level": 85,
+      "type": "GEM_STONE",
+      "item": "TC_YELLOW_GEM_CUT_80",
+      "name": "完美的黄宝石",
+      "amount": 1.0,
+      "seconds": 300,
+      "xp": 230.0,
+      "ingredients": [
+        [
+          "挖掘",
+          "AGATE",
+          4.0
+        ],
+        [
+          "挖掘",
+          "MULTICOLOR_GOLD",
+          1.0
+        ],
+        [
+          "挖掘",
+          "DAMASCUS_STEEL",
+          1.0
+        ],
+        [
+          "挖掘",
+          "PURE_CRYSTAL",
+          1.0
+        ],
+        [
+          "挖掘",
+          "BLACK_DIAMOND",
+          1.0
+        ],
+        [
+          "伐木",
+          "TREE_RESIN",
+          2.0
+        ]
+      ]
+    },
+    {
+      "id": "gem-cutting-tc-purple-gem-cut-10",
+      "key": "gem-cutting:tc-purple-gem-cut-10",
+      "skill": "smelting",
+      "station": "宝石切割",
+      "level": 10,
+      "type": "GEM_STONE",
+      "item": "TC_PURPLE_GEM_CUT_10",
+      "name": "微瑕的紫宝石",
+      "amount": 1.0,
+      "seconds": 90,
+      "xp": 40.0,
+      "ingredients": [
+        [
+          "挖掘",
+          "AMETHYST_SHARD",
+          16.0
+        ],
+        [
+          "挖掘",
+          "COPPER_INGOT",
+          8.0
+        ],
+        [
+          "挖掘",
+          "QUARTZ",
+          4.0
+        ]
+      ]
+    },
+    {
+      "id": "gem-cutting-tc-purple-gem-cut-25",
+      "key": "gem-cutting:tc-purple-gem-cut-25",
+      "skill": "smelting",
+      "station": "宝石切割",
+      "level": 25,
+      "type": "GEM_STONE",
+      "item": "TC_PURPLE_GEM_CUT_25",
+      "name": "明净的紫宝石",
+      "amount": 1.0,
+      "seconds": 120,
+      "xp": 65.0,
+      "ingredients": [
+        [
+          "挖掘",
+          "AMETHYST_SHARD",
+          32.0
+        ],
+        [
+          "挖掘",
+          "STEEL_BLOCK",
+          1.0
+        ],
+        [
+          "挖掘",
+          "DIAMOND",
+          1.0
+        ],
+        [
+          "伐木",
+          "TREE_RESIN",
+          1.0
+        ]
+      ]
+    },
+    {
+      "id": "gem-cutting-tc-purple-gem-cut-40",
+      "key": "gem-cutting:tc-purple-gem-cut-40",
+      "skill": "smelting",
+      "station": "宝石切割",
+      "level": 45,
+      "type": "GEM_STONE",
+      "item": "TC_PURPLE_GEM_CUT_40",
+      "name": "精纯的紫宝石",
+      "amount": 1.0,
+      "seconds": 180,
+      "xp": 100.0,
+      "ingredients": [
+        [
+          "挖掘",
+          "DARK_AMETHYST",
+          1.0
+        ],
+        [
+          "挖掘",
+          "REFINED_IRON_BLOCK",
+          1.0
+        ],
+        [
+          "挖掘",
+          "REFINED_GOLD_BLOCK",
+          1.0
+        ],
+        [
+          "挖掘",
+          "DIAMOND",
+          2.0
+        ],
+        [
+          "伐木",
+          "TREE_RESIN",
+          1.0
+        ]
+      ]
+    },
+    {
+      "id": "gem-cutting-tc-purple-gem-cut-60",
+      "key": "gem-cutting:tc-purple-gem-cut-60",
+      "skill": "smelting",
+      "station": "宝石切割",
+      "level": 65,
+      "type": "GEM_STONE",
+      "item": "TC_PURPLE_GEM_CUT_60",
+      "name": "无瑕的紫宝石",
+      "amount": 1.0,
+      "seconds": 240,
+      "xp": 160.0,
+      "ingredients": [
+        [
+          "挖掘",
+          "DARK_AMETHYST",
+          2.0
+        ],
+        [
+          "挖掘",
+          "BLACK_IRON_BLOCK",
+          1.0
+        ],
+        [
+          "挖掘",
+          "BLACK_GOLD_BLOCK",
+          1.0
+        ],
+        [
+          "挖掘",
+          "DIAMOND",
+          4.0
+        ],
+        [
+          "伐木",
+          "TREE_RESIN",
+          1.0
+        ]
+      ]
+    },
+    {
+      "id": "gem-cutting-tc-purple-gem-cut-80",
+      "key": "gem-cutting:tc-purple-gem-cut-80",
+      "skill": "smelting",
+      "station": "宝石切割",
+      "level": 85,
+      "type": "GEM_STONE",
+      "item": "TC_PURPLE_GEM_CUT_80",
+      "name": "完美的紫宝石",
+      "amount": 1.0,
+      "seconds": 300,
+      "xp": 230.0,
+      "ingredients": [
+        [
+          "挖掘",
+          "DARK_AMETHYST",
+          3.0
+        ],
+        [
+          "挖掘",
+          "DAMASCUS_STEEL",
+          1.0
+        ],
+        [
+          "挖掘",
+          "PURE_CRYSTAL",
+          1.0
+        ],
+        [
+          "挖掘",
+          "BLACK_DIAMOND",
+          1.0
+        ],
+        [
+          "伐木",
+          "TREE_RESIN",
+          2.0
+        ]
+      ]
+    },
+    {
+      "id": "bait-making-earthworm-bait",
+      "key": "bait-making:earthworm-bait",
+      "skill": "fishing",
+      "station": "制饵",
+      "level": 13,
+      "type": "饵料",
+      "item": "EARTHWORM_BAIT",
+      "name": "蚯蚓饵",
+      "amount": 1.0,
+      "seconds": 5,
+      "xp": 5.0,
+      "ingredients": [
+        [
+          "采集",
+          "EARTHWORM",
+          5.0
+        ],
+        [
+          "食材",
+          "WHEAT_FLOUR",
+          2.0
+        ]
+      ]
+    },
+    {
+      "id": "bait-making-woodworm-bait",
+      "key": "bait-making:woodworm-bait",
+      "skill": "fishing",
+      "station": "制饵",
+      "level": 15,
+      "type": "饵料",
+      "item": "WOODWORM_BAIT",
+      "name": "木蠹虫饵",
+      "amount": 1.0,
+      "seconds": 8,
+      "xp": 6.0,
+      "ingredients": [
+        [
+          "伐木",
+          "WOODWORM",
+          5.0
+        ],
+        [
+          "食材",
+          "WHEAT_FLOUR",
+          2.0
+        ]
+      ]
+    },
+    {
+      "id": "bait-making-bloodworm-bait",
+      "key": "bait-making:bloodworm-bait",
+      "skill": "fishing",
+      "station": "制饵",
+      "level": 20,
+      "type": "饵料",
+      "item": "BLOODWORM_BAIT",
+      "name": "红虫饵",
+      "amount": 1.0,
+      "seconds": 10,
+      "xp": 8.0,
+      "ingredients": [
+        [
+          "采集",
+          "BLOODWORM",
+          5.0
+        ],
+        [
+          "垂钓",
+          "FISH_OIL",
+          1.0
+        ]
+      ]
+    },
+    {
+      "id": "bait-making-fish-paste-bait",
+      "key": "bait-making:fish-paste-bait",
+      "skill": "fishing",
+      "station": "制饵",
+      "level": 25,
+      "type": "饵料",
+      "item": "FISH_PASTE_BAIT",
+      "name": "腥香鱼饵",
+      "amount": 1.0,
+      "seconds": 15,
+      "xp": 12.0,
+      "ingredients": [
+        [
+          "垂钓",
+          "CRUCIAN_CARP",
+          3.0
+        ],
+        [
+          "食材",
+          "WHEAT_FLOUR",
+          4.0
+        ],
+        [
+          "垂钓",
+          "FISH_OIL",
+          2.0
+        ]
+      ]
+    },
+    {
+      "id": "bait-making-fermented-rice-bait",
+      "key": "bait-making:fermented-rice-bait",
+      "skill": "fishing",
+      "station": "制饵",
+      "level": 30,
+      "type": "饵料",
+      "item": "FERMENTED_RICE_BAIT",
+      "name": "酒米饵",
+      "amount": 1.0,
+      "seconds": 25,
+      "xp": 16.0,
+      "ingredients": [
+        [
+          "采集",
+          "WHEAT",
+          8.0
+        ],
+        [
+          "食材",
+          "WHEAT_FLOUR",
+          4.0
+        ],
+        [
+          "食材",
+          "SUGAR",
+          2.0
+        ],
+        [
+          "垂钓",
+          "FISH_SAUCE",
+          1.0
+        ]
+      ]
+    },
+    {
+      "id": "bait-making-shrimp-bait",
+      "key": "bait-making:shrimp-bait",
+      "skill": "fishing",
+      "station": "制饵",
+      "level": 40,
+      "type": "饵料",
+      "item": "SHRIMP_BAIT",
+      "name": "鲜虾饵",
+      "amount": 1.0,
+      "seconds": 30,
+      "xp": 20.0,
+      "ingredients": [
+        [
+          "垂钓",
+          "RIVER_SHRIMP",
+          15.0
+        ],
+        [
+          "垂钓",
+          "CLAM",
+          4.0
+        ],
+        [
+          "食材",
+          "WHEAT_FLOUR",
+          6.0
+        ],
+        [
+          "垂钓",
+          "FISH_OIL",
+          3.0
+        ]
+      ]
+    },
+    {
+      "id": "purification-fish-sauce",
+      "key": "purification:fish-sauce",
+      "skill": "fishing",
+      "station": "提纯",
+      "level": 1,
+      "type": "垂钓",
+      "item": "FISH_SAUCE",
+      "name": "鱼露",
+      "amount": 1.0,
+      "seconds": 10,
+      "xp": 8.0,
+      "ingredients": [
+        [
+          "垂钓",
+          "CLAM",
+          1.0
+        ],
+        [
+          "垂钓",
+          "BASS",
+          1.0
+        ],
+        [
+          "垂钓",
+          "CRAB",
+          1.0
+        ]
+      ]
+    },
+    {
+      "id": "purification-fish-oil",
+      "key": "purification:fish-oil",
+      "skill": "fishing",
+      "station": "提纯",
+      "level": 5,
+      "type": "垂钓",
+      "item": "FISH_OIL",
+      "name": "鱼油",
+      "amount": 6.0,
+      "seconds": 15,
+      "xp": 10.0,
+      "ingredients": [
+        [
+          "垂钓",
+          "SALMON",
+          1.0
+        ],
+        [
+          "垂钓",
+          "HERRING",
+          1.0
+        ]
+      ]
+    },
+    {
+      "id": "purification-pufferfish-oil",
+      "key": "purification:pufferfish-oil",
+      "skill": "fishing",
+      "station": "提纯",
+      "level": 10,
+      "type": "垂钓",
+      "item": "PUFFERFISH_OIL",
+      "name": "河豚鱼油",
+      "amount": 1.0,
+      "seconds": 20,
+      "xp": 12.0,
+      "ingredients": [
+        [
+          "垂钓",
+          "PUFFERFISH",
+          2.0
+        ]
+      ]
+    },
+    {
+      "id": "purification-refined-fish-oil",
+      "key": "purification:refined-fish-oil",
+      "skill": "fishing",
+      "station": "提纯",
+      "level": 15,
+      "type": "垂钓",
+      "item": "REFINED_FISH_OIL",
+      "name": "精制鱼油",
+      "amount": 4.0,
+      "seconds": 30,
+      "xp": 20.0,
+      "ingredients": [
+        [
+          "垂钓",
+          "SHARK",
+          1.0
+        ],
+        [
+          "垂钓",
+          "TUNA",
+          1.0
+        ]
+      ]
+    },
+    {
+      "id": "purification-deep-sea-fish-oil",
+      "key": "purification:deep-sea-fish-oil",
+      "skill": "fishing",
+      "station": "提纯",
+      "level": 20,
+      "type": "垂钓",
+      "item": "DEEP_SEA_FISH_OIL",
+      "name": "深海鱼油",
+      "amount": 4.0,
+      "seconds": 45,
+      "xp": 30.0,
+      "ingredients": [
+        [
+          "垂钓",
+          "BLOBFISH",
+          1.0
+        ],
+        [
+          "垂钓",
+          "ANGLERFISH",
+          1.0
+        ]
+      ]
+    }
+  ]
+}
